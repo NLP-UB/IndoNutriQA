@@ -1,0 +1,1 @@
+{"model_id": "Qwen/Qwen2.5-7B-Instruct", "response": "Data biokimia/parameter lab pada pasien yang abnormal termasuk:\n\n- WBC (leukopenia)\n- HGB (rendah)\n- HCT (rendah)\n- MCV (rendah)\n- MCH (rendah)\n- LYMPH (rendah)\n- LYMPH% (rendah)\n- NEUT% (tinggi)\n\nSemua parameter tersebut menunjukkan deviasi dari nilai normal, kecuali tingginya NEUT%."}

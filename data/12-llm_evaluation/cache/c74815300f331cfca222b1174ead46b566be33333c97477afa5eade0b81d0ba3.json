@@ -1,0 +1,4 @@
+{
+  "model_id": "Qwen/Qwen2.5-7B-Instruct",
+  "response": "Status gizi pasien ini menurut BMI/U adalah overweigh. Berdasarkan penilaian antropometri yang ada, BMI pasien berada di atas P85, yang menunjukkan status overweigh menurut CDC, 2000. Selain itu, %LILA juga mencapai 113,36%, yang termasuk dalam kategori overweigh menurut referensi Jelliffe, Bristian and Blackbum dalam <RS>, 2014. Oleh karena itu, kesimpulannya status gizi pasien adalah overweigh."
+}

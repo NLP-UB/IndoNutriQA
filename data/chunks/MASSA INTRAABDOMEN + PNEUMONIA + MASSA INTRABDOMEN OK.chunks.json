@@ -1,0 +1,734 @@
+[
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 3,
+    "chunk_index": 0,
+    "text": "SKRINING GIZI\nA. STRONGkids\n\n[TABLE 0]\nSTRONGkids |  | \n--------------------------------------------------------------------------------\nParameter | Skor | \nApakah pasien tampak kurus? | Ya\nTidak | 1\n0\nApakah terdapat penurunan berat badan selama satu bulan terakhir?\n(Berdasarkan penilaian objektif data berat badan bila ada ATAU penilaian\nsubjektif orang tua pasien ATAU untuk bayi <1 tahun, berat badan tidak\nnaik selama 3 bulan terakhir) | Ya\nTidak | 1\n0\nApakah terdapat salah satu dari kondisi berikut?\n- Diare ≥5x/hari dan/atau muntah >3x/hari dalam seminggu terakhir\n- Asupan makanan berkurang selama 1 minggu terakhir | Ya\nTidak | 1\n0\nApakah terdapat penyakit atau keadaan yang mengakibatkan pasien\nberisiko mengalami malnutrisi? (Lihat daftar penyakit) | Ya\nTidak | 2\n0\nTOTAL SKOR |  | 4\nKriteria Penilaian STRONGkids\nSkor 0 : Risiko malnutrisi rendah\nSkor 1-3 : Risiko malnutrisi sedang\nSkor 4-5 : Risiko malnutrisi tinggi\nDaftar penyakit\nDiare kronik (>2 minggu), penyakit hati kronik, pen"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 3,
+    "chunk_index": 1,
+    "text": "teria Penilaian STRONGkids\nSkor 0 : Risiko malnutrisi rendah\nSkor 1-3 : Risiko malnutrisi sedang\nSkor 4-5 : Risiko malnutrisi tinggi\nDaftar penyakit\nDiare kronik (>2 minggu), penyakit hati kronik, penyakit ginjal kronik, TB paru, luka bakar\nluas, trauma, kelainan anatomi daerah mulut yang membuat kesulitan makan, kelainan\nmetabolik bawaan, retardasi mental, keterlambatan perkembangan, rencana/pasca operasi\nmayor, terpasan stoma, penyakit jantung bawaan, infeksi HIV, kanker, penyakit berat lain. |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 4,
+    "chunk_index": 0,
+    "text": "B. PEDIATRIC YORKHILL MALNUTRITION SCORE (PYMS)\n\n[TABLE 0]\nPediatric Yorkhill Malnutrition Score (PYMS) |  |  |  | \n--------------------------------------------------------------------------------\nNama | : <NAMA> |  | Tanggal\nMRS | : <TGL>\nNama Ibu | : <NAMA> |  | Tanggal\nscreening | : <TGL>\nUsia Anak | : 6 tahun 1 bulan |  | BB | : 11 kg\nRuang | : Krakatau |  | PB | : 109,3 cm\nNo. RM | : <NO_REG> |  |  | \nJenis\nKelamin | : Perempuan |  |  | \nStep 1 | Apakah BMI berada dibawah\nstandar acuan ? | Tidak | 0 | \n |  | Ya | 2 | √\nStep 2 | Apakah akhir – akhir ini anak\nmengalami penurunan berat\nbadan? | Tidak | 0 | \n |  | Ya | 2 | √\nStep 3 | Apakah satu minggu terakhir\nanak mengalami penurunan\nnafsu makan? | Tidak | 0 | √\n |  | Ya | 2 | \nStep 4 | Akankah kebutuhan gizi anak\ndipengaruhi oleh kondisi\nanak untuk kurang lebih 1\nminggu ke depan? | Tidak | 0 | \n |  | Ya\nUntuk 1 minggu\nkedepan :\n Mengalami\npenurunan\nasupan dan/atau\n Mengalami\npeningkatan\nkebutuhan\ndan/atau\n Mengalami\npe"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 4,
+    "chunk_index": 1,
+    "text": "oleh kondisi\nanak untuk kurang lebih 1\nminggu ke depan? | Tidak | 0 | \n |  | Ya\nUntuk 1 minggu\nkedepan :\n Mengalami\npenurunan\nasupan dan/atau\n Mengalami\npeningkatan\nkebutuhan\ndan/atau\n Mengalami\npeningkatan\nkehilangan | 1 | √\n |  | Ya\nTidak ada asupan\n(atau asupan\nsangat sedikit)\nuntuk satu minggu\nke depan | 2 | \nStep 5 | Jumlah skor | Total skor PYMS |  | 5\n[END TABLE]\nInterpretasi :\n- Skor 1 : menunjukkan malnutrisi tingkat sedang\n- Skor ≥ 2 : menunjukkan malnutrisi tingkat berat"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 6,
+    "chunk_index": 0,
+    "text": "C. FORM NUTRITIONAL PROCESS\n\n[TABLE 0]\nNama : <NAMA>\nUmur : 6 tahun 1 bulan\nDiagnosis Medis : Distress Napas OK Desakan Massa Intrabdomen + Pneumonia + Massa\nIntraabdomen OK Suspek Solid Ovarian Mass + Hepatomegali + Spleenomegali dan\nStatus Gizi buruk dengan perawakan sangat pendek |  |  | Jenis Kelamin : Perempuan\nRegistrasi : <NO_REG>\nTanggal : <TGL> | \n--------------------------------------------------------------------------------\nAsesmen Gizi |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\nGizi\nData dasar | Identifikasi masalah |  |  | \nAntropometri :\nBB = 11\nTB = 90cm\nLila = 8,5 cm\nL. kepala = 48 cm\nBBI = 14 kg (CDC,2000)\nBB/U = <P5th (berat badan sangat kurang)\nTB/U = <P5th SD (sangat pendek)\nBB/TB = (BBA/BBI) x 100%\n= 11/20 x100%\n= 55% (gizi buruk)\nLila = <P5 th ( gizi buruk)\nHeight age = 2 tahun 6 bulan\nIMT/U\n𝑏𝑒𝑟𝑎𝑡 𝑏𝑎𝑑𝑎𝑛\n=\n(𝑘𝑔)2\n= 13,5 kg\nIMT < median\n𝐼𝑀𝑇 𝑎𝑛𝑎𝑘−𝐼𝑀𝑇 𝑚𝑒𝑑𝑖𝑎𝑛\n=\n𝐼𝑀𝑇 𝑀𝑒𝑑𝑢𝑎𝑛−(−1 𝑆𝐷)\n13,5−15,3\n= = - 1,08 SD\n15,3−14,1 | Berdasarkan grafik\nCDC status gi"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 6,
+    "chunk_index": 1,
+    "text": " gizi buruk)\nHeight age = 2 tahun 6 bulan\nIMT/U\n𝑏𝑒𝑟𝑎𝑡 𝑏𝑎𝑑𝑎𝑛\n=\n(𝑘𝑔)2\n= 13,5 kg\nIMT < median\n𝐼𝑀𝑇 𝑎𝑛𝑎𝑘−𝐼𝑀𝑇 𝑚𝑒𝑑𝑖𝑎𝑛\n=\n𝐼𝑀𝑇 𝑀𝑒𝑑𝑢𝑎𝑛−(−1 𝑆𝐷)\n13,5−15,3\n= = - 1,08 SD\n15,3−14,1 | Berdasarkan grafik\nCDC status gizi\npasien tergolong\nberperawakan\npendek serta status\ngizi berdasarkan LLA\ntergolong gizi buruk | NI – 2.11.\nKeterbatasan\npenerimaan makan,\nberkaitan dengan kondisi\npasien dalam perawatan\ncriticall ill ditandai dengan\npenggunaan NGT serta\npemberian asupan secara\nbertahap\nNI – 5.3\nPenurunan Kebutuhan\nZat gizi (karbohidrat)\nberkaitan dengan kondisi\npasien mengalami\npneumonia dan distress\nnapasa ditandai dengan\nmengalami sesak napas\nserta penggunaaan alat\nbantu napas\nNC – 4.1.5\nMalnutrisi (kurang gizi)\nberkaitan dengan\npenyakit kronis ditandai\ndengan status gizi buruk\n(LLA/U <P5th) perawakan\npendek (TB/U = <P5th), | ND – 1.1\nPemberian Makanan Utama\ndan Snack\nPemberian diet 700 kkal\ndengan frekuensi pemberian\n8x (8x100 cc F75) melalui\nNGT\n[RC] Kolaborasi dengan\ntenaga medis lain\nBentuk kolabora"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 6,
+    "chunk_index": 2,
+    "text": "k (TB/U = <P5th), | ND – 1.1\nPemberian Makanan Utama\ndan Snack\nPemberian diet 700 kkal\ndengan frekuensi pemberian\n8x (8x100 cc F75) melalui\nNGT\n[RC] Kolaborasi dengan\ntenaga medis lain\nBentuk kolaborasi :\n Kolaborasi bersama\ndokter penanggung\njawab pasien dalam\nmonitoring nilai biokimia\nterkait gizi\n Kolaborasi bersama\nperawat terkait\nmonitoring keluhan dan\ntanda vital pasien\n[E1 dan E2 Edukasi Gizi\nkonten dan aplikasi]\n Tujuan : | FH – 1.2\nAsupan makan dan\nminum\n Target :\n- asupan protein,\nlemak,\nkarbohidrat,\npasien mencukupi\n80% dari\nkebutuhan dan\ndapat meningkat\nsecara bertahap\n Metode :\nFood recall\n Waktu :\n- Food recall =\n1x/hari\nAD – Antropometri\n Target\ntidak terjadi\npenurunan BB\n Metode :\nPenimbangan\nmenggunakan\n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 7,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nNama : <NAMA>\nUmur : 6 tahun 1 bulan\nDiagnosis Medis : Distress Napas OK Desakan Massa Intrabdomen + Pneumonia + Massa\nIntraabdomen OK Suspek Solid Ovarian Mass + Hepatomegali + Spleenomegali dan\nStatus Gizi buruk dengan perawakan sangat pendek |  |  | Jenis Kelamin : Perempuan\nRegistrasi : <NO_REG>\nTanggal : <TGL> | \n--------------------------------------------------------------------------------\nAsesmen Gizi |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\nGizi\nData dasar | Identifikasi masalah |  |  | \nKeluarga mengaku terjadi penurunan berat badan selama\nsebulan kebelakang namun tidak mengetahui jumlah\npengurangan berat badan karena tidak dilakukan\npenimbangan |  | serta terdapat iga\ngambang, tampak kurus,\nserta kadar Hemoglobin,\nhematocrit, MCHC, RDW,\nretikulosit rendah yang\nmengindikasikan anemia\nNB – 1.1\nKurangnya pengetahuan\nterkait gizi berkaitan\ndengan kurangnya\npaparan informasi terkait\ngizi tumbuh kembang anak\nditandai dengan riwayat\nstunting pada"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 7,
+    "chunk_index": 1,
+    "text": "losit rendah yang\nmengindikasikan anemia\nNB – 1.1\nKurangnya pengetahuan\nterkait gizi berkaitan\ndengan kurangnya\npaparan informasi terkait\ngizi tumbuh kembang anak\nditandai dengan riwayat\nstunting pada uia 5 tahun,\nbelum pernah mendapat\nmendapat edukasi gizi,\nserta .riwayat SQ-FFQ\ntergolong defisiensi berat\npada seluruh makronutrien | meningkatkan\npengetahuan dan\nmotivasi orang tua terkait\nfase yang sedang terjadi\ndan persiapan menuju\nfase setelahnya.\n Sasaran : Orangtua <NAMA>\n Durasi : 15 – 20 menit\n Lokasi : kamar rawat inap\npasien\n Materi :\n- Memberikan\npengetahuan terkait diet\nyang sedang dijalani\n- Memberikan penjelasan\nterkait penyeduhan F –\n75\n- Penjelasan terkait\npersiapan fase transisi\ndan rehabilitasi\n- Penjelasan cara\npengaplikasian\npedoman penukar\nDBMP\n- Menjelaskan\npengaplikasian contoh\nmenu sehari di rumah | timbangan BB\ndigital\n Waktu :\nSetiap 3 hari\nBD Nilai Biokimia\nterkait gizi\n Target\n- Nilai Hb, Hc,\nMCHC secara\nbertahap\nmeningkat\nmencapai rentang\nnormal\n Meto"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 7,
+    "chunk_index": 2,
+    "text": "ikasian contoh\nmenu sehari di rumah | timbangan BB\ndigital\n Waktu :\nSetiap 3 hari\nBD Nilai Biokimia\nterkait gizi\n Target\n- Nilai Hb, Hc,\nMCHC secara\nbertahap\nmeningkat\nmencapai rentang\nnormal\n Metode:\n- Melihat hasil lab\nberikutnya pada\nrekam medis\npasien\n[PD] Fisik/klinis\n Target : keluhan\nsesak pasien dapat\nberkurang secara\nbertahap\n Metode : bertanya\nlangsung dengan\norang tua pasien\nBiokimia\n\n[TABLE 1]\nPemeriksaan | Hasil | Satuan | Nilai Rujukan | I nterpretasi\n--------------------------------------------------------------------------------\nHemoglobin | 9,10 | g/dl | 10,85 – 14,90 | Rendah\nEritrosit | 3,83 | 106/ul | 4,11 – 5,55 | Normal\nLeukosit | 10,50 | 103/ul | 4,79 – 11,34 | Normal\nHematocrit | 31,20 | % | 34 – 45,1 | Rendah\nTrombosit | 541 | 103/ul | 216 – 451 | Tinggi\nMCV | 81,50 | fL | 71,8 – 92,0 | Normal\nMCH | 23,80 | pg | 22,60 –\n31,01 | Normal\nMCHC | 29,20 | g/dl | 30,8 – 35,2 | Rendah\nRDW | 17,50 | % | 11,3 – 14,6 | Tinggi\nMPV | 10.6 | fL | 7,2 – 11,1 | Normal\nP –"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 7,
+    "chunk_index": 3,
+    "text": " 81,50 | fL | 71,8 – 92,0 | Normal\nMCH | 23,80 | pg | 22,60 –\n31,01 | Normal\nMCHC | 29,20 | g/dl | 30,8 – 35,2 | Rendah\nRDW | 17,50 | % | 11,3 – 14,6 | Tinggi\nMPV | 10.6 | fL | 7,2 – 11,1 | Normal\nP – LCR | 29,2 | % | 15 – 25 | Tinggi\nPCT | 0,57 | % | 0,150 –\n04,00 | Tinggi\nBasophil | 0,5 | % | 0 - 1 | Normal\n[END TABLE] |  Kadar\nHemoglobin,\nhematocrit, MCHC,\nRDW, retikulosit\nrendah\nmengindikasikan\nadanya anemia\ndefisiensi zat besi\n Kadar trombosit\ndan P-LCR tinggi\nmengindikasikan\nadanya\ntrombositosis yang\ndapat disebabkan\nanemia defisiensi\nbesi\n Kadar PCT tinggi\nmengindikasikan\nadanya infeksi\ndalam tubuh\n Kadar PH tinggi,\npCO2 rendah, dan\npO2 rendah\nmengindikasikan\nterjadi alkalosis\nrespiratorik akibat |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 8,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nNama : <NAMA>\nUmur : 6 tahun 1 bulan\nDiagnosis Medis : Distress Napas OK Desakan Massa Intrabdomen + Pneumonia + Massa\nIntraabdomen OK Suspek Solid Ovarian Mass + Hepatomegali + Spleenomegali dan\nStatus Gizi buruk dengan perawakan sangat pendek |  |  |  |  |  |  |  | Jenis Kelamin : Perempuan\nRegistrasi : <NO_REG>\nTanggal : <TGL> | \n--------------------------------------------------------------------------------\nAsesmen Gizi |  |  |  |  |  |  | Diagnosis Gizi | Intervensi Gizi\n[C1 Konseling gizi]\n Materi :\n- Menjelaskan dampak\npemberian diet\n- Menjelaskan cara\npemenuhan porsi\nmakanan sebagai\npersiapan fase\nselanjutnya\n Media :\n- leaflet untuk fase gizi\nburuk, dbmp, contoh\nmenu sehari di rumah,\ndbmp\n Sasaran : Orangtua\n<NAMA>\n Durasi : 15 – 20 menit\n Lokasi : ruang rawat inap | Monitoring Evaluasi\nGizi\nserta melihat rekam\nmedis terbaru\nFH 4.1\n Target : orang tua\n<NAMA> dapat\nmenjawab benar\ndari 80%\npertanyaan yang\nditanyakan\n Metode :\nPre dan post test\n Waktu :\n1x\n"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 8,
+    "chunk_index": 1,
+    "text": " inap | Monitoring Evaluasi\nGizi\nserta melihat rekam\nmedis terbaru\nFH 4.1\n Target : orang tua\nAn.NS dapat\nmenjawab benar\ndari 80%\npertanyaan yang\nditanyakan\n Metode :\nPre dan post test\n Waktu :\n1x\nData dasar |  |  |  |  |  | Identifikasi masalah |  |  | \n | Neutrophil | 70,5 | % | 42,5 - 71 | Normal | hiperventilasi yang\nbisa terjadi\nsebagai\nkompensasi dari\nhipoksemia pada\npneumonia atau\nanemia berat.\n(Chisti et al., 2022;\nNemani & Awasthi,\n2016; Rizvi et al.,\n2017)\n Kadar NSE dan\nCA 125 tinggi\nmengindikasikan\nadanya tumor |  |  | \n | Limfosit | 21 | % | 20,4 – 44,6 | Normal |  |  |  | \n | Monosit | 6,7 | % | 3,6 – 9,9 | Normal |  |  |  | \n | Retikulosit | 2,77 | % | 0,82 -2,25 | Tinggi |  |  |  | \n | Neuron\nSpesifik\nEnolase (NSE) | 43,3 | ng/ml | <16,3 | Tinggi |  |  |  | \n | CA 125 | 71 | U/mL | <35 | Tinggi |  |  |  | \n | SGOT | 40 | U/L | 15 - 50 | Normal |  |  |  | \n | SGPT | 7 | U/L | 5 – 45 | Normal |  |  |  | \n | Albumin | 4,46 | g/dL | 3,5 – 4,7 | Normal |  |  |  | \n | GDS"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 8,
+    "chunk_index": 2,
+    "text": " 71 | U/mL | <35 | Tinggi |  |  |  | \n | SGOT | 40 | U/L | 15 - 50 | Normal |  |  |  | \n | SGPT | 7 | U/L | 5 – 45 | Normal |  |  |  | \n | Albumin | 4,46 | g/dL | 3,5 – 4,7 | Normal |  |  |  | \n | GDS | 87 | Mg/dL | 70 – 150 | Normal |  |  |  | \n | PH | 7,53 |  | 7,35 – 7,45 | Tinggi |  |  |  | \n | pCO2 | 30,2 | mmHg | 35 - 45 | Rendah |  |  |  | \n | pO2 | 52,9 | mmHg | 80 - 100 | Rendah |  |  |  | \n | Bikarbonat | 25,6 | Mmol/L | 21 - 28 | Normal |  |  |  | \n | Kelebihan\nBasa | 2,7 | Mmol/L | (-3) – (+3) | Normal |  |  |  | \n | Natrium | 139 | Mmol/L | 136 - 145 | Normal |  |  |  | \n | Kalium | 3,9 | Mmol/L | 3,5 – 5,1 | Normal |  |  |  | \n | Klorida | 98 | Mmol/L | 98 - 107 | Normal |  |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 9,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nNama : <NAMA>\nUmur : 6 tahun 1 bulan\nDiagnosis Medis : Distress Napas OK Desakan Massa Intrabdomen + Pneumonia + Massa\nIntraabdomen OK Suspek Solid Ovarian Mass + Hepatomegali + Spleenomegali dan\nStatus Gizi buruk dengan perawakan sangat pendek |  |  | Jenis Kelamin : Perempuan\nRegistrasi : <NO_REG>\nTanggal : <TGL> | \n--------------------------------------------------------------------------------\nAsesmen Gizi |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\nGizi\nData dasar | Identifikasi masalah |  |  | \nFisik/Klinis\n Sesak (+)\n Perut membesar (+) sejak 2 tahun yang lalu dan\nsemakin membesar sebulan kebelakang\n Nyeri perut (+)\n Pasien terpasang NGT\n Hepatomegaly (+)\n Splenomegali (+)\n Tampak kurus\n Iga gambang (+)\n Metode ventilator HFNC flow 12, FiO2 40%\n\n[TABLE 1]\nNo. | Data | Hasil\nPengamatan | Rujukan\n--------------------------------------------------------------------------------\n1 | KU | Lemah | Baik\n1. | Kesadaran | Compos mentis | Compos men"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 9,
+    "chunk_index": 1,
+    "text": "0%\n\n[TABLE 1]\nNo. | Data | Hasil\nPengamatan | Rujukan\n--------------------------------------------------------------------------------\n1 | KU | Lemah | Baik\n1. | Kesadaran | Compos mentis | Compos mentis\n2. | GCS | 456 | 456\n3. | Suhu | 36,7°C | 36 – 37.5\n4. | Nadi | 143 x/menit | 100 – 140x/menit\n5. | RR | 30 x/menit | 24 – 40x/menit\n6. | SpO2 | 98% | 95 – 100%\n |  |  | \n[END TABLE] |  Pasien\nmengeluhkan\nsesak, nyeri\nperut akibat\nperut membesar\n Pasien\nmengalami\nhepatomegaly\ndan\nspenomegali\n Pasien memakai\nventilator dan\nNGT\n Pasien tampak\nlemah serta\ntanda vital lain\nberada dalam\nrentang normal |  |  | \nDietary\nSMRS\n Pasien tidak memiliki alergi makanan. | SMRS\n Kecukupan zat\ngizi berdasarkan |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 10,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nNama : <NAMA>\nUmur : 6 tahun 1 bulan\nDiagnosis Medis : Distress Napas OK Desakan Massa Intrabdomen + Pneumonia + Massa\nIntraabdomen OK Suspek Solid Ovarian Mass + Hepatomegali + Spleenomegali dan\nStatus Gizi buruk dengan perawakan sangat pendek |  |  | Jenis Kelamin : Perempuan\nRegistrasi : <NO_REG>\nTanggal : <TGL> | \n--------------------------------------------------------------------------------\nAsesmen Gizi |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\nGizi\nData dasar | Identifikasi masalah |  |  | \n Frekuensi makan utama pasien adalah 3 – 4x sehari\ndengan porsi sangat sedikit\n Pasien tidak menyukai sayur\n Riwayat pemberian ASI sampai dengan usia 2 tahun\n Frekuensi Susu Pediasure 2 x/hari @2 sendok takar\nPediasure 6-12 thn\n SQ – FFQ\n- Makanan pokok:\nNasi putih 3x/hari @1/2 centong (30 g), roti 3x/mgg\n@1 porsi (40 g), mie 1x/mgg @1 porsi ( 85g), jagung\npipil 3x/mgg @1 ptg (40g) tepung terigu 3x/mgg @1\nporsi (20 g)\n- Protein hewani:\ndaging ayam 2x/mg"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 10,
+    "chunk_index": 1,
+    "text": "si putih 3x/hari @1/2 centong (30 g), roti 3x/mgg\n@1 porsi (40 g), mie 1x/mgg @1 porsi ( 85g), jagung\npipil 3x/mgg @1 ptg (40g) tepung terigu 3x/mgg @1\nporsi (20 g)\n- Protein hewani:\ndaging ayam 2x/mgg @1/2 porsi ,\nikan, mujaer 2x/mgg @1 porsi (40g), ikan ibandeng\n2x/mgg @1 porsi (40g), ikan gurami 2x/mgg @1porsi\n(40g), telur 4x/mgg @1 butir (55 g), bakso 2x/bln (50\ng),\n- Protein nabati:\ntempe 3x/mgg @1 potong (50 g), tahu 3x/mgg @1\npotong (50 g)\n- Buah :\nKelengkeng 3x/bln @5biji (50g)\n Hasil Asupan berdasarkan SQ - FFQ\n\n[TABLE 1]\nZat\nGizi | Kebutuhan | Hasil | %Pemenuhan | Interpretasi\n--------------------------------------------------------------------------------\nE | 1428 kkal | 864,3\nkkal | 60% | Defisit berat\nP | 53,55 g | 34,8 g | 64% | Defisit berat\nL | 39,67 g | 17,1 g | 43% | Defisit berat\nK | 214,2 g | 117,5 g | 54% | Defisit berat\n[END TABLE] | hasil SQ – FFQ\ntergolong defisit\ntingkat berat\napda seluruh\nmakronutrien\nMRS\n Kecukupan zat\ngizi saat ini\nberdasarkan\nrecall 24Hr,"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 10,
+    "chunk_index": 2,
+    "text": "isit berat\nK | 214,2 g | 117,5 g | 54% | Defisit berat\n[END TABLE] | hasil SQ – FFQ\ntergolong defisit\ntingkat berat\napda seluruh\nmakronutrien\nMRS\n Kecukupan zat\ngizi saat ini\nberdasarkan\nrecall 24Hr,\nenergi normal\n(101%), protein\ndefisit ringan\n(88,5%), lemak\nberlebih (152%)\nkarbohidrat defisit\nsedang ( 79%). |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 11,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nNama : <NAMA>\nUmur : 6 tahun 1 bulan\nDiagnosis Medis : Distress Napas OK Desakan Massa Intrabdomen + Pneumonia + Massa\nIntraabdomen OK Suspek Solid Ovarian Mass + Hepatomegali + Spleenomegali dan\nStatus Gizi buruk dengan perawakan sangat pendek |  |  | Jenis Kelamin : Perempuan\nRegistrasi : <NO_REG>\nTanggal : <TGL> | \n--------------------------------------------------------------------------------\nAsesmen Gizi |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\nGizi\nData dasar | Identifikasi masalah |  |  | \nMRS\n Nafsu makan pasien masih dalam kondisi baik\n Pasien mendapatkan tambahan nutrisi parenteral melalui\ninfus. D5 NS 500 cc\n Diberi diet oleh rumah sakit F75 mulai tanggal 16 April\nhingga 18 April, lalu dilanjut pemberian F100 mulai\ntanggal 19 April hingga 21 April\n Recall 24 jam\n\n[TABLE 1]\nZat\nGizi | Kebutuhan | Hasil | %Pemenuhan | Interpretasi\n--------------------------------------------------------------------------------\nE | 803,72 kkal | 816,82\nkk"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 11,
+    "chunk_index": 1,
+    "text": "1 April\n Recall 24 jam\n\n[TABLE 1]\nZat\nGizi | Kebutuhan | Hasil | %Pemenuhan | Interpretasi\n--------------------------------------------------------------------------------\nE | 803,72 kkal | 816,82\nkkal | 101% | Normal\nP | 28 g | 24,78 g | 88,5% | Defisit ringan\nL | 26,2 g | 41 g | 152% | Berlebih\nK | 112,65 g | 90 g | 79% | Defisit sedang\n[END TABLE] |  |  |  | \nEkologi\n Social ekonomi (CH 1.1)\n- Usia ibu saat kehamilan adalah 18 tahun\n- Pasien anak ke semata wayang\n- Pekerjaan orang tua : bapak pengemudi ojek online dan\nibu rumah tangga\n- Social ekonomi : dibawah UMR kota Bangil\n- Pasien tinggal bersama nenek. Kakek, dan om.\n- Keluarga pasien mengetahui kondisi anaknya tergolong\nstunting saat berusia 5 tahun saat di posyandu. Namun,\nmerasa tidak pernah mendapatkan edukasi gizi\n Riwayat penyakit sekarang\n- Pasien merupakan pasien rujukan dari <RS>\ndengan keluhan sesak dan berat badan terus menurun |  Pasien\ntediagnosis\nstunting saat usia\n5 tahun\n Keluarga pasien\nmengaku bel"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 11,
+    "chunk_index": 2,
+    "text": " penyakit sekarang\n- Pasien merupakan pasien rujukan dari <RS>\ndengan keluhan sesak dan berat badan terus menurun |  Pasien\ntediagnosis\nstunting saat usia\n5 tahun\n Keluarga pasien\nmengaku belum\npernah mendapat\nedukasi gizi\n Pasien\nmerupakan\nrujukan dari\n<RS>\ndengan keluhan\nperut membesar\ndan sesak |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 12,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nNama : <NAMA>\nUmur : 6 tahun 1 bulan\nDiagnosis Medis : Distress Napas OK Desakan Massa Intrabdomen + Pneumonia + Massa\nIntraabdomen OK Suspek Solid Ovarian Mass + Hepatomegali + Spleenomegali dan\nStatus Gizi buruk dengan perawakan sangat pendek |  |  | Jenis Kelamin : Perempuan\nRegistrasi : <NO_REG>\nTanggal : <TGL> | \n--------------------------------------------------------------------------------\nAsesmen Gizi |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\nGizi\nData dasar | Identifikasi masalah |  |  | \nsejak bulan maret, perut membesar sejak 2 tahun yang\nlalu keluhan diikuti dengan nyeri yang hilang timbul,\n Riwayat penyakit dahulu\n- Keluarga pasien mengaku pasien tidak pernah sakit\napa – apa sebelumnya hanya perutnya membesar\nsejak 2 tahun yang lalu\n- Tidak pernah dibawa periksa dikarenakan pasien\ntidak pernah mengeluh kesakitan\n- Riwayat imunisasi sampai dengan usai 18 bulan\n Riwayat penyakit keluarga\n- Ibu kandung meninggal 2 tahun yang lalu akibat TB"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 12,
+    "chunk_index": 1,
+    "text": "pernah dibawa periksa dikarenakan pasien\ntidak pernah mengeluh kesakitan\n- Riwayat imunisasi sampai dengan usai 18 bulan\n Riwayat penyakit keluarga\n- Ibu kandung meninggal 2 tahun yang lalu akibat TBC\n Riwayat sosial\n- Situasi tempat tinggal : aliran air di rumah\nmenggunakan PDAM sedangkan untuk air minum\nberasak dari air yang direbus.\n- Terdapat jamban dalam rumah |  Ibu kandung\npasien meninggal\nkarena TBC |  |  | \nFarmakologi\n\n[TABLE 1]\nObat | Kegunaan | Efek Samping | IOM\n--------------------------------------------------------------------------------\nIVFD C1 : 1\n3cc/jam | Untuk menjaga\nkeseimbangan\ncairan dan\nelektrolit serta\nsebagai sumber\nenergi pada\npasien dengan\nkebutuhan cairan\nterbatas | Overhidrasi,\nhypernatremia,\nhiperglikemia, dan\nedema jika tidak\ntermonitor dengan\nbaik | Dapat\nmempengarauhi\nkadar elektrolit\ndan gloksa darah\nIV. Ceftriaxone\n2 x 500 mg | Antibiotik\nsefalosporin\ngenerasi ketiga\nyang digunakan | Diare, ruma kulit,\nreaksi alergi,\npeninkatan enzim\nhati | Tid"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 12,
+    "chunk_index": 2,
+    "text": "apat\nmempengarauhi\nkadar elektrolit\ndan gloksa darah\nIV. Ceftriaxone\n2 x 500 mg | Antibiotik\nsefalosporin\ngenerasi ketiga\nyang digunakan | Diare, ruma kulit,\nreaksi alergi,\npeninkatan enzim\nhati | Tidak memiliki\ninteraksi\nsignifikan dengan\nmakanan\n[END TABLE] |  |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 13,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nNama : <NAMA>\nUmur : 6 tahun 1 bulan\nDiagnosis Medis : Distress Napas OK Desakan Massa Intrabdomen + Pneumonia + Massa\nIntraabdomen OK Suspek Solid Ovarian Mass + Hepatomegali + Spleenomegali dan\nStatus Gizi buruk dengan perawakan sangat pendek |  |  |  |  |  |  |  | Jenis Kelamin : Perempuan\nRegistrasi : <NO_REG>\nTanggal : <TGL> | \n--------------------------------------------------------------------------------\nAsesmen Gizi |  |  |  |  |  |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\nGizi\nData dasar |  |  |  |  | Identifikasi masalah |  |  |  | \n |  | untuk mengobati\nberbagai infeksi\nbakteri, termasuk\npneumonia, |  |  |  |  |  |  | \n | IV Paracetamol\n4 x 120 mg | Untuk analgesic\ndan antipiretik\nuntuk\nmengurangi nyeri\ndan demam. | - | Tidak memiliki\ninteraksi\nsignifikan dengan\nmakanan |  |  |  |  | \n | PO Vitamin A\nloading 200.000\nIU | Dosis tinggi\nvitamin A\ndigunakan untuk\nmengobati\ndefisiensi vitamin\nA terutama pada\nanak – anak | Dosis tinggi dapat\nmenye"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 13,
+    "chunk_index": 1,
+    "text": "signifikan dengan\nmakanan |  |  |  |  | \n | PO Vitamin A\nloading 200.000\nIU | Dosis tinggi\nvitamin A\ndigunakan untuk\nmengobati\ndefisiensi vitamin\nA terutama pada\nanak – anak | Dosis tinggi dapat\nmenyebabkan\nmual, muntah,\npusing dan\nkerusakan hati | Tidak ada\ninteraksi makanan\nyang signifikan |  |  |  |  | \n | PO Vitamin B\nkompleks 1 x1 | Mendukung\nmetabolisme\nenergi dan fungsi\nsistem saraf | Mual, diare, urin\nberawak kuning\nterang. | Tidak ada\ninteraksi makanan\nyang signifikan |  |  |  |  | \n | PO Vitamin C\n1 x 100 mg | Antioksidan,\nmendukung\nsistem imun dan\nmembantu\npenyerapan zat\nbesi | Dosis tinggi dapat\nmenyebabkan\nmual, diare, dan\nbatu ginjal | Tidak ada\ninteraksi makanan\nyang signifikan |  |  |  |  | \n | PO Vitamin E\n1 x 100 IU | Antioksisan yang\nmelindungi sel\ndari kerusakan\noksidatif | Dosis tinggi dapat\nmeningkatkan\nrisiko pendarahan\ndan gangguan\npenglihatan |  |  |  |  |  | \n | PO Asan folat\n1x1 mg | Pencegahaan\ndan pengobatan\ndefisiensi folat,\nsintesis DNA, dan\npembentukan s"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 13,
+    "chunk_index": 2,
+    "text": "if | Dosis tinggi dapat\nmeningkatkan\nrisiko pendarahan\ndan gangguan\npenglihatan |  |  |  |  |  | \n | PO Asan folat\n1x1 mg | Pencegahaan\ndan pengobatan\ndefisiensi folat,\nsintesis DNA, dan\npembentukan sel\ndarah merah | Dosis tinggi dapat\nmenutupi gejala\ndefisiensi B12 |  |  |  |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 15,
+    "chunk_index": 0,
+    "text": "D. Intervensi Gizi\n1. Makanan Utama dan Snack\na. Tujuan\n- memberikan zat gizi makro dan mikro sesuai tatalaksana gizi buruk fase\nstabilisasi\n- memberikan asupan kepada pasien secara bertahap sesuai dengan\nkondisi pasien\nb. Prinsip\nTatalaksana gizi buruk fase stabilisasi F – 75, Rendah Karbohidrat\nc. Syarat\n1. Energi dihitung sesuai kebutuhan berdasarkan menggunakan rumus\nschofield (Fajar, 2019) yaitu sebesar 703,479 kkal\n2. Protein diberikan sebesar 1 g/Kg/BBI (Viner Smith et al., 2024; Santosa et\nal., 2020) untuk memperbaiki jaringan dan meningkatkan imunitas.\nSumber protein yang dianjurkan seperti tepung kedelai, tepung susu skim.\n3. Lemak diberikan sebesar 40% (Gvalani et al., 2020) . Lemak berfungsi\nsebagai energi tambahan dan mencegah pemecahan otot. Sumber Lemak\nyang dianjurkan adalah lemak yang mudah dicerna MCT (Medium Chain\nTriglycerides)\n4. Karbohidrat diberikan rendah yaitu sisa pengurangan kebutuhan energi\ndengan lemak dan protein atau sebesar 92.5 g atau 52% dari kebutuhan"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 15,
+    "chunk_index": 1,
+    "text": "h lemak yang mudah dicerna MCT (Medium Chain\nTriglycerides)\n4. Karbohidrat diberikan rendah yaitu sisa pengurangan kebutuhan energi\ndengan lemak dan protein atau sebesar 92.5 g atau 52% dari kebutuhan\ntotal. Karbohidrat diberikan rendah agar tidak memberatkan kerja paru –\nparu.\n5. Cairan diberikan sebesar 130 ml/KgBB atau sebesar yaitu 1430 ml\nd. Perhitungan Kebutuhan Zat Gizi\n\n[TABLE 0]\nZat Gizi | Perhitungan\n--------------------------------------------------------------------------------\nEnergi (Schofield) | = (16.969 W) + (1.618 H)+ 371.2\n= (16.969.11) + (1.618.90) + 371.2\n= 703,479 kkal\nProtein | = 1 gr/KgBBI/hr\n= 1 x 13\n= 13 g\n= 52 kkal\nLemak | = 40% x total energi\n= 281,39 : 9\n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 16,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\n | = 31,26 g\n--------------------------------------------------------------------------------\nKH | = Total energi – (Protein + Lemak )\n= 703,479 – ( 52 + 281,39)\n= 370 : 4\n= 92.5 g\n[END TABLE]\n2. Edukasi Gizi\na. Tujuan : meningkatkan pengetahuan dan motivasi orang tua terkait fase yang\nsedang terjadi dan persiapan menuju fase setelahnya\nb. Sasaran : Orang tua pasien\nc. Materi :\n- Penjelasan terkait cara penyeduhan F – 75\n- Penjelasan terkait persiapan fase transisi dan rehabilitasi\n- Penjelasan terkait contoh menu sehari di rumah\n- Penjelasan pedoman penukar DBMP\nd. Waktu : 10 – 15 menit\ne. Media : leaflet untuk fase gizi buruk, dbmp, contoh menu sehari di rumah\nf. Lokasi : kamar rawat inap pasien"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 17,
+    "chunk_index": 0,
+    "text": "E. HASIL MONITORING DAN EVALUASI\nTanggal Aspek Monitoring dan evaluasi Diagnosis Rencana\nAntropometri Biokimia Fisik/klinis Dietary History Baru Intervensi Baru\n<TGL> - Parameter Hasil Ket  KU : lemah  NGT D5 : - -\nHb 9,70 ↓  GCS : 456 50cc/jam (10 jam)\nHc 31,2 ↓  Sesak (+)  Infus D5 ½ NS 45\nTrombosit 541 ↑  Suhu : 36,6OC cc/jam (24 jam)\nMCHC 29,2 ↓\n RR : 30x/mnt\nRDW 17,5 ↑\n SpO2 : 98%\nP - LCR 29,2 ↑\n Nadi : 107x/mnt\nPCT 0,57 ↑\n Ventilator (+)\npCO2 29,8 ↓\npO2 252,7 ↑\nPH 7,47 ↑\n<TGL> - Parameter Hasil Ket  KU : lemah  NGT D5 : 50 - -\nHb 13,0 ↑  Sesak (+ cc/jam (2 jam)\nHc 42,9 ↑  GCS : 456  Infus D5 ½ NS 30\nTrombosit 472 N  Suhu : 36,6OC cc/jam (24 jam)\nMCHC Tidak ada  RR : 30x/menit  F – 75 3 x 100cc\nRDW pemeriksaan\n Nadi :\nP - LCR terbaru\n122x/menit\nPCT\n SpO2 : 100%\npCO2\n Ventilator (+)\npO2\nPH\n<TGL> - Parameter Hasil Ket  KU : Baik  F – 75 8 x 100 cc - -\nHc Tidak ada  Sesak (-)  Infus D5 ½ NS 300\nTrombosit pemeriksaan  GCS : 456 cc/ jam (24 jam)"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 17,
+    "chunk_index": 1,
+    "text": ": 100%\npCO2\n Ventilator (+)\npO2\nPH\n<TGL> - Parameter Hasil Ket  KU : Baik  F – 75 8 x 100 cc - -\nHc Tidak ada  Sesak (-)  Infus D5 ½ NS 300\nTrombosit pemeriksaan  GCS : 456 cc/ jam (24 jam)\nMCHC terbaru  Suhu : 36,8OC\nRDW\n RR : 30x/menit\nP - LCR\n Nadi :\nPCT\n122x/menit\npCO2\n SpO2 : 98%\npO2\n Ventilator (+)\nPH"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 18,
+    "chunk_index": 0,
+    "text": "F. Pembahasan\n1. Analisis masalah dan Rencana Intervensi\nBerdasarkan hasil pengkajian antropometri, analisis status gizi <NAMA> ditentukan\nberdasarkan grafik CDC,2000. Berdasarkan grafik , didapatkan BB/U didapatkan hasil\n<P5th yang tergolong berat badan sangat kurang. Namun, dikarenakan pasien\nterdapat pembesaran organ seperti hepatomegaly, maka indikator BB/U kurang\nsensitif. Berdasarkan TB/U didapatkan hasil <P5th yang tergolong sangat pendek.\nBerdasarkan LLA/U didapatkan hasil <P5th yang tergolong gizi buruk. Berdasarkan\nhasil pengukuran tersebut disimpulkan bahwa An.NS tergolong gizi buruk dengan\nberperawakan pendek.\nBerdasarkan pengkajian biokimia, <NAMA> mengalami defisiensi anemia zat\nbesi yang ditandai dengan kadar hemoglobin, hematocrit, MCHC, RDW, dan\nretikulosit rendah. Selain itu, kadar PCT menunjukkan nilai tinggi yang\nmengindikasikan adanya infeksi. Hal ini berkaitan dengan pneumonia yang dialami\npasien.\nBerdasarkan pengkajian fisik/klinis, diketahui bahwa An.NS mengeluh"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 18,
+    "chunk_index": 1,
+    "text": "itu, kadar PCT menunjukkan nilai tinggi yang\nmengindikasikan adanya infeksi. Hal ini berkaitan dengan pneumonia yang dialami\npasien.\nBerdasarkan pengkajian fisik/klinis, diketahui bahwa An.NS mengeluhkan\nsesak. Hal ini dapat dikarenakan pasien mengalami hepatomegaly serta\nspenomegali yang memyebabkan organ lain seperti paru – paru terdesak. Selain\nitu, tampilan fisik An.NS yaitu adanya iga gambang, dan tampak sangat kurus.\nBerdasarkan pengakjian fisik klinis McLaren, <NAMA> tergolong gizi marasmus\n(Bhutta et al., 2017).\nBerdasarkan pengkajian riwayat makan terdahulu, asupan saat SMRS\ntergolong defisit pada seluruh makronutrien. Hal ini tercermin dari porsi makan\nAn.NS selama di rumah. Selain itu dapat diakibatkan karena kurangnya\npengetahuan ibu terkait gizi tumbuh kembang anak. Berdasarkan pengkajian\nasupan dapat berkontribusi terhadap status gizi An.NS yang tergolong gizi buruk\n(Raymond & Morrow, 2023).\nBerdasarkan pengkajian ekologi, usia maternal kehamilan yaitu 18 tahun\ndimana dim"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 18,
+    "chunk_index": 2,
+    "text": "n pengkajian\nasupan dapat berkontribusi terhadap status gizi An.NS yang tergolong gizi buruk\n(Raymond & Morrow, 2023).\nBerdasarkan pengkajian ekologi, usia maternal kehamilan yaitu 18 tahun\ndimana dimana usia tersebut masih tergolong muda sehingga berisiko untuk anak\nmengalami pendek dan status gizi buruk (Sari et al., 2022). Diketahui bahwa,\nAn.NS tergolong stunting di usia 5 tahun saat pemeriksaan di posyandu.\nBerdasarkan hasil assesmen, diagnosis gizi yang ditegakkan yaitu NI 2.11\nketerbatasan penerimaan makan berkaitan dengan kondisi pasien dalam\nperawatan criticall ill ditandai pasien terpasang NGT. NI. 4.1.5 Malnutrisi berkaitan"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 19,
+    "chunk_index": 0,
+    "text": "dengan peningkatan kebutuhan zat gizi ditandai dengan perawakan sangat\npendek (TB/U = <P5th), terdapat iga gambang, rambut tipis, tampak kurus, serta\nstatus gizi berdasarkan LLA tergolong gizi buruk. NB 1.1 kurangnya\npengetahuan terkait gizi berkaitan dengan kurangnya paparan informasi terkait\ngizi tumbuh kembang anak ditandai dengan riwayat stunting pada usia 5 tahun,\nbelum pernah mendapatkan edukasi gizi serta riwayat SQ- FFQ tergolong\ndefisiensi berat pada seluruh makronutrien.\nBerdasarkan diagnosis gizi yang telah ditegakkan, intervensi gizi yang\ndiberikan adalah diet dengan prinsip cukup energi dan protein yang disesuaikan\ndengan fase stabilisasi gizi burul. Diet yang diberikan yaitu sebesar 700 kkal per\nhari dengan frekuensi pemberian makan sebanyak 8 kali, berupa F – 75 8x100cc\nmelalui NGT. Protein diberikan dalam jumlah cukup yaitu 14 gram per hari untuk\nmemperbaiki jaringan dan meningkatkan imunitas. Lemak diberikan sebesar 40%\natau sebesar 31 g per hari guna memcegah pemecaha"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 19,
+    "chunk_index": 1,
+    "text": "lui NGT. Protein diberikan dalam jumlah cukup yaitu 14 gram per hari untuk\nmemperbaiki jaringan dan meningkatkan imunitas. Lemak diberikan sebesar 40%\natau sebesar 31 g per hari guna memcegah pemecahan otot. Karbohidrat\ndiberikan sebesar 52% atau 91 g sebagai sumber energi total. Selain pemberian\nmakan, intervensi lainnya yaitu melakukan kolaborasi dengan dokter dan perawat\nterkait pengukuran antropometri, data biokimia, fisik klinis, serta riwayat pemberian\nsusu enteral. Kemudian juga terdapat pemberian edukasi gizi untuk meningkatkan\npengetahuan keluarga terkait diet yang direkomendasikan dan sesuai dengan\nkondisi pasien.\n2. Monitoring dan Evaluasi Asupan\na. Asupan Energi\nAsupan Energi\n800\n700\n600\n500\n400\n300\n200\n100\n0\n\n[TABLE 0]\n | Hari 1 | Hari 2 | Hari 3\n--------------------------------------------------------------------------------\nAsupan | 307 | 390.8 | 748.8\nKebutuhan | 700 | 700 | 700\nTarget | 560 | 560 | 560\n[END TABLE]\nAsupan Kebutuhan Target"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 20,
+    "chunk_index": 0,
+    "text": "Berdasarkan grafik di atas menunjukkan pada hari 1, asupan energi\nsebesar 307 kkal atau memenuhi 43% dari kebutuhan harian. Hal ini\ndikarenakan pasien menjalani puasa sebelum operasi dan setelah operasi\nhanya mendapatkan infus D5 ½ ns 45 cc/jam selama 1 hari serta NGT D5%\n50/cc selama 10 jam. Pada hari kedua, asupan energi sebesar 390,8 kkal atau\nmemenuhi 55% dari kebutuhan harian. Asupan hari kedua meliputi F 75 3 x\n100cc, D5% 50 cc/jam selama 2 jam serta infus D5 ½ NS 30 cc selama 1 hari\nPada hari ketiga, asupan energi sebesar 748,8 atau memenuhi 106%\nkebutuhan harian. Hal ini dapat dikarenakan pasien telah menunjukkan kondisi\nyang membaik sehingga dapat mengonsumsi F – 75 8x100 cc melalui NGT\ndan Infus D5 ½ NS 30 cc/jam selama 1 hari.\nb. Asupan Protein\nAsupan Protein\n14\n12\n10\n8\n6\n4\n2\n0\n\n[TABLE 0]\n | Hari 1 | Hari 2 | Hari 3\n--------------------------------------------------------------------------------\nAsupan | 0 | 3 | 8.56\nKebutuhan | 13 | 13 | 13\nTarget | 10.4 | 10.4 | 10.4\n[END "
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 20,
+    "chunk_index": 1,
+    "text": "\n[TABLE 0]\n | Hari 1 | Hari 2 | Hari 3\n--------------------------------------------------------------------------------\nAsupan | 0 | 3 | 8.56\nKebutuhan | 13 | 13 | 13\nTarget | 10.4 | 10.4 | 10.4\n[END TABLE]\nAsupan Kebutuhan Target\nBerdasarkan grafik, menggambarkan pemenuhan kebutuhan proetein\npada hari 1 sebesar 0 gram dikarenakan pada hari 1 pertama pasien hanya\nmendapatkan asupan yang berasal dari Infus D5 ½ NS serta D5% secara NGT\nyang tidak mengandung protein. Pada hari 2, pasien telah mendapatkan F – 75\nsebanyak 3x100 cc sehingga asupan protein sebesar 3 gram atau memenuhi\n21% kebutuhan harian. Pada hari ke – 3, asupan protein mencapai 8,56 gram\natau memenuhi 61% yang berasal dari F – 75 8x100 cc."
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 21,
+    "chunk_index": 0,
+    "text": "c. Asupan Lemak\nAsupan Lemak\n35\n30\n25\n20\n15\n10\n5\n0\n\n[TABLE 0]\n | Hari 1 | Hari 2 | Hari 3\n--------------------------------------------------------------------------------\nAsupan | 0 | 9 | 25\nKebutuhan | 31 | 31 | 31\nTarget | 25 | 25 | 25\n[END TABLE]\nAsupan Kebutuhan Target\nBerdasarkan grafik, menggambarkan pemenuhan kebutuhan lemak\npada hari 1 sebesar 0 gram dikarenakan pada hari 1 pertama pasien hanya\nmendapatkan asupan yang berasal dari Infus D5 ½ NS serta D5% secara NGT\nyang tidak mengandung lemak. Pada hari 2, pasien telah mendapatkan F – 75\nsebanyak 3x100 cc sehingga asupan lemak sebesar 9 gram atau memenuhi\n29% kebutuhan harian. Pada hari ke – 3, asupan lemak mencapai 25 gram\natau memenuhi 80% yang berasal dari F – 75 8x100 cc.\nd. Asupan Karbohidrat\nAsupan Karbohidrat\n120\n100\n80\n60\n40\n20\n0\n\n[TABLE 1]\n | Hari 1 | Hari 2 | Hari 3\n--------------------------------------------------------------------------------\nAsupan | 76.75 | 82.61 | 106.96\nKebutuhan | 92.5 | 92.5 | 92.5\nTarget | 7"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 21,
+    "chunk_index": 1,
+    "text": "0\n20\n0\n\n[TABLE 1]\n | Hari 1 | Hari 2 | Hari 3\n--------------------------------------------------------------------------------\nAsupan | 76.75 | 82.61 | 106.96\nKebutuhan | 92.5 | 92.5 | 92.5\nTarget | 74 | 74 | 74\n[END TABLE]\nAsupan Kebutuhan Target"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 22,
+    "chunk_index": 0,
+    "text": "Berdasarkan grafik, menggambarkan pemenuhan kebutuhan\nkarbohidrat pada hari 1 sebesar 76.75 gram atau memenuhi 82% dari\nkebutuhan harian. Asupan karbohidrat didapatkan dari asupan yang berasal\ndari Infus D5 ½ NS serta D5% secara NGT yang mengandung karbohidrat pada\ndesxtrose (Juarta et al., 2024). Pada hari 2, pasien telah mendapatkan F – 75\nsebanyak 3x100 cc, D5% 50 cc/jam selama 2 jam serta infus D5 ½ NS 30 cc\nselama 1 hari sehingga total asupan karbohidrat sebesar 82.61 gram atau\nmemenuhi 89%. Pada hari ke – 3, asupan karbohidrat mencapai 106.96 gram\natau memenuhi 114% yang berasal dari F – 75 8x100 cc serta Infus D5 ½ NS\n300 cc/ jam\n3. Monitoring Cairan\n\n[TABLE 0]\nMonev | Input Cairan (ml) |  |  |  | Output Cairan (ml) |  |  |  | Balance\nCairan\n--------------------------------------------------------------------------------\n | Minum |  | Infus |  | Produksi\nUrin |  | BAB |  | \nHari 1\n(<TGL>) | 0 |  | 720 |  | 610 |  | 0 |  | -100\n |  | 720 |  |  |  | 610 |  |  | \nHari 2\n(23/04"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 22,
+    "chunk_index": 1,
+    "text": "---------------------------------------\n | Minum |  | Infus |  | Produksi\nUrin |  | BAB |  | \nHari 1\n(<TGL>) | 0 |  | 720 |  | 610 |  | 0 |  | -100\n |  | 720 |  |  |  | 610 |  |  | \nHari 2\n(<TGL>) | 380 |  | 720 |  | 1350 |  | 40 |  | - 290\n |  | 1100 |  |  | 1390 |  |  |  | \nHari 3\n(<TGL>) | 880 |  | 720 |  | 1550 |  | 0 |  | + 50\n | 1600 |  |  |  | 1550 |  |  |  | \n[END TABLE]\nBerdasarkan data monitoring dan evaluasi cairan selama tiga hari, terlihat\nadanya fluktuasi ketidakseimbangan cairan tubuh pasien. Pada hari 1, terjadi\nnegative balance sebesar -100 ml yang menunjukkan bahwa output cairan lebih\ntinggi dari input. Pada hari 2, terjadi negative balance sebesar -290 ml. Hal ini\ndapat dikarenakan output pasien berupa urin lebih banyak daripada input cairan\nke tubuh. Pada hari ke 3, terjadi kelebihan cair (positive balanve) sebesar 50 ml.\nImbalance cairan pada anak dengan kondisi kompleks seperti ini perlu dimonitor\nketat karena berisiko tinggi menyebabkan komplikasi l"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 22,
+    "chunk_index": 2,
+    "text": "hari ke 3, terjadi kelebihan cair (positive balanve) sebesar 50 ml.\nImbalance cairan pada anak dengan kondisi kompleks seperti ini perlu dimonitor\nketat karena berisiko tinggi menyebabkan komplikasi lanjutan\n4. Monitoring dan Evaluasi Biokimia\nPemeriksaan laboratorium pasien pasien selama 3 hari monitoring dapat dilihat\npada tabel dibawah ini :\n\n[TABLE 1]\nParameter | Hari 1\n(<TGL>) | Hari 2\n(<TGL>) | Hari 3\n(<TGL>)\n--------------------------------------------------------------------------------\nHb | 9,70 | 13,0 | Tidak ada\npemeriksaan\nterbaru\nHc | 31,2 | 42,9 | \nTrombosit | 541 | 472 | \nMCHC | 29,2 | Tidak ada\npemeriksaan\nterbaru | \nRDW | 17,5 |  | \nP - LCR | 29,2 |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 23,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nPCT | 0,57 |  | \n--------------------------------------------------------------------------------\npCO2 | 29,8 |  | \npO2 | 252,7 |  | \nPH | 7,47 |  | \n[END TABLE]\nData biokimia menunjukkan adanya anemia defisiensi zat besi yang\nditandai oleh parameter hemoglobin, hematocrit, serta MCHC yang dibawah\nrentang normal. Selain itu, terjadi peningkatan pada parameter trombosit yang\nmenandakan adanya trombositosis yang dapat disebabkan anemia defisiensi zat\nbesi. Pada hari kedua, terjadi peningkatan hemoglobin dan hematocrit yang dapat\nterjadi karena pasien mendapatkan tranfusi darah saat menjalani operasi. Selain\nitu, trombosit juga mengalami penurunan yang mengindikasikan anemia zat besi\ntelah terlewati. Pada hari ketiga, tidak terdapat pemeriksaan laboratorium terbaru\npada seluruh parameter yang ada\n5. Monitoring Fisik Klinis\nBerikut merupakan hasil monitoring fisik klinis pasien selama 3 hari sebagai\nberikut:\n\n[TABLE 1]\nPemeriksaan | Hari 1\n(<TGL>) | Hari 2\n(<TGL>) | Ha"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 23,
+    "chunk_index": 1,
+    "text": "ameter yang ada\n5. Monitoring Fisik Klinis\nBerikut merupakan hasil monitoring fisik klinis pasien selama 3 hari sebagai\nberikut:\n\n[TABLE 1]\nPemeriksaan | Hari 1\n(<TGL>) | Hari 2\n(<TGL>) | Hari 3\n(<TGL>)\n--------------------------------------------------------------------------------\nKU | Lemah | Lemah | Baik\nGCS | 456 | 456 | 456\nSuhu (0C) | 36.6 | 36.6 | 36.8\nNadi (x/menit) | 107 | 122 | 123\nRR (x/menit) | 30 | 30 | 30\nSpO2 | 98 | 100 | 98\nSesak napas | + | + | -\nVentilator | + | + | +\n[END TABLE]\nBerdasarkan pemantauan, pada hari ke – 1 dan ke 2 menujukkan KU yang\nlemah serta masih terdapat sesak pada pasien. Selain itu, tanda vital yang ada\nberada dalam rentang normal. Pada hari ke – 3 menunjukkan KU yang membaik\ndan sesak napas yang berkurang serta tanda vital yang lain masih berada dalam\nrentang yang normal.\n6. Rencana Tindak Lanjut\nRencana tindak lanjut pasien berupa perawatan rawat jalan dapat dilakukan\napabila kondisi pasien telah memenuhi kriteria untuk pulang ya"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 23,
+    "chunk_index": 2,
+    "text": "asih berada dalam\nrentang yang normal.\n6. Rencana Tindak Lanjut\nRencana tindak lanjut pasien berupa perawatan rawat jalan dapat dilakukan\napabila kondisi pasien telah memenuhi kriteria untuk pulang yaitu tidak terdapat\nkomplikasi medis akut, nafsu makan membaik (anak mampu menghabiskan ≥90%\nporsi makan), serta kondisi fisik/klinis menunjukkan perbaikan secara umum.\nSebelum pasien dipulangkan, keluarga diberikan edukasi menyeluruh terkait diet"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 24,
+    "chunk_index": 0,
+    "text": "yang sedang dijalani. Edukasi mencakup penjelasan tentang tujuan diet, teknik\npembuatan dan penyajian F-75, penjelasan terkait fase transisi dan stabilisasi,\nteknik pembuatan dan dan penyajian F-100 rumahan bila dibutuhkan sebagai\ntransisi sebelum anak siap konsumsi makanan gizi seimbang serta keluarga\npasien diberi pemahaman terkait isi piringku guna memperbaiki kebiasaan makan\nanak. Selain itu, keluarga juga diberi motivasi dan beberapa saran dan\nrekomendasi konsumsi sayur dan buah untuk pasien\n\n[TABLE 0]\nHasil Assemen | Target\nPencapaian | Hasil | Keterangan\n--------------------------------------------------------------------------------\nOrang tua pasien\nbelum pernah\nmendapatkan\nedukasi gizi terkait\ntatalaksana gizi\nburuk | Orang tua pasien\nmengetahui apa\nterkait tatalaksana\ngizi buruk | Orang tua dapat\nmengetahui\ntatalaksana gizi\nburuk yang\nsedang dijalani\nanaknya | Target\npencapaian dalam\nmeningkatkan\npengetahuan dan\nmotivasi tercapai\nKeluarga pasien\nbelum mengetahui\nterkait fase "
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 24,
+    "chunk_index": 1,
+    "text": "| Orang tua dapat\nmengetahui\ntatalaksana gizi\nburuk yang\nsedang dijalani\nanaknya | Target\npencapaian dalam\nmeningkatkan\npengetahuan dan\nmotivasi tercapai\nKeluarga pasien\nbelum mengetahui\nterkait fase dalam\ntatalaksana gizi\nburuk | Keluarga pasien\nmengetahui terkait\nfase dalam\ntatalaksana gizi\nburuk | Keluarga pasien\nmengetahui dan\ndapat\nmenjelaskan\nfase yang\nterdapat dalam\ntatalaksana gizi\nburuk | \nKeluarga pasien\ndapat menjelaskan\nbagaimana cara\npembuatan F – 75\nnamun tidak\nmengetahui\npembuatan F - 100 | Keluarga pasien\ndapat\nmenjelaskan\nbagaimana cara\npembuatan F –\n100 | Keluarga pasien\nsudah paham\nmengenai cara\npembuatan dan\npenyajian F – 75\ndan F - 100 | \nKeluarga pasien\nbelum mengetahui\nterkait isi piringku | Keluarga pasien\nmengetahui terkait\nisi piringku | Keluarga pasien\nmengetahui\npengertian isi\npiringku dan\nmampu\nmenjelaskan\nkembali | \nKeluarga pasien\nbelum mengetahui\nterkait pengunaan\nDBMP | Keluarga pasien\nmengetahui terkait\npenggunaan\nDBMP | Keluarga pasien\nmengetahui\npeng"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 24,
+    "chunk_index": 2,
+    "text": "\npengertian isi\npiringku dan\nmampu\nmenjelaskan\nkembali | \nKeluarga pasien\nbelum mengetahui\nterkait pengunaan\nDBMP | Keluarga pasien\nmengetahui terkait\npenggunaan\nDBMP | Keluarga pasien\nmengetahui\npenggunaan\nDBMP disertai\ncontoh varian\npergantian\nbahan yang\ndigunakan | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 25,
+    "chunk_index": 0,
+    "text": "DAFTAR PUSTAKA\nBhutta, Z. A., Berkley, J. A., Bandsma, R. H. J., Kerac, M., Trehan, I., & Briend, A.\n(2017). Severe childhood malnutrition. Nature Reviews Disease Primers, 3(1).\nhttps://doi.org/10.1038/NRDP.2017.67\nChisti, M. J., Kawser, C. A., Rahman, A. S. M. M. H., Shahid, A. S. M. S. Bin, Afroze,\nF., Shahunja, K. M., Shahrin, L., Sarmin, M., Nuzhat, S., Rahman, A. E., Alam,\nT., Parvin, I., Ackhter, M. S. T. M., Mamun, G. M. S., Shaima, S. N., Faruque,\nA. S. G., & Ahmed, T. (2022). Prevalence and outcome of anemia among\nchildren hospitalized for pneumonia and their risk of mortality in a developing\ncountry. Scientific Reports, 12(1), 1–7. https://doi.org/10.1038/s41598-022-\n14818-2\nFajar, S. A. (2019). Buku Catatan Ahli Gizi Indonesia. In Edisi 3.\nfile:///C:/Users/acer/Downloads/DIETETIK-PENYAKIT-INFEKSI-FINAL-SC.pdf\nGvalani, S. K., Kharat, P., & Vithani, S. (2020). Nutrition in ICU Patients. Journal of\nResearch & Innovation in Anesthesia, 4(2), 40–44. https://doi.org/10.5005/jp-\njo"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 25,
+    "chunk_index": 1,
+    "text": "K-PENYAKIT-INFEKSI-FINAL-SC.pdf\nGvalani, S. K., Kharat, P., & Vithani, S. (2020). Nutrition in ICU Patients. Journal of\nResearch & Innovation in Anesthesia, 4(2), 40–44. https://doi.org/10.5005/jp-\njournals-10049-0071\nJuarta, T., Jumadila, R. R., & Mail, J. S. (2024). Efektifitas Pemberian Sodium Chloride\n( NaCl ) 0 , 9 % dan Dextrose Monohydrate Sodium Chloride ( D5 , 1 / 4NS )\nTerhadap Hemodinamik Pasien Pediatrik Dengan Anestesi Umum. Prosiding\nSeminar Nasional UNIMUS, 7, 10–19.\nNemani, T., & Awasthi, S. (2016). Malnutrition and anaemia associated with hypoxia\namong hospitalized children with community-acquired pneumonia in North\nIndia. Clinical Epidemiology and Global Health, 4, S17–S21.\nhttps://doi.org/10.1016/j.cegh.2016.08.011\nRizvi, A., Macedo, P., Babawale, L., Tighe, H. C., Hughes, J. M. B., Jackson, J. E., &\nShovlin, C. L. (2017). Hemoglobin is a vital determinant of arterial oxygen\ncontent in hypoxemic patients with pulmonary arteriovenous malformations.\nAnnals of the Ameri"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 25,
+    "chunk_index": 2,
+    "text": "s, J. M. B., Jackson, J. E., &\nShovlin, C. L. (2017). Hemoglobin is a vital determinant of arterial oxygen\ncontent in hypoxemic patients with pulmonary arteriovenous malformations.\nAnnals of the American Thoracic Society, 14(6), 903–911.\nhttps://doi.org/10.1513/AnnalsATS.201611-872OC\nSantosa, B., Suwarman, & Pradian, E. (2020). Terapi Nutrisi Pasien Di Intensive Care"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 26,
+    "chunk_index": 0,
+    "text": "Unit (Icu). Jurnal Komplikasi Anestesi, 7(3), 97–105.\nhttps://doi.org/10.22146/jka.v7i3.7480\nSari, R. maiseptya, Oklaini, S. T., Ningsi I, D. A., & Lozalia, L. (2022). Hubungan\nKehamilan Ibu Usia Muda Dengan Kejadian Stunting Di Wilayah Kerja\nPuskesmas Bumi Agung Kota Pagar Alam. Indonesian Health Science Journal,\n2(1), 10–16. https://doi.org/10.52298/ihsj.v2i1.22\nViner Smith, E., Lambell, K., Tatucu-Babet, O. A., Ridley, E., & Chapple, L. anne.\n(2024). Nutrition considerations for patients with persistent critical illness: A\nnarrative review. Journal of Parenteral and Enteral Nutrition, 48(6), 658–666.\nhttps://doi.org/10.1002/jpen.2623"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 27,
+    "chunk_index": 0,
+    "text": "LAMPIRAN\n1. Analisis Antropometri berdasarkan CDC 2000\n2. Media Edukasi"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 29,
+    "chunk_index": 0,
+    "text": "Waktu Menu Bahan Makanan Berat (gr) URT Penukar energi protein lemak karbo\n5:00 F - 100 F - 100 100cc 1 gls 100 3 6 8\nnasi nasi putih 50 1/2 ctg 1/2 P 65 1.2 0.1 14.3\nikan kembung 40 1 ptg sdg 1P 44.8 8.6 0.9 0\nikan kembung\n7:00 minyak sayur 5 1sdt 1P 43.1 0 5 0\nwortel 50 1/2 mangkok 1/2 P 12.9 0.5 0.1 2.4\nsayur sop\nkentang 50 1/2 mangkok 1/2P 46.5 1 0.1 10.8\n9:00 F - 100 F - 100 100cc 1 gls 100 3 6 8\n11:00 F - 100 F - 100 100cc 1 gls 100 3 6 8\nnasi nasi putih 50 1/2 ctg 1/2 P 65 1.2 0.1 14.3\nayam 40 1 ptg sdg 1P 114 10.8 0.1 0\nsoun 10 1sdm 38.1 0 0 18.3\n13:00\nkare ayam tempe 25 1ptg 1P 49.8 4.8 7.6 4.3\nwortel 50 1/2 mangkok 1/2 P 12.9 0.5 0.1 2.4\nsantan 10 1 sdm 35.4 0.3 3.3 1.5\n16:00 F - 100 F - 100 100cc 1 gls 100 3 6 8\nnasi nasi putih 50 1/2 ctg 1/2 P 65 1.2 0.1 14.3\nayam 40 1 ptg sdg 1P 114 10.8 0.1 0\nsoun 10 1sdm 38.1 0 0 18.3\n18:00\nkare ayam tempe 25 1ptg 1P 49.8 4.8 7.6 4.3\nwortel 50 1/2 mangkok 1/2 P 12.9 0.5 0.1 2.4\nsantan 10 1 sdm 35.4 0.3 3.3 1.5\n21:00 F - 100 F - 100 100cc"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 29,
+    "chunk_index": 1,
+    "text": "1P 114 10.8 0.1 0\nsoun 10 1sdm 38.1 0 0 18.3\n18:00\nkare ayam tempe 25 1ptg 1P 49.8 4.8 7.6 4.3\nwortel 50 1/2 mangkok 1/2 P 12.9 0.5 0.1 2.4\nsantan 10 1 sdm 35.4 0.3 3.3 1.5\n21:00 F - 100 F - 100 100cc 1 gls 100 3 6 8\nKebutuhan Zat Gizi : Total Zat Gizi :\nEnergi = 1326 kkal Energi = 1342.7 (101%)\nProtein = 49.7 g Protein = 61 (123%)\nLemak = 52.5 g Lemak = 58.6 (113%)\nKH = 165 g KH = 149.1 (90%)"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 30,
+    "chunk_index": 0,
+    "text": "LAPORAN KASUS HARIAN\nASUHAN GIZI TERSTANDAR PADA PASIEN BISITOPENIA DENGAN\nORGANOMEGALI OK DD ALL + HML + HIPERLEUKOSITOSIS OK SUPS\nLEUKEMIA AKUT + DISTRESS NAPAS OK PNEUMONIA + KONSTIPASI +\nUNDERIMMUNIZATION <RS> 21 – <TGL>\nDisusun Oleh :\n<NAMA>\n<NIM>\nPROGRAM STUDI DIETISIEN\nDEPARTEMEN GIZI\nFAKULTAS ILMU KESEHATAN\n<RS>\n2024"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 31,
+    "chunk_index": 0,
+    "text": "A. SKRINING GIZI\nSTRONGkids\n\n[TABLE 0]\nSTRONGkids |  | \n--------------------------------------------------------------------------------\nParameter | Skor | \nApakah pasien tampak kurus? | Ya\nTidak | 1\n0\nApakah terdapat penurunan berat badan selama satu bulan terakhir?\n(Berdasarkan penilaian objektif data berat badan bila ada ATAU penilaian\nsubjektif orang tua pasien ATAU untuk bayi <1 tahun, berat badan tidak\nnaik selama 3 bulan terakhir) | Ya\nTidak | 1\n0\nApakah terdapat salah satu dari kondisi berikut?\n- Diare ≥5x/hari dan/atau muntah >3x/hari dalam seminggu terakhir\n- Asupan makanan berkurang selama 1 minggu terakhir | Ya\nTidak | 1\n0\nApakah terdapat penyakit atau keadaan yang mengakibatkan pasien\nberisiko mengalami malnutrisi? (Lihat daftar penyakit) | Ya\nTidak | 2\n0\nTOTAL SKOR |  | 3\nKriteria Penilaian STRONGkids\nSkor 0 : Risiko malnutrisi rendah\nSkor 1-3 : Risiko malnutrisi sedang\nSkor 4-5 : Risiko malnutrisi tinggi\nDaftar penyakit\nDiare kronik (>2 minggu), penyakit hati kronik, pen"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 31,
+    "chunk_index": 1,
+    "text": "teria Penilaian STRONGkids\nSkor 0 : Risiko malnutrisi rendah\nSkor 1-3 : Risiko malnutrisi sedang\nSkor 4-5 : Risiko malnutrisi tinggi\nDaftar penyakit\nDiare kronik (>2 minggu), penyakit hati kronik, penyakit ginjal kronik, TB paru, luka bakar\nluas, trauma, kelainan anatomi daerah mulut yang membuat kesulitan makan, kelainan\nmetabolik bawaan, retardasi mental, keterlambatan perkembangan, rencana/pasca operasi\nmayor, terpasan stoma, penyakit jantung bawaan, infeksi HIV, kanker, penyakit berat\nlainnya |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 32,
+    "chunk_index": 0,
+    "text": "PEDIATRIC YORKHILL MALNUTRITION SCORE (PYMS)\n\n[TABLE 0]\nPediatric Yorkhill Malnutrition Score (PYMS) |  |  |  | \n--------------------------------------------------------------------------------\nNama | : <NAMA> |  | Tanggal\nMRS | : <TGL>\nUsia Anak | : 2 tahun 7 bulan |  | Tanggal\nscreening | : <TGL>\nRuang | : Krakatau |  | BB | : 11 kg\nNo. RM | : <NO_REG> |  | PB | : 60 cm\nJenis\nKelamin | : Perempuan |  |  | \nStep 1 | Apakah BMI berada dibawah\nstandar acuan ? | Tidak | 0 | √\n |  | Ya | 2 | \nStep 2 | Apakah akhir – akhir ini anak\nmengalami penurunan berat\nbadan? | Tidak | 0 | √\n |  | Ya | 2 | \nStep 3 | Apakah satu minggu terakhir\nanak mengalami penurunan\nnafsu makan? | Tidak | 0 | \n |  | Ya | 2 | √\nStep 4 | Akankah kebutuhan gizi anak\ndipengaruhi oleh kondisi\nanak untuk kurang lebih 1\nminggu ke depan? | Tidak | 0 | \n |  | Ya\nUntuk 1 minggu kedepan :\n● Mengalami penurunan\nasupan dan/atau\n● Mengalami peningkatan\nkebutuhan dan/atau\n● Mengalami peningkatan\nkehilangan | 1 | √\n |  | "
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 32,
+    "chunk_index": 1,
+    "text": "h 1\nminggu ke depan? | Tidak | 0 | \n |  | Ya\nUntuk 1 minggu kedepan :\n● Mengalami penurunan\nasupan dan/atau\n● Mengalami peningkatan\nkebutuhan dan/atau\n● Mengalami peningkatan\nkehilangan | 1 | √\n |  | Ya\nTidak ada asupan (atau\nasupan sangat sedikit) untuk\nsatu minggu ke depan | 2 | \nStep 5 | Jumlah skor | Total skor PYMS |  | 3\n[END TABLE]\nInterpretasi :\n- Skor 1 : menunjukkan malnutrisi tingkat sedang\n- Skor ≥ 2 : menunjukkan malnutrisi tingkat berat"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 33,
+    "chunk_index": 0,
+    "text": "B. NUTRITION CARE PROCESS\n\n[TABLE 0]\nNama : <NAMA>\nUmur : 2 tahun 7 bulan\nDiagnosis Medis : Bisitopenia dengan organomegali OK DD HML + Hiperleukositosis OK SUPS\nLeukemia akut + distress napas OK Pneumonia + Konstipasi + Underummunization |  |  |  |  |  |  |  | Jenis Kelamin : Perempuan\nRegistrasi : <NO_REG>\nTanggal : <TGL> | \n--------------------------------------------------------------------------------\nAsesmen Gizi |  |  |  |  |  |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\nGizi\nData dasar |  |  |  |  |  | Identifikasi masalah |  |  | \nAntropometri :\nBB = 13.6\nTB = 65 cm\nLila = 14.5 cm\nBBI = 7.2 kg (permenkes)\nHeight age = 5 bulan dilihat dr pb/u permenkes\nBB/U = 2,12 SD (Berat badan lebih)\nTB/U = -5,57 SD (Sangat pendek)\nLLa/U = 14,5 cm (>50 P<75) → Gizi baik\nBB/TB = - 2,5 SD (gizi kurang)\nIMT/U = 8,99 SD (risiko gizi lebih)\nParameter BB tidak dapat digunakan untuk\nmengintrepretasi dikarenakan adanya organomegali\nsehingga IMT/U dan BB/TB juga tidak dapat\ndiintre"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 33,
+    "chunk_index": 1,
+    "text": "= - 2,5 SD (gizi kurang)\nIMT/U = 8,99 SD (risiko gizi lebih)\nParameter BB tidak dapat digunakan untuk\nmengintrepretasi dikarenakan adanya organomegali\nsehingga IMT/U dan BB/TB juga tidak dapat\ndiintrepretasikan.\nKeluarga berkata terjadi penurunan BB sebesar 1 kg |  |  |  |  |  | Berdasarkan TB/U,\npasien mengalami\nstunting | NI – 2.1\nAsupan oral tidak\nadekuat berkaitan kondisi\npenurunan nafsu makan\nakibat mual, muntah dan\nsesak ditandai dengan\nhasil recall asupan energi\nsebesar 62% (defisit\nberat), asupan protein\nsebesar 53% (defisit\nberat), asupan lemak\nsebesar 65% (defisit\nberat), asupan KH sebesar\n71% (defisit berat)\nNI – 1.1\nPeningkatan kebutuhan\nzat gizi energi berkaitan\ndengan kondisi infeksi\npasien ditandai dengan\nkadar kadar neutrofil 2.6%\n(rendah), kadar limfosit\n88,8% (tinggi),\nNI – 5.1\nPeningkatan kebutuhan\nzat gizi energi, protein\nberkaitan dengan kondisi\nanemia pasien ditandai | ND – 1.1\nPemberian Makanan Utama\ndan Snack\n[RC] Kolaborasi dengan\ntenaga medis lain\nBentuk kolab"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 33,
+    "chunk_index": 2,
+    "text": " – 5.1\nPeningkatan kebutuhan\nzat gizi energi, protein\nberkaitan dengan kondisi\nanemia pasien ditandai | ND – 1.1\nPemberian Makanan Utama\ndan Snack\n[RC] Kolaborasi dengan\ntenaga medis lain\nBentuk kolaborasi :\n● Kolaborasi bersama\ndokter penanggung\njawab pasien dalam\nmonitoring nilai biokimia\nterkait gizi\n● Kolaborasi bersama\nperawat terkait\nmonitoring keluhan dan\ntanda vital pasien\n[E1 dan E2 Edukasi Gizi\nkonten dan aplikasi]\n● Tujuan : Meningkatkan\npengetahuan dan\nmotivasi ibu pasien\nterkait porsi makan dan\nminum yang tepat sesuai\nkondisi pasien\n● Durasi : 10-15 menit | FH – 1.2\nAsupan makan dan\nminum\n● Target :\n- asupan protein,\nlemak,\nkarbohidrat,\npasien mencukupi\n80% dari\nkebutuhan dan\ndapat meningkat\nsecara bertahap\n● Metode :\nFood recall\n● Waktu :\n- Food recall =\n1x/hari\nAD – Antropometri\n● Target\ntidak terjadi\npenurunan BB\n● Metode :\nPenimbangan\nmenggunakan\nBiokimia\nPemeriksaan Hasil Satuan Nilai RujukanI nterpretasi\nHemoglobin 6.5 g/dl 10.85 – 14.90 Rendah\nEritrosit 2.29 106/uL "
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 33,
+    "chunk_index": 3,
+    "text": "etri\n● Target\ntidak terjadi\npenurunan BB\n● Metode :\nPenimbangan\nmenggunakan\nBiokimia\nPemeriksaan Hasil Satuan Nilai RujukanI nterpretasi\nHemoglobin 6.5 g/dl 10.85 – 14.90 Rendah\nEritrosit 2.29 106/uL 4.11 – 5.55 Rendah |  |  |  |  |  | ● Berdasarkan\nhasil Hb, eritrosit,\nhematokrit, RDW\nyang rendah,\nmengindikasikan\nanemia |  |  | \n | Pemeriksaan | Hasil | Satuan | Nilai Rujukan | I nterpretasi |  |  |  | \n | Hemoglobin | 6.5 | g/dl | 10.85 – 14.90 | Rendah |  |  |  | \n | Eritrosit | 2.29 | 106/uL | 4.11 – 5.55 | Rendah |  |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 34,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nNama : <NAMA>\nUmur : 2 tahun 7 bulan\nDiagnosis Medis : Bisitopenia dengan organomegali OK DD HML + Hiperleukositosis OK SUPS\nLeukemia akut + distress napas OK Pneumonia + Konstipasi + Underummunization |  |  |  |  |  |  |  | Jenis Kelamin : Perempuan\nRegistrasi : <NO_REG>\nTanggal : <TGL> | \n--------------------------------------------------------------------------------\nAsesmen Gizi |  |  |  |  |  |  | Diagnosis Gizi\ndengan kadar hemoglobin\n6,5 g/dl (rendah),\nNI – 5.3\nPenurunan Kebutuhan\nZat Gizi (Karbohidrat)\nberkaitan dengan kondisi\npasien ditandai dengan\nkondisi sesak serta\npenggunaan alat bant\nnafas nasal canul\nNB.1.1\nKurangnya pengetahuan\ntentang gizi dan makanan\nberkaitan dengan\nkurangnya papapran\nterkait informasi tentang\ngizi ditandai dengan orng\ntua pasien belum pernah\nmendapatkan edukasi gizi,\nporsi makan anak hanya ¼ | Intervensi Gizi\n● Lokasi : Rawat Inap\n● Materi : Diet TKTP\n[C1 Konseling gizi]\n● Materi : Diet TKTP\n● Media : Leaflet TKTP,\nDBMP\n● Sasaran : Ke"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 34,
+    "chunk_index": 1,
+    "text": "nah\nmendapatkan edukasi gizi,\nporsi makan anak hanya ¼ | Intervensi Gizi\n● Lokasi : Rawat Inap\n● Materi : Diet TKTP\n[C1 Konseling gizi]\n● Materi : Diet TKTP\n● Media : Leaflet TKTP,\nDBMP\n● Sasaran : Keluarga\npasien\n● Durasi : 10-15 menit\n● Lokasi : Rawat inap | Monitoring Evaluasi\nGizi\ntimbangan BB\ndigital\n● Waktu :\nSetiap 3 hari\nBD Nilai Biokimia\nterkait gizi\n● Target : kadar Hb,\neritrosit, Hc,\nLeukosit kembali\nke dalam rentang\nnormal\n● Metode:\n- Melihat hasil lab\nberikutnya pada\nrekam medis\npasien\n[PD] Fisik/klinis\n● Target : keluhan\nmual, diare, muntah\npasien dapat\nberkurang secara\nbertahap\n● Metode : bertanya\nlangsung dengan\norang tua pasien\nData dasar |  |  |  |  |  | Identifikasi masalah |  |  | \nLeukosit 59.41 103/uL 4.79 – 11.34 Tinggi\nHematokrit 20.50 % 34.0 – 45.1 Rendah\nTrombosit\n5 103/uL 216.0 – 451.0 Rendah\n(PLT)\nMCV 89.50 fL 71.80 – 92.0 Normal\nMCH 28.4 pg 22.6 – 31.01 Normal\nMCHC 31.7 g/dl 30.8 – 35.2 Normal\nRDW 15,9 g/dl 11.30 – 14.60 Tinggi\nEosinophil 0.20 %\nBasofil 0.1"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 34,
+    "chunk_index": 2,
+    "text": "\n5 103/uL 216.0 – 451.0 Rendah\n(PLT)\nMCV 89.50 fL 71.80 – 92.0 Normal\nMCH 28.4 pg 22.6 – 31.01 Normal\nMCHC 31.7 g/dl 30.8 – 35.2 Normal\nRDW 15,9 g/dl 11.30 – 14.60 Tinggi\nEosinophil 0.20 %\nBasofil 0.1 % 0 – 1 Normal\nNeutrofil 2.6 % 42.5 – 71,0 Rendah\nLimfosit 88,8 % 20,40 – 44,60 Tinggi\nMonosit 8.30 % 3.60 – 9.90 Normal\nNatrium 133 Mmol/L 136 - 145 Rendah\nKalium 4.49 Mmol/L 3,5 – 5,1 Normal\nKlorida 98 Mmol/L 98 - 107 Tinggi | Leukosit | 59.41 | 103/uL | 4.79 – 11.34 | Tinggi | normokrom\nakibat penyakit\nkronis.\n● Kadar neutrophil\nrendah, limfosit\ntinggi, trombosit\nrendah\nmengindikasikan\npasien\nmengalami\ninflamasi/perada\nngan\n● Kadar leukosit\ntinggi\nmengindikasikan\npasien terkena\nhiperleukositosis\n● Kadar natrium\nrendah dan\nklorida tinggi\nmengindikasikan\npasien\nmengalami\nketidakseimbang\nan elektrolit\ndalam tubuh |  |  | \n | Hematokrit | 20.50 | % | 34.0 – 45.1 | Rendah |  |  |  | \n | Trombosit\n(PLT) | 5 | 103/uL | 216.0 – 451.0 | Rendah |  |  |  | \n | MCV | 89.50 | fL | 71.80 – 92.0 | No"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 34,
+    "chunk_index": 3,
+    "text": "lektrolit\ndalam tubuh |  |  | \n | Hematokrit | 20.50 | % | 34.0 – 45.1 | Rendah |  |  |  | \n | Trombosit\n(PLT) | 5 | 103/uL | 216.0 – 451.0 | Rendah |  |  |  | \n | MCV | 89.50 | fL | 71.80 – 92.0 | Normal |  |  |  | \n | MCH | 28.4 | pg | 22.6 – 31.01 | Normal |  |  |  | \n | MCHC | 31.7 | g/dl | 30.8 – 35.2 | Normal |  |  |  | \n | RDW | 15,9 | g/dl | 11.30 – 14.60 | Tinggi |  |  |  | \n | Eosinophil | 0.20 | % |  |  |  |  |  | \n | Basofil | 0.1 | % | 0 – 1 | Normal |  |  |  | \n | Neutrofil | 2.6 | % | 42.5 – 71,0 | Rendah |  |  |  | \n | Limfosit | 88,8 | % | 20,40 – 44,60 | Tinggi |  |  |  | \n | Monosit | 8.30 | % | 3.60 – 9.90 | Normal |  |  |  | \n | Natrium | 133 | Mmol/L | 136 - 145 | Rendah |  |  |  | \n | Kalium | 4.49 | Mmol/L | 3,5 – 5,1 | Normal |  |  |  | \n | Klorida | 98 | Mmol/L | 98 - 107 | Tinggi |  |  |  | \nFisik/Klinis\n\n[TABLE 1]\nNo. | Data | Hasil\nPengamatan | Rujukan\n--------------------------------------------------------------------------------\n1 | KU | lemah | Baik\n[EN"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 34,
+    "chunk_index": 4,
+    "text": "98 - 107 | Tinggi |  |  |  | \nFisik/Klinis\n\n[TABLE 1]\nNo. | Data | Hasil\nPengamatan | Rujukan\n--------------------------------------------------------------------------------\n1 | KU | lemah | Baik\n[END TABLE] |  |  |  |  |  | ● Pasien\nmengalami\ndemam, mual\nperut membesar\ndan keras, |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 35,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nNama : <NAMA>\nUmur : 2 tahun 7 bulan\nDiagnosis Medis : Bisitopenia dengan organomegali OK DD HML + Hiperleukositosis OK SUPS\nLeukemia akut + distress napas OK Pneumonia + Konstipasi + Underummunization |  |  |  |  |  |  |  | Jenis Kelamin : Perempuan\nRegistrasi : <NO_REG>\nTanggal : <TGL> | \n--------------------------------------------------------------------------------\nAsesmen Gizi |  |  |  |  |  |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\nGizi\nserta melihat rekam\nmedis terbaru\nFH 4.1\n● Target : orang tua\nAn.NS dapat\nmenjawab benar\ndari 80%\npertanyaan yang\nditanyakan\n● Metode :\nPre dan post test\n● Waktu :\n1x\nData dasar |  |  |  |  |  | Identifikasi masalah |  |  | \n | 1. | Kesadaran | Compos mentis | Compos mentis |  | kondisi lemah\ndan terpasang\nO2 Nasal Kanul 3\nlpm\n● Pasien\nmengalami\ngangguan\ngastrointestinal\nyaitu mual dan\nmuntah |  |  | \n | 2. | GCS | 456 | 456 |  |  |  |  | \n | 3. | Suhu | 38.6°C | 36 – 37.5 |  |  |  |  | \n | 4. | Nadi | 135 x/menit"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 35,
+    "chunk_index": 1,
+    "text": "nul 3\nlpm\n● Pasien\nmengalami\ngangguan\ngastrointestinal\nyaitu mual dan\nmuntah |  |  | \n | 2. | GCS | 456 | 456 |  |  |  |  | \n | 3. | Suhu | 38.6°C | 36 – 37.5 |  |  |  |  | \n | 4. | Nadi | 135 x/menit | 100 – 140x/menit |  |  |  |  | \n | 5. | RR | 27 x/menit | 24 – 30x/menit |  |  |  |  | \n | 6. | SpO2 | 100% | 95 – 100% |  |  |  |  | \n | 7. | Kondisi GI | Mual (+), Muntah (+) |  |  |  |  |  | \n | 8. | Kondisi\nabdomen | Perut membesar dan keras |  |  |  |  |  | \n | 9. | Kondisi\nPernapasan | Sesak (+), Terpasang NC O2 3 lpm |  |  |  |  |  | \nDietary\nSMRS\n● Pasien alergi telur dan daging ayam broiler\n● Pasien tidak menyukai buah\n● Pasien suka mengonsumsi makanan yang diolah\ndengan digoreng\n● ASI sampai usia 21 bulan\n● Susu formula sejak usia 21 bulan\n● MPASI sejak usia 6 bulan. Makan nasi tim dimulai usia\n6 bulan dilanjut usia 12 bulan makan menu keluarga\n● Saat ini frekuensi makan 3x 1/4 porsi\n● Merk susu formula adalah susu primagrow Frisian flag\n● SQ – FFQ\n- Makanan Pokok. |  |  |  | "
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 35,
+    "chunk_index": 2,
+    "text": "m dimulai usia\n6 bulan dilanjut usia 12 bulan makan menu keluarga\n● Saat ini frekuensi makan 3x 1/4 porsi\n● Merk susu formula adalah susu primagrow Frisian flag\n● SQ – FFQ\n- Makanan Pokok. |  |  |  |  |  |  |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 36,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nNama : <NAMA>\nUmur : 2 tahun 7 bulan\nDiagnosis Medis : Bisitopenia dengan organomegali OK DD HML + Hiperleukositosis OK SUPS\nLeukemia akut + distress napas OK Pneumonia + Konstipasi + Underummunization |  |  | Jenis Kelamin : Perempuan\nRegistrasi : <NO_REG>\nTanggal : <TGL> | \n--------------------------------------------------------------------------------\nAsesmen Gizi |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\nGizi\nData dasar | Identifikasi masalah |  |  | \nNasi putih 3x/hari @1/2 centong (30 g), kentang\n2x/mgg (20g), mie 3x/mgg (85g)\n- Protein Hewani\nDaging ayam kampung 2x/mgg (40 g), ikan\npindang 1x/mgg (40 g), telur ayam kampung\n3x/mgg (60g), bakso 1x/bmgg (50 g)\n- Protein Nabati\nTempe 1x/hr (20 g), tahu 1x/hr (20 mg)\n- Sayur\nWortel 2xseminggu @ 2 sdm, bayam 3xseminggu\n@ 4 sdm, sawi 1xseminggu @ 3 sdm, toge\n1xseminggu @ 1 sdm\n- Lain – lain :\nMinyak kelapa 2x/hari ( 5 g), santan 3x/mgg (20 g),\nes krim 4x/hari ( 30 g), yoghurt 1x/mgg (30), biskuit\nroma "
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 36,
+    "chunk_index": 1,
+    "text": "yam 3xseminggu\n@ 4 sdm, sawi 1xseminggu @ 3 sdm, toge\n1xseminggu @ 1 sdm\n- Lain – lain :\nMinyak kelapa 2x/hari ( 5 g), santan 3x/mgg (20 g),\nes krim 4x/hari ( 30 g), yoghurt 1x/mgg (30), biskuit\nroma 2xseminggu @ 1 keping, susu primagrow\nfrisian flag 2xsehari @ 10 gr (diseduh dalam 200\nmL air)\n● Hasil Asupan berdasarkan SQ – FFQ\n\n[TABLE 1]\nZat\nGizi | Kebutuhan | Hasil | %Pemenuhan | Interpretasi\n--------------------------------------------------------------------------------\nE | 864 kkal | 565,4\nkkal | 65 % | Defisit berat\nP | 32 g | 22.9 g | 72 % | Defisit sedang\nL | 34 g | 23.8 g | 70 % | Defisit sedang\nK | 108 g | 72.1 g | 67 % | Defisit berat\n[END TABLE] | SMRS\n● Berdasarkan\nHasil SQ – FFQ\ndiketahui\nasupan energi\nsebesar 65 %\n(defisit sedang),\nasupan protein\nsebesar 72%\n(defisit sedang),\nasupan lemak\nsebesar 70%\n(defisit sedang),\nasupan KH\nsebesar 67%\n(defisit berat)\n● Kebiasaan\nmakan\n● Metode\npengolahan\npaling sering\nadalah digoreng |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 37,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nNama : <NAMA>\nUmur : 2 tahun 7 bulan\nDiagnosis Medis : Bisitopenia dengan organomegali OK DD HML + Hiperleukositosis OK SUPS\nLeukemia akut + distress napas OK Pneumonia + Konstipasi + Underummunization |  |  | Jenis Kelamin : Perempuan\nRegistrasi : <NO_REG>\nTanggal : <TGL> | \n--------------------------------------------------------------------------------\nAsesmen Gizi |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\nGizi\nData dasar | Identifikasi masalah |  |  | \nMRS\n● Nafsu makan pasien menurun sejak 2 hari yang lalu\n\n[TABLE 1]\nZat\nGizi | Kebutuhan | Hasil | %Pemenuhan | Interpretasi\n--------------------------------------------------------------------------------\nE | 864 kkal | 533.1\nkkal | 62 % | Defisit berat\nP | 32 g | 17.1 g | 53 % | Defisit berat\nL | 34 g | 22 g | 65 % | Defisit berat\nK | 108 g | 76.8 g | 71 % | Defisit sedang\n[END TABLE] | MRS\n● Berdasarkan\nHasil recall\ndiketahui asupan\nenergi sebesar\n62% (defisit\nberat), asupan\nprotein sebesar\n53% (def"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 37,
+    "chunk_index": 1,
+    "text": "22 g | 65 % | Defisit berat\nK | 108 g | 76.8 g | 71 % | Defisit sedang\n[END TABLE] | MRS\n● Berdasarkan\nHasil recall\ndiketahui asupan\nenergi sebesar\n62% (defisit\nberat), asupan\nprotein sebesar\n53% (defisit\nberat), asupan\nlemak sebesar\n65% (defisit\nberat), asupan\nKH sebesar 71%\n(defisit sedang) |  |  | \nEkologi\n● Social ekonomi (CH 1.1)\n- Usia ibu saat kehamilan adalah 31 tahun\n- Pasien anak ke – 4 dari 4 bersaudara\n- Pekerjaan orang tua : bapak ASN, ibu IRT\n- Social ekonomi : sama dengan UMR kota Malang\n- Pasien tinggal bersama kedua orangtuang beserta\nketiga kakaknya\n● Riwayat penyakit sekarang\n● Pasien datang dengan keluhan demam. Demam hilang\ntimbul selama 2 bulan. Pasien mengeluhkan bitnik bitnik\npendarahan di wajah, kaki, tangan sejak <TGL>. |  |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 38,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nNama : <NAMA>\nUmur : 2 tahun 7 bulan\nDiagnosis Medis : Bisitopenia dengan organomegali OK DD HML + Hiperleukositosis OK SUPS\nLeukemia akut + distress napas OK Pneumonia + Konstipasi + Underummunization |  |  | Jenis Kelamin : Perempuan\nRegistrasi : <NO_REG>\nTanggal : <TGL> | \n--------------------------------------------------------------------------------\nAsesmen Gizi |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\nGizi\nData dasar | Identifikasi masalah |  |  | \nPasien juga mengeluhkan batuk berdahak sejak 1\nminggu yang lalu <TGL>\n● Riwayat penyakit dahulu\n- Pada tanggal <TGL> mengeluhkan pucat dan\nlemas lalu dibawa ke puskesmas dan didapatkan\nhemoglobin 4 dan trombosit 5000 lalu dirujuk kie <RS>\n- Di <RS> dirawat selama 1 minggu dengan\ndiagnosis bisitopenia susp ALL.\n● Riwayat sosial\n- Situasi tempat tinggal : aliran air di rumah\nmenggunakan PDAM sedangkan untuk air minum\nberasak dari air yang direbus.\n- Terdapat jamban dalam rumah\n- Bapak pasi"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 38,
+    "chunk_index": 1,
+    "text": "sitopenia susp ALL.\n● Riwayat sosial\n- Situasi tempat tinggal : aliran air di rumah\nmenggunakan PDAM sedangkan untuk air minum\nberasak dari air yang direbus.\n- Terdapat jamban dalam rumah\n- Bapak pasien merupakan perokok aktif\n● Riwayat 1000 HPK\n- Lahir Sesar\n- BBL : 3400 g\n- PB : 55 cm\n- Saat lahir langsung menangis\n- Riwayat imunisasi : Hep. B (+), BCG (+), Pentabio 1\n(+), Pentabio 2 (-), OPV (+), IPV (-), MR (-) |  |  |  | \nFarmakologi\n\n[TABLE 1]\nObat | Kegunaan | Efek Samping | IOM\n--------------------------------------------------------------------------------\nIVFD C1 : 2\n25cc/jam | adalah cairan\ninfus yang\ndigunakan untuk\nrehidrasi dan\npemeliharaan | Overhidrasi,\nhypernatremia,\nhiperglikemia, dan\nedema jika tidak | Tidak ada\ninteraksi langsung\ndengan makanan,\nnamun penting\nuntuk\n[END TABLE] |  |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 39,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nNama : <NAMA>\nUmur : 2 tahun 7 bulan\nDiagnosis Medis : Bisitopenia dengan organomegali OK DD HML + Hiperleukositosis OK SUPS\nLeukemia akut + distress napas OK Pneumonia + Konstipasi + Underummunization |  |  |  |  |  |  |  | Jenis Kelamin : Perempuan\nRegistrasi : <NO_REG>\nTanggal : <TGL> | \n--------------------------------------------------------------------------------\nAsesmen Gizi |  |  |  |  |  |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\nGizi\nData dasar |  |  |  |  | Identifikasi masalah |  |  |  | \n |  | cairan pada anak\nusia 1 bulan\nhingga 3 tahun, | termonitor dengan\nbaik | menyesuaikan\nasupan cairan\noral sesuai\ndengan kondisi\npasien. |  |  |  |  | \n | IV. Ceftriaxone\n2 x 700 mg | Antibiotik\nsefalosporin\ngenerasi ketiga\nyang digunakan\nuntuk mengobati\nberbagai infeksi\nbakteri saluran\npernapasas. | Diare, ruma kulit,\nreaksi alergi,\npeninkatan enzim\nhati | Tidak memiliki\ninteraksi\nsignifikan dengan\nmakanan |  |  |  |  | \n | IV Furosemide\n3x6 mg | adala"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 39,
+    "chunk_index": 1,
+    "text": "rbagai infeksi\nbakteri saluran\npernapasas. | Diare, ruma kulit,\nreaksi alergi,\npeninkatan enzim\nhati | Tidak memiliki\ninteraksi\nsignifikan dengan\nmakanan |  |  |  |  | \n | IV Furosemide\n3x6 mg | adalah diuretik\nloop yang\ndigunakan untuk\nmengatasi edema\nakibat gagal\njantung, penyakit\nginjal, atau\npenyakit hati,\nserta untuk\nmengontrol\nhipertensi. | Hypokalemia,\nhyponatremia,\nhipotensi,\npeningkatan kadar\nasam urat | Tidak ada\ninteraksi langsung\ndengan makanan,\nnamun penting\nuntuk memantau\nasupan elektrolit\ndan cairan. |  |  |  |  | \n | IV Ondansentron | antagonis\nreseptor 5-HT3\nyang digunakan\nuntuk mencegah\ndan mengobati\nmual serta\nmuntah | Sakit kepala,\nkonstipasi, pusing, | Tidak memiliki\ninteraksi\nsignifikan dengan\nmakanan. |  |  |  |  | \n | Transfusi PRC\n200 ml 1x | Digunakan untuk\nmengatasi\nanemia dengan\nmeningkatkan\nkapasitas | reaksi transfusi\nseperti demam,\nalergi, hemolisis,\nserta risiko infeksi | Tidak memiliki\ninteraksi langsung\ndengan makanan |  |  |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 40,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nNama : <NAMA>\nUmur : 2 tahun 7 bulan\nDiagnosis Medis : Bisitopenia dengan organomegali OK DD HML + Hiperleukositosis OK SUPS\nLeukemia akut + distress napas OK Pneumonia + Konstipasi + Underummunization |  |  |  |  |  |  |  | Jenis Kelamin : Perempuan\nRegistrasi : <NO_REG>\nTanggal : <TGL> | \n--------------------------------------------------------------------------------\nAsesmen Gizi |  |  |  |  |  |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\nGizi\nData dasar |  |  |  |  | Identifikasi masalah |  |  |  | \n |  | pengangkutan\noksigen darah\nmelalui\npeningkatan\njumlah sel darah\nmerah. | jika tidak disaring\ndengan baik. |  |  |  |  |  | \n | Tranfusi TC 150\nml 3x pemberian | Digunakan untuk\nmengatasi\ntrombositopenia\natau gangguan\nfungsi trombosit\nguna mencegah\natau\nmenghentikan\nperdarahan. | Risiko reaksi\ntransfusi, termasuk\ndemam, alergi,\ndan dalam kasus\njarang, infeksi. | Tidak memiliki\ninteraksi langsung\ndengan makanan\natau obat, |  |  |  |  | \n | PO Lactulosa "
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 40,
+    "chunk_index": 1,
+    "text": "nghentikan\nperdarahan. | Risiko reaksi\ntransfusi, termasuk\ndemam, alergi,\ndan dalam kasus\njarang, infeksi. | Tidak memiliki\ninteraksi langsung\ndengan makanan\natau obat, |  |  |  |  | \n | PO Lactulosa 3 x\n5 ml | adalah disakarida\nsintetis yang\ndigunakan\nsebagai laksatif\nuntuk mengatasi\nkonstipasi kronis\ndan mengurangi\nkadar amonia\npada pasien\ndengan\nensefalopati\nhepatik. | Diare, perut\nkembung, mual,\ndan kram perut. | Dapat\nmeningkatkan\nefek antikoagulan\nvitamin K\nantagonis seperti\nwarfarin, serta\ndapat mengurangi\nefektivitas obat-\nobatan tertentu. |  |  |  |  | \n | PO Allopurinol\n1x 100 mg | adalah inhibitor\nxantin oksidase\nyang digunakan\nuntuk\nmengurangi\nproduksi asam\nurat, sehingga\nmencegah\nserangan gout | Ruam kulit,\ngangguan\ngastrointestinal\nseperti mual dan\ndiare | Disarankan untuk\nmenghindari\nalkohol dan\nmengonsumsi\nsetelah makan\nuntuk mengurangi\nefek samping\ngastrointestinal |  |  |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 42,
+    "chunk_index": 0,
+    "text": "C. Preskripsi diet\n1. Tujuan\n- Memberikan asupan makan yang sesuai dengan kondisi fisik/klinis pasien\ndengan mempertimbangkan kemampuan makan pasien\n- Meningkatkan kebutuhan energi dan protein pasien guna mengatasi kondisi\nperadangan dan anemia yang diderita pasien\n- Menurunkan kebutuhan karbohidrat agar mengurangi kondisi sesak untuk\nmembantu meringankan kerja paru – paru\n2. Prinsip\nTinggi Energi, Tinggi Protein, Rendah Karbohidrat\n3. Syarat diet\n- Energi diberikan sesuai dengan RDA menurut usia tinggi yaitu sebesar 864 kkal\n- Protein diberikan sebesar 15% dari kebutuhan harian atau sebesar 32 g (Viner Smith\net al., 2024; Santosa et al., 2020) untuk memperbaiki jaringan dan meningkatkan\nimunitas. Sumber protein yang dianjurkan seperti tepung kedelai, tepung susu skim.\n- Lemak diberikan sebesar 35% dari kebutuhan harian atau sebesar 34 g (Gvalani,\nKharat dan Vithani, 2020) . Lemak berfungsi sebagai energi tambahan dan\nmencegah pemecahan otot. Sumber Lemak yang dianjurkan adalah lemak y"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 42,
+    "chunk_index": 1,
+    "text": "besar 35% dari kebutuhan harian atau sebesar 34 g (Gvalani,\nKharat dan Vithani, 2020) . Lemak berfungsi sebagai energi tambahan dan\nmencegah pemecahan otot. Sumber Lemak yang dianjurkan adalah lemak yang\nmudah dicerna MCT (Medium Chain Triglycerides)\n- Karbohidrat diberikan rendah yaitu 55% dari kebutuhan harian atau sebesar 108 g\nkarbohidrat berfungsi sebagai sumber energi utama bagi pasien\n- Cairan diberikan sebanyak 720 ml disesuaikan dengan perhitungan holliday – segar.\n- Bentuk makanan lunak diberikan dengan frekuensi 3x makanan utama dan 2x\nselingan melalui oral\n4. Perhitungan kebutuhan Gizi\n\n[TABLE 0]\nZat Gizi | Perhitungan\n--------------------------------------------------------------------------------\nEnergi | = RDA x BBI\n= 100 x 7.2\n= 864 kkal\nProtein | = 15% x total energi\n= 15% x 864 kkal\n= 130 kkal : 4\n= 32 g\nLemak | = 35% x total energi\n= 35% x 864 kkal\n= 302 kkal : 9\n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 43,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\n | = 34 g\n--------------------------------------------------------------------------------\nKH | = Total energi – (Protein + Lemak )\n= 864 – ( 130 + 302)\n= 432 kkal : 4\n= 108 g\n[END TABLE]\n5. Rencana Edukasi Gizi\n- Tujuan: Meningkatkan pengetahuan dan motivasi ibu pasien terkait porsi makan\ndan minum yang tepat sesuai kondisi pasien\n- Sasaran : Orang tua Pasien\n- Materi:\n● Pengetahuan terkait rekomendasi diet yang dianjurkan, yaitu tinggi kalori tinggi\nprotein (TKTP)\n● Penjelasan terkait porsi yang baik dan benar berkenaan dengan pedoman gizi\nseimbang dan prinsip piringku\n● Contoh menu sehari untuk pasien sesuai dengan kebutuhan\n● Penjelasan pedoman penukar DBMP\n- Waktu: 10-15 menit\n- Media: Leaflet\n- Lokasi: Kamar rawat Inap"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 44,
+    "chunk_index": 0,
+    "text": "DAFTAR PUSTAKA\nGvalani, S. K., Kharat, P. dan Vithani, S. (2020) “Nutrition in ICU Patients,” Journal of Research\n& Innovation in Anesthesia, 4(2), hal. 40–44. doi: 10.5005/jp-journals-10049-0071.\nSantosa, B., Suwarman dan Pradian, E. (2020) “Terapi Nutrisi Pasien Di Intensive Care Unit\n(Icu),” Jurnal Komplikasi Anestesi, 7(3), hal. 97–105. doi: 10.22146/jka.v7i3.7480.\nViner Smith, E. et al. (2024) “Nutrition considerations for patients with persistent critical illness: A\nnarrative review,” Journal of Parenteral and Enteral Nutrition, 48(6), hal. 658–666. doi:\n10.1002/jpen.2623."
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 45,
+    "chunk_index": 0,
+    "text": "LAPORAN KASUS HARIAN\nASUHAN GIZI TERSTANDAR PADA PASIEN DISTRESS NAPAS OK DD GAGAL\nJANTUNG ROSS CLAS IV+ PNEUMONIA + COMPLETE AVSD DENGAN COMMON\nAV VALVE REGURGITATION + DORV + DESKSTROKARDIA + PULMONARY\nSTENOSIS + WEIGHT FALTERING DI RUANG SARANGAN <RS> 21 – <TGL>\nDisusun Oleh :\n<NAMA>\n<NIM>\nPROGRAM STUDI DIETISIEN\nDEPARTEMEN GIZI\nFAKULTAS ILMU KESEHATAN\n<RS>\n2024"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 46,
+    "chunk_index": 0,
+    "text": "SKRINING GIZI\nA. STRONGkids\n\n[TABLE 0]\nSTRONGkids |  | \n--------------------------------------------------------------------------------\nParameter | Skor | \nApakah pasien tampak kurus? | Ya\nTidak | 1\n0\nApakah terdapat penurunan berat badan selama satu bulan terakhir?\n(Berdasarkan penilaian objektif data berat badan bila ada ATAU penilaian\nsubjektif orang tua pasien ATAU untuk bayi <1 tahun, berat badan tidak\nnaik selama 3 bulan terakhir) | Ya\nTidak | 1\n0\nApakah terdapat salah satu dari kondisi berikut?\n- Diare ≥5x/hari dan/atau muntah >3x/hari dalam seminggu terakhir\n- Asupan makanan berkurang selama 1 minggu terakhir | Ya\nTidak | 1\n0\nApakah terdapat penyakit atau keadaan yang mengakibatkan pasien\nberisiko mengalami malnutrisi? (Lihat daftar penyakit) | Ya\nTidak | 2\n0\nTOTAL SKOR |  | 4\nKriteria Penilaian STRONGkids\nSkor 0 : Risiko malnutrisi rendah\nSkor 1-3 : Risiko malnutrisi sedang\nSkor 4-5 : Risiko malnutrisi tinggi\nDaftar penyakit\nDiare kronik (>2 minggu), penyakit hati kronik, pen"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 46,
+    "chunk_index": 1,
+    "text": "teria Penilaian STRONGkids\nSkor 0 : Risiko malnutrisi rendah\nSkor 1-3 : Risiko malnutrisi sedang\nSkor 4-5 : Risiko malnutrisi tinggi\nDaftar penyakit\nDiare kronik (>2 minggu), penyakit hati kronik, penyakit ginjal kronik, TB paru, luka bakar\nluas, trauma, kelainan anatomi daerah mulut yang membuat kesulitan makan, kelainan\nmetabolik bawaan, retardasi mental, keterlambatan perkembangan, rencana/pasca operasi\nmayor, terpasan stoma, penyakit jantung bawaan, infeksi HIV, kanker, penyakit berat\nlainnya |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 47,
+    "chunk_index": 0,
+    "text": "B. PEDIATRIC YORKHILL MALNUTRITION SCORE (PYMS)\n\n[TABLE 0]\nPediatric Yorkhill Malnutrition Score (PYMS) |  |  |  | \n--------------------------------------------------------------------------------\nNama | : <NAMA> |  | Tanggal\nMRS | : <TGL>\nNama Ibu | : <NAMA> |  | Tanggal\nscreening | : <TGL>\nUsia Anak | : 6 bulan |  | Tanggal\nscreening | : <TGL>\nRuang | : Krakatau |  | BB | : 11 kg\nNo. RM | : <NO_REG> |  | PB | : 60 cm\nJenis\nKelamin | : Perempuan |  |  | \nStep 1 | Apakah BMI berada dibawah\nstandar acuan ? | Tidak | 0 | \n |  | Ya | 2 | \nStep 2 | Apakah akhir – akhir ini anak\nmengalami penurunan berat\nbadan? | Tidak | 0 | \n |  | Ya | 2 | √\nStep 3 | Apakah satu minggu terakhir\nanak mengalami penurunan\nnafsu makan? | Tidak | 0 | \n |  | Ya | 2 | \nStep 4 | Akankah kebutuhan gizi anak\ndipengaruhi oleh kondisi\nanak untuk kurang lebih 1\nminggu ke depan? | Tidak | 0 | \n |  | Ya\nUntuk 1 minggu kedepan\n:\n● Mengalami penurunan\nasupan dan/atau\n● Mengalami peningkatan\nkebutuhan dan/ata"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 47,
+    "chunk_index": 1,
+    "text": "nak\ndipengaruhi oleh kondisi\nanak untuk kurang lebih 1\nminggu ke depan? | Tidak | 0 | \n |  | Ya\nUntuk 1 minggu kedepan\n:\n● Mengalami penurunan\nasupan dan/atau\n● Mengalami peningkatan\nkebutuhan dan/atau\n● Mengalami peningkatan\nkehilangan | 1 | \n |  | Ya\nTidak ada asupan (atau\nasupan sangat sedikit)\nuntuk satu minggu ke\ndepan | 2 | √\nStep 5 | Jumlah skor | Total skor PYMS |  | 4\n[END TABLE]\nInterpretasi :\n- Skor 1 : menunjukkan malnutrisi tingkat sedang\n- Skor ≥ 2 : menunjukkan malnutrisi tingkat berat"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 48,
+    "chunk_index": 0,
+    "text": "1. NUTRITIONAL CARE PROCESS\n\n[TABLE 0]\nNama : <NAMA>\nUmur : 6 bulan\nDiagnosis Medis : Distress Napas OK DD Gagal Jantung Ross Class IV + Pneumonia + Complete\nAVSD dengan Common AV Valve Regurgitation + DORV + Deskstrokardia +\nPulmonary Stenosis + Weight Faltering |  |  |  |  |  |  |  | Jenis Kelamin : Perempuan\nRegistrasi : <NO_REG>\nTanggal : <TGL> | \n--------------------------------------------------------------------------------\nAsesmen Gizi |  |  |  |  |  |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\nGizi\nData dasar |  |  |  |  |  | Identifikasi masalah |  |  | \nAntropometri :\nBB = 5\nTB = 61 cm\nL. kepala = 36 cm\nLila = 13 cm\nHeight age = 4 bulan dilihat dr pb/u permenkes\nBBI = 6.1 kg (dilihat dr pb/bb ditarik dari pba ke median)\nRDA X BBI\nRda 4 bulan x 6.1 kg\nBB/U = < -3 SD (berat badan sangat kurang)\nTB/U = < - 2 SD (pendek)\nL.Kepala = - 2 SD\nHeight age = 2 tahun 6 bulan\nBB/TB = - 2,5 SD (gizi kurang)\nKeluarga berkata terjadi penurunan BB sebesar 1 kg |  |  |  |  "
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 48,
+    "chunk_index": 1,
+    "text": "-3 SD (berat badan sangat kurang)\nTB/U = < - 2 SD (pendek)\nL.Kepala = - 2 SD\nHeight age = 2 tahun 6 bulan\nBB/TB = - 2,5 SD (gizi kurang)\nKeluarga berkata terjadi penurunan BB sebesar 1 kg |  |  |  |  |  | Berdasarkan grafik\nWHO status gizi\npasien tergolong\nberperawakan\npendek serta status\ngizi berdasarkan\nberat badan menurut\npanjang badan\ntergolong gizi kurang | NI-2.1\nAsupan oral tidak\nadekuat berkaitan kondisi\npenurunan nafsu makan\nakibat mual, muntah dan\nsesak ditandai dengan\nhasil recall asupan energi\nsebesar 55% (defisit\nberat), asupan protein\nsebesar 39% (defisit\nberat), asupan lemak\nsebesar 77% (defisit\nberat), asupan KH sebesar\n43% (defisit berat)\nNI-5.1 Peningkatan\nkebutuhan (protein)\nmasa pertumbuhan\nditandai dengan BB/U\ntergolong bb sangat\nkurang, TB/U tergolong\npendek, serta diagnosis\nweight faltering | ND – 1.1\nPemberian diet 400 dengan\nfrekuensi pemberian 8x\n(8x20 cc Formula Infantrini)\n[RC] Kolaborasi dengan\ntenaga medis lain\nBentuk kolaborasi :\n● Kolaborasi bersama\ndokt"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 48,
+    "chunk_index": 2,
+    "text": "agnosis\nweight faltering | ND – 1.1\nPemberian diet 400 dengan\nfrekuensi pemberian 8x\n(8x20 cc Formula Infantrini)\n[RC] Kolaborasi dengan\ntenaga medis lain\nBentuk kolaborasi :\n● Kolaborasi bersama\ndokter penanggung\njawab pasien dalam\nmonitoring nilai biokimia\nterkait gizi\n● Kolaborasi bersama\nperawat terkait\nmonitoring keluhan dan\ntanda vital pasien\n[E1 dan E2 Edukasi Gizi\nkonten dan aplikasi]\n● Tujuan : Meningkatkan\npemahaman keluarga\npasien mengenai diet\nyang akan diberikan,\ninformasi mengenai gizi | FH – 1.2\nAsupan makan dan\nminum\n● Target :\n- asupan protein,\nlemak,\nkarbohidrat,\npasien mencukupi\n80% dari\nkebutuhan dan\ndapat meningkat\nsecara bertahap\n● Metode :\nFood recall\n● Waktu :\n- Food recall =\n1x/hari\nAD – Antropometri\n● Target\ntidak terjadi\npenurunan BB\n● Metode :\nPenimbangan\nmenggunakan\nBiokimia\nPemeriksaan Hasil Satuan Nilai RujukanI nterpretasi\nPH 7,48 7,35 – 7,45 Tinggi\npCO2 29 mmHg 35 - 45 Rendah\npO2 21.3 mmHg 80 - 100 Rendah |  |  |  |  |  | ● pH dalam darah\ntinggi\nmenunju"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 48,
+    "chunk_index": 3,
+    "text": "nakan\nBiokimia\nPemeriksaan Hasil Satuan Nilai RujukanI nterpretasi\nPH 7,48 7,35 – 7,45 Tinggi\npCO2 29 mmHg 35 - 45 Rendah\npO2 21.3 mmHg 80 - 100 Rendah |  |  |  |  |  | ● pH dalam darah\ntinggi\nmenunjukkan\npasien mengalami\nalkalosis metabolik\nyang dapat |  |  | \n | Pemeriksaan | Hasil | Satuan | Nilai Rujukan | I nterpretasi |  |  |  | \n | PH | 7,48 |  | 7,35 – 7,45 | Tinggi |  |  |  | \n | pCO2 | 29 | mmHg | 35 - 45 | Rendah |  |  |  | \n | pO2 | 21.3 | mmHg | 80 - 100 | Rendah |  |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 49,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nNama : <NAMA>\nUmur : 6 bulan\nDiagnosis Medis : Distress Napas OK DD Gagal Jantung Ross Class IV + Pneumonia + Complete\nAVSD dengan Common AV Valve Regurgitation + DORV + Deskstrokardia +\nPulmonary Stenosis + Weight Faltering |  |  |  |  |  |  |  | Jenis Kelamin : Perempuan\nRegistrasi : <NO_REG>\nTanggal : <TGL> | \n--------------------------------------------------------------------------------\nAsesmen Gizi |  |  |  |  |  |  | Diagnosis Gizi\nNI – 5.3\nPenurunan kebutuhan\ngizoi (karbohidrat)\nberkaitan dengan kondisi\ninfeksi ditandai dengan\npasien mengalami sesak\nserta diagnosis pneumonia\nNB-1.1\nKurangnya pengetahuan\ntentang gizi dan\nmakanan berkaitan\ndengan pasien/keluarga\nbelum pernah\nmendapatkan edukasi gizi\nditandai dengan\npertumbuhan berat badan\ndan tinggi badan tidak\nsesuai dengan usianya. | Intervensi Gizi\nseimbang untuk orang\ntua agar menghasilkan\nASI yang berkualitas\n● Durasi : 10-15 menit\n● Lokasi : ruang rawat inap\n● Materi : diet tingi protein,\ngizi seimbang untuk"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 49,
+    "chunk_index": 1,
+    "text": " dengan usianya. | Intervensi Gizi\nseimbang untuk orang\ntua agar menghasilkan\nASI yang berkualitas\n● Durasi : 10-15 menit\n● Lokasi : ruang rawat inap\n● Materi : diet tingi protein,\ngizi seimbang untuk ibu\nmenyusui\n● Leaflet : ASI Eksklusif,\ngizi seimbang untuk ibu\nmenyusui | Monitoring Evaluasi\nGizi\ntimbangan BB\ndigital\n● Waktu :\nSetiap 3 hari\nBD Nilai Biokimia\nterkait gizi\n● Target\nkadar pCO2, PO2\nmengalami\npeningkatan\nhingga normal\ndan kadar klorida\nmengalami\npenurunan hingga\nkategori normal\n● Metode:\n- Melihat hasil lab\nberikutnya pada\nrekam medis\npasien\n[PD] Fisik/klinis\n● Target : keluhan\nsesak, diare,\nmuntah pasien\nData dasar |  |  |  |  |  | Identifikasi masalah |  |  | \nBikarbonat 20.7 Mmol/L 21 - 28 Normal\nKelebihan\n-3 Mmol/L (-3) – (+3) Normal\nBasa\nNatrium 143 Mmol/L 136 - 145 Normal\nKalium 3.52 Mmol/L 3,5 – 5,1 Normal\nKlorida 109 Mmol/L 98 - 107 Tinggi | Bikarbonat | 20.7 | Mmol/L | 21 - 28 | Normal | berikatan dengan\npneumonia\n● pCO2 dan pO2\nrendah\nmengindikasikan\nbahwa pas"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 49,
+    "chunk_index": 2,
+    "text": "rmal\nKalium 3.52 Mmol/L 3,5 – 5,1 Normal\nKlorida 109 Mmol/L 98 - 107 Tinggi | Bikarbonat | 20.7 | Mmol/L | 21 - 28 | Normal | berikatan dengan\npneumonia\n● pCO2 dan pO2\nrendah\nmengindikasikan\nbahwa pasien\nmengalami\nhipoksemia\nberkaitan dengan\npneumonia\n● klorida tinggi\nmengindikasikan\nbahwa pasien\nmengalami infeksi\nasidosis metabolik\nhiperkloremik\n(Febrianto, 2021) |  |  | \n | Kelebihan\nBasa | -3 | Mmol/L | (-3) – (+3) | Normal |  |  |  | \n | Natrium | 143 | Mmol/L | 136 - 145 | Normal |  |  |  | \n | Kalium | 3.52 | Mmol/L | 3,5 – 5,1 | Normal |  |  |  | \n | Klorida | 109 | Mmol/L | 98 - 107 | Tinggi |  |  |  | \nFisik/Klinis\n\n[TABLE 1]\nNo. | Data | Hasil\nPengamatan | Rujukan\n--------------------------------------------------------------------------------\n1 | KU | lemah | Baik\n1. | Kesadaran | Compos mentis | Compos mentis\n2. | GCS | 456 | 456\n3. | Suhu | 36,8°C | 36 – 37.5\n[END TABLE] |  |  |  |  |  | ● Kondisi umum\npasien lemah\n● Pasien\nmengalami\nsesak dan\nterpasang O2\nHFNC 10 lpm\nFiO2"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 49,
+    "chunk_index": 3,
+    "text": " | Compos mentis | Compos mentis\n2. | GCS | 456 | 456\n3. | Suhu | 36,8°C | 36 – 37.5\n[END TABLE] |  |  |  |  |  | ● Kondisi umum\npasien lemah\n● Pasien\nmengalami\nsesak dan\nterpasang O2\nHFNC 10 lpm\nFiO2 40%\n● Pasien\nmengalami\ngangguan\ngastrointestinal |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 50,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nNama : <NAMA>\nUmur : 6 bulan\nDiagnosis Medis : Distress Napas OK DD Gagal Jantung Ross Class IV + Pneumonia + Complete\nAVSD dengan Common AV Valve Regurgitation + DORV + Deskstrokardia +\nPulmonary Stenosis + Weight Faltering |  |  |  |  |  |  |  | Jenis Kelamin : Perempuan\nRegistrasi : <NO_REG>\nTanggal : <TGL> | \n--------------------------------------------------------------------------------\nAsesmen Gizi |  |  |  |  |  |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\nGizi\ndapat berkurang\nsecara bertahap\n● Metode : bertanya\nlangsung dengan\norang tua pasien\nserta melihat rekam\nmedis terbaru\nFH 4.1\n● Target : orang tua\n<NAMA> dapat\nmenjawab benar\ndari 80%\npertanyaan yang\nditanyakan\n● Metode :\nPre dan post test\n● Waktu :\n1x10 menit\nData dasar |  |  |  |  |  | Identifikasi masalah |  |  | \n | 4. | Nadi | 142 x/menit | 100 – 140x/menit |  | yaitu muntah\ndan diare |  |  | \n | 5. | RR | 24 x/menit | 24 – 30x/menit |  |  |  |  | \n | 6. | SpO2 | 80% | 95 – 100% |  |  | "
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 50,
+    "chunk_index": 1,
+    "text": "kasi masalah |  |  | \n | 4. | Nadi | 142 x/menit | 100 – 140x/menit |  | yaitu muntah\ndan diare |  |  | \n | 5. | RR | 24 x/menit | 24 – 30x/menit |  |  |  |  | \n | 6. | SpO2 | 80% | 95 – 100% |  |  |  |  | \n | 7. | Kondisi GI | Muntah (+), Diare (+) |  |  |  |  |  | \n | 8. | Kondisi\npernafasan | Sesak (+), terpsang O2 HNFC 10\nlpm fiO2 40% |  |  |  |  |  | \nDietary\nSMRS\n● Pasien baru mengonsumsi ASI saja\n● Frekuensi menyusu pasien setiap 2 jam sekali\n● Durasi 20 menit/menyusu\n● Hasil Asupan berdasarkan SQ - FFQ\n\n[TABLE 1]\nZat\nGizi | Kebutuhan | Hasil | %Pemenuhan | Interpretasi\n--------------------------------------------------------------------------------\nE | 732 kkal | 105 kkal | 14 % | Defisit berat\nP | 27 g | 1,6 g | 6 % | Defisit berat\nL | 28 g | 6 g | 21 % | Defisit berat\n[END TABLE] |  |  |  |  |  | SMRS\n● Berdasarkan Hasil\nSQ – FFQ\ndiketahui asupan\nenergi sebesar\n14% (defisit berat),\nasupan protein\nsebesar 6%\n(defisit berat),\nasupan lemak\nsebesar 21%\n(defisit berat) |  |  | \n[E"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 50,
+    "chunk_index": 2,
+    "text": " |  |  |  |  |  | SMRS\n● Berdasarkan Hasil\nSQ – FFQ\ndiketahui asupan\nenergi sebesar\n14% (defisit berat),\nasupan protein\nsebesar 6%\n(defisit berat),\nasupan lemak\nsebesar 21%\n(defisit berat) |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 51,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nNama : <NAMA>\nUmur : 6 bulan\nDiagnosis Medis : Distress Napas OK DD Gagal Jantung Ross Class IV + Pneumonia + Complete\nAVSD dengan Common AV Valve Regurgitation + DORV + Deskstrokardia +\nPulmonary Stenosis + Weight Faltering |  |  | Jenis Kelamin : Perempuan\nRegistrasi : <NO_REG>\nTanggal : <TGL> | \n--------------------------------------------------------------------------------\nAsesmen Gizi |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\nGizi\nData dasar | Identifikasi masalah |  |  | \nMRS\n● Nafsu menyusu pasien menurun\n● Pasien mendapatkan diet cair susu infantrini 8 x 20 cc\n\n[TABLE 1]\nZat\nGizi | Kebutuhan | Hasil | %Pemenuhan | Interpretasi\n--------------------------------------------------------------------------------\nE | 732 kkal | 400.6\nkkal | 55 % | Defisit berat\nP | 27 g | 10.4 g | 39 % | Defisit berat\nL | 28 g | 21.6 g | 77 % | Defisit sedang\nK | 92 g | 40 g | 43 % | Defisit berat\n[END TABLE] | MRS\n● Berdasarkan Hasil\nRecall diketahui\nasupan energi\nse"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 51,
+    "chunk_index": 1,
+    "text": " berat\nP | 27 g | 10.4 g | 39 % | Defisit berat\nL | 28 g | 21.6 g | 77 % | Defisit sedang\nK | 92 g | 40 g | 43 % | Defisit berat\n[END TABLE] | MRS\n● Berdasarkan Hasil\nRecall diketahui\nasupan energi\nsebesar 55%\n(defisit berat),\nasupan protein\nsebesar 39%\n(defisit berat),\nasupan lemak\nsebesar 77%\n(defisit sedang),\nasupan KH\nsebesar 43%\n(defisit berat) |  |  | \nEkologi\n● Social ekonomi (CH 1.1)\n- Usia ibu saat kehamilan adalah 22 tahun\n- Pasien anak pertama\n- Pekerjaan orang tua : bapak pedagang, ibu IRT\n- Social ekonomi : dibawah UMR kota Malang\n- Pasien tinggal bersama kedua orangtuang beserta om.\n● Riwayat penyakit sekarang\n- Pasien datang dengan keluhan sesak diserta badan\nmembiru. Sebelumnya pasien juga sempat demam\ndisertai batuk sejak 1 hari yang lalu\n● Riwayat penyakit dahulu\n- Pasien terdiagnosis kelainan jantung sejak lahir | ● Pasien\ntediagnosis\nkelainan jantung\nsejak lahir\n● Keluarga pasien\nmengaku belum\npernah mendapat\nedukasi gizi\n● Pasien\nmerupakan\nrujukan dari\n<RS>\n"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 51,
+    "chunk_index": 2,
+    "text": " terdiagnosis kelainan jantung sejak lahir | ● Pasien\ntediagnosis\nkelainan jantung\nsejak lahir\n● Keluarga pasien\nmengaku belum\npernah mendapat\nedukasi gizi\n● Pasien\nmerupakan\nrujukan dari\n<RS>\ndengan keluhan\nperut membesar\ndan sesak |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 52,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nNama : <NAMA>\nUmur : 6 bulan\nDiagnosis Medis : Distress Napas OK DD Gagal Jantung Ross Class IV + Pneumonia + Complete\nAVSD dengan Common AV Valve Regurgitation + DORV + Deskstrokardia +\nPulmonary Stenosis + Weight Faltering |  |  | Jenis Kelamin : Perempuan\nRegistrasi : <NO_REG>\nTanggal : <TGL> | \n--------------------------------------------------------------------------------\nAsesmen Gizi |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\nGizi\nData dasar | Identifikasi masalah |  |  | \n● Riwayat penyakit keluarga\n- Salah satu keluarga pasien diketahui memiliki riwayat\npenyakit jantung\n● Riwayat sosial\n- Situasi tempat tinggal : aliran air di rumah\nmenggunakan PDAM sedangkan untuk air minum\nberasak dari air yang direbus.\n- Terdapat jamban dalam rumah\n- Bapak dan Om pasien merupakan perokok aktif\n● Riwayat 1000 HPK\n- BBL : 3500 g\n- PB : 50 cm\n- Saat lahir sempat biru selama seminggu\n- Saat kehamilan rutin kontrol dan pernah menjalani\nUSG pada bulan 9 dan 10 namu"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 52,
+    "chunk_index": 1,
+    "text": " pasien merupakan perokok aktif\n● Riwayat 1000 HPK\n- BBL : 3500 g\n- PB : 50 cm\n- Saat lahir sempat biru selama seminggu\n- Saat kehamilan rutin kontrol dan pernah menjalani\nUSG pada bulan 9 dan 10 namun tidak ditemukan\nadanya kelainan jantung\n- Berdasarkan pengakuan ibu, grafik pertumbuhan\nselalu naik namun tidak membawa buku KIA\n- Pernah vaksin namun tidak lengkap\n- Berdasarkan pengakuan ibu, sudah pernah\nmendapatkann edukasi gizi terkait asupan anak\nnamun kurang telaten mengaplikasikannya | ● Ibu kandung\npasien meninggal\nkarena TBC |  |  | \nFarmakologi\n\n[TABLE 1]\nObat | Kegunaan | Efek Samping | IOM\n--------------------------------------------------------------------------------\nIVFD C1 : 4\n5cc/jam | adalah cairan\ninfus yang\ndigunakan\nuntuk rehidrasi | Overhidrasi,\nhypernatremia,\nhiperglikemia,\ndan edema jika | Tidak ada\ninteraksi\nlangsung\ndengan\n[END TABLE] |  |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 53,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nNama : <NAMA>\nUmur : 6 bulan\nDiagnosis Medis : Distress Napas OK DD Gagal Jantung Ross Class IV + Pneumonia + Complete\nAVSD dengan Common AV Valve Regurgitation + DORV + Deskstrokardia +\nPulmonary Stenosis + Weight Faltering |  |  |  |  |  |  |  | Jenis Kelamin : Perempuan\nRegistrasi : <NO_REG>\nTanggal : <TGL> | \n--------------------------------------------------------------------------------\nAsesmen Gizi |  |  |  |  |  |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\nGizi\nData dasar |  |  |  |  | Identifikasi masalah |  |  |  | \n |  | dan\npemeliharaan\ncairan pada\nanak usia 1\nbulan hingga 3\ntahun, | tidak termonitor\ndengan baik | makanan,\nnamun penting\nuntuk\nmenyesuaikan\nasupan cairan\noral sesuai\ndengan kondisi\npasien. |  |  |  |  | \n | IV. Ceftriaxone\n2 x 250 mg | Antibiotik\nsefalosporin\ngenerasi ketiga\nyang digunakan\nuntuk\nmengobati\nberbagai infeksi\nbakteri saluran\npernapasas. | Diare, ruma kulit,\nreaksi alergi,\npeninkatan\nenzim hati | Tidak memiliki\ninterak"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 53,
+    "chunk_index": 1,
+    "text": "| Antibiotik\nsefalosporin\ngenerasi ketiga\nyang digunakan\nuntuk\nmengobati\nberbagai infeksi\nbakteri saluran\npernapasas. | Diare, ruma kulit,\nreaksi alergi,\npeninkatan\nenzim hati | Tidak memiliki\ninteraksi\nsignifikan\ndengan\nmakanan |  |  |  |  | \n | IV Furosemide\n3x5 mg | adalah diuretik\nloop yang\ndigunakan\nuntuk\nmengatasi\nedema akibat\ngagal jantung,\npenyakit ginjal,\natau penyakit\nhati, serta untuk\nmengontrol\nhipertensi. | Hypokalemia,\nhyponatremia,\nhipotensi,\npeningkatan\nkadar asam urat | Tidak ada\ninteraksi\nlangsung\ndengan\nmakanan,\nnamun penting\nuntuk\nmemantau\nasupan elektrolit\ndan cairan. |  |  |  |  | \n | PO Propanol 3\nx 3 mg | adalah beta-\nblocker yang | Bradikardia,\nhipotensi, | Makanan dapat\nmeningkatkan |  |  |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 54,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nNama : <NAMA>\nUmur : 6 bulan\nDiagnosis Medis : Distress Napas OK DD Gagal Jantung Ross Class IV + Pneumonia + Complete\nAVSD dengan Common AV Valve Regurgitation + DORV + Deskstrokardia +\nPulmonary Stenosis + Weight Faltering |  |  |  |  |  |  |  | Jenis Kelamin : Perempuan\nRegistrasi : <NO_REG>\nTanggal : <TGL> | \n--------------------------------------------------------------------------------\nAsesmen Gizi |  |  |  |  |  |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\nGizi\nData dasar |  |  |  |  | Identifikasi masalah |  |  |  | \n |  | digunakan\nuntuk\nmengobati\nhipertensi,\nangina, aritmia,\ntremor, dan\nmigren | kelelahan,\ngangguan tidur | bioavailabilitas\npropranolol.\nDisarankan\nuntuk\nmengonsumsi\nobat ini secara\nkonsisten\ndengan atau\ntanpa makanan. |  |  |  |  | \n | IV Paracetamol\n2x250 mg | Untuk analgesic\ndan antipiretik\nuntuk\nmengurangi\nnyeri dan\ndemam. | - | Tidak memiliki\ninteraksi\nsignifikan\ndengan\nmakanan |  |  |  |  | \n | PO Zink 1x5\nmg | Mendukung\nfung"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 54,
+    "chunk_index": 1,
+    "text": "| IV Paracetamol\n2x250 mg | Untuk analgesic\ndan antipiretik\nuntuk\nmengurangi\nnyeri dan\ndemam. | - | Tidak memiliki\ninteraksi\nsignifikan\ndengan\nmakanan |  |  |  |  | \n | PO Zink 1x5\nmg | Mendukung\nfungsi imun,\ndan\npertumbuhan. | Mual, muntah,\ndan gangguan\npencernaan | Penyerapan\nzinc dapat\nterganggu oleh\nmakanan tinggi\nkalsium atau\nfosfor seperti\nproduk susu\ndan kacang-\nkacangan |  |  |  |  | \n | L BIO 1x1 | adalah\nsuplemen\nprobiotik yang\nmengandung\nLactobacillus\nspp., digunakan\nuntuk menjaga | pada individu\ndengan sistem\nimun yang\nlemah, dapat\nterjadi infeksi\noportunistik. | Dianjurkan\nuntuk\ndikonsumsi\nbersama\nmakanan untuk\nmeningkatkan\nkelangsungan |  |  |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 56,
+    "chunk_index": 0,
+    "text": "C. Rencana Intervensi Gizi\n1. Tujuan\n- Memberikan asupan makan yang sesuai dengan kondisi fisik/klinis pasien\ndengan mempertimbangkan kemampuan makan pasien\n- Memenuhi kebutuhan protein pasien guna membantu memenuhi kebutuhan\ndalam masa pertumbuhan serta mengatasi peradangan\n- Menurunkan kebutuhan karbohidrat mengurangi kondisi sesak untuk\nmembantu meringankan kerja paru – paru\n2. Prinsip\ntinggi protein rendah karbohidrat\n3. Syarat\n Energi diberikan sesuai RDA menurut usia tingggi yaitu sebesar 732 kkal.\n Protein diberikan sebesar 15% dari kebutuhan harian atau sebesar 27 g\n(Viner Smith et al., 2024; Santosa et al., 2020) untuk memperbaiki jaringan\ndan meningkatkan imunitas. Sumber protein yang dianjurkan seperti tepung\nkedelai, tepung susu skim.\n Lemak diberikan sebesar 35% atau sebesar 28 g (Gvalani, Kharat dan\nVithani, 2020) . Lemak berfungsi sebagai energi tambahan dan mencegah\npemecahan otot. Sumber Lemak yang dianjurkan adalah lemak yang mudah\ndicerna MCT (Medium Chain Triglyc"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 56,
+    "chunk_index": 1,
+    "text": "r 28 g (Gvalani, Kharat dan\nVithani, 2020) . Lemak berfungsi sebagai energi tambahan dan mencegah\npemecahan otot. Sumber Lemak yang dianjurkan adalah lemak yang mudah\ndicerna MCT (Medium Chain Triglycerides)\n Karbohidrat diberikan rendah yaitu 55% dari kebutuhan harian atau sebesar\ncukup yaitu 96 g. karbohidrat berfungsi sebagai sumber energi utama bagi\npasien\n Cairan diberikan sebanyak 610 ml disesuaikan dengan perhitungan holliday\n– segar.\n Bentuk makanan berupa makanan cair dengan frekuensi pemberian 8 x 50\ncc melalui oral\n4. Perhitungan Kebutuhan Zat Gizi\n\n[TABLE 0]\nZat Gizi | Perhitungan\n--------------------------------------------------------------------------------\nEnergi | = RDA x BBI\n= 120 x 6.1\n= 732 kkal\n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 57,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nProtein | = 15% x total energi\n= 15% x 732 kkal\n= 110 kkal : 4\n= 27 g\n--------------------------------------------------------------------------------\nLemak | = 35% x total energi\n= 35% x 732 kkal\n= 256 kkal : 9\n= 28 g\nKH | = Total energi – (Protein + Lemak )\n= 732 – (110 + 256)\n= 366 kkal : 4\n= 92 g (50%)\n[END TABLE]\n5. Edukasi Gizi\na. Tujuan : meningkatkan pemahaman keluarga pasien mengenai diet yang akan\ndiberikan, informasi mengenai gizi seimbang untuk orang tua agar menghasilkan\nASI yang berkualitas\nb. Sasaran : Orang tua/keluarga pasien\nc. Materi :\n- Pengertian, tujuan, syarat diet\n- Pengetahuan terkait ASI Eksklusif dan MPASI\n- Pengetahuan terkait gizi ibu selama menyusui\nd. Waktu : 10 – 15 menit\ne. Media : Leaflet diet ASI Eklusif, MPASI, gizi seimbang untuk ibu menyusui\nf. Lokasi : kamar rawat inap pasien"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 58,
+    "chunk_index": 0,
+    "text": "DAFTAR PUSTAKA\nGvalani, S. K., Kharat, P. dan Vithani, S. (2020) “Nutrition in ICU Patients,” Journal of\nResearch & Innovation in Anesthesia, 4(2), hal. 40–44. doi: 10.5005/jp-journals-\n10049-0071.\nSantosa, B., Suwarman dan Pradian, E. (2020) “Terapi Nutrisi Pasien Di Intensive Care\nUnit (Icu),” Jurnal Komplikasi Anestesi, 7(3), hal. 97–105. doi:\n10.22146/jka.v7i3.7480.\nViner Smith, E. et al. (2024) “Nutrition considerations for patients with persistent critical\nillness: A narrative review,” Journal of Parenteral and Enteral Nutrition, 48(6), hal.\n658–666. doi: 10.1002/jpen.2623."
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 60,
+    "chunk_index": 0,
+    "text": "Rekap Pengelolaan Penanganan Gizi di Rumah Rawat Inap\nTanggal : 21 April – <TGL>\nRotasi : NICU/PICU\nRuang : Sarangan\n\n[TABLE 0]\nNama Pasien | No. Registrasi | Diagnosa Penyakit | Pemesanan\nDiet | Penyajian Diet | Kesesuaian | Rencana Tindak\nLanjut\n--------------------------------------------------------------------------------\n<NAMA> | <NO_REG> | ALL L1 on chemotheraphy | Peptida Anak\n8 SST | Peptida Anak\n8 SST | Sesuai | -\n<NAMA> | <NO_REG> | - Distress nafas ok dd >>Gagal\nJantung ROSS Class IV\n- DE : PJB Asianoti\n- DA : Suspek PDA dengan PH\n- DF : Kompensata\n- Weight Faltering | Cair 1 Sachet\n(INFANTRINI) | INFANTRINI 8\nSST | Sesuai | -\n<NAMA> | <NO_REG> | - Distress Napas OK Desakan Massa\nIntrabdomen + Pneumonia + Massa\nIntraabdomen OK Suspek Solid\nOvarian Mass + Hepatomegali +\nSpleenomegali dan Status Gizi buruk\ndengan perawakan pendek | M.Lunak +\nF.100 3 SST | M.Lunak + F.100\n3 SST |  | -\nAzza Farhana\n<NAMA> | <NO_REG> | - Bisitopenia dengan organo"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 60,
+    "chunk_index": 1,
+    "text": "an Mass + Hepatomegali +\nSpleenomegali dan Status Gizi buruk\ndengan perawakan pendek | M.Lunak +\nF.100 3 SST | M.Lunak + F.100\n3 SST |  | -\nAzza Farhana\n<NAMA> | <NO_REG> | - Bisitopenia dengan organomegali ok\ndd :\n>> ALL\n>> AML\n- Hiperleukositosis ok susp Leukemia\nakut\n- Distress napas ok Pneumonia\n- Konstipasi\n- Underimmunization | ALERGI I | ALERGI I | Sesuai | -\nATIKAH\n<NAMA> | <NO_REG> | Glomerular Disease in Systemic\nConnective Tissue Disorder\n- Systemic Lupus Erythematosus with\norgan involvement\n- Susp Cerebral Lupus | M. Saring +\nNefrisol | M. Saring +\nNefrisol 4 SST | Sesuai | -\n[END TABLE]"
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 61,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nBY NY RIZKA\nDYAH AYU\n<NAMA> | <NO_REG> | Distress napas ok Pneumonia\n6.Imbalance Elektrolit (hyperkalemia | NEOCATE | NEOCATE 10\nSST | Sesuai | -\n--------------------------------------------------------------------------------\nMUHAMMAD\nAGRATA\nRAZZAN\nANWARUL\n<NAMA> | <NO_REG> | - Penurunan kesadaran ok\nMeningoensefalitis partialitreted dd\nmeningoensefalitis TB\n- Imbalance elektrolit(Hiponatremia)\n- expresive speech delay | F – 100 | F – 100 6 SST | Sesuai | -\nSELYN DISTYA\nFAZINDA / BY NY\nERLIS SILVIA\n<NAMA> | <NO_REG>\n<TGL>\nBB : 7.50 kg\nTB : 63.00 cm | -Observasi Seizure ok. Hidrosefalus\n-Hidrosefalus post op VP Shunt keen D\n(low pressure) (<TGL>) post aff vp\nshunt 4/1/25\n-Post eksisi Ruptur Meningocele\n(<TGL>)\n-Epilepsi on treatment\n-Atresia ani dengan fistule on stoma\n4/1/25 | SUFOR II +\nBM | SUFOR II + BM | Sesuai | -\nSHANUM AFIFAH\n<NAMA> | <NO_REG> | - Distres napas ok dd\n>> Gagal jantung\n>> Pneumonia\n- Gagal Jantung ross class IV\n- Pneumonia\n- Complete "
+  },
+  {
+    "pdf_name": "MASSA INTRAABDOMEN + PNEUMONIA + MASSA INTRABDOMEN OK.pdf",
+    "page_number": 61,
+    "chunk_index": 1,
+    "text": " stoma\n4/1/25 | SUFOR II +\nBM | SUFOR II + BM | Sesuai | -\nSHANUM AFIFAH\n<NAMA> | <NO_REG> | - Distres napas ok dd\n>> Gagal jantung\n>> Pneumonia\n- Gagal Jantung ross class IV\n- Pneumonia\n- Complete AVSD dg common AV\nvalve regurgitation\n- DORV\n- Dekstrokardia\n- Pulmonary stenosis\n- Weight Faltering | M.Biasa | M.Biasa | Sesuai | -\nSHEILA MAZAYA\n<NAMA> | <NO_REG> | - Distress nafas ok dd\n>>Gagal Jantung ROSS Class IV\n>>Pneumonia\n- DORV\n- VSD\n- Pulmonary Hypertension\n- Gizi Kurang\n- Global developmental delay | M. Lunak +\nNEOCATE | M. Lunak +\nNEOCATE | Sesuai | -\nARJUNA\nALINDRA\n<NAMA> | <NO_REG> | -TEN ec Methotrexate-induced\ngeneralized rash\n-Febrile neutropenia\n-ALL-L1 on chemotherapy | CAIR\nPEPTAMEN | CAIR\nPEPTAMEN 6\nSST | Sesuai | -\n[END TABLE]"
+  }
+]

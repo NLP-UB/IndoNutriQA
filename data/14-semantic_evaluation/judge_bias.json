@@ -1,0 +1,632 @@
+{
+  "judge_a": "gpt-4o-mini",
+  "judge_b": "claude-haiku-4-5",
+  "design": "difference-in-differences: per-system (judge_a - judge_b) rubric gap, then same-provider systems minus other systems",
+  "n_systems": 22,
+  "systems": [
+    {
+      "system": "llm__sahabat-ai-llama3-8b__0shot",
+      "openai_family": false,
+      "same_model_as_judge": false,
+      "judge_a": {
+        "factuality": 4.0510948905109485,
+        "completeness": 3.5839416058394162,
+        "safety": 4.91970802919708,
+        "overall": 4.184914841849149,
+        "n": 137
+      },
+      "judge_b": {
+        "factuality": 3.9416058394160585,
+        "completeness": 2.795620437956204,
+        "safety": 4.255474452554744,
+        "overall": 3.6642335766423355,
+        "n": 137
+      },
+      "gap": {
+        "factuality": 0.10948905109489004,
+        "completeness": 0.788321167883212,
+        "safety": 0.664233576642336,
+        "overall": 0.5206812652068131
+      }
+    },
+    {
+      "system": "llm__merak-7b-v4__0shot",
+      "openai_family": false,
+      "same_model_as_judge": false,
+      "judge_a": {
+        "factuality": 3.6861313868613137,
+        "completeness": 3.4306569343065694,
+        "safety": 4.737226277372263,
+        "overall": 3.951338199513382,
+        "n": 137
+      },
+      "judge_b": {
+        "factuality": 3.664233576642336,
+        "completeness": 2.6861313868613137,
+        "safety": 3.9854014598540144,
+        "overall": 3.4452554744525545,
+        "n": 137
+      },
+      "gap": {
+        "factuality": 0.021897810218977742,
+        "completeness": 0.7445255474452557,
+        "safety": 0.7518248175182483,
+        "overall": 0.5060827250608275
+      }
+    },
+    {
+      "system": "llm__gpt-4o-mini__0shot",
+      "openai_family": true,
+      "same_model_as_judge": true,
+      "judge_a": {
+        "factuality": 4.189781021897811,
+        "completeness": 3.8613138686131387,
+        "safety": 4.934306569343065,
+        "overall": 4.328467153284671,
+        "n": 137
+      },
+      "judge_b": {
+        "factuality": 3.9927007299270074,
+        "completeness": 3.2335766423357666,
+        "safety": 4.343065693430657,
+        "overall": 3.856447688564477,
+        "n": 137
+      },
+      "gap": {
+        "factuality": 0.19708029197080323,
+        "completeness": 0.6277372262773722,
+        "safety": 0.5912408759124084,
+        "overall": 0.47201946472019385
+      }
+    },
+    {
+      "system": "llm__qwen2.5-7b-instruct__0shot",
+      "openai_family": false,
+      "same_model_as_judge": false,
+      "judge_a": {
+        "factuality": 3.72992700729927,
+        "completeness": 3.6204379562043796,
+        "safety": 4.817518248175182,
+        "overall": 4.0559610705596105,
+        "n": 137
+      },
+      "judge_b": {
+        "factuality": 3.6934306569343067,
+        "completeness": 2.9635036496350367,
+        "safety": 4.153284671532846,
+        "overall": 3.6034063260340634,
+        "n": 137
+      },
+      "gap": {
+        "factuality": 0.03649635036496335,
+        "completeness": 0.6569343065693429,
+        "safety": 0.664233576642336,
+        "overall": 0.4525547445255471
+      }
+    },
+    {
+      "system": "llm__llama-3.1-8b-instruct__0shot",
+      "openai_family": false,
+      "same_model_as_judge": false,
+      "judge_a": {
+        "factuality": 3.9416058394160585,
+        "completeness": 3.7153284671532845,
+        "safety": 4.868613138686132,
+        "overall": 4.175182481751825,
+        "n": 137
+      },
+      "judge_b": {
+        "factuality": 3.9197080291970803,
+        "completeness": 3.0948905109489053,
+        "safety": 4.299270072992701,
+        "overall": 3.771289537712896,
+        "n": 137
+      },
+      "gap": {
+        "factuality": 0.021897810218978186,
+        "completeness": 0.6204379562043791,
+        "safety": 0.5693430656934311,
+        "overall": 0.4038929440389287
+      }
+    },
+    {
+      "system": "llm__medgemma-4b-it__0shot",
+      "openai_family": false,
+      "same_model_as_judge": false,
+      "judge_a": {
+        "factuality": 3.9708029197080292,
+        "completeness": 3.656934306569343,
+        "safety": 4.91970802919708,
+        "overall": 4.182481751824818,
+        "n": 137
+      },
+      "judge_b": {
+        "factuality": 3.948905109489051,
+        "completeness": 3.0437956204379564,
+        "safety": 4.37956204379562,
+        "overall": 3.7907542579075426,
+        "n": 137
+      },
+      "gap": {
+        "factuality": 0.021897810218978186,
+        "completeness": 0.6131386861313866,
+        "safety": 0.5401459854014599,
+        "overall": 0.391727493917275
+      }
+    },
+    {
+      "system": "llm__gpt-4o-mini__5shot",
+      "openai_family": true,
+      "same_model_as_judge": true,
+      "judge_a": {
+        "factuality": 4.357664233576642,
+        "completeness": 3.795620437956204,
+        "safety": 4.963503649635037,
+        "overall": 4.372262773722627,
+        "n": 137
+      },
+      "judge_b": {
+        "factuality": 4.145985401459854,
+        "completeness": 3.321167883211679,
+        "safety": 4.5036496350364965,
+        "overall": 3.9902676399026764,
+        "n": 137
+      },
+      "gap": {
+        "factuality": 0.21167883211678795,
+        "completeness": 0.4744525547445253,
+        "safety": 0.45985401459854014,
+        "overall": 0.381995133819951
+      }
+    },
+    {
+      "system": "baseline__mt5",
+      "openai_family": false,
+      "same_model_as_judge": false,
+      "judge_a": {
+        "factuality": 1.0802919708029197,
+        "completeness": 1.0437956204379562,
+        "safety": 4.62043795620438,
+        "overall": 2.2481751824817517,
+        "n": 137
+      },
+      "judge_b": {
+        "factuality": 1.5985401459854014,
+        "completeness": 1.0583941605839415,
+        "safety": 3.0291970802919708,
+        "overall": 1.8953771289537713,
+        "n": 137
+      },
+      "gap": {
+        "factuality": -0.5182481751824817,
+        "completeness": -0.014598540145985384,
+        "safety": 1.5912408759124088,
+        "overall": 0.35279805352798044
+      }
+    },
+    {
+      "system": "llm__merak-7b-v4__5shot",
+      "openai_family": false,
+      "same_model_as_judge": false,
+      "judge_a": {
+        "factuality": 3.8175182481751824,
+        "completeness": 3.1751824817518246,
+        "safety": 4.846715328467154,
+        "overall": 3.94647201946472,
+        "n": 137
+      },
+      "judge_b": {
+        "factuality": 3.875912408759124,
+        "completeness": 2.7664233576642334,
+        "safety": 4.226277372262774,
+        "overall": 3.622871046228711,
+        "n": 137
+      },
+      "gap": {
+        "factuality": -0.058394160583941535,
+        "completeness": 0.4087591240875912,
+        "safety": 0.6204379562043796,
+        "overall": 0.323600973236009
+      }
+    },
+    {
+      "system": "llm__gpt-4o__0shot",
+      "openai_family": true,
+      "same_model_as_judge": false,
+      "judge_a": {
+        "factuality": 3.9416058394160585,
+        "completeness": 3.6715328467153285,
+        "safety": 4.956204379562044,
+        "overall": 4.189781021897811,
+        "n": 137
+      },
+      "judge_b": {
+        "factuality": 4.094890510948905,
+        "completeness": 3.102189781021898,
+        "safety": 4.532846715328467,
+        "overall": 3.9099756690997567,
+        "n": 137
+      },
+      "gap": {
+        "factuality": -0.15328467153284642,
+        "completeness": 0.5693430656934306,
+        "safety": 0.4233576642335768,
+        "overall": 0.27980535279805396
+      }
+    },
+    {
+      "system": "llm__qwen2.5-7b-instruct__5shot",
+      "openai_family": false,
+      "same_model_as_judge": false,
+      "judge_a": {
+        "factuality": 4.116788321167883,
+        "completeness": 3.6350364963503647,
+        "safety": 4.912408759124087,
+        "overall": 4.221411192214112,
+        "n": 137
+      },
+      "judge_b": {
+        "factuality": 4.1678832116788325,
+        "completeness": 3.1605839416058394,
+        "safety": 4.532846715328467,
+        "overall": 3.9537712895377126,
+        "n": 137
+      },
+      "gap": {
+        "factuality": -0.0510948905109494,
+        "completeness": 0.4744525547445253,
+        "safety": 0.3795620437956204,
+        "overall": 0.26763990267639937
+      }
+    },
+    {
+      "system": "llm__medgemma-4b-it__5shot",
+      "openai_family": false,
+      "same_model_as_judge": false,
+      "judge_a": {
+        "factuality": 3.8248175182481754,
+        "completeness": 3.372262773722628,
+        "safety": 4.875912408759124,
+        "overall": 4.024330900243309,
+        "n": 137
+      },
+      "judge_b": {
+        "factuality": 4.0,
+        "completeness": 3.0875912408759123,
+        "safety": 4.291970802919708,
+        "overall": 3.793187347931873,
+        "n": 137
+      },
+      "gap": {
+        "factuality": -0.1751824817518246,
+        "completeness": 0.28467153284671554,
+        "safety": 0.5839416058394162,
+        "overall": 0.23114355231143602
+      }
+    },
+    {
+      "system": "llm__llama-3.1-8b-instruct__5shot",
+      "openai_family": false,
+      "same_model_as_judge": false,
+      "judge_a": {
+        "factuality": 3.948905109489051,
+        "completeness": 3.4306569343065694,
+        "safety": 4.883211678832117,
+        "overall": 4.087591240875913,
+        "n": 137
+      },
+      "judge_b": {
+        "factuality": 4.116788321167883,
+        "completeness": 3.197080291970803,
+        "safety": 4.423357664233577,
+        "overall": 3.9124087591240873,
+        "n": 137
+      },
+      "gap": {
+        "factuality": -0.16788321167883202,
+        "completeness": 0.23357664233576658,
+        "safety": 0.45985401459854014,
+        "overall": 0.1751824817518255
+      }
+    },
+    {
+      "system": "llm__sahabat-ai-llama3-8b__5shot",
+      "openai_family": false,
+      "same_model_as_judge": false,
+      "judge_a": {
+        "factuality": 3.54014598540146,
+        "completeness": 3.0072992700729926,
+        "safety": 4.671532846715328,
+        "overall": 3.739659367396593,
+        "n": 137
+      },
+      "judge_b": {
+        "factuality": 3.7372262773722627,
+        "completeness": 2.846715328467153,
+        "safety": 4.160583941605839,
+        "overall": 3.581508515815085,
+        "n": 137
+      },
+      "gap": {
+        "factuality": -0.1970802919708028,
+        "completeness": 0.16058394160583944,
+        "safety": 0.5109489051094886,
+        "overall": 0.15815085158150843
+      }
+    },
+    {
+      "system": "llm__biomistral-7b__5shot",
+      "openai_family": false,
+      "same_model_as_judge": false,
+      "judge_a": {
+        "factuality": 3.2846715328467155,
+        "completeness": 2.664233576642336,
+        "safety": 4.737226277372263,
+        "overall": 3.562043795620438,
+        "n": 137
+      },
+      "judge_b": {
+        "factuality": 3.6496350364963503,
+        "completeness": 2.627737226277372,
+        "safety": 3.9562043795620436,
+        "overall": 3.411192214111922,
+        "n": 137
+      },
+      "gap": {
+        "factuality": -0.3649635036496348,
+        "completeness": 0.03649635036496379,
+        "safety": 0.781021897810219,
+        "overall": 0.15085158150851585
+      }
+    },
+    {
+      "system": "llm__gpt-4o__5shot",
+      "openai_family": true,
+      "same_model_as_judge": false,
+      "judge_a": {
+        "factuality": 4.211678832116788,
+        "completeness": 3.5839416058394162,
+        "safety": 4.978102189781022,
+        "overall": 4.257907542579075,
+        "n": 137
+      },
+      "judge_b": {
+        "factuality": 4.394160583941606,
+        "completeness": 3.291970802919708,
+        "safety": 4.751824817518248,
+        "overall": 4.145985401459854,
+        "n": 137
+      },
+      "gap": {
+        "factuality": -0.18248175182481763,
+        "completeness": 0.2919708029197081,
+        "safety": 0.226277372262774,
+        "overall": 0.11192214111922105
+      }
+    },
+    {
+      "system": "llm__biomistral-7b__0shot",
+      "openai_family": false,
+      "same_model_as_judge": false,
+      "judge_a": {
+        "factuality": 2.878787878787879,
+        "completeness": 2.4242424242424243,
+        "safety": 4.893939393939394,
+        "overall": 3.3989898989898983,
+        "n": 132
+      },
+      "judge_b": {
+        "factuality": 3.6818181818181817,
+        "completeness": 2.2045454545454546,
+        "safety": 4.106060606060606,
+        "overall": 3.330808080808081,
+        "n": 132
+      },
+      "gap": {
+        "factuality": -0.8030303030303028,
+        "completeness": 0.21969696969696972,
+        "safety": 0.7878787878787872,
+        "overall": 0.06818181818181746
+      }
+    },
+    {
+      "system": "baseline__rifky",
+      "openai_family": false,
+      "same_model_as_judge": false,
+      "judge_a": {
+        "factuality": 3.369369369369369,
+        "completeness": 3.036036036036036,
+        "safety": 4.900900900900901,
+        "overall": 3.7687687687687688,
+        "n": 111
+      },
+      "judge_b": {
+        "factuality": 3.981981981981982,
+        "completeness": 2.9279279279279278,
+        "safety": 4.2792792792792795,
+        "overall": 3.72972972972973,
+        "n": 111
+      },
+      "gap": {
+        "factuality": -0.612612612612613,
+        "completeness": 0.10810810810810834,
+        "safety": 0.621621621621621,
+        "overall": 0.039039039039038936
+      }
+    },
+    {
+      "system": "baseline__indolem",
+      "openai_family": false,
+      "same_model_as_judge": false,
+      "judge_a": {
+        "factuality": 2.7387387387387387,
+        "completeness": 2.3963963963963963,
+        "safety": 4.837837837837838,
+        "overall": 3.324324324324324,
+        "n": 111
+      },
+      "judge_b": {
+        "factuality": 3.8018018018018016,
+        "completeness": 2.3513513513513513,
+        "safety": 4.171171171171171,
+        "overall": 3.441441441441441,
+        "n": 111
+      },
+      "gap": {
+        "factuality": -1.0630630630630629,
+        "completeness": 0.04504504504504503,
+        "safety": 0.666666666666667,
+        "overall": -0.11711711711711681
+      }
+    },
+    {
+      "system": "baseline__mdeberta",
+      "openai_family": false,
+      "same_model_as_judge": false,
+      "judge_a": {
+        "factuality": 2.5486725663716814,
+        "completeness": 2.327433628318584,
+        "safety": 4.893805309734513,
+        "overall": 3.256637168141593,
+        "n": 113
+      },
+      "judge_b": {
+        "factuality": 3.8672566371681416,
+        "completeness": 2.2035398230088497,
+        "safety": 4.176991150442478,
+        "overall": 3.415929203539823,
+        "n": 113
+      },
+      "gap": {
+        "factuality": -1.3185840707964602,
+        "completeness": 0.12389380530973426,
+        "safety": 0.716814159292035,
+        "overall": -0.1592920353982299
+      }
+    },
+    {
+      "system": "baseline__cahya",
+      "openai_family": false,
+      "same_model_as_judge": false,
+      "judge_a": {
+        "factuality": 2.5185185185185186,
+        "completeness": 2.2037037037037037,
+        "safety": 4.851851851851852,
+        "overall": 3.191358024691358,
+        "n": 108
+      },
+      "judge_b": {
+        "factuality": 3.7962962962962963,
+        "completeness": 2.2037037037037037,
+        "safety": 4.157407407407407,
+        "overall": 3.3858024691358026,
+        "n": 108
+      },
+      "gap": {
+        "factuality": -1.2777777777777777,
+        "completeness": 0.0,
+        "safety": 0.6944444444444446,
+        "overall": -0.19444444444444464
+      }
+    },
+    {
+      "system": "baseline__xlmr",
+      "openai_family": false,
+      "same_model_as_judge": false,
+      "judge_a": {
+        "factuality": 2.3214285714285716,
+        "completeness": 2.0982142857142856,
+        "safety": 4.830357142857143,
+        "overall": 3.0833333333333335,
+        "n": 112
+      },
+      "judge_b": {
+        "factuality": 3.8125,
+        "completeness": 1.9642857142857142,
+        "safety": 4.125,
+        "overall": 3.3005952380952386,
+        "n": 112
+      },
+      "gap": {
+        "factuality": -1.4910714285714284,
+        "completeness": 0.1339285714285714,
+        "safety": 0.7053571428571432,
+        "overall": -0.2172619047619051
+      }
+    }
+  ],
+  "tests": {
+    "same_provider": {
+      "factuality": {
+        "n_same": 4,
+        "n_other": 18,
+        "mean_gap_same": 0.018248175182481785,
+        "mean_gap_other": -0.43818372994796245,
+        "difference_in_differences": 0.45643190513044424,
+        "permutation_p": 0.1033
+      },
+      "completeness": {
+        "n_same": 4,
+        "n_other": 18,
+        "mean_gap_same": 0.49087591240875905,
+        "mean_gap_other": 0.31322065387007897,
+        "difference_in_differences": 0.17765525853868008,
+        "permutation_p": 0.2247
+      },
+      "safety": {
+        "n_same": 4,
+        "n_other": 18,
+        "mean_gap_same": 0.4251824817518248,
+        "mean_gap_other": 0.6838650635515879,
+        "difference_in_differences": -0.2586825817997631,
+        "permutation_p": 0.0925
+      },
+      "overall": {
+        "n_same": 4,
+        "n_other": 18,
+        "mean_gap_same": 0.31143552311435496,
+        "mean_gap_other": 0.18630066249123478,
+        "difference_in_differences": 0.12513486062312018,
+        "permutation_p": 0.3397
+      }
+    },
+    "same_model": {
+      "factuality": {
+        "n_same": 2,
+        "n_other": 20,
+        "mean_gap_same": 0.2043795620437956,
+        "mean_gap_other": -0.41115367812104936,
+        "difference_in_differences": 0.615533240164845,
+        "permutation_p": 0.077
+      },
+      "completeness": {
+        "n_same": 2,
+        "n_other": 20,
+        "mean_gap_same": 0.5510948905109487,
+        "mean_gap_other": 0.324964281913728,
+        "difference_in_differences": 0.22613060859722073,
+        "permutation_p": 0.2941
+      },
+      "safety": {
+        "n_same": 2,
+        "n_other": 20,
+        "mean_gap_same": 0.5255474452554743,
+        "mean_gap_other": 0.6479603090212468,
+        "difference_in_differences": -0.12241286376577254,
+        "permutation_p": 0.34065
+      },
+      "overall": {
+        "n_same": 2,
+        "n_other": 20,
+        "mean_gap_same": 0.4270072992700724,
+        "mean_gap_other": 0.18725697093797505,
+        "difference_in_differences": 0.23975032833209736,
+        "permutation_p": 0.17825
+      }
+    }
+  },
+  "rank_agreement": {
+    "spearman_rho": 0.9164313946922643,
+    "p": 2.1162623055851456e-09
+  }
+}

@@ -1,0 +1,652 @@
+{
+  "config": {
+    "n_resamples": 1000,
+    "seed": 42,
+    "metrics": [
+      "exact_match",
+      "f1_score",
+      "bleu",
+      "rougeL"
+    ]
+  },
+  "results": [
+    {
+      "name": "baseline__cahya",
+      "model": "cahya",
+      "kind": "baseline-extractive",
+      "shots": null,
+      "n": 137,
+      "metrics": {
+        "exact_match": {
+          "point": 4.37956204379562,
+          "ci_low": 1.4598540145985401,
+          "ci_high": 8.02919708029197
+        },
+        "f1_score": {
+          "point": 16.54774346892332,
+          "ci_low": 11.1840043465068,
+          "ci_high": 21.967790276031273
+        },
+        "bleu": {
+          "point": 6.137097499306534,
+          "ci_low": 3.200866577950238,
+          "ci_high": 9.20064964994421
+        },
+        "rougeL": {
+          "point": 16.930674792599007,
+          "ci_low": 11.518734718100717,
+          "ci_high": 22.408587392069553
+        }
+      }
+    },
+    {
+      "name": "baseline__indolem",
+      "model": "indolem",
+      "kind": "baseline-extractive",
+      "shots": null,
+      "n": 137,
+      "metrics": {
+        "exact_match": {
+          "point": 5.839416058394161,
+          "ci_low": 2.18978102189781,
+          "ci_high": 10.218978102189782
+        },
+        "f1_score": {
+          "point": 23.786630549064363,
+          "ci_low": 17.496378990282082,
+          "ci_high": 29.754295917875446
+        },
+        "bleu": {
+          "point": 10.59909215197618,
+          "ci_low": 6.866966599656153,
+          "ci_high": 14.43180254908825
+        },
+        "rougeL": {
+          "point": 24.171985064737417,
+          "ci_low": 17.709530816622298,
+          "ci_high": 30.223411596488358
+        }
+      }
+    },
+    {
+      "name": "baseline__mdeberta",
+      "model": "mdeberta",
+      "kind": "baseline-extractive",
+      "shots": null,
+      "n": 137,
+      "metrics": {
+        "exact_match": {
+          "point": 5.839416058394161,
+          "ci_low": 2.18978102189781,
+          "ci_high": 10.218978102189782
+        },
+        "f1_score": {
+          "point": 19.34774845088639,
+          "ci_low": 13.343070084393998,
+          "ci_high": 25.41905919583246
+        },
+        "bleu": {
+          "point": 14.03029530517404,
+          "ci_low": 9.044042339411721,
+          "ci_high": 18.926394681637213
+        },
+        "rougeL": {
+          "point": 19.19078715899358,
+          "ci_low": 13.162485167167809,
+          "ci_high": 25.51902878347232
+        }
+      }
+    },
+    {
+      "name": "baseline__mt5",
+      "model": "mt5",
+      "kind": "baseline-generative",
+      "shots": null,
+      "n": 137,
+      "metrics": {
+        "exact_match": {
+          "point": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.0
+        },
+        "f1_score": {
+          "point": 7.607128240276746,
+          "ci_low": 5.709269512716229,
+          "ci_high": 9.4645747076054
+        },
+        "bleu": {
+          "point": 1.219554338206811,
+          "ci_low": 0.5038485519182904,
+          "ci_high": 2.06860214401946
+        },
+        "rougeL": {
+          "point": 6.313735570733894,
+          "ci_low": 4.825209262922571,
+          "ci_high": 7.711953709291509
+        }
+      }
+    },
+    {
+      "name": "baseline__rifky",
+      "model": "rifky",
+      "kind": "baseline-extractive",
+      "shots": null,
+      "n": 137,
+      "metrics": {
+        "exact_match": {
+          "point": 12.408759124087592,
+          "ci_low": 7.281021897810219,
+          "ci_high": 18.248175182481752
+        },
+        "f1_score": {
+          "point": 36.41762904713584,
+          "ci_low": 29.123432078035066,
+          "ci_high": 43.52118176095065
+        },
+        "bleu": {
+          "point": 13.1372611900226,
+          "ci_low": 8.968289728050049,
+          "ci_high": 17.569529843492955
+        },
+        "rougeL": {
+          "point": 36.867421756125204,
+          "ci_low": 29.34720155073119,
+          "ci_high": 44.29092022651028
+        }
+      }
+    },
+    {
+      "name": "baseline__xlmr",
+      "model": "xlmr",
+      "kind": "baseline-extractive",
+      "shots": null,
+      "n": 137,
+      "metrics": {
+        "exact_match": {
+          "point": 1.4598540145985401,
+          "ci_low": 0.0,
+          "ci_high": 3.64963503649635
+        },
+        "f1_score": {
+          "point": 12.59559753124542,
+          "ci_low": 8.046738879481243,
+          "ci_high": 17.264240787216885
+        },
+        "bleu": {
+          "point": 8.615481699568267,
+          "ci_low": 4.958716026149905,
+          "ci_high": 12.594931939912668
+        },
+        "rougeL": {
+          "point": 12.448603299324684,
+          "ci_low": 7.853433863623148,
+          "ci_high": 17.181725290879317
+        }
+      }
+    },
+    {
+      "name": "llm__biomistral-7b__0shot",
+      "model": "biomistral-7b",
+      "kind": "llm",
+      "shots": 0,
+      "n": 137,
+      "metrics": {
+        "exact_match": {
+          "point": 2.9197080291970803,
+          "ci_low": 0.7299270072992701,
+          "ci_high": 5.839416058394161
+        },
+        "f1_score": {
+          "point": 29.825296813192043,
+          "ci_low": 25.1344317436062,
+          "ci_high": 34.7909086930204
+        },
+        "bleu": {
+          "point": 12.065927289672679,
+          "ci_low": 8.593791273222974,
+          "ci_high": 15.931025833612624
+        },
+        "rougeL": {
+          "point": 29.212776333273204,
+          "ci_low": 24.538668159102112,
+          "ci_high": 34.086633436459515
+        }
+      }
+    },
+    {
+      "name": "llm__biomistral-7b__5shot",
+      "model": "biomistral-7b",
+      "kind": "llm",
+      "shots": 5,
+      "n": 137,
+      "metrics": {
+        "exact_match": {
+          "point": 8.02919708029197,
+          "ci_low": 3.64963503649635,
+          "ci_high": 12.408759124087592
+        },
+        "f1_score": {
+          "point": 40.07923416915505,
+          "ci_low": 35.41564631925092,
+          "ci_high": 45.15333808449707
+        },
+        "bleu": {
+          "point": 17.03172735802404,
+          "ci_low": 12.672549716754784,
+          "ci_high": 21.714723786026823
+        },
+        "rougeL": {
+          "point": 38.40399193527964,
+          "ci_low": 33.63144142281058,
+          "ci_high": 43.80139754715948
+        }
+      }
+    },
+    {
+      "name": "llm__gpt-4o-mini__0shot",
+      "model": "gpt-4o-mini",
+      "kind": "llm",
+      "shots": 0,
+      "n": 137,
+      "metrics": {
+        "exact_match": {
+          "point": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.0
+        },
+        "f1_score": {
+          "point": 36.05544525976083,
+          "ci_low": 32.22339557397336,
+          "ci_high": 40.16253500974423
+        },
+        "bleu": {
+          "point": 9.867126280377631,
+          "ci_low": 7.532461924437024,
+          "ci_high": 12.633041696540634
+        },
+        "rougeL": {
+          "point": 30.152899176847953,
+          "ci_low": 26.4845692934195,
+          "ci_high": 33.87708190766228
+        }
+      }
+    },
+    {
+      "name": "llm__gpt-4o-mini__5shot",
+      "model": "gpt-4o-mini",
+      "kind": "llm",
+      "shots": 5,
+      "n": 137,
+      "metrics": {
+        "exact_match": {
+          "point": 1.4598540145985401,
+          "ci_low": 0.0,
+          "ci_high": 3.64963503649635
+        },
+        "f1_score": {
+          "point": 43.065317359131065,
+          "ci_low": 38.74734252773866,
+          "ci_high": 47.46290107839843
+        },
+        "bleu": {
+          "point": 16.397394210440606,
+          "ci_low": 12.526678595744297,
+          "ci_high": 20.556114940212275
+        },
+        "rougeL": {
+          "point": 39.45953209960074,
+          "ci_low": 35.1548559299685,
+          "ci_high": 43.93540510517586
+        }
+      }
+    },
+    {
+      "name": "llm__gpt-4o__0shot",
+      "model": "gpt-4o",
+      "kind": "llm",
+      "shots": 0,
+      "n": 137,
+      "metrics": {
+        "exact_match": {
+          "point": 1.4598540145985401,
+          "ci_low": 0.0,
+          "ci_high": 3.64963503649635
+        },
+        "f1_score": {
+          "point": 37.493973061993906,
+          "ci_low": 32.60415227495556,
+          "ci_high": 42.21808013847156
+        },
+        "bleu": {
+          "point": 13.700476249316004,
+          "ci_low": 10.147895074270465,
+          "ci_high": 17.38037350178525
+        },
+        "rougeL": {
+          "point": 33.467272296512185,
+          "ci_low": 28.74628030882502,
+          "ci_high": 37.9260646246407
+        }
+      }
+    },
+    {
+      "name": "llm__gpt-4o__5shot",
+      "model": "gpt-4o",
+      "kind": "llm",
+      "shots": 5,
+      "n": 137,
+      "metrics": {
+        "exact_match": {
+          "point": 7.2992700729927,
+          "ci_low": 3.64963503649635,
+          "ci_high": 11.678832116788321
+        },
+        "f1_score": {
+          "point": 50.32719087751501,
+          "ci_low": 45.1441074441322,
+          "ci_high": 55.58253031677488
+        },
+        "bleu": {
+          "point": 23.316764506856032,
+          "ci_low": 18.351613110108012,
+          "ci_high": 28.640464921370317
+        },
+        "rougeL": {
+          "point": 48.95072045221069,
+          "ci_low": 43.67907562172356,
+          "ci_high": 54.312935446519894
+        }
+      }
+    },
+    {
+      "name": "llm__llama-3.1-8b-instruct__0shot",
+      "model": "llama-3.1-8b-instruct",
+      "kind": "llm",
+      "shots": 0,
+      "n": 137,
+      "metrics": {
+        "exact_match": {
+          "point": 0.7299270072992701,
+          "ci_low": 0.0,
+          "ci_high": 2.18978102189781
+        },
+        "f1_score": {
+          "point": 37.82298467113769,
+          "ci_low": 33.758476726296074,
+          "ci_high": 42.2707199918791
+        },
+        "bleu": {
+          "point": 14.477918912394275,
+          "ci_low": 11.16399295314535,
+          "ci_high": 18.244582316652178
+        },
+        "rougeL": {
+          "point": 33.89050669679483,
+          "ci_low": 29.731794494940285,
+          "ci_high": 38.3345629023798
+        }
+      }
+    },
+    {
+      "name": "llm__llama-3.1-8b-instruct__5shot",
+      "model": "llama-3.1-8b-instruct",
+      "kind": "llm",
+      "shots": 5,
+      "n": 137,
+      "metrics": {
+        "exact_match": {
+          "point": 16.78832116788321,
+          "ci_low": 10.948905109489052,
+          "ci_high": 23.357664233576642
+        },
+        "f1_score": {
+          "point": 55.55090997043435,
+          "ci_low": 49.95673800628789,
+          "ci_high": 60.776335864173014
+        },
+        "bleu": {
+          "point": 26.5909841149631,
+          "ci_low": 21.096773712944284,
+          "ci_high": 32.291440666107896
+        },
+        "rougeL": {
+          "point": 54.02845798032261,
+          "ci_low": 48.299284829995926,
+          "ci_high": 59.33389435907063
+        }
+      }
+    },
+    {
+      "name": "llm__medgemma-4b-it__0shot",
+      "model": "medgemma-4b-it",
+      "kind": "llm",
+      "shots": 0,
+      "n": 137,
+      "metrics": {
+        "exact_match": {
+          "point": 2.9197080291970803,
+          "ci_low": 0.7299270072992701,
+          "ci_high": 5.839416058394161
+        },
+        "f1_score": {
+          "point": 42.59512940515963,
+          "ci_low": 38.13743273375121,
+          "ci_high": 46.8505094777942
+        },
+        "bleu": {
+          "point": 16.87791269639809,
+          "ci_low": 12.634914698031718,
+          "ci_high": 21.20543278833705
+        },
+        "rougeL": {
+          "point": 39.00989510954101,
+          "ci_low": 34.48065036366935,
+          "ci_high": 43.295986421241416
+        }
+      }
+    },
+    {
+      "name": "llm__medgemma-4b-it__5shot",
+      "model": "medgemma-4b-it",
+      "kind": "llm",
+      "shots": 5,
+      "n": 137,
+      "metrics": {
+        "exact_match": {
+          "point": 14.5985401459854,
+          "ci_low": 9.48905109489051,
+          "ci_high": 21.16788321167883
+        },
+        "f1_score": {
+          "point": 54.279950169826094,
+          "ci_low": 49.01841275078068,
+          "ci_high": 59.420362169180585
+        },
+        "bleu": {
+          "point": 30.072499849184357,
+          "ci_low": 23.9446410995465,
+          "ci_high": 35.98026917469102
+        },
+        "rougeL": {
+          "point": 53.62812630816147,
+          "ci_low": 48.357469382520854,
+          "ci_high": 58.82996507047105
+        }
+      }
+    },
+    {
+      "name": "llm__merak-7b-v4__0shot",
+      "model": "merak-7b-v4",
+      "kind": "llm",
+      "shots": 0,
+      "n": 137,
+      "metrics": {
+        "exact_match": {
+          "point": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.0
+        },
+        "f1_score": {
+          "point": 32.442852591717426,
+          "ci_low": 28.39849322761107,
+          "ci_high": 36.66474735832174
+        },
+        "bleu": {
+          "point": 11.43056837104572,
+          "ci_low": 8.55794258677066,
+          "ci_high": 14.312860139891107
+        },
+        "rougeL": {
+          "point": 28.95317157280186,
+          "ci_low": 24.93744328920777,
+          "ci_high": 32.94578889791303
+        }
+      }
+    },
+    {
+      "name": "llm__merak-7b-v4__5shot",
+      "model": "merak-7b-v4",
+      "kind": "llm",
+      "shots": 5,
+      "n": 137,
+      "metrics": {
+        "exact_match": {
+          "point": 3.64963503649635,
+          "ci_low": 0.7299270072992701,
+          "ci_high": 7.2992700729927
+        },
+        "f1_score": {
+          "point": 41.8332294357297,
+          "ci_low": 36.999336954178155,
+          "ci_high": 46.75124180153199
+        },
+        "bleu": {
+          "point": 20.311197883755884,
+          "ci_low": 15.737238007520105,
+          "ci_high": 25.463120625772863
+        },
+        "rougeL": {
+          "point": 40.60316885398847,
+          "ci_low": 35.56673635011905,
+          "ci_high": 45.448641454545964
+        }
+      }
+    },
+    {
+      "name": "llm__qwen2.5-7b-instruct__0shot",
+      "model": "qwen2.5-7b-instruct",
+      "kind": "llm",
+      "shots": 0,
+      "n": 137,
+      "metrics": {
+        "exact_match": {
+          "point": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.0
+        },
+        "f1_score": {
+          "point": 31.02895563451616,
+          "ci_low": 27.21128371796233,
+          "ci_high": 34.79281776109507
+        },
+        "bleu": {
+          "point": 9.042033778408882,
+          "ci_low": 6.435111540278891,
+          "ci_high": 11.5749486835785
+        },
+        "rougeL": {
+          "point": 26.429482517977217,
+          "ci_low": 22.60101685886656,
+          "ci_high": 30.048487603845647
+        }
+      }
+    },
+    {
+      "name": "llm__qwen2.5-7b-instruct__5shot",
+      "model": "qwen2.5-7b-instruct",
+      "kind": "llm",
+      "shots": 5,
+      "n": 137,
+      "metrics": {
+        "exact_match": {
+          "point": 2.18978102189781,
+          "ci_low": 0.0,
+          "ci_high": 5.109489051094891
+        },
+        "f1_score": {
+          "point": 42.616080725884316,
+          "ci_low": 37.71632288623871,
+          "ci_high": 47.20804580847043
+        },
+        "bleu": {
+          "point": 19.15912601979449,
+          "ci_low": 14.608962442973189,
+          "ci_high": 23.31151049797744
+        },
+        "rougeL": {
+          "point": 40.72491968523543,
+          "ci_low": 35.813910761811364,
+          "ci_high": 45.259081910221255
+        }
+      }
+    },
+    {
+      "name": "llm__sahabat-ai-llama3-8b__0shot",
+      "model": "sahabat-ai-llama3-8b",
+      "kind": "llm",
+      "shots": 0,
+      "n": 137,
+      "metrics": {
+        "exact_match": {
+          "point": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.0
+        },
+        "f1_score": {
+          "point": 26.77639884940192,
+          "ci_low": 23.221864432597084,
+          "ci_high": 30.354704335689558
+        },
+        "bleu": {
+          "point": 10.075035207225696,
+          "ci_low": 7.87453319287848,
+          "ci_high": 12.584897660775752
+        },
+        "rougeL": {
+          "point": 23.664468335791963,
+          "ci_low": 20.547317516046043,
+          "ci_high": 26.923280241192693
+        }
+      }
+    },
+    {
+      "name": "llm__sahabat-ai-llama3-8b__5shot",
+      "model": "sahabat-ai-llama3-8b",
+      "kind": "llm",
+      "shots": 5,
+      "n": 137,
+      "metrics": {
+        "exact_match": {
+          "point": 5.839416058394161,
+          "ci_low": 2.18978102189781,
+          "ci_high": 10.218978102189782
+        },
+        "f1_score": {
+          "point": 43.320997290945,
+          "ci_low": 37.442478973570005,
+          "ci_high": 48.78597063367397
+        },
+        "bleu": {
+          "point": 25.315936506741405,
+          "ci_low": 19.12952126456479,
+          "ci_high": 31.09849706182513
+        },
+        "rougeL": {
+          "point": 41.95248031128365,
+          "ci_low": 36.21517794260469,
+          "ci_high": 47.566619413437486
+        }
+      }
+    }
+  ]
+}

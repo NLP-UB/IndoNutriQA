@@ -1,0 +1,44 @@
+{
+  "config": {
+    "data_path": "data/7-json_file_similarity/qa_pairs_with_chunks.json",
+    "n_test": 137,
+    "shots": [
+      0,
+      5
+    ],
+    "temperature": 0.0,
+    "max_new_tokens": 256,
+    "few_shot_seed": 42,
+    "openai_base_url": null
+  },
+  "results": [
+    {
+      "alias": "gpt-4o-mini",
+      "provider": "openai",
+      "label": "gpt-4o-mini (0-shot)",
+      "model_id": "gpt-4o-mini",
+      "shots": 0,
+      "n_examples": 137,
+      "exact_match": 0.00,
+      "f1_score": 36.06,
+      "bleu": 9.87,
+      "rouge1": 36.84,
+      "rouge2": 22.77,
+      "rougeL": 30.15
+    },
+    {
+      "alias": "gpt-4o-mini",
+      "provider": "openai",
+      "label": "gpt-4o-mini (5-shot)",
+      "model_id": "gpt-4o-mini",
+      "shots": 5,
+      "n_examples": 137,
+      "exact_match": 1.46,
+      "f1_score": 43.07,
+      "bleu": 16.40,
+      "rouge1": 43.48,
+      "rouge2": 30.80,
+      "rougeL": 39.46
+    }
+  ]
+}

@@ -1,0 +1,923 @@
+{
+  "source_exports": [
+    "data/18-rd_judge_agreement/exports/project-2-at-2026-09-18-06-45-f1e0d2e5.json",
+    "data/18-rd_judge_agreement/exports/project-3-at-2026-09-18-06-45-5bc2b23b.json",
+    "data/18-rd_judge_agreement/exports/project-5-at-2026-09-18-06-44-2366fed8.json"
+  ],
+  "n_units": 50,
+  "n_annotations": 150,
+  "raters": [
+    "RD1",
+    "RD2",
+    "RD3"
+  ],
+  "annotations": {
+    "U001": {
+      "RD1": {
+        "factuality": 4,
+        "completeness": 3,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 3,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 3,
+        "completeness": 2,
+        "safety": 2,
+        "comment": "Jawaban kandidat tidak lengkap dan hanya merujuk pada salah satu penyakit saja, yang mana hal tersebut kurang sesuai dengan diagnosis medis pasien"
+      }
+    },
+    "U002": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5,
+        "comment": "Jawaban kandidat sudah sesuai dengan jawaban referensi"
+      }
+    },
+    "U003": {
+      "RD1": {
+        "factuality": 2,
+        "completeness": 2,
+        "safety": 2,
+        "comment": "Protein bukan 60%, karbohidrat yang justru seharusnya 60% dari energi harian."
+      },
+      "RD2": {
+        "factuality": 4,
+        "completeness": 2,
+        "safety": 4
+      },
+      "RD3": {
+        "factuality": 2,
+        "completeness": 2,
+        "safety": 1,
+        "comment": "Jawaban kandidat tidak lengkap dan terdapat kekeliruan yang berpotensi membahayakan pasien. Pada jawaban kandidat makronutrien yang disebutkan hanya karbohidrat dan protein, sedangkan seharusnya terdapat makronutrien lemak. Persentase protein yang diberikan terlalu besar sehingga tidak sesuai dengan kebutuhan dan kondisi pasien. Mikronutrien seperti vitamin dan mineral tidak disebutkan secara lengkap"
+      }
+    },
+    "U004": {
+      "RD1": {
+        "factuality": 1,
+        "completeness": 1,
+        "safety": 1,
+        "comment": "Pasien tidak underweight, namun justru overweight."
+      },
+      "RD2": {
+        "factuality": 1,
+        "safety": 1,
+        "completeness": 1,
+        "comment": "Berbeda diagnosis, referensi menyebutkan anak overweight, sedangkan sistem menjawab anak mengalami malnutrisi"
+      },
+      "RD3": {
+        "factuality": 1,
+        "completeness": 1,
+        "safety": 1,
+        "comment": "Diagnosis gizi pada jawaban kandidat sangat tidak sesuai dengan asesmen antropometri pasien sehingga jawaban keseluruhan salah"
+      }
+    },
+    "U005": {
+      "RD1": {
+        "factuality": 1,
+        "completeness": 1,
+        "safety": 1
+      },
+      "RD2": {
+        "factuality": 1,
+        "completeness": 1,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 1,
+        "completeness": 1,
+        "safety": 1,
+        "comment": "Jawaban kandidat tidak menjawab pertanyaan klinis dan tidak sesuai dengan jawaban referensi"
+      }
+    },
+    "U006": {
+      "RD1": {
+        "factuality": 3,
+        "completeness": 3,
+        "safety": 2,
+        "comment": "S nya bukan solusi namun sign and symptom, tanda dan gejala dari problem."
+      },
+      "RD2": {
+        "factuality": 3,
+        "completeness": 3,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 3,
+        "completeness": 2,
+        "safety": 1,
+        "comment": "Format PES jawaban kandidat tidak sesuai dengan kaidah/pedoman. Seharusnya yang benar adalah P = Problem, E = Etiologi, S = Sign/Symptoms, bukan S = Solusi."
+      }
+    },
+    "U007": {
+      "RD1": {
+        "factuality": 4,
+        "completeness": 3,
+        "safety": 4
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5,
+        "comment": "kalimat dituliskan berulang-ulang"
+      },
+      "RD3": {
+        "factuality": 2,
+        "safety": 2,
+        "comment": "Jawaban kandidat kurang sesuai dibandingkan dengan jawaban referensi.",
+        "completeness": 3
+      }
+    },
+    "U008": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 4,
+        "completeness": 5,
+        "safety": 5
+      }
+    },
+    "U009": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5,
+        "comment": "kata \"dikontrastikan\" tidak sesuai dengan KBBI"
+      },
+      "RD3": {
+        "ref_problem": true,
+        "factuality": 3,
+        "completeness": 5,
+        "safety": 3,
+        "comment": "Jawaban referensi kurang tepat. Perhitungan persentase LiLA untuk anak laki-laki usia 12 tahun 6 bulan yaitu = (LiLA yang diukur / standar LiLA sesuai usia dan jenis kelamin) x 100%. Hasil yang didapatkan adalah 88% yang mana termasuk dalam kategori gizi baik/normal"
+      }
+    },
+    "U010": {
+      "RD1": {
+        "factuality": 1,
+        "completeness": 1,
+        "safety": 1
+      },
+      "RD2": {
+        "factuality": 1,
+        "completeness": 1,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 1,
+        "completeness": 1,
+        "safety": 1,
+        "comment": "Tidak terdapat jawaban pada jawaban kandidat "
+      }
+    },
+    "U011": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 3,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 2,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 5,
+        "completeness": 4,
+        "safety": 5,
+        "comment": "Jawaban kandidat sudah sesuai dengan referensi, namun tidak selengkap jawaban referensi yang memberikan beberapa jawaban baru kemudian dikerucutkan/disimpulkan"
+      }
+    },
+    "U012": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 4,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 3,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 4,
+        "completeness": 3,
+        "safety": 3,
+        "comment": "Pada jawaban referensi terdapat jawaban yang kurang yaitu perhitungan kebutuhan makronutrien lemak"
+      }
+    },
+    "U013": {
+      "RD1": {
+        "ref_problem": true,
+        "factuality": 1,
+        "completeness": 3,
+        "safety": 1,
+        "comment": "Jumlah lemak+protein+karbo=150% bukan 100%"
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 3,
+        "safety": 5
+      },
+      "RD3": {
+        "ref_problem": true,
+        "comment": "Terdapat kesalahan pada jawaban referensi yaitu pada pembagian persentase makronutrien karbohidrat, protein, dan lemak",
+        "factuality": 2,
+        "completeness": 2,
+        "safety": 2
+      }
+    },
+    "U014": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 3,
+        "safety": 5,
+        "comment": "terdapat simbol yang tidak relevan, yaitu £55"
+      },
+      "RD3": {
+        "factuality": 4,
+        "completeness": 3,
+        "safety": 3,
+        "comment": "Format jawaban kandidat sudah baik karena lebih ringkas dan tidak bertele-tele jika dibandingkan dengan jawaban referensi. Namun, jawaban kandidat tidak lengkap karena terputus di tengah jalan"
+      }
+    },
+    "U015": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 3
+      },
+      "RD3": {
+        "factuality": 3,
+        "completeness": 3,
+        "safety": 2
+      }
+    },
+    "U016": {
+      "RD1": {
+        "completeness": 5,
+        "safety": 4,
+        "factuality": 4,
+        "comment": "eosinofil tinggi seharusnya hasilnyarendah"
+      },
+      "RD2": {
+        "factuality": 4,
+        "completeness": 3,
+        "safety": 4
+      },
+      "RD3": {
+        "factuality": 2,
+        "completeness": 3,
+        "safety": 2,
+        "comment": "Terdapat jawaban yang kurang sesuai pada jawaban kandidat"
+      }
+    },
+    "U017": {
+      "RD1": {
+        "factuality": 3,
+        "completeness": 3,
+        "safety": 3,
+        "comment": "P itu Problem E etiology S sign and symptom"
+      },
+      "RD2": {
+        "factuality": 1,
+        "completeness": 2,
+        "safety": 3
+      },
+      "RD3": {
+        "factuality": 1,
+        "completeness": 1,
+        "safety": 1,
+        "comment": "Komponen PES pada diagnosis gizi di jawaban kandidat salah, seharusnya P = Problem, E = Etiologi, S = Sign/Symptoms"
+      }
+    },
+    "U018": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 4,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 5,
+        "completeness": 4,
+        "safety": 5
+      }
+    },
+    "U019": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5,
+        "comment": "Penulisan pada jawaban kandidat harus dibenahi agar sesuai dengan standar penulisan indikator status gizi"
+      }
+    },
+    "U020": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 3,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 5,
+        "completeness": 4,
+        "safety": 5,
+        "comment": "Pada jawaban kandidat terdapat data berupa angka yang tidak ada di jawaban referensi, sehingga tidak bisa dibuktikan kebenaran angkanya, namun kategori rendah dan tingginya sudah sesuai."
+      }
+    },
+    "U021": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 3,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 3,
+        "completeness": 3,
+        "safety": 2,
+        "comment": "Jawaban kandidat kurang lengkap"
+      }
+    },
+    "U022": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      }
+    },
+    "U023": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 3,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 5,
+        "completeness": 4,
+        "safety": 5,
+        "comment": "Pada jawaban kandidat terdapat data berupa angka yang tidak ada di jawaban referensi, sehingga tidak bisa dibuktikan kebenaran angkanya, namun kategori rendah dan tingginya sudah sesuai"
+      }
+    },
+    "U024": {
+      "RD1": {
+        "factuality": 1,
+        "completeness": 1,
+        "safety": 1
+      },
+      "RD2": {
+        "factuality": 1,
+        "completeness": 1,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 1,
+        "completeness": 1,
+        "safety": 1,
+        "comment": "Tidak terdapat jawaban pada jawaban kandidat"
+      }
+    },
+    "U025": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 4,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 3,
+        "safety": 5,
+        "comment": "Penulisan tidak sesuai dengan format penulisan diagnosis gizi"
+      },
+      "RD3": {
+        "factuality": 4,
+        "completeness": 3,
+        "safety": 3,
+        "comment": "Pada jawaban kandidat, diagnosis gizi pada PES tidak dituliskan satu per satu menggunakan domain diagnosis, melainkan gabungan dari semua permasalahan."
+      }
+    },
+    "U026": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 4,
+        "completeness": 5,
+        "safety": 5
+      }
+    },
+    "U027": {
+      "RD1": {
+        "factuality": 1,
+        "completeness": 1,
+        "safety": 1
+      },
+      "RD2": {
+        "factuality": 1,
+        "completeness": 1,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 1,
+        "completeness": 1,
+        "safety": 1,
+        "comment": "Tidak terdapat jawaban pada jawaban kandidat"
+      }
+    },
+    "U028": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 4,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 4,
+        "completeness": 3,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 4,
+        "completeness": 3,
+        "safety": 3
+      }
+    },
+    "U029": {
+      "RD1": {
+        "safety": 4,
+        "completeness": 4,
+        "factuality": 4,
+        "comment": "NI 1.2 referensi tidak lengkap, sign symptom belum ada. "
+      },
+      "RD2": {
+        "factuality": 3,
+        "completeness": 3,
+        "safety": 3,
+        "comment": "Tidak ada data penurunan berat badan, namun jawaban kandidat menyebutkannya"
+      },
+      "RD3": {
+        "factuality": 2,
+        "completeness": 1,
+        "safety": 1,
+        "comment": "Jawaban kandidat tidak lengkap"
+      }
+    },
+    "U030": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 3,
+        "completeness": 5,
+        "safety": 2,
+        "ref_problem": true,
+        "comment": "Pada neonatus sebaiknya pemberian protein diberikan adekuat dan disesuaikan dengan kebutuhan secara bertahap"
+      }
+    },
+    "U031": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      }
+    },
+    "U032": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 4,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 3,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 4,
+        "completeness": 4,
+        "safety": 3,
+        "comment": "Terdapat 1 domain diagnosis gizi yang tidak tercantum pada jawaban kandidat"
+      }
+    },
+    "U033": {
+      "RD1": {
+        "completeness": 5,
+        "safety": 5,
+        "factuality": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      }
+    },
+    "U034": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 3,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 3,
+        "completeness": 2,
+        "safety": 4
+      }
+    },
+    "U035": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 3,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 4,
+        "completeness": 3,
+        "safety": 4
+      }
+    },
+    "U036": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 3,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 2,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 2,
+        "completeness": 1,
+        "safety": 1,
+        "comment": "Jawaban kandidat tidak lengkap seperti di referensi"
+      }
+    },
+    "U037": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      }
+    },
+    "U038": {
+      "RD1": {
+        "factuality": 4,
+        "completeness": 3,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5,
+        "comment": "Terdapat beberapa kata yang tidak sinkron dengan topik: \"bab v kesimpulan dan saran 5. 1 kesimpulan 1\""
+      },
+      "RD3": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      }
+    },
+    "U039": {
+      "RD1": {
+        "factuality": 3,
+        "completeness": 3,
+        "safety": 3
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 3,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 3,
+        "completeness": 2,
+        "safety": 2,
+        "comment": "Jawaban kandidat tidak lengkap seperti jawaban referensi"
+      }
+    },
+    "U040": {
+      "RD1": {
+        "factuality": 3,
+        "completeness": 3,
+        "safety": 3
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5,
+        "comment": "Terdapat kalimat yang tidak sinkron dengan referensi: \"tabel 2. 5 data biokimia [ table 0 ] data lab nilai interpretasi - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \""
+      },
+      "RD3": {
+        "factuality": 2,
+        "completeness": 2,
+        "safety": 1,
+        "comment": "Penulisan jawaban kandidat tidak sesuai dengan referensi"
+      }
+    },
+    "U041": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 4,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      }
+    },
+    "U042": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 3,
+        "safety": 4
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 3,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 5,
+        "completeness": 4,
+        "safety": 5,
+        "comment": "Kesimpulan jawaban kandidat benar, namun kurang lengkap jika dibandingkan dengan jawaban referensi"
+      }
+    },
+    "U043": {
+      "RD1": {
+        "factuality": 4,
+        "completeness": 3,
+        "safety": 4
+      },
+      "RD2": {
+        "factuality": 4,
+        "completeness": 3,
+        "safety": 3
+      },
+      "RD3": {
+        "factuality": 5,
+        "completeness": 2,
+        "safety": 2,
+        "comment": "Penulisan jawaban kandidat sudah sesuai seperti jawaban referensi, namun tidak lengkap sehingga dapat berpengaruh terhadap keamanan klinis"
+      }
+    },
+    "U044": {
+      "RD1": {
+        "factuality": 4,
+        "completeness": 4,
+        "safety": 3,
+        "comment": "**Solusi (S)** ini tidak tepat ya, seharusnya Sign and Symptom/tanda dan gejala dari problem (P)"
+      },
+      "RD2": {
+        "factuality": 3,
+        "completeness": 3,
+        "safety": 3
+      },
+      "RD3": {
+        "factuality": 3,
+        "completeness": 3,
+        "safety": 2,
+        "comment": "Format S pada jawaban kandidat tidak sesuai dengan pedoman"
+      }
+    },
+    "U045": {
+      "RD1": {
+        "factuality": 1,
+        "completeness": 1,
+        "safety": 1
+      },
+      "RD2": {
+        "factuality": 1,
+        "completeness": 1,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 1,
+        "completeness": 1,
+        "safety": 1,
+        "comment": "Tidak terdapat jawaban pada jawaban kandidat"
+      }
+    },
+    "U046": {
+      "RD1": {
+        "safety": 4,
+        "completeness": 4,
+        "factuality": 4,
+        "comment": "Penurunan berat badan tidak diharapkan membutuhkan data berat badan sebelumnya (weight history), dimana tidak ada data tersebut, jadi bagaimana mengatahui tren turunnya?"
+      },
+      "RD2": {
+        "factuality": 3,
+        "completeness": 5,
+        "safety": 4
+      },
+      "RD3": {
+        "factuality": 4,
+        "completeness": 5,
+        "safety": 4,
+        "comment": "Terdapat penambahan jawaban pada jawaban kandidat yang tidak dapat diverifikasi kebenarannya karena tidak tercantum di jawaban referensi"
+      }
+    },
+    "U047": {
+      "RD1": {
+        "factuality": 5,
+        "completeness": 4,
+        "safety": 4
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 4,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 5,
+        "completeness": 5,
+        "safety": 5
+      }
+    },
+    "U048": {
+      "RD1": {
+        "factuality": 1,
+        "completeness": 1,
+        "safety": 1
+      },
+      "RD2": {
+        "factuality": 1,
+        "completeness": 1,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 1,
+        "completeness": 1,
+        "safety": 1,
+        "comment": "Tidak terdapat jawaban pada jawaban kandidat"
+      }
+    },
+    "U049": {
+      "RD1": {
+        "completeness": 3,
+        "safety": 3,
+        "factuality": 3
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 3,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 4,
+        "completeness": 2,
+        "safety": 2,
+        "comment": "Jawaban kandidat tidak lengkap"
+      }
+    },
+    "U050": {
+      "RD1": {
+        "factuality": 4,
+        "completeness": 3,
+        "safety": 4
+      },
+      "RD2": {
+        "factuality": 5,
+        "completeness": 3,
+        "safety": 5
+      },
+      "RD3": {
+        "factuality": 3,
+        "completeness": 2,
+        "safety": 2,
+        "comment": "Jawaban kandidat tidak lengkap"
+      }
+    }
+  }
+}

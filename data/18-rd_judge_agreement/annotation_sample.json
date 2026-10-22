@@ -1,0 +1,1382 @@
+{
+  "config": {
+    "n_units": 50,
+    "seed": 42,
+    "judges": [
+      "gpt-4o-mini",
+      "claude-haiku-4-5"
+    ],
+    "stratification": "question_category x system_tier (tertiles of mean token-F1)",
+    "distinct_test_items": 50,
+    "distinct_source_reports": 20,
+    "acceptable_threshold": 4,
+    "dimensions": [
+      "factuality",
+      "completeness",
+      "safety"
+    ]
+  },
+  "plan": {
+    "factual|high": 5,
+    "factual|low": 6,
+    "factual|mid": 6,
+    "inferential|high": 5,
+    "inferential|low": 6,
+    "inferential|mid": 6,
+    "recommendation|high": 5,
+    "recommendation|low": 6,
+    "recommendation|mid": 5
+  },
+  "units": [
+    {
+      "test_index": 111,
+      "system": "llm__sahabat-ai-llama3-8b__5shot",
+      "tier": "high",
+      "question": "Bagaimana data biokimia/parameter lab pada pasien (yg abnormal)?",
+      "question_category": "factual",
+      "file": "RENDAH  KECIL MASA KEHAMILAN + PNEUMONIA + RESPIRATORY FAILURE + S.chunks.json",
+      "qa_id": 885,
+      "context": "i\nrespons tubuh terhadap\ninfeksi seperti eosinofil\nmenurun, limfosit\nmeningkat, monosit\nmeningkat (Fitriani et al .,\n2019)\n● Peningkatan SGOT dan\nSGPT menandakan\nadanya kerusakan pada\nsel hati (Rosida, 2016)\n● Peningkatan bilirubin\nberkaitan dengan\nkolestasis yang\nmenyebabkan\npenumpukan bilirubin\ndalam darah (Widodo\ndan Kusbin, 2023)\n● Penurunan albumin\nmenandakan gangguan\nfungsi hati (Widodo dan\nKusbin, 2023) |  | Media: leaflet\nMateri: ASI dan makanan bagi\nibu menyusui\nEvaluasi: melakukan tanya\njawab sehingga ibu pasien dapat\nmenyebutkan kembali kata kunci\npentingnya ASI dan bagaimana\npengaturan makan yang baik\nbagi ibu menyusui\nRC-1 Kolaborasi dan rujukan\nasuhan gizi\nMelakukan kolaborasi dengan\ndokter, perawat, farmasi, dan\ntenaga kesehatan lain terkait\npenilaian fisik klinis, pemberian\nobat dan pemeriksaan nilai\nbiokimia pasien | AD-1 Komposisi tubuh,\npertumbuhan, dan riwayat\nberat badan\nFrekuensi: 1x di hari ketiga\nmonitoring evaluasi\nMetode: pengukuran secara\nlangsung\nTarget: BB ",
+      "anthropometric_assessment": "Jenis kelamin: laki-laki Usia: 1 bulan 5 hari BB: 2,24 kg PB/TB: 46 cm LILA: - LK: 31 cm TL: -",
+      "medical_diagnosis": "Neonatus Aterm / Berat Badan Lahir Rendah / Kecil Masa Kehamilan + \nPneumonia + Respiratory Failure + S. Sepsis + Kolestasis + S. Down Syndrome",
+      "reference": "Peningkatan eritrosit dan \npeningkatan MCHC yang \nmenunjukkan \npeningkatan hemoglobin \ndalam eritrosit berkaitan \ndengan kompensasi \ntubuh terhadap respon \nhipoksia pada pasien dengan gangguan napas. \nPenurunan MCV \nmenunjukkan ukuran \nrata-rata eritrosit menjadi \nlebih kecil (mikrositik) \nkarena adanya infeksi. \n(Tjitradi et al ., 2022) \n● Kondisi infeksi dan \ninflamasi sistemik \nterutama sepsis \nmenyebabkan perubahan \nprofil inflamasi sebagai \nrespons tubuh terhadap \ninfeksi seperti eosinofil \nmenurun, limfosit \nmeningkat, monosit \nmeningkat (Fitriani et al ., \n2019) \n● Peningkatan SGOT dan \nSGPT menandakan \nadanya kerusakan pada \nsel hati (Rosida, 2016) \n● Peningkatan bilirubin \nberkaitan dengan \nkolestasis yang \nmenyebabkan \npenumpukan bilirubin \ndalam darah (Widodo \ndan Kusbin, 2023) \n● Penurunan albumin \nmenandakan gangguan \nfungsi hati (Widodo dan \nKusbin, 2023) \n\n",
+      "prediction": "Peningkatan SGOT dan SGPT menandakan adanya kerusakan pada sel hati, peningkatan bilirubin berkaitan dengan kolestasis yang menyebabkan penumpukan bilirubin dalam darah, penurunan albumin menandakan gangguan fungsi hati.",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 3,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 5,
+          "completeness": 2,
+          "safety": 5
+        }
+      },
+      "unit_id": "U001"
+    },
+    {
+      "test_index": 58,
+      "system": "baseline__rifky",
+      "tier": "mid",
+      "question": "Apa tujuan diet pada pasien ini?",
+      "question_category": "recommendation",
+      "file": "GEA+VOMITING+ISPA .chunks.json",
+      "qa_id": 832,
+      "context": "a.) Edukasi pemberian makanan sesuai kondisi dan kemampuan pasien -> pemberian makanan lunak\nbubur halus, lauk cacah.\nb.) Mengedukasi keluarga pasien untuk bisa menyediakan atau mengolah bahan makanan yang\ndianjurkan dengan tatacara pengolahan yang tepat, pengenalan bahan makanan yang\ndirekomendasikan.\nWaktu: 30 menit\nFrekuensi: setiap 3 hari 1x hingga terdapat penambahan BB.\nMedia: Lembar leaflet tentang stunting, kesesuain tekstur dan pemenuhan MPASI sesuai dengan\ntahapan usia, pentingnya asi eksklusif, hygiene sanitasi dan makanan sehat untuk balita.\nRC-1 Kolaborasi dengan tenaga kesehatan (dokter/perawat) terkait pemberian obat-obatan yang\ndigunakan.\n2.7 Terapi Gizi\n(ND-1) pemberian 3x makan utama dan 2x ekstra oral susu PAN-ENTERAL\n• Tujuan Diet\nTatalaksana diet pada anak dengan diare akut bertujuan untuk memenuhi kebutuhan zat gizi\ntanpa memperberat kerja saluran cerna.\n• Prinsip Diet\nRendah serat\nTinggi Protein\n• Syarat Diet\n- Kebutuhan gizi pada anak diare merujuk pada kebutuha",
+      "anthropometric_assessment": "Jenis kelamin: Laki-laki Usia: 11 bulan BB: 7,2 kg PB/TB: 69 cm LILA: 13 cm LK: - TL: -",
+      "medical_diagnosis": "GEA+Vommiting+ISPA+PJB",
+      "reference": "Tatalaksana diet pada anak dengan diare akut bertujuan untuk memenuhi kebutuhan zat gizi \ntanpa memperberat kerja saluran cerna.",
+      "prediction": "untuk memenuhi kebutuhan zat gizi tanpa memperberat kerja saluran cerna. •",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 4,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 5,
+          "completeness": 2,
+          "safety": 5
+        }
+      },
+      "unit_id": "U002"
+    },
+    {
+      "test_index": 25,
+      "system": "llm__sahabat-ai-llama3-8b__0shot",
+      "tier": "low",
+      "question": "Bagaimana syarat diet yang harus dipenuhi dalam pengaturan diet pasien ini?",
+      "question_category": "recommendation",
+      "file": "Post Op PSARP dan Repair Retrouretrae.chunks.json",
+      "qa_id": 799,
+      "context": "mber\nmakanan dari protein yang dikonsumsi seperti ikan dan sumber minyak kelapa sawit\nyang mengandung vitamin E dan karoten agar membantu meningkatkan sistem\nimunitas pasien (Siregar,2018).\n5. Karbohidrat cukup, yaitu sisa dari energi, lemak dan protein yang telah disesuaikan\n(60%) atau setara dengan 255 gram. Karbohidrat yang diberikan bertujuan sebagai\nsumber energi. Karbohidrat yang diutamakan karbohidrat kompleks seperti nasi,\nsingkong, sayuran, dan buah-buahan.\n6. Serat diberikan sebesar 10 gram (Kemenkes, 2019; Nurjannah dkk, 2019) Tujuan\ndiberikan serat agar menghindari pendarahan dan perforasi pada usus karena kondisi\npasien yang terdapat infeksi saluran cerna (Ekasuci (2021); Adissadah (2019)).\n7. Vitamin C diberikan sebesar 45 mg (Kemenkes, 2019).\nVitamin C merupakan salah satu micronutrient antioksidan yang dapat membantu\npemulihan infeksi (Ibeh et al, 2019). Hal ini dikarenakan vitamin C mampu berperan\ndalam melindungi sel-sel dan jaringan terhadap kerusakan yang disebabkan",
+      "anthropometric_assessment": "Jenis kelamin: Laki-laki Usia: 7 tahun 6 bulan BB: 22 kg PB/TB: 122 cm LILA: 20 cm LK: -",
+      "medical_diagnosis": "Post Op PSARP dan Repair Retrouretrae",
+      "reference": "Pemberian diet via oral, dengan 3x makanan utama dengan bentuk makanan \ndiberikan secara bertahap, mulai dari bubur halus dan 1x snack (pada pagi hari). \nEnergi dihitung menggunakan rumus IDAI (2014) didapat hasil sebesar 1700 kkal. \nAsupan energi yang adekuat bertujuan agar protein tidak dipecah menjadi sumber \nenergi. \nProtein diberikan tinggi sebesar 63,75 gram atau setara dengan 15% dari total asupan \nenergi (IDAI, 2014). Diberikan protein tinggi karena terjadi infeksi di dalam tubuh dan \nuntuk meningkatkan massa otot. Contoh protein dapat berupa ayam, telur ayam, ikan, \ntempe, tahu, dan lainnya (Pratiwy dan Pratiwi, 2021). \nLemak diberikan sebesar 25% dari total kalori, setara dengan 48 gram dengan jenis \nPUFA dan MUFA untuk meningkatkan system imun pada pasien dengan sumber \nmakanan dari protein yang dikonsumsi seperti ikan dan sumber minyak kelapa sawit \nyang mengandung vitamin E dan karoten agar membantu meningkatkan sistem \nimunitas pasien (Siregar,2018). \nKarbohidrat cukup, yaitu sisa dari energi, lemak dan protein yang telah disesuaikan \n(60%) atau setara dengan 255 gram. Karbohidrat yang diberikan bertujuan sebagai \nsumber energi. Karbohidrat yang diutamakan karbohidrat kompleks seperti nasi, \nsingkong, sayuran, dan buah-buahan. \nSerat diberikan sebesar 10 gram (Kemenkes, 2019; Nurjannah dkk, 2019) Tujuan \ndiberikan serat agar menghindari pendarahan dan perforasi pada usus karena kondisi \npasien yang terdapat infeksi saluran cerna (Ekasuci (2021); Adissadah (2019)). \nVitamin C diberikan sebesar 45 mg (Kemenkes, 2019). \nVitamin C merupakan salah satu micronutrient antioksidan yang dapat membantu \npemulihan infeksi (Ibeh et al, 2019). Hal ini dikarenakan vitamin C mampu berperan \ndalam melindungi sel-sel dan jaringan terhadap kerusakan yang disebabkan oleh \noksigen reaktif dan nitrogen species yang meningkat selama menderita penyakit \nmenular, utamanya ketika system kekebalan tubuh diaktifkan untuk menghilangkan \nadanya organisme pathogen (Pettalolo, 2015). \nVitamin E diberikan sebesar 8 mcg (Kemenkes, 2019) \nZink diberikan sebesar 5 mcg (Kemenkes, 2019) \nPenambahan substansi antioksidan lain berupa vitamin D, vitamin E, dan zink dapat \nmemberikan pengaruh terhadap efektivitas suplementasi untuk meningkatkan sistem \nimun (Maulia, 2019). \nVitamin D diberikan sebesar 15 mcg (Kemenkes, 2019) \nDiberikan cairan sebesar 1960 ml sesuai dengan perhitungan rumus Holiday – Sega.",
+      "prediction": "Dalam pengaturan diet pasien ini, syarat diet yang harus dipenuhi adalah sebagai berikut:\n\n1. Protein yang cukup, yaitu sekitar 60% dari total kalori, dengan sumber protein dari ikan dan sumber minyak kelapa sawit yang mengandung vitamin E dan karoten untuk meningkatkan sistem imunitas.\n2. Karbohidrat yang cukup, yaitu sekitar 255 gram, yang diberikan sebagai sumber energi, dengan fokus pada karbohidrat kompleks seperti nasi, singkong, sayuran, dan buah-buahan.\n3. Serat yang cukup, yaitu sebesar 10 gram, untuk menghindari pendarahan dan perforasi pada usus karena kondisi pasien yang terdapat infeksi saluran cerna.\n4. Vitamin C yang cukup, yaitu sebesar 45 mg, sebagai salah satu micronutrient antioksidan yang dapat membantu pemulihan infeksi dan melindungi sel-sel dan jaringan terhadap kerusakan.assistant\n\nDalam pengaturan diet pasien ini,",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 2,
+          "completeness": 3,
+          "safety": 4
+        },
+        "claude-haiku-4-5": {
+          "factuality": 2,
+          "completeness": 2,
+          "safety": 2
+        }
+      },
+      "unit_id": "U003"
+    },
+    {
+      "test_index": 29,
+      "system": "llm__biomistral-7b__5shot",
+      "tier": "mid",
+      "question": "Bagaimana menyusun diagnosis gizi dengan format PES pada pasien ini?",
+      "question_category": "inferential",
+      "file": "PASIEN DENGUE HAEMORAGIC FEVER (DHF) GRADE III.chunks.json",
+      "qa_id": 803,
+      "context": "Berat badan berlebih ditandai dengan kebiasaan suka jajanan manis dan gorengan\nserta kurangnya aktivitas fisik ditandai dengan status gizi menurut CDC 2000 =\n112% (overweight)\nNB-1.1\nKurangnya pengetahuan tentang gizi dan makanan berkaitan dengan pasien\nbelum pernah mendapatkan edukasi gizi sebelumnya ditandai dengan pasien tidak\nmenyukai sayur dan buah (kecuali 3 jenis sayur bayam, wortel, kubis), kebiasaan\nmakan makanan manis setiap hari (mochi, es krim), menyukai pengolahan lauk\ndigoreng\n22",
+      "anthropometric_assessment": "Jenis kelamin: Laki-laki Usia: 13 tahun 9 bulan BB: 67,25 kg PB/TB: 173 cm LILA: 28 cm LK: - TL: 54 cm",
+      "medical_diagnosis": "DHF Grade III",
+      "reference": "NI- 2.1 \nAsupan makanan dan minuman per oral tidak adekuat berkaitan dengan keluhan \nmual dan pusing sehingga tidak nafsu makan ditandai dengan hasil recall 24 h \nenergi 39% (defisit tingkat berat), protein 60% (defisit tingkat berat), lemak 71% \n(defisit tingkat berat), karbohidrat 22% (defisit tingkat berat) \nNI-5.1 \nPeningkatan kebutuhan zat gizi tertentu (protein) berkaitan dengan penyakit DHF \ndan katabolisme protein pada pasien ditandai dengan PLT turun, HGB turun, WBC \nturun, MCV turun, MCHC turun, pasien merasa lemas, pusing, dan mual \nNC-3.3 Berat badan berlebih ditandai dengan kebiasaan suka jajanan manis dan gorengan \nserta kurangnya aktivitas fisik ditandai dengan status gizi menurut CDC 2000 = \n112% (overweight) \nNB-1.1 \nKurangnya pengetahuan tentang gizi dan makanan berkaitan dengan pasien \nbelum pernah mendapatkan edukasi gizi sebelumnya ditandai dengan pasien tidak \nmenyukai sayur dan buah (kecuali 3 jenis sayur bayam, wortel, kubis), kebiasaan \nmakan makanan manis setiap hari (mochi, es krim), menyukai pengolahan lauk \ndigoreng",
+      "prediction": "NI-2.9  Keterbatasan penerimaan makanan berkaitan dengan kondisi kegawatan pada  anak disertai gizi buruk ditandai dengan kurangnya kemampuan dalam menghisap ASI, dan menyusui sering terputus. NC-4.1  Kondisi malnutrisi yang diderita berkaitan dengan pola asuh orangtua terkait gizi ditandai dengan kebiasaan makan selama 3 bulan kurang asupan energi dan karbohidrat; pengukuran antropometri indikator BB/U dikategorikan severely underweight, BB/TB dikategorikan gizi buruk, TB/U dikategorikan terindikasi stunting, dan LLA < 11.5 cm; peningkatan berat badan tidak sesuai standar (BGM); hasil skor McLaren 1 sehingga dikategorikan gizi",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 1,
+          "completeness": 1,
+          "safety": 3
+        },
+        "claude-haiku-4-5": {
+          "factuality": 1,
+          "completeness": 1,
+          "safety": 2
+        }
+      },
+      "unit_id": "U004"
+    },
+    {
+      "test_index": 55,
+      "system": "baseline__mt5",
+      "tier": "low",
+      "question": "Bagaimana status gizi pada pasien ini?",
+      "question_category": "inferential",
+      "file": "GEA+VOMITING+ISPA .chunks.json",
+      "qa_id": 829,
+      "context": "BB/U = < P5 (Gizi Kurang)\nTB/U = < P5 (Pendek)\nBBI = 8,6 Kg\nUsia sesuai TB = 7 bulan.\nKesimpulan :\nBerdasarkan dengan hasil pengamatan menggunakan perhitungan status gizi berdasarkan CDC\n(2000) status gizi pasien tergolong Gizi kurang/malnutrisi sedang.\n11",
+      "anthropometric_assessment": "Jenis kelamin: Laki-laki Usia: 11 bulan BB: 7,2 kg PB/TB: 69 cm LILA: 13 cm LK: - TL: -",
+      "medical_diagnosis": "GEA+Vommiting+ISPA+PJB",
+      "reference": "Status gizi pasien adalah gizi buruk dengan \nperawakan pendek.",
+      "prediction": "<extra_id_0> gizi,",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 1,
+          "completeness": 1,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 1,
+          "completeness": 1,
+          "safety": 5
+        }
+      },
+      "unit_id": "U005"
+    },
+    {
+      "test_index": 126,
+      "system": "llm__sahabat-ai-llama3-8b__0shot",
+      "tier": "low",
+      "question": "Bagaimana menyusun diagnosis gizi dengan format PES pada pasien ini?",
+      "question_category": "inferential",
+      "file": "SHOCK, EFUSI PLEURA), HIPERTENSI STAGE I, LUPUS NEFRITIS SEVERE FLARE, SUSP..chunks.json",
+      "qa_id": 900,
+      "context": " penderita lupus nefritis meliputi asupan protein yang cukup tetapi tidak\nberlebihan, pembatasan garam untuk mengontrol tekanan darah (Roveta et al., 2024).\nBerdasarkan keseluruhan hasil pengkajian gizi <NAMA>, beberapa diagnosis gizi yang\nditegakkan yaitu [NI 2.11] Keterbatasan penerimaan makan, berkaitan dengan gangguan\nsaluran cerna (UGIB), ditandai dengan pasien muntah berdarah, pasien dipuasakan sementara,\nterpasang NGT, serta asupan energi MRS 12,10% (defisit berat); [NI 1.1] Peningkatan\nkebutuhan energi, berkaitan dengan kondisi infeksi yang diderita pasien, ditandai dengan\nkadar procalcitonin (4,07 ng/mL), C3 (63 mg/dL) leukosit (2,46 x 103/μL), trombosit (102 x\n103/μL), eosinophil (0%), neutrofil (81,9%), dan limfosit (11%); [NI 5.3] Penurunan kebutuhan\nnatrium, berkaitan dengan kondisi lupus nefritis, ditandai dengan tekanan darah 150/99 mmHg;\n22",
+      "anthropometric_assessment": "Jenis kelamin: perempuan Usia: 15 tahun BB: 35,4kg PB/TB: 135 cm LILA: 22 cm LK: - TL: -",
+      "medical_diagnosis": "status gizi pasien berdasarkan analisis \nkurva CDC adalah gizi normal dengan \nperawakan sangat pendek dan sangat \nkurus.",
+      "reference": "[NI 2.11] \nKeterbatasan \npenerimaan makan, \nberkaitan dengan \ngangguan saluran \ncerna (UGIB), ditandai \ndengan pasien \nmuntah berdarah, \npasien dipuasakan \nsementara, terpasang \nNGT, serta asupan \nenergi MRS 12,10% \n(defisit berat). \n\n[NI 1.1] Peningkatan \nkebutuhan energi, \nberkaitan dengan \nkondisi infeksi yang \ndiderita pasien, \nditandai dengan kadar \nprocalcitonin (4,07 \nng/mL), C3 (63 mg/dLleukosit (2,46 x \n103/μL), trombosit \n(102 x 103/μL), \neosinophil (0%), \nneutrofil (81,9%), dan \nlimfosit (11%). \n\n[NI 5.3] Penurunan \nkebutuhan natrium, \nberkaitan dengan \nkondisi lupus nefritis, \nditandai dengan \ntekanan darah 150/99 \nmmHg. \n\n[NC 4.1.5] Malnutrisi \nanak karena \npenyakit, berkaitan \ndengan peningkatan \nkebutuhan zat gizi \nkarena kondisi lupus \nnefritis severe flare, \nditandai dengan \nketertinggalan tinggi \nbadan (TB/U = <5th), \nperawakan sangat \nkurus (BB/U = <5th), \nasupan energi \n(62,92%), dan protein \n(67,27%). \n\n[NB 1.1] Kurangnya \npengetahuan terkait \ngizi, berkaitan dengan \nkurangnya paparan informasi terkait gizi \ntumbuh kembang \nanak dan keluarga \npasien belum \nmendapatkan \nkonseling gizi terkait \nkondisi medis saat ini, \nditandai dengan status \ngizi kurang (LILA P5th – P10th) asupan energi \n(62,92%), protein \n(67,27%), lemak \n(79,69%), karbohidrat \n(53,99%)",
+      "prediction": "Dengan mempertimbangkan profil pasien dan diagnosis gizi yang ditegakkan, diagnosis gizi dengan format PES (Problem, Etiologi, Solusi) dapat disusun sebagai berikut:\n\n**P** (Problem): Pasien mengalami keterbatasan penerimaan makan, peningkatan kebutuhan energi, dan penurunan kebutuhan natrium.\n\n**E** (Etiologi): Keterbatasan penerimaan makan disebabkan oleh gangguan saluran cerna (UGIB) yang ditandai dengan muntah berdarah dan dipuasakan sementara. Peningkatan kebutuhan energi disebabkan oleh kondisi infeksi yang diderita pasien, ditandai dengan kadar procalcitonin dan leukosit yang meningkat. Penurunan kebutuhan natrium disebabkan oleh kondisi lupus nefritis yang ditandai dengan tekanan darah tinggi.\n\n**S** (Solusi): Pasien memerlukan asupan energi yang cukup untuk mengatasi defisit berat, serta pembatasan garam untuk mengontrol te",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 4,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 4,
+          "completeness": 2,
+          "safety": 3
+        }
+      },
+      "unit_id": "U006"
+    },
+    {
+      "test_index": 67,
+      "system": "llm__sahabat-ai-llama3-8b__0shot",
+      "tier": "low",
+      "question": "Apa metode skrining status gizi yang direkomendasikan?",
+      "question_category": "factual",
+      "file": "ASTHMA SERANGAN BERAT, PNEUMONIA, INTRACTABLE EPILEPSI.chunks.json",
+      "qa_id": 841,
+      "context": "ni?\na. Ya\nb. Tidak | Ya\n4. | Apakah berat badan anak kurang jika dilihat secara fisik?\na. Ya\nb. Tidak | Ya\n[END TABLE]\nKeterangan\nJika jawaban Ya pada 2 pertanyaan atau lebih. Anak dinyatakan berisiko malnutrisi\nsehingga perlu dilakukan asuhan gizi terstandar lebih lanjut.\n1.1.3. Pembahasan Skrining\nBerdasarkan hasil skrining menggunakan metode STRONG Kids dan PNST, <NAMA>\nberesiko malnutrisi dan memerlukan asuhan gizi terstandar lebih lanjut. Metode PNST\nmerupakan metode skrinning gizi baru yang dikembangkan oleh rumah sakit Queensland di\nAustralia pada tahun 2018 dan telah divalidasi dengan SGNA sebagai gold standar skrining\npada pasien anak. PNST memiliki sensitivitas sebesar 78,79% dan spesivitas sebesar\n85,29%. Akan tetapi, metode PNST disarankan untuk digunakan pada rumah sakit tersier\ndikarenakan tidak memiliki poin pertanyaan penyakit yang dapat mempengaruhi status gizi\n5",
+      "anthropometric_assessment": "Jenis kelamin: laki-laki Usia: 6 tahun 6 bulan BB: 18,5 kg PB/TB: 117,3 cm LILA: 15,5 cm LK: - TL: -",
+      "medical_diagnosis": "Distress napas ok asthma serangan berat, Pneumonia, Intractable \nepilepsi, Disabilitas intelektual, Global developmental delay",
+      "reference": "Strong Kids dan PNST, direkomendasikan strong kids",
+      "prediction": "Metode skrining status gizi yang direkomendasikan adalah metode PNST (Queensland Children's Hospital Pediatric Nutrition Screening Tool).assistant\n\nMetode skrining status gizi yang direkomendasikan adalah metode PNST (Queensland Children's Hospital Pediatric Nutrition Screening Tool).assistant\n\nMetode skrining status gizi yang direkomendasikan adalah metode PNST (Queensland Children's Hospital Pediatric Nutrition Screening Tool).assistant\n\nMetode skrining status gizi yang direkomendasikan adalah metode PNST (Queensland Children's Hospital Pediatric Nutrition Screening Tool).assistant\n\nMetode skrining status gizi yang direkomendasikan adalah metode PNST (Queensland Children's Hospital Pediatric Nutrition Screening Tool).assistant\n\nMetode skrining status gizi yang direkomendasikan adalah metode PNST (Queensland Children's Hospital Pediatric Nutrition Screening Tool).assistant\n\nMetode skrining status gizi yang direkomendasikan adalah metode PNST (Queensland Children's Hospital Pediatric Nutrition Screening Tool).assistant\n\nMetode skrining status gizi yang direkom",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 1,
+          "completeness": 1,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 2,
+          "completeness": 2,
+          "safety": 4
+        }
+      },
+      "unit_id": "U007"
+    },
+    {
+      "test_index": 4,
+      "system": "llm__gpt-4o-mini__0shot",
+      "tier": "mid",
+      "question": "Apa metode skrining status gizi yang direkomendasikan?",
+      "question_category": "factual",
+      "file": "PHARYNGITIS.chunks.json",
+      "qa_id": 778,
+      "context": "malnutrisi.\nSedangkan, dengan menggunakan PYMS yaitu skor 2 atau resiko tinggi malnutrisi. Rekomendasi\ntools skirining yang digunakan adalah Strong Kids karena penggunaannya cepat dan mudah\nserta terdapat daftar penyakit atau keadaan yang berisiko malnutrisi (Moeeni dan Day, 2010).\nPada tools PYMS juga dapat dijadikan pertimbangan sebagai alat skrining dikarenakan memiliki\nnilai sensitivitas (95,31%) dan spesifitasnya (76,92%) yang tinggi dibanding dengan alat skrining\nanak strong kid dan STAMP (Texeira, 2016 ; Wonoputri 2014).\n5",
+      "anthropometric_assessment": "Jenis kelamin: Laki-laki Usia: 9 tahun 5 bulan BB: 28,1 kg PB/TB: 139,6 cm LILA: - LK: -",
+      "medical_diagnosis": "Pharyngitis",
+      "reference": "Strong Kids dan PYMS, direkomendasikan strong kids",
+      "prediction": "Metode skrining status gizi yang direkomendasikan adalah menggunakan alat skrining Strong Kids, karena penggunaannya cepat dan mudah, serta dapat mengidentifikasi keadaan yang berisiko malnutrisi. Selain itu, alat PYMS juga dapat dipertimbangkan karena memiliki nilai sensitivitas dan spesifisitas yang tinggi.",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 4,
+          "completeness": 3,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 5,
+          "completeness": 5,
+          "safety": 5
+        }
+      },
+      "unit_id": "U008"
+    },
+    {
+      "test_index": 117,
+      "system": "llm__biomistral-7b__5shot",
+      "tier": "mid",
+      "question": "Bagaimana status gizi pada pasien ini?",
+      "question_category": "inferential",
+      "file": "DENGAN KEMOTERAPI, FEBRILE NEUTROPENIA, PANSITOPENIA, STATUS GIZI KURANG.chunks.json",
+      "qa_id": 891,
+      "context": "II. FORM NUTRITIONAL CARE PROCESS\nNama : <NAMA> Jenis Kelamin : L\nUmur : 12 tahun 6 bulan Registrasi : <NO_REG>\nDiagnosis Medis : Syok sepsis, Osteosarkoma dengan kemoterapi, Tanggal MRS : <TGL>\nFebrile Neutropenia, Pansitopenia, Status Gizi Kurang Tanggal asesmen : <TGL>\nAsesmen Gizi Monitoring\nDiagnosis Gizi Intervensi Gizi\nData dasar Identifikasi masalah Evaluasi Gizi\nANTROPOMETRI (AD) Berdasarkan %LILA NI 2.11 Keterbatasan ND-2.1 FH – 1.3.1\n• LILA : 20,5 cm status gizi pasien penerimaan Pemberian formula enteral pemantauan\n• %LILA : 20,5/24,1 x 100% = 85% (Gizi Kurang) tergolong gizi kurang makanan berkaitan Pemberian makanan cair asupan cairan\n• BB (Maret 2025) : 44 kg\ndengan pasien 1C dengan frekuensi\nenteral\ndalam keadaan pemberian 8x 100 cc via\n• TB aktual (Maret 2025) : 140 cm Target: Asupan\nlemah ditandai NGT\n• BBI : 34 kg (CDC,2000)\ndengan penggunaan\nenteral pasien\n• PB : 142 cm minimal 80%\nNGT dan E-1 Edukasi Gizi\n• TB koreksi : 142 – 0,7 cm = 141,3 cm (bertahap)",
+      "anthropometric_assessment": "Jenis kelamin: laki-laki Usia: 12 tahun 6 bulan BB: 34 kg PB/TB: 142 cm LILA: 20,5 cm LK: - TL: -",
+      "medical_diagnosis": "Syok sepsis, Osteosarkoma dengan kemoterapi, Febrile Neutropenia, Pansitopenia, Status Gizi Kurang",
+      "reference": "berdasarkan %LILA \nstatus gizi pasien \ntergolong gizi kurang",
+      "prediction": "Gizi kurang, ketika dikontrastikan dengan data dasar, %LILA = 85% (Gizi Kurang)",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 4,
+          "completeness": 3,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 5,
+          "completeness": 4,
+          "safety": 5
+        }
+      },
+      "unit_id": "U009"
+    },
+    {
+      "test_index": 89,
+      "system": "baseline__mt5",
+      "tier": "low",
+      "question": "Bagaimana status gizi pada pasien ini?",
+      "question_category": "inferential",
+      "file": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.chunks.json",
+      "qa_id": 863,
+      "context": "Pengkajian status gizi antropometri dilakukan menggunakan\npengukuran berat badan, tinggi badan, LILA (Lingkar Lengan Atas) dan lingkar\nkepala. Berdasarkan perhitungan status gizi dengan grafik cdc 2000 pada\nparameter BB/U didapatkan Kesimpulan bahwa An. N memiliki berat badan\nyang sangat kurang (<P5 atau 55,2%). Kemudian jika dilihat dari parameter\nTB/U pasien memiliki tinggi badan yang pendek (<P5 atau 80,3%). Sedangkan\nstatus gizi pasien berdasarkan parameter LLA/U termasuk ke dalam kategori\ngizi buruk dengan hasil LLA/U kurang dari persentil 5. Selama 3 hari\nmonitoring dan evaluasi, pengukuran antropometri ulang dilakukan pada hari\nketiga dimana hanya dapat mengukur ulang LILA dan lingkar kepala pasien\ndan didapatkan hasil 14 cm dan 49,5 cm. Hal ini disebabkan oleh pemasangan\nalat medis yang esensial untuk stabilisasi kondisi pasien, seperti ventilator\nmekanik, infus, dan alat monitoring vital lainnya. Kondisi ini menghambat\npenggunaan metode standar seperti penimbangan berat badan ",
+      "anthropometric_assessment": "Jenis kelamin: perempuan Usia: 7 tahun 9 bulan BB: 13,8 kg PB/TB: 106 cm LILA: 14 cm LK: 49,5 TL: -",
+      "medical_diagnosis": "Respiratory Failure ok Intracarnial Process, \nPneumonia, Meningitis Bakterialis, Non-Hodgkin \nLymphoma on Chemoterapy, Hemiparese Dextra \nok Infark Subakut Temporoparietal Sinistra dd Mild \nCommunicating Hidrosefalus Sinistra, Sinusitis \nEtmoidalis, Sphenoidalis Bilateral Dan Hipertensi \nStage II",
+      "reference": "badan yang sangat \nkurang dan \nberperawakan sangat \npendek serta status \ngizi pasien termasuk \nkategori gizi buruk",
+      "prediction": "<extra_id_0> gizi",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 1,
+          "completeness": 1,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 2,
+          "completeness": 1,
+          "safety": 4
+        }
+      },
+      "unit_id": "U010"
+    },
+    {
+      "test_index": 60,
+      "system": "llm__gpt-4o__0shot",
+      "tier": "mid",
+      "question": "Apa metode skrining status gizi yang direkomendasikan?",
+      "question_category": "factual",
+      "file": "BONE PAIN DT METASTATIC DISEASE DD RADICULOPHATY, DM TIPE 2.chunks.json",
+      "qa_id": 834,
+      "context": "nggi badan,\natau penilaian diet lengkap yang memerlukan pelatihan khusus (Ong dan Chen, 2020).\nPNST terbukti efektif dalam mengidentifikasi malnutrisi pada anak-anak berisiko tinggi\nyang dirawat karena masalah penyakit kronis (White et al., 2020).\nDari ketiga screening tools yang digunakan, PYMS merupakan alat screening yang\npaling direkomendasikan dengan nilai sensitivitas dan spesifisitas tertinggi, yaitu nilai\nsensitivitas (89.1%) dan nilai spesifisitas (88.2%). Selain itu, PYMS memiliki nilai validitas\nyang lebih baik dibandingkan dengan STRONGkids dengan nilai sensitivitas 92,6 persen\ndan spesifisitas 37,98 persen (Indonesiana et al., 2024). Menurut (van Bokhorst-de van\nder Schuerenet et al., 2013), validitas alat skrining yang baik memiliki sensitivitas (Se)\ndan spesifisitas (Sp) >80 persen.\n3.2 Diagnosis dan Intervensi Gizi\nStatus gizi An. C berdasarkan LILA/U ditentukan menggunakan tabel (Gibson, 2005),\ndidapatkan hasil lingkar lengan pasien berada pada < P5th dengan interpreta",
+      "anthropometric_assessment": "Jenis kelamin: Laki-laki Usia: 15 tahun 6 bulan BB: 42 kg PB/TB: 160 cm LILA: 14 cm LK: - TL: -",
+      "medical_diagnosis": "Acute lymphotic leukimia 2, Bone pain dt metastatic disease dd \nradiculopathy, DM tipe 2, Amoebiasis, Post oropharyngeal bleeding, \nGinekomastia nodular mammae dekstra, Febrile neutropenia",
+      "reference": "Strong Kids, PYMS , dan PNST, direkomendasikan PYMS",
+      "prediction": "Metode skrining status gizi yang direkomendasikan adalah PYMS, karena memiliki nilai sensitivitas dan spesifisitas tertinggi.",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 3,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 4,
+          "completeness": 2,
+          "safety": 5
+        }
+      },
+      "unit_id": "U011"
+    },
+    {
+      "test_index": 32,
+      "system": "llm__biomistral-7b__5shot",
+      "tier": "mid",
+      "question": "Bagaimana syarat diet yang harus dipenuhi dalam pengaturan diet pasien ini?",
+      "question_category": "recommendation",
+      "file": "PASIEN DENGUE HAEMORAGIC FEVER (DHF) GRADE III.chunks.json",
+      "qa_id": 806,
+      "context": "D. Rencana Intervensi Gizi\nND-1 Pemberian makanan utama dan snack\nTujuan:\n− Memberikan makanan sesuai dengan kondisi dan kebutuhan pasien\n− Memenuhi kebutuhan energi dan protein yang meninkat untuk mencegah dan\nmengurangi kerusakan jaringan tubuh.\n− Mencapai status gizi pasien secara bertahap hingga normal\nPrinsip: Tinggi Protein\nSyarat Diet:\n− Energi diberikan sesuai dengan kebutuhan yaitu 1975,7 kkal\n− Protein diberikan 15% kebutuhan energi yaitu 74 g, untuk mengatasi kondisi\ninfeksi dan inflamasi serta mencegah terjadinya malnutrisi juga untuk\nmeningkatkan profil darah.\n− Karbohidrat diberikan 60% dari kebutuhan energi yaitu 296,35 g\n− Vitamin C sesuai AKG yakni 75 mg sebagai antioksidan dan membantu\npenyerapan zat besi untuk mengatasi anemia\n− Asam folat sesuai AKG yakni 400 mcg untuk membantu perbaikan sel darah\nmerah\n− Zat besi sesuai AKG yakni 11 mg untuk membantu perbaikan sel darah merah\n− Cairan diberikan sesuai perhitungan menggunakan holiday segar yaitu 2440\nml\n− Diet diber",
+      "anthropometric_assessment": "Jenis kelamin: Laki-laki Usia: 13 tahun 9 bulan BB: 67,25 kg PB/TB: 173 cm LILA: 28 cm LK: - TL: 54 cm",
+      "medical_diagnosis": "DHF Grade III",
+      "reference": "Energi diberikan sesuai dengan kebutuhan yaitu 1975,7 kkal Protein diberikan 15% kebutuhan energi yaitu 74 g, untuk mengatasi kondisi \ninfeksi dan inflamasi serta mencegah terjadinya malnutrisi juga untuk \nmeningkatkan profil darah. \nKarbohidrat diberikan 60% dari kebutuhan energi yaitu 296,35 g \nVitamin C sesuai AKG yakni 75 mg sebagai antioksidan dan membantu \npenyerapan zat besi untuk mengatasi anemia \nAsam folat sesuai AKG yakni 400 mcg untuk membantu perbaikan sel darah \nmerah \nZat besi sesuai AKG yakni 11 mg untuk membantu perbaikan sel darah merah \nCairan diberikan sesuai perhitungan menggunakan holiday segar yaitu 2440 \nml \n− Diet diberikan dalam bentuk makanan biasa 2000 kkal karena pada saat visite \nskrining pasien menginginkan makan nasi serta sudah tidak mual dengan \nfrekuensi 3x sehari dan 1x snack",
+      "prediction": "Energi diberikan sesuai dengan kebutuhan yaitu 1975,7 kkal. Protein diberikan 15% kebutuhan energi yaitu 74 g, untuk mengatasi kondisi infeksi dan inflamasi serta mencegah terjadinya malnutrisi juga untuk meningkatkan profil darah. Karbohidrat diberikan 60% dari kebutuhan energi yaitu 296,35 g. Vitamin C sesuai AKG yakni 75 mg sebagai antioksidan dan membantu penyerapan zat besi untuk mengatasi anemia. Asam folat sesuai AKG yakni 400 mcg untuk membantu perbaikan sel darah merah. Zat besi sesuai AKG yakni 11 mg untuk membantu perbaikan sel darah merah. Cairan diberikan sesuai perhitungan menggunak",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 4,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 5,
+          "completeness": 2,
+          "safety": 5
+        }
+      },
+      "unit_id": "U012"
+    },
+    {
+      "test_index": 94,
+      "system": "llm__llama-3.1-8b-instruct__0shot",
+      "tier": "mid",
+      "question": "Bagaimana syarat diet yang harus dipenuhi dalam pengaturan diet pasien ini?",
+      "question_category": "recommendation",
+      "file": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.chunks.json",
+      "qa_id": 868,
+      "context": "ahannya juga direkomendasikan.\n Lemak diberikan sebesar 50% dari total kebutuhan lemak atau 20,3\ngram untuk mengurangi beban metabolisme karbohidrat yang bisa\nmeningkatkan produksi karbon dioksida (Co ). Lemak jenis omega 3\n2\nlebih dianjurkan untuk kondisi pasien, dapat ditemukan pada ikan laut\nsegar (ikan kembung, ikan tongkol, ikan teri), serta kacang-kacangan\n(kacang tanah, kacang kedelai dan olahannya).\n Karbohidrat diberikan sebesar 50% dari total kebutuhan karbohidrat\natau 123,5 gram agar tidak membebani kerja pernafasan. Adapun\nsumber karbohidrat yang dianjurkan seperti nasi putih,kentang,\nsingkong, makaroni\n Cairan diberikan cukup sebesar 1190 ml untuk menjaga\nkeseimbangan cairan dan elektrolit pasien serta mengurangi risiko\nkomplikasi akibat dehidrasi. Cairan dapat diberikan melalui formula\nenteral dan parenteral (infus).\n Vitamin C 45 mg/hari untuk memperkuat sistem imun untuk melawan\ninfeksi, berfungsi sebagai antioksidan yang melindungi sel dari\nkerusakan, serta membant",
+      "anthropometric_assessment": "Jenis kelamin: perempuan Usia: 7 tahun 9 bulan BB: 13,8 kg PB/TB: 106 cm LILA: 14 cm LK: 49,5 TL: -",
+      "medical_diagnosis": "Respiratory Failure ok Intracarnial Process, \nPneumonia, Meningitis Bakterialis, Non-Hodgkin \nLymphoma on Chemoterapy, Hemiparese Dextra \nok Infark Subakut Temporoparietal Sinistra dd Mild \nCommunicating Hidrosefalus Sinistra, Sinusitis \nEtmoidalis, Sphenoidalis Bilateral Dan Hipertensi \nStage II",
+      "reference": "Energi diberikan sebesar 50% dari total kebutuhan energi atau \nsebesar 732,2 Kkal untuk mengatasi kegawatan dan mendukung \npemulihan kondisi klinis pasien serta mencegah komplikasi lebih \nlanjut \n Protein diberikan sebesar 50% dari total kebutuhan protein atau 13,8 \ng untuk memperkuat sistem imun dan mendukung proses perbaikan \njaringan yang rusak akibat peradangan. Contoh bahan makanan \nyang dianjurkan seperti daging tanpa kulit, ikan, telur, susu dan \nolahannya. Selain itu protein nabati yang berasal dari kacang \nkacangan dan olahannya juga direkomendasikan. \n Lemak diberikan sebesar 50% dari total kebutuhan lemak atau 20,3 \ngram untuk mengurangi beban metabolisme karbohidrat yang bisa \nmeningkatkan produksi karbon dioksida (Co2). Lemak jenis omega 3 \nlebih dianjurkan untuk kondisi pasien, dapat ditemukan pada ikan laut \nsegar (ikan kembung, ikan tongkol, ikan teri), serta kacang-kacangan \n(kacang tanah, kacang kedelai dan olahannya). \n Karbohidrat diberikan sebesar 50% dari total kebutuhan karbohidrat \natau 123,5 gram agar tidak membebani kerja pernafasan. Adapun \nsumber karbohidrat yang dianjurkan seperti nasi putih,kentang, \nsingkong, makaroni \n Cairan diberikan cukup sebesar 1190 ml untuk menjaga \nkeseimbangan cairan dan elektrolit pasien serta mengurangi risiko \nkomplikasi akibat dehidrasi. Cairan dapat diberikan melalui formula \nenteral dan parenteral (infus). \n Vitamin C 45 mg/hari untuk memperkuat sistem imun untuk melawan \ninfeksi, berfungsi sebagai antioksidan yang melindungi sel dari \nkerusakan, serta membantu penyerapan zat besi guna mencegah \nanemia. \n Vitamin E diberikan 8 mcg/hari sebagai antioksidan yang membantu \nmelindungi sel dari peradangan dan stres oksidatif serta menjaga \nintegritas membran sel serta mendukung sistem imun agar lebih \noptimal dalam melawan infeksi. \n Zinc diberikan sebesar 5 mg/hari untuk mempercepat penyembuhan \njaringan, terutama dalam pemulihan paru pada pneumonia, \nmeningkatkan daya tahan tubuh terhadap infeksi, serta membantu \npertumbuhan dan perkembangan yang sering terganggu akibat \nkondisi gizi buruk. \n Asam folat diberikan sebesar 300 mcg/hari untuk membantu produksi \nsel darah merah untuk mencegah anemia, mendukung regenerasi \ndan pembelahan sel yang sangat dibutuhkan dalam proses \npemulihan jaringan tubuh, serta berkontribusi dalam menjaga fungsi \nsistem saraf.",
+      "prediction": "Dalam pengaturan diet pasien ini, syarat diet yang harus dipenuhi adalah:\n\n1. Lemak: 50% dari total kebutuhan lemak, dengan sumber lemak jenis omega 3 (dapat ditemukan pada ikan laut segar dan kacang-kacangan).\n2. Karbohidrat: 50% dari total kebutuhan karbohidrat, dengan sumber karbohidrat seperti nasi putih, kentang, singkong, dan makaroni.\n3. Cairan: cukup sebesar 1190 ml untuk menjaga keseimbangan cairan dan elektrolit pasien.\n4. Vitamin C: 45 mg/hari untuk memperkuat sistem imun dan melawan infeksi.\n\nDengan demikian, diet pasien ini harus mengutamakan asupan lemak jenis omega 3, karbohidrat sederhana, dan cairan yang cukup, serta suplementasi vitamin C untuk memperkuat sistem imun.",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 3,
+          "completeness": 3,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 5,
+          "completeness": 2,
+          "safety": 4
+        }
+      },
+      "unit_id": "U013"
+    },
+    {
+      "test_index": 66,
+      "system": "llm__llama-3.1-8b-instruct__5shot",
+      "tier": "high",
+      "question": "Bagaimana syarat diet yang harus dipenuhi dalam pengaturan diet pasien ini?",
+      "question_category": "recommendation",
+      "file": "BONE PAIN DT METASTATIC DISEASE DD RADICULOPHATY, DM TIPE 2.chunks.json",
+      "qa_id": 840,
+      "context": " pada fase transisi, yaitu 75%\nRDA sebesar 1620 kkal.\n• Karbohidrat diberikan rendah, yaitu 50% dari total kebutuhan sesuai dengan\nrekomendasi PERKENI, yaitu sebesar 202,5 gram dengan pemilihan karbohidrat\nkompleks dan menghindari karbohidrat sederhana, sesuai dengan kondisi\ndiabetes melitus 2 pada pasien\n• Protein diberikan tinggi sebesar 15% dari total kebutuhan, yaitu 60,8 gram\nsesuai dengan kebutuhan protein pasien yang meningkat akibat kondisi infeksi\ndan inflamasi, dengan pemilihan protein hewani yang memiliki nilai\nbioavailabilitas tinggi dengan porsi yang dianjurkan\n• Lemak diberikan cukup, yaitu 35% dari total kebutuhan, yaitu sebesar 63 gram\n• Cairan diberikan sesuai dengan kebutuhan pasien berdasarkan perhitungan\nHoliday Segar, sebesar 1560 ml\n• Serat diberikan cukup, sebesar 25 gram sesuai dengan rekomendasi PERKENI\n• Pemilihan bahan makanan rendah indeks glikemik dengan nilai indeks glikemik\n£55\n• Bentuk makanan biasa sesuai dengan kemampuan mengunyah dan menelan\npada pasi",
+      "anthropometric_assessment": "Jenis kelamin: Laki-laki Usia: 15 tahun 6 bulan BB: 42 kg PB/TB: 160 cm LILA: 14 cm LK: - TL: -",
+      "medical_diagnosis": "Acute lymphotic leukimia 2, Bone pain dt metastatic disease dd \nradiculopathy, DM tipe 2, Amoebiasis, Post oropharyngeal bleeding, \nGinekomastia nodular mammae dekstra, Febrile neutropenia",
+      "reference": "Energi diberikan sesuai dengan kebutuhan pasien pada fase transisi, yaitu 75% \nRDA sebesar 1620 kkal. \n• Karbohidrat diberikan rendah, yaitu 50% dari total kebutuhan sesuai dengan \nrekomendasi PERKENI, yaitu sebesar 202,5 gram dengan pemilihan karbohidrat \nkompleks dan menghindari karbohidrat sederhana, sesuai dengan kondisi \ndiabetes melitus 2 pada pasien \n• Protein diberikan tinggi sebesar 15% dari total kebutuhan, yaitu 60,8 gram \nsesuai dengan kebutuhan protein pasien yang meningkat akibat kondisi infeksi \ndan inflamasi, dengan pemilihan protein hewani yang memiliki nilai \nbioavailabilitas tinggi dengan porsi yang dianjurkan \n• Lemak diberikan cukup, yaitu 35% dari total kebutuhan, yaitu sebesar 63 gram \n• Cairan diberikan sesuai dengan kebutuhan pasien berdasarkan perhitungan \nHoliday Segar, sebesar 1560 ml \n• Serat diberikan cukup, sebesar 25 gram sesuai dengan rekomendasi PERKENI \n• Pemilihan bahan makanan rendah indeks glikemik dengan nilai indeks glikemik \n• Bentuk makanan biasa sesuai dengan kemampuan mengunyah dan menelan \npada pasien, serta diberikan makanan cair berupa susu yang dimodifikasi dari \ndiabetasol dan F-100. \n• Frekuensi pemberian makan sebanyak 3 kali makan utama dan 2 kali makan \nselingan, di mana susu diberikan 2x150 cc. \n• Rute pemberian makan secara oral dengan memperhatikan prinsip 3J, yaitu \ntepat jenis, jumlah, dan jadwal sesuai dengan kondisi diabetes melitus 2 pada \npasien.",
+      "prediction": "Syarat diet yang harus dipenuhi adalah:\n\n* Energi diberikan sebanyak 75% RDA, yaitu 1620 kkal.\n* Karbohidrat diberikan rendah, yaitu 50% dari total kebutuhan, sebesar 202,5 gram.\n* Protein diberikan tinggi, yaitu 15% dari total kebutuhan, sebesar 60,8 gram.\n* Lemak diberikan cukup, yaitu 35% dari total kebutuhan, sebesar 63 gram.\n* Cairan diberikan sesuai dengan kebutuhan pasien, sebesar 1560 ml.\n* Serat diberikan cukup, sebesar 25 gram.\n* Pemilihan bahan makanan rendah indeks glikemik dengan nilai indeks glikemik £55.",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 4,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 5,
+          "completeness": 3,
+          "safety": 5
+        }
+      },
+      "unit_id": "U014"
+    },
+    {
+      "test_index": 114,
+      "system": "llm__qwen2.5-7b-instruct__0shot",
+      "tier": "low",
+      "question": "Bagaimana prinsip diet yang tepat sesuai dengan kondisi pasien ini?",
+      "question_category": "recommendation",
+      "file": "RENDAH  KECIL MASA KEHAMILAN + PNEUMONIA + RESPIRATORY FAILURE + S.chunks.json",
+      "qa_id": 888,
+      "context": "4.1 Rencana Intervensi Gizi\n4.1.1 Terapi Diet\na. Perhitungan Kebutuhan Energi dan Zat Gizi\nKebutuhan Energi dan Zat Gizi\nEnergi\n= RDA usia tinggi x BBI\n= 120 x 3,8\n= 456 kkal\nProtein (Tinggi) → 13% TEE\n= 4 g/kg BBI\n= 4 x 3,8\n= 15,2 gram\nLemak (Cukup)\n= 45% TEE\n= 22,8 gram\nKH (Cukup)\n= 42% TEE\n= 47,9 gram\nCairan\n= 130 ml/kg BBI\n= 130 x 3,8\n= 494 ml\nb. Preskripsi Diet\n1) Tujuan Diet\n● Memberikan diet tinggi protein untuk membantu mempercepat penyembuhan inflamasi\n2) Prinsip Diet\nTinggi Protein\n3) Syarat Diet\n● Energi diberikan sesuai dengan kebutuhan gizi pasien dengan mempertimbangkan kebutuhan\nenergi sesuai usia tinggi sebesar 456 kkal\n● Protein diberikan tinggi sejumlah 4 g/kg BB atau 15,2 gram untuk membantu proses\npercepatan perbaikan kondisi inflamasi\n● Lemak diberikan cukup sebanyak 45% dari kebutuhan energi atau 22,8 gram dengan\nmengutamakan bahan makanan sumber lemak omega 3\n● Karbohidrat diberikan cukup sebanyak 42% dari kebutuhan energi atau 47,9 gram sebagai\nsisa dari kebutuh",
+      "anthropometric_assessment": "Jenis kelamin: laki-laki Usia: 1 bulan 5 hari BB: 2,24 kg PB/TB: 46 cm LILA: - LK: 31 cm TL: -",
+      "medical_diagnosis": "Neonatus Aterm / Berat Badan Lahir Rendah / Kecil Masa Kehamilan + \nPneumonia + Respiratory Failure + S. Sepsis + Kolestasis + S. Down Syndrome",
+      "reference": "Tinggi Protein",
+      "prediction": "Prinsip diet yang tepat untuk pasien neonatus dengan kondisi seperti ini harus disesuaikan dengan kebutuhan spesifik dan komplikasinya. Berikut adalah prinsip diet yang dapat diterapkan:\n\n1. **Tinggi Protein**: Mengingat pasien memiliki pneumonia, sepsis, dan potensi masalah metabolisme, peningkatan protein sangat penting untuk mendukung sistem imun dan pemulihan.\n\n2. **Energi Cukup**: Pasien memerlukan energi yang cukup untuk mendukung pertumbuhan dan pemulihan. Energi sekitar 456 kkal per hari sesuai dengan kebutuhan gizi pasien.\n\n3. **Lemak Sehat**: Mengutamakan sumber lemak sehat, terutama omega-3, yang dapat membantu mengurangi inflamasi.\n\n4. **Karbohidrat Cukup**: Memberikan karbohidrat cukup untuk memberikan energi dan mendukung fungsi organ.\n\n5. **Cairan Cukup**: Memastikan pasien mendapatkan cairan yang cukup untuk menjaga homeostasis tub",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 5,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 4,
+          "completeness": 2,
+          "safety": 3
+        }
+      },
+      "unit_id": "U015"
+    },
+    {
+      "test_index": 21,
+      "system": "llm__gpt-4o-mini__5shot",
+      "tier": "high",
+      "question": "Bagaimana data biokimia/parameter lab pada pasien (yg abnormal)?",
+      "question_category": "factual",
+      "file": "Post Op PSARP dan Repair Retrouretrae.chunks.json",
+      "qa_id": 795,
+      "context": " energi dan protein berkaitan dengan kondisi\nstress metabolic berhubungan dengan kondisi post Op PSARP ditandai dengan\nkadar leukosit tinggi, limfosit % rendah, monosit absolut tinggi, limfosit absolut\nrendah dan monosit absolut tinggi dan eosinophil rendah.\n- NB-1.1 Kurangnya pengetahuan terkait gizi dan makanan berkaitan dengan\npasien dan keluarga belum pernah mendapat edukasi gizi ditandai dengan\npasien belum mengetahui terkait diet TKTP dan belum menerapkan gizi\n47",
+      "anthropometric_assessment": "Jenis kelamin: Laki-laki Usia: 7 tahun 6 bulan BB: 22 kg PB/TB: 122 cm LILA: 20 cm LK: -",
+      "medical_diagnosis": "Post Op PSARP dan Repair Retrouretrae",
+      "reference": "Leukosit tinggi, Limfosit % rendah, monosit absolut tinggi, eosinophil absolut \ntinggi dan Monosit absolut tinggi mengindikasikan adanya kondisi peradangan \ndalam tubuh terkait dengan kondisi pasien yaitu post Operasi PSARP (Prasetyo \ndkk, 2018)",
+      "prediction": "Data biokimia/parameter lab yang abnormal pada pasien ini meliputi kadar leukosit tinggi, limfosit persentase rendah, limfosit absolut rendah, monosit absolut tinggi, dan eosinofil rendah.",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 2,
+          "completeness": 2,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 2,
+          "completeness": 2,
+          "safety": 4
+        }
+      },
+      "unit_id": "U016"
+    },
+    {
+      "test_index": 77,
+      "system": "llm__qwen2.5-7b-instruct__0shot",
+      "tier": "low",
+      "question": "Bagaimana menyusun diagnosis gizi dengan format PES pada pasien ini?",
+      "question_category": "inferential",
+      "file": "Distress Nafas + Pneumonia + Gagal Jantung Ross Class III + ASD.chunks.json",
+      "qa_id": 851,
+      "context": "\n[TABLE 0]\nStatus gizi dengan Grafik CDC untuk Down Syndrome\nBB/U <p5\nPB/U p25-p50\nBB/PB <p5\nHA = 13,7 bulan\nBBI = 9,5 kg\nInterpretasi: Status gizi buruk perawakan normal | Status gizi buruk perawakan\nnormal berdasarkan grafik CDC\nuntuk Down Syndrome 0-2 tahun | NB-1.1\nKurangnya pengetahuan\nterkait gizi dan makanan\nditandai oleh keluarga\npasien belum pernah\nmendapatkan edukasi\ngizi ditandai oleh pola\nmakan tidak seimbang,\nestimasi asupan energi\ndahulu 52,2%, protein\n66,2%, lemak 57,9%,\ndan karbohidrat 42,9%\ndari kebutuhan\nberdasarkan SQ-FFQ,\ndan riwayat\npertambahan berat\nbadan tidak sesuai\nanjuran usianya sejak 3\nbulan\nNC-4.1.5\nMalnutrisi pada anak\nyang berkaitan dengan\npenyakit berkaitan\ndengan gangguan\nmetabolisme gizi akibat\ngagal jantung dan down\nsyndrome dan riwayat\nasupan makan tidak\nadekuat dalam waktu | terutama jumlah,\njenis, jadwal dan\ncara pemberian\nmakanan cair\nuntuk\nmempersiapkan\ntubuh pasien\nmenerima asupan\nenergi dan protein\nyang lebih tinggi\nsecara bertahap\ndalam masa\np",
+      "anthropometric_assessment": "Jenis kelamin: laki-laki Usia: 1 tahun 3 bulan BB: 6,6 kg PB/TB: 74 cm LILA: 11 cm LK: - TL: -",
+      "medical_diagnosis": "Distress Nafas + Pneumonia + Gagal Jantung Ross Class III + ASD Sekundum Sedang + Efusi Perikard Minimal + Susp. \nTB Paru + Gizi Buruk Marasmus + Down Syndrome",
+      "reference": "NI-2.1 \nAsupan makanan dan \nminuman per oral tidak \nadekuat berkaitan \ndengan penurunan \nnafsu makan dan sesak \nditandai oleh estimasi \nasupan energi saat ini \n67,4%, lemak 86,3%, \ndan karbohidrat 55,5% \ndari kebutuhan \nberdasarkan recall 24 \njam, pH 7,54 (↑), pCO2 \n31,4 mmHg (↓), dan pO2 \n62,1 mmHg (↓) \nNB-1.1 \nKurangnya pengetahuan \nterkait gizi dan makanan \nditandai oleh keluarga \npasien belum pernah \nmendapatkan edukasi \ngizi ditandai oleh pola \nmakan tidak seimbang, \nestimasi asupan energi \ndahulu 52,2%, protein \n66,2%, lemak 57,9%, \ndan karbohidrat 42,9% \ndari kebutuhan \nberdasarkan SQ-FFQ, \ndan riwayat \npertambahan berat \nbadan tidak sesuai \nanjuran usianya sejak 3 \nbulan \n\nNC-4.1.5 \nMalnutrisi pada anak \nyang berkaitan dengan \npenyakit berkaitan \ndengan gangguan \nmetabolisme gizi akibat \ngagal jantung dan down \nsyndrome dan riwayat \nasupan makan tidak \nadekuat dalam waktu \nNB-1.1 \nKurangnya pengetahuan \nterkait gizi dan makanan \nditandai oleh keluarga \npasien belum pernah \nmendapatkan edukasi \ngizi ditandai oleh pola \nmakan tidak seimbang, \nestimasi asupan energi \ndahulu 52,2%, protein \n66,2%, lemak 57,9%, \ndan karbohidrat 42,9% \ndari kebutuhan \nberdasarkan SQ-FFQ, \ndan riwayat \npertambahan berat \nbadan tidak sesuai \nanjuran usianya sejak 3 \nbulan \n\nNC-4.1.5 \nMalnutrisi pada anak \nyang berkaitan dengan \npenyakit berkaitan \ndengan gangguan \nmetabolisme gizi akibat \ngagal jantung dan down \nsyndrome dan riwayat \nasupan makan tidak \nadekuat dalam waktu",
+      "prediction": "Diagnosis Gizi (PES):\nP - Penampilan: Berat badan di bawah kuartil ke-5 (<p5), pertumbuhan tubuh dan lingkar kepala normal (PB/TB p25-p50, LILA normal)\nE - Efek: Kurangnya pengetahuan terkait gizi dan makanan, pola makan tidak seimbang, asupan energi dan nutrisi tidak mencukupi, riwayat asupan makan tidak adekuat\nS - Sikap: Malnutrisi akibat gangguan metabolisme gizi akibat gagal jantung dan Down Syndrome, serta riwayat asupan makan tidak adekuat",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 2,
+          "completeness": 3,
+          "safety": 4
+        },
+        "claude-haiku-4-5": {
+          "factuality": 3,
+          "completeness": 2,
+          "safety": 4
+        }
+      },
+      "unit_id": "U017"
+    },
+    {
+      "test_index": 88,
+      "system": "llm__medgemma-4b-it__5shot",
+      "tier": "high",
+      "question": "Apa metode skrining status gizi yang direkomendasikan?",
+      "question_category": "factual",
+      "file": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.chunks.json",
+      "qa_id": 862,
+      "context": " dan PYMS memastikan bahwa risiko malnutrisi tidak terlewat,\nterutama karena kondisi ini sering menyebabkan peningkatan kebutuhan\nmetabolik dan penurunan asupan makanan. Namun PYMS memberikan\npenilaian yang lebih rinci, sehingga dengan sensitivitas dan spesifisitas yang\nlebih tinggi dapat membantu menghindari overdiagnosis risiko malnutrisi dan\ndirekomendasikan untuk mendiagnosis risiko malnutrisi dengan tepat (Meral,\net al., 2025).\n1.2 Pemeriksaan Antropometri",
+      "anthropometric_assessment": "Jenis kelamin: perempuan Usia: 7 tahun 9 bulan BB: 13,8 kg PB/TB: 106 cm LILA: 14 cm LK: 49,5 TL: -",
+      "medical_diagnosis": "Respiratory Failure ok Intracarnial Process, \nPneumonia, Meningitis Bakterialis, Non-Hodgkin \nLymphoma on Chemoterapy, Hemiparese Dextra \nok Infark Subakut Temporoparietal Sinistra dd Mild \nCommunicating Hidrosefalus Sinistra, Sinusitis \nEtmoidalis, Sphenoidalis Bilateral Dan Hipertensi \nStage II",
+      "reference": "Strong Kids dan PYMS, direkomendasikan strong kids",
+      "prediction": "PYMS, StrongKids",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 3,
+          "completeness": 2,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 4,
+          "completeness": 2,
+          "safety": 5
+        }
+      },
+      "unit_id": "U018"
+    },
+    {
+      "test_index": 48,
+      "system": "baseline__indolem",
+      "tier": "low",
+      "question": "Bagaimana status gizi pada pasien ini?",
+      "question_category": "inferential",
+      "file": "PASIEN CORPUS ALINEUM UPPER GI TRACT (POST ENDOSCOPY UPPER GI TRACT).chunks.json",
+      "qa_id": 822,
+      "context": "skrining PYMS. Berdasarkan skrining yang telah dilakukan pada 28\nMaret, pasien tidak berisiko mengalami malnutrisi.\n2.2.2 Antropometri\nPengukuran dilakukan pada <TGL>, didapatkan data sebagai\nberikut:\n- TB: 160 cm\n- BB: 52kg\n- IMT 20,5 kg/m2\n- LiLA: 24 cm\n- BBI:49kg\n- %IBW: 106%\n- IMT/U (Z score: 0,07 SD)\n- TB/U (Z score: -0,21 SD)\nKesimpulan:\nBerdasarkan pengukuran antropometri menggunakan beberapa\nindicator status gizi, pasien memiliki status gizi sebagai berikut\n(Kemenkes, 2020):\n- Status gizi normal menurut IMT/U, %IBW\n- Tinggi badan normal menurut TB/U\n2.2.3 Biokimia\nData pemeriksaan tanggal <TGL> didapatkan dari rekam\nmedis pasien saat MRS.\nTabel 2.1 Data Biokimia (<TGL>)\n\n[TABLE 0]\nPemeriksaan | Hasil | Nilai\nRujukan\n--------------------------------------------------------------------------------\nHitung Jenis |  | \nNeutrofil | 42,5 (↓) | 50-70\nLimfosit | 48,4 % (↑) | 18-42\nP-LCR | 29,5% (↑) | 15-25\n[END TABLE]\nIdentifikasi Masalah:\n- Nilai P-LCR tinggi. P",
+      "anthropometric_assessment": "Jenis kelamin: Perempuan Usia: 15 tahun BB: 52 kg PB/TB: 160 cm LILA: 24 cm LK: - TL: -",
+      "medical_diagnosis": "Corpus Alineum Upper GI Tract (Post Endoscopy \nUpper GI Tract)",
+      "reference": "Status gizi normal menurut IMT/U, %IBW \nTinggi badan normal menurut TB/U",
+      "prediction": "status gizi normal menurut imt / u, % ibw - tinggi badan normal menurut tb / u 2",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 5,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 5,
+          "completeness": 4,
+          "safety": 5
+        }
+      },
+      "unit_id": "U019"
+    },
+    {
+      "test_index": 97,
+      "system": "llm__llama-3.1-8b-instruct__5shot",
+      "tier": "high",
+      "question": "Bagaimana data biokimia/parameter lab pada pasien (yg abnormal)?",
+      "question_category": "factual",
+      "file": "DIAGNOSIS SPINA BIFIDA, MICROCEPHALI + COLPOCEPHALY, RUPTURED.chunks.json",
+      "qa_id": 871,
+      "context": "Data Biokimia\nData Lab Post OP Identifikasi Masalah\nData Laboraturium tanggal <TGL> Hb, eritrosit, hematokrit rendah berkaitan dengan\nHb 12,2 g/dL (↓) kehilangan darah selama operasi dan respon tubuh\nEritrosit 3,57 10⁶/uL (↓) terhadap inflamasi pasca operasi\nHematokrit 36,5% (↓) Limfosit dan monosit tinggi serta albumin rendah\nLimfosit 17,6% (↑) berkaitan dengan respon tubuh terhadap infeksi\nMonosit 10,7% (↑) pasca operasi\nAlbumin 3,09 g/dL (↓) Klorida tinggi berkaitan dengan gangguan\nKlorida 117 mmol/L (↑) keseimbangan elektrolit",
+      "anthropometric_assessment": "Jenis kelamin: perempuan Usia: 3 hari BB: 3100 gram PB/TB: 48 cm LILA: - cm LK: 30 TL: -",
+      "medical_diagnosis": "Spina bifida, Microcephali + Colpocephaly, Ruptured Meningomyelocele \nLumbosacral, Arnold malformation tipe I",
+      "reference": "• Hb, eritrosit, hematokrit \nrendah berkaitan \ndengan kehilangan darah selama operasi \ndan respon tubuh \nterhadap inflamasi \npasca operasi \n• Limfosit dan monosit \ntinggi serta albumin \nrendah berkaitan \ndengan respon tubuh \nterhadap infeksi pasca \noperasi \n• Klorida tinggi berkaitan \ndengan gangguan \nkeseimbangan elektrolit",
+      "prediction": "Data biokimia/parameter lab yang abnormal pada pasien adalah:\n\n* Hb (12,2 g/dL) rendah\n* Eritrosit (3,57 10⁶/uL) rendah\n* Hematokrit (36,5%) rendah\n* Limfosit (17,6%) tinggi\n* Monosit (10,7%) tinggi\n* Albumin (3,09 g/dL) rendah\n* Klorida (117 mmol/L) tinggi",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 5,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 5,
+          "completeness": 5,
+          "safety": 5
+        }
+      },
+      "unit_id": "U020"
+    },
+    {
+      "test_index": 46,
+      "system": "llm__qwen2.5-7b-instruct__5shot",
+      "tier": "high",
+      "question": "Bagaimana syarat diet yang harus dipenuhi dalam pengaturan diet pasien ini?",
+      "question_category": "recommendation",
+      "file": "NIEMANN PICK + BBLR + RESPIRATORY DISTRESS SYNDROM.chunks.json",
+      "qa_id": 820,
+      "context": "ASI eksklusif\nc. Waktu dan jumlah pemberian\nTerdapat 2 asupan yang dapat diberikan secara perlahan yaitu:\n- ASI sebanyak 3*40 ml\n- Susu formula Neocate sebanyak 5*40 ml\nd. Syarat Diet\na) Energi diberikan 115 kkal/kg BBI yaitu sebanyak 230 kkal untuk memenuhi\nkebutuhan pasien. Penetapan perhitungan energi didasarkan pada\nperhitungan untuk bayi prematur (IDAI, 2016).\nb) Protein diberikan sebanyak 3,5 g/kg BB/hari yaitu 7 gram untuk mengejar\ntumbuh kembang anak (IDAI, 2016).\nc) Lemak diberikan sebanyak 45% g/kg BB/hari yaitu 11,5 gram sebagai\ncadangan lemak atau cadangan energi (Sari, 2004).\nd) Karbohidrat diberikan sebanyak 43% dari kebutuhan energi total yaitu 24,7\ngram sebagai sumber energi utama (Sari, 2004).\ne) Cairan diberikan 160-200 ml/kg BB/hari yaitu sebesar 320-400 ml/hari\nuntuk menjaga keseimbangan cairan dan elektrolit serta mencegah\ndehidrasi (IDAI, 2016).\nf) Zat besi diberikan 2 mg/kg BB/hari yaitu 5,4 mg bertujuan untuk mencegah\ndefisiensi besi yang akan berpengaruh pada f",
+      "anthropometric_assessment": "Jenis kelamin: Laki-laki Usia: 24 hari BB: 2 kg PB/TB: 45 cm LILA: 6,3 cm LK: - TL: -",
+      "medical_diagnosis": "Nieman pick + BBLR + respiratory distress syndrome",
+      "reference": "a) Energi diberikan 115 kkal/kg BBI yaitu sebanyak 230 kkal untuk memenuhi \nkebutuhan pasien. Penetapan perhitungan energi didasarkan pada \nperhitungan untuk bayi prematur (IDAI, 2016). \nb) Protein diberikan sebanyak 3,5 g/kg BB/hari yaitu 7 gram untuk mengejar \ntumbuh kembang anak (IDAI, 2016). \nc) Lemak diberikan sebanyak 45% g/kg BB/hari yaitu 11,5 gram sebagai \ncadangan lemak atau cadangan energi (Sari, 2004). \nd) Karbohidrat diberikan sebanyak 43% dari kebutuhan energi total yaitu 24,7 \ngram sebagai sumber energi utama (Sari, 2004). \ne) Cairan diberikan 160-200 ml/kg BB/hari yaitu sebesar 320-400 ml/hari \nuntuk menjaga keseimbangan cairan dan elektrolit serta mencegah \ndehidrasi (IDAI, 2016). \nf) \nZat besi diberikan 2 mg/kg BB/hari yaitu 5,4 mg bertujuan untuk mencegah \ndefisiensi besi yang akan berpengaruh pada fungsi dan perkembangan \notak (IDAI, 2016). \ng) Zink diberikan 2 mg/kg BB/hari yaitu 5,4 mg untuk pertumbungan dan \ndiferensiasi jaringan (IDAI, 2016). \nh) Vitamin D diberikan sebanyak 400 IU/hari bertujuan untuk mencegah rikets \nakibat defisiensi vitamin D (IDAI, 2016).",
+      "prediction": "Syarat diet yang harus dipenuhi dalam pengaturan diet pasien ini adalah:\na) Energi diberikan 115 kkal/kg BBI yaitu sebanyak 230 kkal.\nb) Protein diberikan sebanyak 7 gram.\nc) Lemak diberikan sebanyak 11,5 gram.\nd) Karbohidrat diberikan sebanyak 24,7 gram.\ne) Cairan diberikan 320-400 ml/hari.\nf) Zat besi diberikan 5,4 mg.",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 4,
+          "completeness": 3,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 5,
+          "completeness": 3,
+          "safety": 5
+        }
+      },
+      "unit_id": "U021"
+    },
+    {
+      "test_index": 1,
+      "system": "llm__gpt-4o-mini__5shot",
+      "tier": "high",
+      "question": "Apa tujuan diet pada pasien ini?",
+      "question_category": "recommendation",
+      "file": "CERBRAL PALSY + HIDROSEFALUS DENGAN VP SHUNT + GIZI BURUK + BRONKITIS.chunks.json",
+      "qa_id": 775,
+      "context": "2.5 Rencana Intervensi Gizi\n1. Terapi Gizi\nND-1 Makanan utama dan snack\nTujuan Diet:\n1. Memberikan asupan makan pasien sesuai kemampuan dan kebutuhan gizi sehari\nuntuk mempersiapkan anak menerima cairan dan energi yang lebih besar serta\nmemperbaiki keseimbangan cairan dan elektrolit\n2. Memenuhi kebutuhan protein yang meningkat untuk mengatasi kondisi katabolisme\nkarena inflamasi\nPrinsip Diet: Tinggi energi tinggi protein\nSyarat Diet:\n- Energi diberikan sesuai kebutuhan pasien gizi buruk fase transisi yaitu 75% dari RDA\nx BBI yaitu 1.400 kkal. RDA yang digunakan adalah RDA anak sesuai umur dimana\nTB saat ini berada pada persentil 50.\n- Protein diberikan tinggi yaitu 2,5 g/kgBBA/ hari untuk membantu mengobati kondisi\ninflamasi. Sumber protein berasal dari susu, daging ayam, telur, ikan\n- Lemak diberikan cukup yaitu 30% dari total kebutuhan sehari. Pemilihan sumber\nlemak diutamakan yang mengandung tinggi omega-3 karena berfungsi sebagai\nantiinflamasi, melindungi sel dari radikal bebas, Un",
+      "anthropometric_assessment": "Jenis kelamin: Laki-laki Usia: 8 tahun 3 bulan BB: 17 kg PB/TB: 130 cm LILA: 15.2 LK: -",
+      "medical_diagnosis": "Diagnosa Medis Awal : Observasi Febris + cerebral Palsy + Bronkopneumonia \nDiagnosa Medis Akhir : Cerebral palsy + Hidrosefalus dengan VP Shunt + Gizi Buruk \n+ Bronkitis",
+      "reference": "Memberikan asupan makan pasien sesuai kemampuan dan kebutuhan gizi sehari \nuntuk mempersiapkan anak menerima cairan dan energi yang lebih besar serta \nmemperbaiki keseimbangan cairan dan elektrolit \nMemenuhi kebutuhan protein yang meningkat untuk mengatasi kondisi katabolisme \nkarena inflamasi",
+      "prediction": "1. Memberikan asupan makan pasien sesuai kemampuan dan kebutuhan gizi sehari untuk mempersiapkan anak menerima cairan dan energi yang lebih besar serta memperbaiki keseimbangan cairan dan elektrolit.  \n2. Memenuhi kebutuhan protein yang meningkat untuk mengatasi kondisi katabolisme karena inflamasi.",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 5,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 5,
+          "completeness": 5,
+          "safety": 5
+        }
+      },
+      "unit_id": "U022"
+    },
+    {
+      "test_index": 104,
+      "system": "llm__gpt-4o__0shot",
+      "tier": "mid",
+      "question": "Bagaimana data biokimia/parameter lab pada pasien (yg abnormal)?",
+      "question_category": "factual",
+      "file": "THORAX SINISTRA on IPC (INTERCOSTAL PLEURAL CATHETER), PNEUMONIA.chunks.json",
+      "qa_id": 878,
+      "context": "------------------------------\nB. Biokimia\nTanggal: 12 – <TGL>\nHasil Normal Ket.\nElektrolit Serum\nNatrium 134 136–145 ↓\n(Na) mmol/L\nKalium 4,32 3,5–5,1 N\n(K) mmol/L\nKlorida 100 98–107 N\n(Cl) mmol/L\nHematologi\nHb 8,70 10,85–14,90 ↓\ng/dL\nEritrosit 3,45 jt 4,11–5,55 ↓\nLeukosit 11,96 4,79–11,34 ↑\n103/mm3\nHemato- 27,90% 34,0–45,10 ↓\nkrit\nTrombo- 610,00 216,0–451,0 ↑\nsit (PLT) 103/mm3\nMCV 80,90 fL 71,80–92,0 N\nMCH 25,20 pg 22,60–31,01 N |  Natrium (↓) menunjukkan\nhiponatremia yang terjadi\nakibat adanya infeksi akut\n(pneumonia) dan\nmalnutrisi yang terjadi\n Hb, eritrosit, hematokrit\n(↓), dan RDW (↑)\nmengindikasikan anemia\nof chronic inflammation\nyang disebabkan oleh\nadanya penyakit akut\n(pneumonia) dan\nmalnutrisi\n Leukosit, trombosit (↑)\nmenunjukkan adanya\ninfeksi atau kondisi\ninflamasi pada tubuh\nyang berhubungan\ndengan pneumonia\n Kreatinin (↓) menunjukkan\nadanya penurunan massa\notot yang berhubungan |  |  | \n[END TABLE]\n12",
+      "anthropometric_assessment": "Jenis kelamin: perempuan Usia: 6 tahun 1 bulan BB: 15 kg PB/TB: 107 cm LILA: 15,2 cm LK: - TL: -",
+      "medical_diagnosis": "Distress Nafas ok Empyema Thorax Sinistra on IPC \n(Intercostal Pleural Catheter), Pneumonia, Status Gizi \nBuruk Tipe Marasmus",
+      "reference": "Natrium (↓) menunjukkan \nhiponatremia yang terjadi \nakibat adanya infeksi akut \n(pneumonia) dan \nmalnutrisi yang terjadi \n Hb, eritrosit, hematokrit \n(↓), dan RDW (↑) \nmengindikasikan anemia \nof chronic inflammation \nyang disebabkan oleh \nadanya penyakit akut \n(pneumonia) dan \nmalnutrisi \n Leukosit, trombosit (↑) \nmenunjukkan adanya \ninfeksi atau kondisi \ninflamasi pada tubuh \nyang berhubungan \ndengan pneumonia \n Kreatinin (↓) menunjukkan \nadanya penurunan massa \notot yang berhubungan dengan malnutrisi yang \ndialami \n Fosfor (↑) menunjukkan \nadanya efek katabolik \nakibat infeksi yang \ndialami \n",
+      "prediction": "Data biokimia/parameter lab yang abnormal pada pasien adalah:\n\n1. Natrium (Na): 134 mmol/L (rendah, menunjukkan hiponatremia)\n2. Hemoglobin (Hb): 8,70 g/dL (rendah)\n3. Eritrosit: 3,45 juta/mm3 (rendah)\n4. Hematokrit: 27,90% (rendah)\n5. Leukosit: 11,96 x 10^3/mm3 (tinggi)\n6. Trombosit (PLT): 610,00 x 10^3/mm3 (tinggi)\n\nParameter ini menunjukkan adanya infeksi atau kondisi inflamasi terkait pneumonia dan malnutrisi.",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 4,
+          "completeness": 3,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 4,
+          "completeness": 3,
+          "safety": 5
+        }
+      },
+      "unit_id": "U023"
+    },
+    {
+      "test_index": 115,
+      "system": "baseline__mt5",
+      "tier": "low",
+      "question": "Bagaimana syarat diet yang harus dipenuhi dalam pengaturan diet pasien ini?",
+      "question_category": "recommendation",
+      "file": "RENDAH  KECIL MASA KEHAMILAN + PNEUMONIA + RESPIRATORY FAILURE + S.chunks.json",
+      "qa_id": 889,
+      "context": "4.1 Rencana Intervensi Gizi\n4.1.1 Terapi Diet\na. Perhitungan Kebutuhan Energi dan Zat Gizi\nKebutuhan Energi dan Zat Gizi\nEnergi\n= RDA usia tinggi x BBI\n= 120 x 3,8\n= 456 kkal\nProtein (Tinggi) → 13% TEE\n= 4 g/kg BBI\n= 4 x 3,8\n= 15,2 gram\nLemak (Cukup)\n= 45% TEE\n= 22,8 gram\nKH (Cukup)\n= 42% TEE\n= 47,9 gram\nCairan\n= 130 ml/kg BBI\n= 130 x 3,8\n= 494 ml\nb. Preskripsi Diet\n1) Tujuan Diet\n● Memberikan diet tinggi protein untuk membantu mempercepat penyembuhan inflamasi\n2) Prinsip Diet\nTinggi Protein\n3) Syarat Diet\n● Energi diberikan sesuai dengan kebutuhan gizi pasien dengan mempertimbangkan kebutuhan\nenergi sesuai usia tinggi sebesar 456 kkal\n● Protein diberikan tinggi sejumlah 4 g/kg BB atau 15,2 gram untuk membantu proses\npercepatan perbaikan kondisi inflamasi\n● Lemak diberikan cukup sebanyak 45% dari kebutuhan energi atau 22,8 gram dengan\nmengutamakan bahan makanan sumber lemak omega 3\n● Karbohidrat diberikan cukup sebanyak 42% dari kebutuhan energi atau 47,9 gram sebagai\nsisa dari kebutuh",
+      "anthropometric_assessment": "Jenis kelamin: laki-laki Usia: 1 bulan 5 hari BB: 2,24 kg PB/TB: 46 cm LILA: - LK: 31 cm TL: -",
+      "medical_diagnosis": "Neonatus Aterm / Berat Badan Lahir Rendah / Kecil Masa Kehamilan + \nPneumonia + Respiratory Failure + S. Sepsis + Kolestasis + S. Down Syndrome",
+      "reference": "● Energi diberikan sesuai dengan kebutuhan gizi pasien dengan mempertimbangkan kebutuhan \nenergi sesuai usia tinggi sebesar 456 kkal \n● Protein diberikan tinggi sejumlah 4 g/kg BB atau 15,2 gram untuk membantu proses \npercepatan perbaikan kondisi inflamasi \n● Lemak diberikan cukup sebanyak 45% dari kebutuhan energi atau 22,8 gram dengan \nmengutamakan bahan makanan sumber lemak omega 3 \n● Karbohidrat diberikan cukup sebanyak 42% dari kebutuhan energi atau 47,9 gram sebagai \nsisa dari kebutuhan energi harian \n● Cairan diberikan sejumlah 130 ml/kg BBI atau 494 ml untuk mencukupi kebutuhan cairan \nharian pasien \n● Jenis diet yang diberikan adalah Diet ASI/PASI \n● Bentuk makanan yang diberikan adalah bentuk makanan cair \n● Frekuensi pemberian makanan adalah 12 kali waktu makan",
+      "prediction": "<extra_id_0> inflamasi diberikan",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 1,
+          "completeness": 1,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 1,
+          "completeness": 1,
+          "safety": 2
+        }
+      },
+      "unit_id": "U024"
+    },
+    {
+      "test_index": 0,
+      "system": "llm__gpt-4o-mini__5shot",
+      "tier": "high",
+      "question": "Bagaimana menyusun diagnosis gizi dengan format PES pada pasien ini?",
+      "question_category": "inferential",
+      "file": "CERBRAL PALSY + HIDROSEFALUS DENGAN VP SHUNT + GIZI BURUK + BRONKITIS.chunks.json",
+      "qa_id": 774,
+      "context": "2.4 Diagnosis Gizi\n- NC-4.1.5 Malnutrisi (Kurang gizi) pada anak yang berkaitan dengan penyakit\ndikaitkan dengan gangguan makan pada kondisi cerebral palsy ditandai dengan status\ngizi menurut LLA/U (< Percentil 5) dan %BB (62,9%) termasuk gizi buruk dengan\nperawakan sangat pendek (TB/U <P5), Natrium rendah (124 mmol/L), klorida rendah\n(88 mmol/L), kesan umum lemah, badan lemas, pasien terpasang NGT sekitar 2 tahun,\npasien terlihat kurus, terdapat iga gambang, hasil SQ-FFQ rerata asupan energi\n(74,3%), protein (77,8%), cairan (78%) defisit tingkat sedang, rerata asupan lemak\ndefisit tingkat berat (57%), dan rerata asupan KH defisit tingkat ringan (83,5%), asupan\nmakan (24-h recall) didapatkan asupan energi, lemak, dan KH defisit tingkat berat\n(<70%), dan terdapat penurunan berat badan 2 kg dalam 1 bulan terakhir.\n- NI-5.1 Peningkatan kebutuhan zat gizi tertentu (protein) berkaitan dengan kondisi\ninflamasi yang dialami pasien bronchitis ditandai dengan kadar WBC tinggi (17,43 x 103/\nuL),",
+      "anthropometric_assessment": "Jenis kelamin: Laki-laki Usia: 8 tahun 3 bulan BB: 17 kg PB/TB: 130 cm LILA: 15.2 LK: -",
+      "medical_diagnosis": "Diagnosa Medis Awal : Observasi Febris + cerebral Palsy + Bronkopneumonia \nDiagnosa Medis Akhir : Cerebral palsy + Hidrosefalus dengan VP Shunt + Gizi Buruk \n+ Bronkitis",
+      "reference": "NC-4.1.5 Malnutrisi (Kurang gizi) pada anak yang berkaitan dengan penyakit \ndikaitkan dengan gangguan makan pada kondisi cerebral palsy ditandai dengan status \ngizi menurut LLA/U (< Percentil 5) dan %BB (62,9%) termasuk gizi buruk dengan \nperawakan sangat pendek (TB/U <P5), Natrium rendah (124 mmol/L), klorida rendah \n(88 mmol/L), kesan umum lemah, badan lemas, pasien terpasang NGT sekitar 2 tahun, \npasien terlihat kurus, terdapat iga gambang, hasil SQ-FFQ rerata asupan energi \n(74,3%), protein (77,8%), cairan (78%) defisit tingkat sedang, rerata asupan lemak \ndefisit tingkat berat (57%), dan rerata asupan KH defisit tingkat ringan (83,5%), asupan \nmakan (24-h recall) didapatkan asupan energi, lemak, dan KH defisit tingkat berat \n(<70%), dan terdapat penurunan berat badan 2 kg dalam 1 bulan terakhir. \nNI-5.1 Peningkatan kebutuhan zat gizi tertentu (protein) berkaitan dengan kondisi \ninflamasi yang dialami pasien bronchitis ditandai dengan kadar WBC tinggi (17,43 x 103/ \nuL), limfosit rendah (10,1%), neutrophil tinggi (81,3%), PLT tinggi (513x103/ uL), PDW \ntinggi (47,3 fl), MPV rendah (6,5 fl), RDW-CV tinggi (14,9%), demam naik turun selama \n1 minggu, pasien batuk grok- grok dengan intensitas sering, muntah ketika batuk, \nasupan makan (24-h recall) didapatkan asupan protein defisit tingkat berat (<70%) \nNB 1.1 Kurangnya pengetahuan tentang gizi dan makanan berkaitan dengan kurangnya \npemahaman pengasuh tentang daftar penukar makanan ditandai dengan hasil SQ-FFQ \nRerata asupan energi (74,3%), protein (77,8%), cairan (78%) defisit tingkat sedang, \nrerata asupan lemak defisit tingkat berat (57%), dan rerata asupan KH defisit tingkat \nringan (83,5%), caregiver belum pernah mendapatkan edukasi gizi terkait cara \nmembaca DBMP.",
+      "prediction": "PES Diagnosis Gizi:\n\n**P (Problem)**: Malnutrisi (kurang gizi) pada anak yang berkaitan dengan penyakit cerebral palsy ditandai dengan status gizi menurut LLA/U (< Percentil 5) dan %BB (62,9%) termasuk gizi buruk.\n\n**E (Etiology)**: Dikaitkan dengan gangguan makan, asupan energi, protein, lemak, dan karbohidrat yang defisit, serta kondisi inflamasi akibat bronkitis yang menyebabkan peningkatan kebutuhan protein.\n\n**S (Signs/Symptoms)**: Ditemukan perawakan sangat pendek (TB/U <P5), natrium rendah (124 mmol/L), klorida rendah (88 mmol/L), kesan umum lemah, badan lemas, terpasang NGT sekitar 2 tahun, terlihat kurus, terdapat iga gambang, penurunan berat badan 2 kg dalam 1 bulan terakhir, dan hasil SQ-FFQ menunjukkan defisit asupan energi (74,3%), protein (77,8%), cairan (78%), lemak (57%), dan karbohidrat (83,5%).",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 4,
+          "completeness": 4,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 4,
+          "completeness": 3,
+          "safety": 4
+        }
+      },
+      "unit_id": "U025"
+    },
+    {
+      "test_index": 34,
+      "system": "llm__gpt-4o-mini__5shot",
+      "tier": "high",
+      "question": "Bagaimana status gizi pada pasien ini?",
+      "question_category": "inferential",
+      "file": "RECURRENT VOMITTING TANPA DEHIDRASI, OBSERVASI ABDOMINAL PAIN DD SUSPECT INFLAMATORY BOWEL DISEASE (KOLICITIS ULCERATIF DD CROHN DISEASE), STRESS ULCER SUSPECT MASSA A.chunks.json",
+      "qa_id": 808,
+      "context": "ni\npada P50 | 44 kg |  | CDC, 2000\nIMT/U | <P5 | Gizi buruk | CDC, 2000\nIMT/U | -1,8 SD | Gizi baik | PMK No. 2 Tahun 2020\nTB/U | P15 – P50 | Normal | WHO, 2007\nBMI/U | <P3 | Gizi buruk | WHO, 2007\nLILA/U | <P5 | Gizi buruk | Rosalind S. Gibson\n%LILA | 85,22% | Gizi kurang | Waterlow, 1972\nKesimpulan:\nStatus gizi pasien adalah gizi buruk berdasarkan IMT/U dengan perawakan normal\npendek menurut TB/U. Digunakan indeks IMT/U untuk kesimpulan status gizi\ndikarenakan pada pasien dapat diukur BB dan TB secara langsung dan tidak terdapat\norganomegali. |  |  | \n[END TABLE]\n9",
+      "anthropometric_assessment": "Jenis kelamin: Perempuan Usia: 14 tahun 9 bulan BB: 37,5 kg PB/TB: 155 cm LILA: 18,5 cm LK: - TL: -",
+      "medical_diagnosis": "Recurrent vomitting tanpa dehidrasi + obs \nabdominal pain dd susp. Inflamatory bowel \ndisease (kolicitis ulceratif dd crohn % U20195 \ndisease), stress ulcer susp. massa abdomen, \ndiare akut tanpa dehidrasi, anemia normokrom \nnormositer defisiensi besi dd penyakit kronis, \ngizi buruk marasmus",
+      "reference": "Status gizi pasien adalah gizi buruk berdasarkan IMT/U dengan perawakan normal \npendek menurut TB/U.",
+      "prediction": "Status gizi pasien adalah gizi buruk berdasarkan IMT/U, dengan perawakan normal pendek menurut TB/U. Indeks IMT/U digunakan untuk kesimpulan status gizi karena BB dan TB dapat diukur secara langsung dan tidak terdapat organomegali.",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 4,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 5,
+          "completeness": 4,
+          "safety": 5
+        }
+      },
+      "unit_id": "U026"
+    },
+    {
+      "test_index": 26,
+      "system": "baseline__mt5",
+      "tier": "low",
+      "question": "Apa metode skrining status gizi yang direkomendasikan?",
+      "question_category": "factual",
+      "file": "PASIEN DENGUE HAEMORAGIC FEVER (DHF) GRADE III.chunks.json",
+      "qa_id": 800,
+      "context": "B. Assessment Gizi\n1. Skrining Gizi\nSkrining gizi yang digunakan pada anak adalah STRONG-Kids, sementara\npembandingnya menggunakan PYMS. Berdasarkan hasil skrining menggunakan\nalat skrining STRONGKids diperoleh skor 2 dengan risiko sedang untuk malnutrisi,\ndan pembandingnya yaitu PYMS diperoleh skor 3 dengan risiko tinggi terjadi\nmalnutrisi. Pasien mendapatkan penurunan berat badan dari 70-an kg saat di\nrumah sebelum sakit dan menurut 3 kg menjadi 67 kg saat sakit dalam kurun waktu\nkurang dari satu bulan. Selain itu, pasien juga mengalami penurunan asupan\nkarena saat sakit lidahnya terasa pahit dan tidak bernafsu makan.\nMenurut penelitian yang pernah dilakukan untuk membandingkan beberapa\nalat skrining, strongkids merupakan alat skrining yang dapat digunakan untuk\nanak-anak dengan mudah dan cepat dalam praktiknya. Strongkids merupakan alat\nyang memiliki sensitivitas yang lebih tinggi dibandingkan dengan nilai\nspesitivitasnya (Teixeira et al, 2016). Alat skrining lain yang dapat digunak",
+      "anthropometric_assessment": "Jenis kelamin: Laki-laki Usia: 13 tahun 9 bulan BB: 67,25 kg PB/TB: 173 cm LILA: 28 cm LK: - TL: 54 cm",
+      "medical_diagnosis": "DHF Grade III",
+      "reference": "Strong Kids dan PYMS, direkomendasikan PYMS",
+      "prediction": "<extra_id_0> digunakan,",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 1,
+          "completeness": 1,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 2,
+          "completeness": 1,
+          "safety": 3
+        }
+      },
+      "unit_id": "U027"
+    },
+    {
+      "test_index": 56,
+      "system": "llm__sahabat-ai-llama3-8b__0shot",
+      "tier": "low",
+      "question": "Bagaimana data biokimia/parameter lab pada pasien (yg abnormal)?",
+      "question_category": "factual",
+      "file": "GEA+VOMITING+ISPA .chunks.json",
+      "qa_id": 830,
+      "context": "• Monosit (↑), Lymph (↑) , Neutrofil (↓) , respon imun tubuh terhadap infeksi.\n• RDW-CV (↑) ukuran sel darah merah lebih besar.\n• RDW SD (↑) Anemia defisiensi besi.\n• WBC (↓) Defisiensi vitamin.\n• Chlorida (↑) gangguan pH darah\n• Natrium (↓) gangguan keseimbangan elektrolit.\n• Cratinin (↓) indikasi kehilangan masa otot.\n• SGOT (↑) indikasi anemia/gangguan fungsi hati.\nBerdasarkan dari hasil pemeriksaan laboratorium, beberapa hasil nilai laboratorium yang berkaitan\ndengan profil anemia tergolong abnormal. Beberapa indikator lainnya menunjukan bahwa adanya\npeningkatan limfosit yang berkaitan dengan kondisi tubuh sedang melawan infeksi, serta ketidak\nnormalan hasil pemeriksaan keseimbangan elektrolit akibat adanya diare yang tejadi terus menerus,\nserta anak memang dalam kondisi gizi kurang atau underweight.\nC. Fisik Klinis (<TGL>)\nTabel 2.2 Data Fisik Klinis\nNo. Indikator Hasil Interpretasi\n1 Diare (+) Abnormal\n2 Muntah (+) Abnormal\n3 Muntah (+) setiap makan/minum Abnormal\n4 Batuk (+",
+      "anthropometric_assessment": "Jenis kelamin: Laki-laki Usia: 11 bulan BB: 7,2 kg PB/TB: 69 cm LILA: 13 cm LK: - TL: -",
+      "medical_diagnosis": "GEA+Vommiting+ISPA+PJB",
+      "reference": "HCT (↓), HGB (↓) menandakan defisiensi besi, folat, vit.B12, \n• MCH (↓), MCHC (↓), MCV (↓) -> iron deficiency Anemia (microcytic hypocrhomic) \n• Monosit (↑), Lymph (↑) , Neutrofil (↓) , respon imun tubuh terhadap infeksi. \n• RDW-CV (↑) ukuran sel darah merah lebih besar. \n• RDW SD (↑) Anemia defisiensi besi. \n• WBC (↓) Defisiensi vitamin. \n• Chlorida (↑) gangguan pH darah \n• Natrium (↓) gangguan keseimbangan elektrolit. \n• Cratinin (↓) indikasi kehilangan masa otot. \n• SGOT (↑) indikasi anemia/gangguan fungsi hati. \n\nBerdasarkan dari hasil pemeriksaan laboratorium, beberapa hasil nilai laboratorium yang berkaitan \ndengan profil anemia tergolong abnormal. Beberapa indikator lainnya menunjukan bahwa adanya \npeningkatan limfosit yang berkaitan dengan kondisi tubuh sedang melawan infeksi, serta ketidak \nnormalan hasil pemeriksaan keseimbangan elektrolit akibat adanya diare yang tejadi terus menerus, \nserta anak memang dalam kondisi gizi kurang atau underweight.",
+      "prediction": "Data biokimia/parameter lab pada pasien menunjukkan beberapa hasil abnormal, yaitu:\n- Monosit (↑) dan Lymph (↑) menunjukkan respon imun tubuh terhadap infeksi.\n- Neutrofil (↓) menunjukkan defisiensi vitamin.\n- RDW-CV (↑) menunjukkan ukuran sel darah merah lebih besar, yang terkait dengan anemia defisiensi besi.\n- RDW SD (↑) menunjukkan anemia defisiensi besi.\n- Chlorida (↑) menunjukkan gangguan pH darah.\n- Natrium (↓) menunjukkan gangguan keseimbangan elektrolit.\n- Cratinin (↓) menunjukkan indikasi kehilangan masa otot.\n- SGOT (↑) menunjukkan indikasi anemia atau gangguan fungsi hati.assistantData biokimia/parameter lab pada pasien menunjukkan beberapa hasil abnormal, yaitu:\n- Monosit (↑) dan Lymph (↑) menunjukkan respon imun tubuh terhadap infeksi.\n- Neutrofil",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 4,
+          "completeness": 4,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 4,
+          "completeness": 3,
+          "safety": 4
+        }
+      },
+      "unit_id": "U028"
+    },
+    {
+      "test_index": 7,
+      "system": "llm__qwen2.5-7b-instruct__0shot",
+      "tier": "low",
+      "question": "Bagaimana menyusun diagnosis gizi dengan format PES pada pasien ini?",
+      "question_category": "inferential",
+      "file": "PHARYNGITIS.chunks.json",
+      "qa_id": 781,
+      "context": "Diagnosa Gizi\n- NI-1.2 Peningkatan kebutuhan energi berkaitan dengan kondisi pasien yang demam ditandai\ndengan suhu tubuh pasien sebelum masuk rumah sakit mencapai 38,6° C\n- NI-5.1 Peningkatan kebutuhan zat gizi tertentu (Protein) berkaitan dengan diagnosa medis\nPharyngitis ditandai dengan suhu tubuh sebelum masuk RS 38,6 C, pasien mengeluh sakit\njika menelan.\n- NI-2.1 Asupan makanan dan minuman peroral tidak adekuat berkaitan dengan adanya\nmuntah ditandai dengan berkurangnya nafsu makan, pasien mengalami lemas, berdasarkan\ndata recall energi hanya memenuhi 50,14% dari kebutuhan (defisit tingkat berat), Protein :\n63,87% (Defisit. tk berat), Lemak 89,56% (Defisit tk. ringan) Karbohidrat 31,59% (Defisit. tk\nberat).\n- NI-5.4 Penurunan kebutuhan zat gizi tertentu (serat) berkaitan dengan pasien mengalami\ndemam ditandai dengan suhu tubuh pasien 38,6 C, serta pasien terasa mual.\n- NC-2.2 Perubahan nilai lab terkait gizi berkaitan dengan adanya dehidrasi ditandai dengan\ndata nilai lab cholrid",
+      "anthropometric_assessment": "Jenis kelamin: Laki-laki Usia: 9 tahun 5 bulan BB: 28,1 kg PB/TB: 139,6 cm LILA: - LK: -",
+      "medical_diagnosis": "Pharyngitis",
+      "reference": "NI-1.2 Peningkatan kebutuhan energi berkaitan dengan kondisi pasien yang demam ditandai \ndengan suhu tubuh pasien sebelum masuk rumah sakit mencapai 38,6° C \nNI-5.1 Peningkatan kebutuhan zat gizi tertentu (Protein) berkaitan dengan diagnosa medis \nPharyngitis ditandai dengan suhu tubuh sebelum masuk RS 38,6 C, pasien mengeluh sakit \njika menelan. \nNI-2.1 Asupan makanan dan minuman peroral tidak adekuat berkaitan dengan adanya \nmuntah ditandai dengan berkurangnya nafsu makan, pasien mengalami lemas, berdasarkan \ndata recall energi hanya memenuhi 50,14% dari kebutuhan (defisit tingkat berat), Protein : \n63,87% (Defisit. tk berat), Lemak 89,56% (Defisit tk. ringan) Karbohidrat 31,59% (Defisit. tk \nberat). \nNI-5.4 Penurunan kebutuhan zat gizi tertentu (serat) berkaitan dengan pasien mengalami \ndemam ditandai dengan suhu tubuh pasien 38,6 C, serta pasien terasa mual. \nNC-2.2 Perubahan nilai lab terkait gizi berkaitan dengan adanya dehidrasi ditandai dengan \ndata nilai lab cholrida yang rendah (94 mmol/L). \nNB-1.1 Kurangnya pengetahuan tentang gizi dan makanan bagi keluarga pasien dan pasien \nberkaitan dengan kurangnya paparan informasi terkait gizi ditandai dengan pola makan \npasien SMRS yang salah yaitu pasien suka mengonsumsi makanan yang digoreng, \nmengonsumsi jajanan yang tidak aman (suka konsumsi es dan makanan dengan pewarna), \nrerata asupan makan pasien yaitu energi 80,30% (defisit tingkat ringan) , Protein 64,1% \n(defisit tingkat sedang), Lemak : 121% (berlebih), Karbohidrat 65,12% (defisit tingkat berat).",
+      "prediction": "Diagnosis Gizi (PES):\nP - Peningkatan kebutuhan energi (Peningkatan kebutuhan energi berkaitan dengan kondisi pasien yang demam)\nE - Energi (Suhu tubuh pasien sebelum masuk rumah sakit mencapai 38,6°C, pasien mengeluh sakit jika menelan, defisit tingkat berat 50,14%, defisit protein 63,87%, defisit lemak ringan 89,56%, defisit karbohidrat 31,59%)\nS - Status gizi pasien (Pasien mengalami penurunan berat badan dan defisit zat gizi, ditandai dengan demam, mual, muntah, dan lemas)\n\nDiagnosis Gizi (PES):\nP - Peningkatan kebutuhan zat gizi tertentu (Protein) (Peningkatan kebutuhan protein berkaitan dengan diagnosa medis Pharyngitis)\nE - Zat gizi tertentu (Protein) (Suhu tubuh sebelum mas",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 4,
+          "completeness": 3,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 3,
+          "completeness": 2,
+          "safety": 4
+        }
+      },
+      "unit_id": "U029"
+    },
+    {
+      "test_index": 113,
+      "system": "baseline__xlmr",
+      "tier": "low",
+      "question": "Apa tujuan diet pada pasien ini?",
+      "question_category": "recommendation",
+      "file": "RENDAH  KECIL MASA KEHAMILAN + PNEUMONIA + RESPIRATORY FAILURE + S.chunks.json",
+      "qa_id": 887,
+      "context": "4.1 Rencana Intervensi Gizi\n4.1.1 Terapi Diet\na. Perhitungan Kebutuhan Energi dan Zat Gizi\nKebutuhan Energi dan Zat Gizi\nEnergi\n= RDA usia tinggi x BBI\n= 120 x 3,8\n= 456 kkal\nProtein (Tinggi) → 13% TEE\n= 4 g/kg BBI\n= 4 x 3,8\n= 15,2 gram\nLemak (Cukup)\n= 45% TEE\n= 22,8 gram\nKH (Cukup)\n= 42% TEE\n= 47,9 gram\nCairan\n= 130 ml/kg BBI\n= 130 x 3,8\n= 494 ml\nb. Preskripsi Diet\n1) Tujuan Diet\n● Memberikan diet tinggi protein untuk membantu mempercepat penyembuhan inflamasi\n2) Prinsip Diet\nTinggi Protein\n3) Syarat Diet\n● Energi diberikan sesuai dengan kebutuhan gizi pasien dengan mempertimbangkan kebutuhan\nenergi sesuai usia tinggi sebesar 456 kkal\n● Protein diberikan tinggi sejumlah 4 g/kg BB atau 15,2 gram untuk membantu proses\npercepatan perbaikan kondisi inflamasi\n● Lemak diberikan cukup sebanyak 45% dari kebutuhan energi atau 22,8 gram dengan\nmengutamakan bahan makanan sumber lemak omega 3\n● Karbohidrat diberikan cukup sebanyak 42% dari kebutuhan energi atau 47,9 gram sebagai\nsisa dari kebutuh",
+      "anthropometric_assessment": "Jenis kelamin: laki-laki Usia: 1 bulan 5 hari BB: 2,24 kg PB/TB: 46 cm LILA: - LK: 31 cm TL: -",
+      "medical_diagnosis": "Neonatus Aterm / Berat Badan Lahir Rendah / Kecil Masa Kehamilan + \nPneumonia + Respiratory Failure + S. Sepsis + Kolestasis + S. Down Syndrome",
+      "reference": "Memberikan diet tinggi protein untuk membantu mempercepat penyembuhan inflamasi",
+      "prediction": "Memberikan diet tinggi protein untuk membantu mempercepat penyembuhan inflamasi 2) Prinsip Diet Tinggi Protein",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 3,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 5,
+          "completeness": 3,
+          "safety": 5
+        }
+      },
+      "unit_id": "U030"
+    },
+    {
+      "test_index": 30,
+      "system": "llm__merak-7b-v4__0shot",
+      "tier": "mid",
+      "question": "Apa tujuan diet pada pasien ini?",
+      "question_category": "recommendation",
+      "file": "PASIEN DENGUE HAEMORAGIC FEVER (DHF) GRADE III.chunks.json",
+      "qa_id": 804,
+      "context": "D. Rencana Intervensi Gizi\nND-1 Pemberian makanan utama dan snack\nTujuan:\n− Memberikan makanan sesuai dengan kondisi dan kebutuhan pasien\n− Memenuhi kebutuhan energi dan protein yang meninkat untuk mencegah dan\nmengurangi kerusakan jaringan tubuh.\n− Mencapai status gizi pasien secara bertahap hingga normal\nPrinsip: Tinggi Protein\nSyarat Diet:\n− Energi diberikan sesuai dengan kebutuhan yaitu 1975,7 kkal\n− Protein diberikan 15% kebutuhan energi yaitu 74 g, untuk mengatasi kondisi\ninfeksi dan inflamasi serta mencegah terjadinya malnutrisi juga untuk\nmeningkatkan profil darah.\n− Karbohidrat diberikan 60% dari kebutuhan energi yaitu 296,35 g\n− Vitamin C sesuai AKG yakni 75 mg sebagai antioksidan dan membantu\npenyerapan zat besi untuk mengatasi anemia\n− Asam folat sesuai AKG yakni 400 mcg untuk membantu perbaikan sel darah\nmerah\n− Zat besi sesuai AKG yakni 11 mg untuk membantu perbaikan sel darah merah\n− Cairan diberikan sesuai perhitungan menggunakan holiday segar yaitu 2440\nml\n− Diet diber",
+      "anthropometric_assessment": "Jenis kelamin: Laki-laki Usia: 13 tahun 9 bulan BB: 67,25 kg PB/TB: 173 cm LILA: 28 cm LK: - TL: 54 cm",
+      "medical_diagnosis": "DHF Grade III",
+      "reference": "Memberikan makanan sesuai dengan kondisi dan kebutuhan pasien \nMemenuhi kebutuhan energi dan protein yang meninkat untuk mencegah dan \nmengurangi kerusakan jaringan tubuh. \nMencapai status gizi pasien secara bertahap hingga normal",
+      "prediction": "Tujuan diet pada pasien ini adalah untuk memberikan makanan sesuai dengan kondisi dan kebutuhan pasien, memenuhi kebutuhan energi dan protein yang meningkat untuk mencegah dan mengurangi kerusakan jaringan tubuh, dan mencapai status gizi pasien secara bertahap hingga normal. Diet ini juga bertujuan untuk mengatasi kondisi DHF Grade III dengan memberikan energi, protein, vitamin C, asam folat, zat besi, dan cairan yang sesuai dengan kebutuhan pasien.",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 5,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 5,
+          "completeness": 5,
+          "safety": 5
+        }
+      },
+      "unit_id": "U031"
+    },
+    {
+      "test_index": 36,
+      "system": "llm__qwen2.5-7b-instruct__5shot",
+      "tier": "high",
+      "question": "Bagaimana menyusun diagnosis gizi dengan format PES pada pasien ini?",
+      "question_category": "inferential",
+      "file": "RECURRENT VOMITTING TANPA DEHIDRASI, OBSERVASI ABDOMINAL PAIN DD SUSPECT INFLAMATORY BOWEL DISEASE (KOLICITIS ULCERATIF DD CROHN DISEASE), STRESS ULCER SUSPECT MASSA A.chunks.json",
+      "qa_id": 810,
+      "context": "C. Diagnosa Gizi\n1. Penegakan Diagnosa\nNC-3.3\nMalnutrisi berkaitan dengan adanya hipermetabolisme terkait dengan penyakit\nkronis inflamatory bowel dan gizi buruk ditandai dengan status gizi menurut IMT/U\n= <P5 (gizi buruk)\nNI-2.1\nAsupan intake oral inadekuat berkaitan dengan kondisi mual, muntah setiap kali\nmakan, nyeri perut akibat penyakit sehingga pasien tidak nafsu makan ditandai\ndengan Asupan E, P, L, KH berdasarkan recall defisit (E= 42%, P= 66%, L= 55%,\nKH= 34%)\nNC-2.2\nPerubahan nilai lab terkait zat gizi berkaitan dengan kondisi inflammatory bowel\ndisease dan stress ulcerative ditandai dengan profil sel darah merah menunjukkan\nanemia defisiensi besi (Besi↓, HGB↓, RBC↓, HCT↓, MCH↓, MCHC↓), terjadinya\nleukositosis (WBC↑), hipoalbuminemia (Alb↓), penurunan BB sebanyak 4,5 kg\ndalam 1 bulan\nNB-1.1\nKurangnya pengetahuan tentang gizi berkaitan dengan belum pernah\nmendapatkan edukasi gizi ditandai dengan kebiasaan makan pedas dan gorengan\ndimana px pernah appendisitis, konsumsi minuman",
+      "anthropometric_assessment": "Jenis kelamin: Perempuan Usia: 14 tahun 9 bulan BB: 37,5 kg PB/TB: 155 cm LILA: 18,5 cm LK: - TL: -",
+      "medical_diagnosis": "Recurrent vomitting tanpa dehidrasi + obs \nabdominal pain dd susp. Inflamatory bowel \ndisease (kolicitis ulceratif dd crohn % U20195 \ndisease), stress ulcer susp. massa abdomen, \ndiare akut tanpa dehidrasi, anemia normokrom \nnormositer defisiensi besi dd penyakit kronis, \ngizi buruk marasmus",
+      "reference": "NC-3.3 \nMalnutrisi berkaitan dengan adanya hipermetabolisme terkait dengan penyakit \nkronis inflamatory bowel dan gizi buruk ditandai dengan status gizi menurut IMT/U \n= <P5 (gizi buruk) \nNI-2.1 \nAsupan intake oral inadekuat berkaitan dengan kondisi mual, muntah setiap kali \nmakan, nyeri perut akibat penyakit sehingga pasien tidak nafsu makan ditandai \ndengan Asupan E, P, L, KH berdasarkan recall defisit (E= 42%, P= 66%, L= 55%, \nKH= 34%) \nNC-2.2 \nPerubahan nilai lab terkait zat gizi berkaitan dengan kondisi inflammatory bowel \ndisease dan stress ulcerative ditandai dengan profil sel darah merah menunjukkan \nanemia defisiensi besi (Besi↓, HGB↓, RBC↓, HCT↓, MCH↓, MCHC↓), terjadinya \nleukositosis (WBC↑), hipoalbuminemia (Alb↓), penurunan BB sebanyak 4,5 kg \ndalam 1 bulan \nNB-1.1 \nKurangnya pengetahuan tentang gizi berkaitan dengan belum pernah \nmendapatkan edukasi gizi ditandai dengan kebiasaan makan pedas dan gorengan \ndimana px pernah appendisitis, konsumsi minuman kemasan (pop ice, skm, susu \nfc) 2x/ hari, sambel harus ada setiap makan @ 1-2 sdm, mi instan 2-3x/ hari @1 \nbks (80 g), keripik singkong komersial setiap hari @1 bks, mi lidi pedas @50 g/ \nhari, kebiasaan minum kopi 3x/ hari",
+      "prediction": "NC-3.3  Malnutrisi berkaitan dengan adanya hipermetabolisme terkait dengan penyakit kronis inflamatory bowel dan gizi buruk ditandai dengan status gizi menurut IMT/U = <P5 (gizi buruk).\n\nNI-2.1  Asupan intake oral tidak adekuat berkaitan dengan kondisi mual, muntah setiap kali makan, nyeri perut akibat penyakit sehingga pasien tidak nafsu makan ditandai dengan asupan E, P, L, KH berdasarkan recall defisit (E= 42%, P= 66%, L= 55%, KH= 34%).\n\nNC-2.2  Perubahan nilai lab terkait zat gizi berkaitan dengan kondisi inflammatory bowel disease dan stress ulcerative ditandai dengan profil sel darah merah menunjukkan anemia defisiensi besi (Besi↓, HGB↓, RBC↓, HCT↓, MCH↓, MCHC↓), terjadinya leukositosis (WBC↑), hipoalbum",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 4,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 4,
+          "completeness": 2,
+          "safety": 5
+        }
+      },
+      "unit_id": "U032"
+    },
+    {
+      "test_index": 106,
+      "system": "llm__gpt-4o-mini__5shot",
+      "tier": "high",
+      "question": "Apa tujuan diet pada pasien ini?",
+      "question_category": "recommendation",
+      "file": "THORAX SINISTRA on IPC (INTERCOSTAL PLEURAL CATHETER), PNEUMONIA.chunks.json",
+      "qa_id": 880,
+      "context": "2.2 Rencana Intervensi Gizi\n2.2.1 Terapi Diet\nND-1 Makanan utama dan snack\n1. Tujuan\na. Memberikan makanan untuk mengatasi masalah malnutrisi dan memenuhi\nkebutuhan pasien secara bertahap menyesuaikan kemampuan pasien\ndalam menerima makanan\nb. Memberikan asupan energi dan protein yang sesuai untuk memenuhi\nkebutuhan energi dan protein yang meningkat akibat kondisi penyakit yang\ndialami\n2. Prinsip\na. Tinggi Energi dan Tinggi Protein (TKTP)\n3. Syarat\na. Energi diberikan sesuai dengan tatalaksana gizi buruk pada fase transisi,\nyaitu sebesar 150 kkal/kgBB/hari.\nb. Protein diberikan sesuai dengan kebutuhan pasien pada fase transisi, yaitu\nsebesar 3 gram/kgBB/hari.\nc. Lemak diberikan cukup sebesar 30% dari total kebutuhan energi.\nd. Karbohidrat diberikan sisa dari total kebutuhan, yaitu sebesar 54% dari total\nkebutuhan energi.\ne. Cairan diberikan sesuai dengan kebutuhan pasien pada fase transisi, yaitu\nsebesar 150 ml/kgBB/hari.\nf. Rute pemberian makanan secara oral.\ng. Bentuk makanan yang di",
+      "anthropometric_assessment": "Jenis kelamin: perempuan Usia: 6 tahun 1 bulan BB: 15 kg PB/TB: 107 cm LILA: 15,2 cm LK: - TL: -",
+      "medical_diagnosis": "Distress Nafas ok Empyema Thorax Sinistra on IPC \n(Intercostal Pleural Catheter), Pneumonia, Status Gizi \nBuruk Tipe Marasmus",
+      "reference": "a. Memberikan makanan untuk mengatasi masalah malnutrisi dan memenuhi \nkebutuhan pasien secara bertahap menyesuaikan kemampuan pasien \ndalam menerima makanan \nb. Memberikan asupan energi dan protein yang sesuai untuk memenuhi \nkebutuhan energi dan protein yang meningkat akibat kondisi penyakit yang \ndialami",
+      "prediction": "a. Memberikan makanan untuk mengatasi masalah malnutrisi dan memenuhi kebutuhan pasien secara bertahap menyesuaikan kemampuan pasien dalam menerima makanan.  \nb. Memberikan asupan energi dan protein yang sesuai untuk memenuhi kebutuhan energi dan protein yang meningkat akibat kondisi penyakit yang dialami.",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 5,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 5,
+          "completeness": 5,
+          "safety": 5
+        }
+      },
+      "unit_id": "U033"
+    },
+    {
+      "test_index": 130,
+      "system": "llm__llama-3.1-8b-instruct__5shot",
+      "tier": "high",
+      "question": "Apa metode skrining status gizi yang direkomendasikan?",
+      "question_category": "factual",
+      "file": "CONGENITAL ANOMALY (LABIOPALATOSCHIZIS, ATRESIA COANA.chunks.json",
+      "qa_id": 904,
+      "context": "k menilai risiko malnutrisi pada pasien\nanak (Tommy et al., 2022). Sedangkan untuk PNRS (Pediatrice Nutrition Risk Score)\nmenurut Academy of Nutrition and Dietetics Evidence Analysis Library (2018) dinilai\nmemiliki tingkat sensitivitas tinggi dengan tingkat spesifisitas rendah yang rendah dalam\nmendeteksi risiko malnutrisi. Sehingga screening tools yang lebih direkomendasikan\nuntuk menilai malnutrisi pada pasien adalah STRONGkids.\n2.2. Hasil Monitoring dan Evaluasi Asupan Energi dan Zat Gizi Makro\nKegiatan skrining dan assesmen gizi dilakukan pada tanggal <TGL> di\nRuang HCU Sarangan. Pelaksanaan kegiatan monitoring dan evaluasi dilakukan selama\n3 hari setelah dilakukannya assesmen, yaitu mulai dari tanggal 07 Januari hingga <TGL>. Intervensi gizi yang diberikan pada pasien adalah dengan memberikan\nmakanan cair yaitu susu infantrini sebanyak 12x40 cc, memberikan edukasi kepada\nkeluarga pasien dan melakukan kolaborasi dengan tenaga kesehatan lain untuk\n29",
+      "anthropometric_assessment": "Jenis kelamin: perempuan Usia: 4 Bulan 19 hari BB: 3,5 kg PB/TB: 56 cm LILA: 11 cm LK: 29 CM TL: -",
+      "medical_diagnosis": "Congenital Anomaly (Labiopalatoschizis, Atresia Coana, \nMicrocephaly), Epilepsi, Pneumonia, Susp. Asd, Underimunization, Diabetes Insipidus, \nSusp. Torch Infection",
+      "reference": "Strong Kids dan PNRS",
+      "prediction": "STRONGkids",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 1,
+          "completeness": 1,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 2,
+          "completeness": 1,
+          "safety": 5
+        }
+      },
+      "unit_id": "U034"
+    },
+    {
+      "test_index": 81,
+      "system": "llm__merak-7b-v4__0shot",
+      "tier": "mid",
+      "question": "Apa metode skrining status gizi yang direkomendasikan?",
+      "question_category": "factual",
+      "file": "PNEUMONIA, EFUSI PLEURA BILATERAL, SINDROM NEFRITIK, GNAPS, LUPUS.chunks.json",
+      "qa_id": 855,
+      "context": "kor 4 menunjukkan kategori beresiko malnutrisi tinggi.\nSensitivitas skrining ini yaitu 92% dan spesifisitasnya 86% (Ernawati, 2024).\nSkrining tools yang digunakan menjadi pembanding adalah skrining\nPYMS (Pediatric Yorkhill Malnutrition Score) yang merupakan alat skrining\nyang lebih komprehensif dan objektif. Beberapa indikator yang digunakan yaitu\npenurunan berat badan, IMT, penurunan asupan makan, keberadaan penyakit\nyang menurunkan kondisi pasien sehingga membutuhkan peningkatan energi.\nHasil dari skrining gizi pada pasien yaitu skor 3 menunjukkan kategori beresiko\ntinggi malnutrisi. PYMS memiliki keunggulan dibandingkan dengan Strong Kids\nyaitu sensitivitas skrining ini yaitu 98% dan spesifisitasnya 88% meskipun\ndalam waktu pengisiannya PYMS cenderung lebih lama. Pada anak-anak yang\nmenjalani perawatan jangka panjang atau menderita penyakit kronis kompleks\nseperti lupus nefritis, GNAPS, hipertensi, dan distress pernapasan skrining\ntools PYMS lebih akurat (Apriyanto, 2024).\nB. Masala",
+      "anthropometric_assessment": "Jenis kelamin: laki-laki Usia: 10 tahun 8 bulan BB: 25,4 kg PB/TB: 133,2 cm LILA: 18,1 cm LK: 49 TL: -",
+      "medical_diagnosis": "Distress Nafas OK, Pneumonia, Efusi Pleura Bilateral, Sindrom Nefritik, GNAPS, Lupus Nefritis, & Hipertensi \nStage I",
+      "reference": "Strong Kids dan PYMS, direkomendasikan strong kids",
+      "prediction": "Berdasarkan konteks yang diberikan, metode skrining status gizi yang direkomendasikan adalah skrining PYMS (Pediatric Yorkhill Malnutrition Score). Ini adalah alat skrining yang lebih komprehensif dan objektif yang menggunakan beberapa indikator seperti penurunan berat badan, IMT, penurunan asupan makan, dan keberadaan penyakit yang menurunkan kondisi pasien sehingga membutuhkan peningkatan energi. PYMS memiliki keunggulan dibandingkan dengan Strong Kids karena sensitivitas skriningnya yaitu 98% dan spesifisitasnya 88%. Namun, dalam waktu pengisiannya PYMS cenderung lebih lama. Pada anak-anak yang menjalani perawatan jangka panjang atau menderita penyakit kronis",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 1,
+          "completeness": 2,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 2,
+          "completeness": 2,
+          "safety": 3
+        }
+      },
+      "unit_id": "U035"
+    },
+    {
+      "test_index": 118,
+      "system": "llm__merak-7b-v4__5shot",
+      "tier": "mid",
+      "question": "Bagaimana data biokimia/parameter lab pada pasien (yg abnormal)?",
+      "question_category": "factual",
+      "file": "DENGAN KEMOTERAPI, FEBRILE NEUTROPENIA, PANSITOPENIA, STATUS GIZI KURANG.chunks.json",
+      "qa_id": 892,
+      "context": "it 2,13 4,47 – 6,32 ↓ berkaitan dengan leukosit,\n• Leukosit dan Metode : konseling dan\n106/µL penyakit kronis limfosit\ntrombosit tanya jawab\nLeukosit 2,06 5,07 - 11,10 ↓ (keganasan\nmenurun\nmencapai\n10³/µL osteosarcoma)\nMedia : Leaflet batas normal\nHematokrit 17,4 39,9 – 51,1 ↓ menunjukkan ditandai dengan\n• Metode :\n% kondisi kadar leukosit dan\nTrombosit 53 185 – 398 ↓ pansitopenia monosit\nMelihat hasil\npemeriksaan\nmeningkat,limfosit, RC-1 Kolaborasi dan\n10³/µL • Kalium rendah\ntrombosit, hematokrit Rujukan Gizi biokimia lab\nMCV 81,7 73,4 – 91 N mengindikasikan\nfL hipokalemi\ndan hemoglobin • Waktu: setelah\nmenurun, dan %LILA pemeriksaan\nMCH 28,2 24,2 – 31,2 N Melakukan kolaborasi\n• Limfosit dan tergolong gizi kurang lab selanjutnya\npg dengan dokter dan perawat\nMCHC 34,5 31,9 – 36 N\nmonosit rendah\ndalam menentukan\nmenunjukkan\nkebutuhan cairan harian\ng/dL",
+      "anthropometric_assessment": "Jenis kelamin: laki-laki Usia: 12 tahun 6 bulan BB: 34 kg PB/TB: 142 cm LILA: 20,5 cm LK: - TL: -",
+      "medical_diagnosis": "Syok sepsis, Osteosarkoma dengan kemoterapi, Febrile Neutropenia, Pansitopenia, Status Gizi Kurang",
+      "reference": "• Hemoglobin, \neritrosit, dan \nhematokrit rendah \nmenunjukkan \nkondisi anemia \n• Leukosit dan \ntrombosit \nmenurun \nmenunjukkan \nkondisi \npansitopenia \n• Kalium rendah \nmengindikasikan \nhipokalemi \n• Limfosit dan \nmonosit rendah \nmenunjukkan respon imun \nterhadap infeksi \n• Fosfor dan \nmagnesium \nrendah \nmengindikasikan \nadanya gangguan \nmetabolik dan \npenyembuhan \nluka",
+      "prediction": "Data biokimia pasien yang abnormal termasuk trombosit, leukosit, dan hemoglobin.",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 2,
+          "completeness": 2,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 4,
+          "completeness": 1,
+          "safety": 5
+        }
+      },
+      "unit_id": "U036"
+    },
+    {
+      "test_index": 86,
+      "system": "baseline__mdeberta",
+      "tier": "low",
+      "question": "Bagaimana prinsip diet yang tepat sesuai dengan kondisi pasien ini?",
+      "question_category": "recommendation",
+      "file": "PNEUMONIA, EFUSI PLEURA BILATERAL, SINDROM NEFRITIK, GNAPS, LUPUS.chunks.json",
+      "qa_id": 860,
+      "context": "Rencana Intervensi\nA. Terapi diet\n1. Tujuan\n• Memberikan asupan makanan dan minuman jalur oral dan parenteral sesuai\ndengan kebutuhan energi dan zat gizi harian dapat terpenuhi\n• Meningkatkan kebutuhan energi untuk mendukung masa pertumbuhan dan\nmeningkatkan BB\n• Mengontrol tekanan darah dan keseimbangan cairan\n2. Prinsip\n• Tinggi Energi Rendah Garam\n3. Syarat\n• Diet diberikan dalam bentuk lunak melalui oral dengan frekuensi 3x makan\nutama 2x snack dan menambahkan pemberian susu Neprisol dengan frekuensi\n3x150ml\n• Energi diberikan sesuai kebutuhan pasien sebesar 1960 Kkal untuk mencegah\nkomplikasi lebih lanjut\n• Protein diberikan cukup 10% dari total energi atau sebesar 49 g untuk mencegah\nperburukan fungsi ginjal\n• Lemak diberikan cukup 25% dari total energi atau sebesar 55,7gram untuk\nmengurangi beban metabolisme karbohidrat yang bisa meningkatkan produksi\nkarbon dioksida (Co )\n2\n• Karbohidrat diberikan cukup 60% dari total energi atau sebesar 294 gram\n• Cairan diberikan cukup sebesa",
+      "anthropometric_assessment": "Jenis kelamin: laki-laki Usia: 10 tahun 8 bulan BB: 25,4 kg PB/TB: 133,2 cm LILA: 18,1 cm LK: 49 TL: -",
+      "medical_diagnosis": "Distress Nafas OK, Pneumonia, Efusi Pleura Bilateral, Sindrom Nefritik, GNAPS, Lupus Nefritis, & Hipertensi \nStage I",
+      "reference": "Tinggi Energi Rendah Garam",
+      "prediction": "• Tinggi Energi Rendah Garam",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 5,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 5,
+          "completeness": 5,
+          "safety": 5
+        }
+      },
+      "unit_id": "U037"
+    },
+    {
+      "test_index": 11,
+      "system": "baseline__cahya",
+      "tier": "low",
+      "question": "Apa metode skrining status gizi yang direkomendasikan?",
+      "question_category": "factual",
+      "file": "NEMIA GRAVIS OK HEMATEMESIS MELENA- HEMATEMESIS MELENA OK LOCAL SITED DD, GASTRITIS EROSIF, STRESS ULCER, ESOFAGITIS, ULKUS PEPTIKUM, MALLORY WEISS SYNDROME – ANEMIA H.chunks.json",
+      "qa_id": 785,
+      "context": "BAB V\nKESIMPULAN DAN SARAN\n5.1 KESIMPULAN\n1. Berdasarkan skrining tools yang digunakan yaitu STRONG-Kids dan PYMS,\nbahwa dipilih skrining tools STRONG-Kids. Hal ini karena pada skrining tools ini\nditujukan pada anak, serta pada form pertanyaan STRONG Kids memiliki 3\npertanyaan yang memiliki kemudahan dalam menjawab dan tidak membutuhkan\nwaktu yang lama.\n2. Diagnosis Gizi:\n• NI-2.1\nAsupan makanan dan minuman per oral tidak adekuat berkaitan dengan nafsu\nmakan pasien menurun dan keadaan umum lemah ditandai dengan asupan\npasien defisit tingkat berat (energi 45,7%), (protein 44,6%), Lemak (50%), (KH\n43,3%).\n• NI-5.1\nPeningkatan kebutuhan zat gizi tertentu (protein) berkaitan dengan kondisi\nanemia pada pasien ditandai dengan hasil 24-Hours Recall sekarang protein\ndefisit tingkat berat (45,7%), nafsu makan menurun, Hb rendah (10,1 g/dL) dan\nzat besi rendah (31 μg/dL).\n• NC-4.1.1\nMalnutrisi berkaitan dengan konsumsi makanan tidak seimbang dan tidak\nberagam ditandai dengan LLA/U pada kategori ",
+      "anthropometric_assessment": "Jenis kelamin: Laki-laki Usia: 5 tahun 6 bulan BB: 17,5 kg PB/TB: 111 cm LILA: 14,5 LK: -",
+      "medical_diagnosis": "ANEMIA GRAVIS OK HEMATEMESIS MELENA- \nHEMATEMESIS MELENA OK LOCAL SITED DD, GASTRITIS EROSIF, STRESS \nULCER, ESOFAGITIS, ULKUS PEPTIKUM, MALLORY WEISS SYNDROME – \nANEMIA HIPOKROM MIKROSITER OK DD, DEFISIENSI BESI, INFEKSI KRONIS, \nTHALASSEMIA",
+      "reference": "Strong Kids dan PYMS, direkomendasikan strong kids",
+      "prediction": "apa metode skrining status gizi yang direkomendasikan? bab v kesimpulan dan saran 5. 1 kesimpulan 1. berdasarkan skrining tools yang digunakan yaitu strong - kids dan pyms, bahwa dipilih skrining tools strong - kids. hal ini karena pada skrining tools ini ditujukan pada anak, serta pada form pertanyaan strong kids memiliki 3 pertanyaan yang memiliki kemudahan dalam menjawab dan tidak membutuhkan waktu yang lama.",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 4,
+          "completeness": 3,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 5,
+          "completeness": 5,
+          "safety": 5
+        }
+      },
+      "unit_id": "U038"
+    },
+    {
+      "test_index": 50,
+      "system": "llm__gpt-4o-mini__5shot",
+      "tier": "high",
+      "question": "Bagaimana menyusun diagnosis gizi dengan format PES pada pasien ini?",
+      "question_category": "inferential",
+      "file": "PASIEN CORPUS ALINEUM UPPER GI TRACT (POST ENDOSCOPY UPPER GI TRACT).chunks.json",
+      "qa_id": 824,
+      "context": "2.3.2 Diagnosis Gizi\nNI 2.11\nKeterbatasan penerimaan makanan berkaitan dengan pasien dipuasakan\nsebelum tindakan Endoscopy ditandai oleh asupan recall 24H energi,\nprotein, lemak, dan karbohidrat defisit tingkat berat\nNB 1.1 Kurangnya pengetahuan terkait makanan dan gizi berkaitan\ndengan orangtua pasien belum pernah mendapatkan edukasi gizi terkait\ngizi pada anak ditandai oleh porsi makan tidak adekuat, hasil SQFFQ\nasupan energi defisit tingkat sedang memenuhi 70% kebutuhan, asupan\nlemak defisit tingkat ringan memenuhi 85% kebutuhan, asupan karbohidrat\ndefisit tingkat berat memenuhi 60% kebutuhan\n2.4 Rencana Intervensi\n2.4.1 Terapi Diet\nND1- Makanan dan Snack\nA. Tujuan Diet\n- Memberikan makanan yang sesuai dengan kebutuhan gizi pasien\nsesuai prinsip gizi seimbang pada anak\nB. Prinsip Diet\n- Diet Seimbang Anak\nC. Syarat Diet\n- Energi diberikan cukup sesuai dengan kebutuhan pada anak usia\nsekolah yaitu 2450 kkal\n- Protein diberikan cukup sebesar yaitu 90 gram untuk mendukung\npertumbuhan. ",
+      "anthropometric_assessment": "Jenis kelamin: Perempuan Usia: 15 tahun BB: 52 kg PB/TB: 160 cm LILA: 24 cm LK: - TL: -",
+      "medical_diagnosis": "Corpus Alineum Upper GI Tract (Post Endoscopy \nUpper GI Tract)",
+      "reference": "NI 2.11 \nKeterbatasan penerimaan makanan berkaitan dengan pasien dipuasakan \nsebelum tindakan Endoscopy ditandai oleh asupan recall 24H energi, \nprotein, lemak, dan karbohidrat defisit tingkat berat \nNB 1.1 Kurangnya pengetahuan terkait makanan dan gizi berkaitan \ndengan orangtua pasien belum pernah mendapatkan edukasi gizi terkait \ngizi pada anak ditandai oleh porsi makan tidak adekuat, hasil SQFFQ \nasupan energi defisit tingkat sedang memenuhi 70% kebutuhan, asupan \nlemak defisit tingkat ringan memenuhi 85% kebutuhan, asupan karbohidrat \ndefisit tingkat berat memenuhi 60% kebutuhan",
+      "prediction": "Diagnosis gizi dengan format PES pada pasien ini adalah:\n\n**P**: Keterbatasan penerimaan makanan berkaitan dengan pasien dipuasakan sebelum tindakan endoscopy.  \n**E**: Ditandai oleh asupan recall 24 jam energi, protein, lemak, dan karbohidrat defisit tingkat berat.  \n**S**: Asupan energi defisit memenuhi 70% kebutuhan, asupan lemak defisit memenuhi 85% kebutuhan, dan asupan karbohidrat defisit memenuhi 60% kebutuhan.",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 4,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 3,
+          "completeness": 2,
+          "safety": 4
+        }
+      },
+      "unit_id": "U039"
+    },
+    {
+      "test_index": 42,
+      "system": "baseline__cahya",
+      "tier": "low",
+      "question": "Bagaimana data biokimia/parameter lab pada pasien (yg abnormal)?",
+      "question_category": "factual",
+      "file": "NIEMANN PICK + BBLR + RESPIRATORY DISTRESS SYNDROM.chunks.json",
+      "qa_id": 816,
+      "context": "Tabel 2.5 Data Biokimia\n\n[TABLE 0]\nData Lab | Nilai |  | Interpretasi\n--------------------------------------------------------------------------------\n | Hasil | Nilai Rujukan | \nHemoglobin | 17,3 | 14,4-17,5 g/dL | Normal\nLeukosit | 10.380 | 4,0-10 ribu/cmm | Tinggi\nEos | 1 | 1-2 | Normal\nBas | - | 0-1 | Normal\nNeut | 77 | 54-62 | Tinggi\nLymp | 10 | 25-33 | Rendah\nMono | 12 | 3-7 | Tinggi\nTrombosit | 319.000 | 150-450 ribu | Normal\nPCV | 47,6 | 40-50% | Normal\nAlbumin | 3,23 | 3,6-5,2 | Rendah\n[END TABLE]\nKesimpulan:\n- Leukosit ↑ adanya risiko infeksi (kemenkes, 2011).\n- Neut ↑ disebabkan oleh infeksi bakteri dan parasit, gangguan metabolit,\npendarahan (kemenkes, 2011).\n- Mono ↑ berkaitan dengan infeksi virus, bakteri dan parasit tertentu serta\nkolagen, kerusakan jantung dan hematologi (kemenkes, 2011).\n- Lymp ↓ berkaitdan dengan adanya trauma (kemenkes, 2011).\n- Albumin ↓ berkaitan dengan malnutrisi, sindroma absorpsi (kemenkes, 2011).\n2.3.3 Fisik klinis\nBerikut merupakan tabel hasil",
+      "anthropometric_assessment": "Jenis kelamin: Laki-laki Usia: 24 hari BB: 2 kg PB/TB: 45 cm LILA: 6,3 cm LK: - TL: -",
+      "medical_diagnosis": "Nieman pick + BBLR + respiratory distress syndrome",
+      "reference": "Leukosit ↑ adanya risiko infeksi (kemenkes, 2011). - Neut ↑ disebabkan oleh infeksi bakteri dan parasit, gangguan metabolit, \npendarahan (kemenkes, 2011). - Mono ↑ berkaitan dengan infeksi virus, bakteri dan parasit tertentu serta \nkolagen, kerusakan jantung dan hematologi (kemenkes, 2011). - Lymp ↓ berkaitdan dengan adanya trauma (kemenkes, 2011). - Albumin ↓ berkaitan dengan malnutrisi, sindroma absorpsi (kemenkes, 2011).",
+      "prediction": "bagaimana data biokimia / parameter lab pada pasien ( yg abnormal )? tabel 2. 5 data biokimia [ table 0 ] data lab nilai interpretasi - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - hasil nilai rujukan hemoglobin 17, 3 14, 4 - 17, 5 g / dl normal leukosit 10. 380 4, 0 - 10 ribu / cmm tinggi eos 1 1 - 2 normal bas - 0 - 1 normal neut 77 54 - 62 tinggi lymp 10 25 - 33 rendah mono 12 3 - 7 tinggi trombosit 319. 000 150 - 450 ribu normal pcv 47, 6 40 - 50 % normal albumin 3, 23 3, 6 - 5, 2 rendah [ end table ] kesimpulan : - leukosit adanya risiko infeksi ( kemenkes, 2011 ). - neut disebabkan oleh infeksi bakteri dan parasit, gangguan metabolit, pendarahan ( kemenkes, 2011 ). - mono berkaitan dengan infeksi virus, bakteri dan parasit tertentu serta kolagen, kerusakan jantung dan hematologi ( kemenkes, 2011 ). - lymp berkaitdan dengan adanya trauma ( kemenkes, 2011 ). - albumin berkaitan dengan malnutrisi, sindroma absorpsi ( kemenkes, 2011 ).",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 5,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 5,
+          "completeness": 5,
+          "safety": 5
+        }
+      },
+      "unit_id": "U040"
+    },
+    {
+      "test_index": 123,
+      "system": "llm__llama-3.1-8b-instruct__0shot",
+      "tier": "mid",
+      "question": "Apa metode skrining status gizi yang direkomendasikan?",
+      "question_category": "factual",
+      "file": "SHOCK, EFUSI PLEURA), HIPERTENSI STAGE I, LUPUS NEFRITIS SEVERE FLARE, SUSP..chunks.json",
+      "qa_id": 897,
+      "context": "Form skrrining PYMS (Pediatric Yorkhill Malnutrition Score) digunakan sebagai pembanding,\ndimana didapatkan skor total 2, yang juga menunjukkan risiko malnutrisi. PYMS lebih\nkomprehensif karena mempertimbangkan status antropometri, perubahan berat badan, asupan\nmakanan, serta kondisi penyakit, yang meningkatkan akurasi dalam mengidentifikasi risiko\nmalnutrisi. Studi menunjukkan bahwa STRONGKids memiliki sensitivitas tinggi tetapi\nspesifisitas lebih rendah, sedangkan PYMS memiliki spesifisitas yang lebih baik dengan\nsensitivitas yang cukup tinggi, sehingga lebih efektif dalam mengidentifikasi pasien yang benar-\nbenar membutuhkan intervensi gizi (Wonoputri et al., 2014).\n3",
+      "anthropometric_assessment": "Jenis kelamin: perempuan Usia: 15 tahun BB: 35,4kg PB/TB: 135 cm LILA: 22 cm LK: - TL: -",
+      "medical_diagnosis": "status gizi pasien berdasarkan analisis \nkurva CDC adalah gizi normal dengan \nperawakan sangat pendek dan sangat \nkurus.",
+      "reference": "Strong Kids dan PYMS, direkomendasikan PYMS",
+      "prediction": "Berdasarkan konteks yang diberikan, metode skrining status gizi yang direkomendasikan adalah menggunakan PYMS (Pediatric Yorkhill Malnutrition Score) karena memiliki sensitivitas dan spesifisitas yang baik dalam mengidentifikasi risiko malnutrisi.",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 4,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 4,
+          "completeness": 2,
+          "safety": 5
+        }
+      },
+      "unit_id": "U041"
+    },
+    {
+      "test_index": 75,
+      "system": "llm__sahabat-ai-llama3-8b__5shot",
+      "tier": "high",
+      "question": "Bagaimana status gizi pada pasien ini?",
+      "question_category": "inferential",
+      "file": "Distress Nafas + Pneumonia + Gagal Jantung Ross Class III + ASD.chunks.json",
+      "qa_id": 849,
+      "context": "BAB III\nNUTRITION CARE PROCESS\nNama : <NAMA> Jenis Kelamin : Laki-Laki\nUmur : 1 tahun 3 bulan 23 hari Registrasi : <NO_REG>\nTanggal MRS : <TGL> Tanggal Pengkajian : <TGL>\nDiagnosis medis : Distress Nafas + Pneumonia + Gagal Jantung Ross Class III + ASD Sekundum Sedang + Efusi Perikard Minimal + Susp.\nTB Paru + Gizi Buruk Marasmus + Down Syndrome\n\n[TABLE 0]\nAsesmen Gizi |  | Diagnosis Gizi | Intervensi Gizi | Monitoring dan\nEvaluasi Gizi\n--------------------------------------------------------------------------------\nData Dasar | Identifikasi Masalah |  |  | \nAntropometri\nBB Aktual = 6,6 kg\nPB = 74 cm\nLiLA = 11 cm (<p5)\nIbu pasien mengatakan pasien mengalami penurunan berat\nbadan sebesar 0,6 kg dari 7,2 kg menjadi 6,6 kg dalam 3\nminggu terakhir (8,3%)\nStatus gizi dengan Grafik WHO\nBB/U <-3 SD\nPB/U -2 SD\nBB/PB <-3 SD\nHA = 10,5 bulan\nBBI = 9,3 kg\nInterpretasi: Status gizi buruk perawakan normal | Status gizi buruk berdasarkan\npersentil LiLA menurut Umur\nPasien mengala",
+      "anthropometric_assessment": "Jenis kelamin: laki-laki Usia: 1 tahun 3 bulan BB: 6,6 kg PB/TB: 74 cm LILA: 11 cm LK: - TL: -",
+      "medical_diagnosis": "Distress Nafas + Pneumonia + Gagal Jantung Ross Class III + ASD Sekundum Sedang + Efusi Perikard Minimal + Susp. \nTB Paru + Gizi Buruk Marasmus + Down Syndrome",
+      "reference": "BB/U <-3 SD \nPB/U -2 SD \nBB/PB <-3 SD \nHA = 10,5 bulan \nBBI = 9,3 kg \nInterpretasi: Status gizi buruk perawakan normal",
+      "prediction": "Status gizi buruk perawakan normal",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 3,
+          "completeness": 2,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 5,
+          "completeness": 2,
+          "safety": 5
+        }
+      },
+      "unit_id": "U042"
+    },
+    {
+      "test_index": 17,
+      "system": "llm__llama-3.1-8b-instruct__0shot",
+      "tier": "mid",
+      "question": "Bagaimana syarat diet yang harus dipenuhi dalam pengaturan diet pasien ini?",
+      "question_category": "recommendation",
+      "file": "NEMIA GRAVIS OK HEMATEMESIS MELENA- HEMATEMESIS MELENA OK LOCAL SITED DD, GASTRITIS EROSIF, STRESS ULCER, ESOFAGITIS, ULKUS PEPTIKUM, MALLORY WEISS SYNDROME – ANEMIA H.chunks.json",
+      "qa_id": 791,
+      "context": "• Protein diberikan tinggi sebanyak 15%. Protein diberikan untuk memenuhi\nkebutuhan protein dalam sehari pada pasien dan mencegah adanya inflamasi\nberkelanjutan. Sumber protein yang dianjurkan yaitu seperti ayam, daging, ikan, susu\ndan produk olahan kedelai seperti tahu dan tempe.\n• Lemak diberikan sebanyak 25%. Pemberian lemak dianjurkan sumber lemak tidak\njenuh ganda, yaitu omega-3 dan omega-6 untuk mengurangi proses inflamasi dan\nmeningkatkan sistem imun. Contoh bahan makanan yang dianjurkan adalah kedelai,\nminyak jagung, minyak zaitun.\n• Karbohidrat diberikan cukup yaitu sisa dari kebutuhan energi total atau sebanyak\n60%. Karbohidrat berperan sebagai sumber energi dan membentuk cadangan energi\npada pasien. Sumber karbohidrat yang dianjurkan yaitu nasi, kentang, ubi, singkong.\n• Cairan diberikan cukup yaitu sebanyak 90 ml/kg BBI untuk menghindari dehidrasi\npada pasien.\n• Serat diberikan rendah berkaitan dengan gangguan gastrointerstinal pada pasien.\n• Vitamin C 45 mg/hari sebanyak u",
+      "anthropometric_assessment": "Jenis kelamin: Laki-laki Usia: 5 tahun 6 bulan BB: 17,5 kg PB/TB: 111 cm LILA: 14,5 LK: -",
+      "medical_diagnosis": "ANEMIA GRAVIS OK HEMATEMESIS MELENA- \nHEMATEMESIS MELENA OK LOCAL SITED DD, GASTRITIS EROSIF, STRESS \nULCER, ESOFAGITIS, ULKUS PEPTIKUM, MALLORY WEISS SYNDROME – \nANEMIA HIPOKROM MIKROSITER OK DD, DEFISIENSI BESI, INFEKSI KRONIS, \nTHALASSEMIA",
+      "reference": "Energi diberikan dengan mempertimbangkan berat badan ideal dan RDA sesuai \ndengan usia pasien. \n18 \n• Protein diberikan tinggi sebanyak 15%. Protein diberikan untuk memenuhi \nkebutuhan protein dalam sehari pada pasien dan mencegah adanya inflamasi \nberkelanjutan. Sumber protein yang dianjurkan yaitu seperti ayam, daging, ikan, susu \ndan produk olahan kedelai seperti tahu dan tempe. \n• Lemak diberikan sebanyak 25%. Pemberian lemak dianjurkan sumber lemak tidak \njenuh ganda, yaitu omega-3 dan omega-6 untuk mengurangi proses inflamasi dan \nmeningkatkan sistem imun. Contoh bahan makanan yang dianjurkan adalah kedelai, \nminyak jagung, minyak zaitun. \n• Karbohidrat diberikan cukup yaitu sisa dari kebutuhan energi total atau sebanyak \n60%. Karbohidrat berperan sebagai sumber energi dan membentuk cadangan energi \npada pasien. Sumber karbohidrat yang dianjurkan yaitu nasi, kentang, ubi, singkong. \n• Cairan diberikan cukup yaitu sebanyak 90 ml/kg BBI untuk menghindari dehidrasi \npada pasien. \n• Serat diberikan rendah berkaitan dengan gangguan gastrointerstinal pada pasien. \n• Vitamin C 45 mg/hari sebanyak untuk mempertahankan sistem imun pasien. Serta \nzat besi 10 mg/hari untuk mencegah terjadinya anemia berkelanjutan pada pasien. \n• Makanan diberikan menyesuaikan dengan kondisi pasien, diberikan secara \nbertahap dan diberikan bentuk makanan lunak dengan 3x makanan utama.",
+      "prediction": "Dalam pengaturan diet pasien ini, syarat diet yang harus dipenuhi adalah:\n\n1. **Kebutuhan energi**: Pasien memerlukan energi yang cukup untuk memenuhi kebutuhan tubuhnya. Berdasarkan usia dan berat badan pasien, kebutuhan energi totalnya dapat dihitung.\n2. **Kebutuhan protein**: Pasien memerlukan protein yang tinggi sebanyak 15% dari kebutuhan energi totalnya untuk memenuhi kebutuhan protein dan mencegah inflamasi berkelanjutan. Sumber protein yang dianjurkan adalah ayam, daging, ikan, susu, dan produk olahan kedelai seperti tahu dan tempe.\n3. **Kebutuhan lemak**: Pasien memerlukan lemak yang cukup sebanyak 25% dari kebutuhan energi totalnya. Sumber lemak yang dianjurkan adalah lemak tidak jenuh ganda seperti omega-3 dan omega-6 untuk mengurangi proses inflamasi dan meningkatkan sistem imun. Contoh bahan makanan yang dianjurkan adalah",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 4,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 4,
+          "completeness": 2,
+          "safety": 4
+        }
+      },
+      "unit_id": "U043"
+    },
+    {
+      "test_index": 98,
+      "system": "llm__llama-3.1-8b-instruct__0shot",
+      "tier": "mid",
+      "question": "Bagaimana menyusun diagnosis gizi dengan format PES pada pasien ini?",
+      "question_category": "inferential",
+      "file": "DIAGNOSIS SPINA BIFIDA, MICROCEPHALI + COLPOCEPHALY, RUPTURED.chunks.json",
+      "qa_id": 872,
+      "context": "Diagnosis Gizi\nNI 2.1 Asupan makanan dan minuman per oral tidak adekuat berkaitan dengan proses\npenyembuhan luka pasca operasi ditandai dengan asupan energi (70%) dan karbohidrat\n(79%) defisit sedang, serta asupan lemak (66%) defisit berat\nNB 1.1 Kurangnya pengetahuan tentang gizi dan makanan berkaitan dengan kurangnya\npaparan informasi terkait gizi ditandai dengan ibu bayi belum pernah mendapatkan edukasi\npasca persalinan dan menyusui, serta produksi ASI ibu tidak lancar",
+      "anthropometric_assessment": "Jenis kelamin: perempuan Usia: 3 hari BB: 3100 gram PB/TB: 48 cm LILA: - cm LK: 30 TL: -",
+      "medical_diagnosis": "Spina bifida, Microcephali + Colpocephaly, Ruptured Meningomyelocele \nLumbosacral, Arnold malformation tipe I",
+      "reference": "NI 2.1 \nAsupan makanan dan \nminuman per oral tidak \nadekuat berkaitan dengan \nproses penyembuhan luka \npasca operasi ditandai \ndengan asupan energi \n(70%) dan karbohidrat \n(79%) defisit sedang, \nasupan lemak (66%) \ndefisit berat, data biokimia \nterkait hemoglobin (12,2 \ng/dL), eritrosit (3,57 \n10⁶/uL), hematokrit \n(36,5%), dan albumin \n(3,09 g/dL) rendah, serta \nlimfosit (17,6%), monosit \n(10,7%), dan klorida (117 \nmmol/L) tinggi. \nNB 1.1 \nKurangnya pengetahuan \ntentang gizi dan makanan \nberkaitan dengan \nkurangnya paparan \ninformasi terkait gizi \nditandai dengan ibu bayi \nbelum pernah \nmendapatkan edukasi \npasca persalinan dan \nmenyusui, serta produksi \nASI ibu tidak lancar",
+      "prediction": "Berikut adalah contoh penyusunan diagnosis gizi dengan format PES (Problem, Etiologi, Solusi) untuk pasien ini:\n\n**Problem (P)**\n\n* Asupan makanan dan minuman per oral tidak adekuat (NI 2.1)\n* Kurangnya pengetahuan tentang gizi dan makanan (NB 1.1)\n\n**Etiologi (E)**\n\n* Asupan makanan dan minuman per oral tidak adekuat terkait dengan proses penyembuhan luka pasca operasi\n* Kurangnya pengetahuan tentang gizi dan makanan terkait dengan kurangnya paparan informasi terkait gizi, ibu bayi belum pernah mendapatkan edukasi pasca persalinan dan menyusui, serta produksi ASI ibu tidak lancar\n\n**Solusi (S)**\n\n* Perbaiki asupan makanan dan minuman per oral dengan meningkatkan frekuensi pemberian makanan dan minuman\n* Edukasi ibu tentang gizi dan makanan, termasuk pentingnya ASI dan cara meningkatkan produksi ASI\n* Monitoring",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 4,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 4,
+          "completeness": 2,
+          "safety": 4
+        }
+      },
+      "unit_id": "U044"
+    },
+    {
+      "test_index": 13,
+      "system": "baseline__mt5",
+      "tier": "low",
+      "question": "Bagaimana data biokimia/parameter lab pada pasien (yg abnormal)?",
+      "question_category": "factual",
+      "file": "NEMIA GRAVIS OK HEMATEMESIS MELENA- HEMATEMESIS MELENA OK LOCAL SITED DD, GASTRITIS EROSIF, STRESS ULCER, ESOFAGITIS, ULKUS PEPTIKUM, MALLORY WEISS SYNDROME – ANEMIA H.chunks.json",
+      "qa_id": 787,
+      "context": "n Rendah\n↓, Eritrosit Rendah ↓,\nHematokrit Rendah ↓,\nTrombosit Rendah ↓,\nP-LCR tinggi ↑\nBerkaitan dengan\npendarahan spontan\nyang terjadi pada\nsaluran cerna pasien\ndan menyebabkan\nterjadinya Anemia\nHipokrom Mikrositer\n(Kemenkes, 2011)\n(Amalia &\nTjiptaningrum, 2016). |  |  | \n[END TABLE]\n24",
+      "anthropometric_assessment": "Jenis kelamin: Laki-laki Usia: 5 tahun 6 bulan BB: 17,5 kg PB/TB: 111 cm LILA: 14,5 LK: -",
+      "medical_diagnosis": "ANEMIA GRAVIS OK HEMATEMESIS MELENA- \nHEMATEMESIS MELENA OK LOCAL SITED DD, GASTRITIS EROSIF, STRESS \nULCER, ESOFAGITIS, ULKUS PEPTIKUM, MALLORY WEISS SYNDROME – \nANEMIA HIPOKROM MIKROSITER OK DD, DEFISIENSI BESI, INFEKSI KRONIS, \nTHALASSEMIA",
+      "reference": "Hemoglobin Rendah ↓, Eritrosit Rendah ↓, Hematokrit Rendah ↓, Trombosit \nRendah ↓, P-LCR tinggi ↑ \nBerkaitan dengan pendarahan spontan yang terjadi pada saluran cerna pasien dan \nmenyebabkan terjadinya Anemia Hipokrom Mikrositer (Kemenkes, 2011) (Amalia & \nTjiptaningrum, 2016). \n− Eosinofil Rendah ↓ \nBerkaitan dengan terjadinya inflamasi, infeksi bakteri, virus, atau parasit, dan \ngangguan metabolit pada tubuh (Kemenkes, 2011).",
+      "prediction": "<extra_id_0> -",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 1,
+          "completeness": 1,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 5,
+          "completeness": 1,
+          "safety": 5
+        }
+      },
+      "unit_id": "U045"
+    },
+    {
+      "test_index": 68,
+      "system": "llm__merak-7b-v4__5shot",
+      "tier": "mid",
+      "question": "Bagaimana status gizi pada pasien ini?",
+      "question_category": "inferential",
+      "file": "ASTHMA SERANGAN BERAT, PNEUMONIA, INTRACTABLE EPILEPSI.chunks.json",
+      "qa_id": 842,
+      "context": "17,3/118) x 100: 99,4% → P25 – P50\nUsia menurut TB adalah 6 tahun 5 bulan\nAnalisis status gizi berdasarkan Kemenkes (2020),\nIMT : BB/TB2\n: 18,5/(1,173)2\n: 13.5\nIMT/U : -2 SD s/d -1 SD\nAnalisis status gizi berdasarkan tabel LLA Gibson (2005),\n%LLA: (15,5/17,9) x 100: 86,59% → persentil 5 | - Status gizi <NAMA>\nadalah gizi kurang, berat\nbadan kurang dengan\nperawakan normal\n- Penurunan berat badan\ntidak diharapkan 7,5%\ndalam waktu 2 minggu | NI 2.11 Keterbatasan\npenerimaan makanan\nberkaitan dengan\npenurunan kemampuan\nmakan akibat epilepsi\nditandai oleh persentase\nasupan energi (61,3%),\nprotein (39,6%),\nkarbohidrat (49,4%)\ndefisit tingkat berat dan\nasupan lemak (84,4%)\ndefisit tingkat ringan\nNB 1.2 Kepercayaan\natau perilaku yang\ntidak sesuai dengan\nkaidah gizi berkaitan\ndengan kurangnya\npaparan informasi yang\nakurat ditandai oleh\npersentase asupan\nprotein (64%), | ND 1 Makanan dan\nSnack\nPasien diberikan anjuran\ndiet dengan energi 930\nkal dan protein 34,8\ngram dalam bentuk F100\nsoya 4x150 ",
+      "anthropometric_assessment": "Jenis kelamin: laki-laki Usia: 6 tahun 6 bulan BB: 18,5 kg PB/TB: 117,3 cm LILA: 15,5 cm LK: - TL: -",
+      "medical_diagnosis": "Distress napas ok asthma serangan berat, Pneumonia, Intractable \nepilepsi, Disabilitas intelektual, Global developmental delay",
+      "reference": "Status gizi An. MSR \nadalah gizi kurang, berat \nbadan kurang dengan \nperawakan normal",
+      "prediction": "Status gizi pasien ini adalah gizi kurang, berat badan kurang dari perawakan normal, dan penurunan berat badan tidak diharapkan.",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 4,
+          "completeness": 3,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 2,
+          "completeness": 2,
+          "safety": 3
+        }
+      },
+      "unit_id": "U046"
+    },
+    {
+      "test_index": 131,
+      "system": "llm__llama-3.1-8b-instruct__0shot",
+      "tier": "mid",
+      "question": "Bagaimana status gizi pada pasien ini?",
+      "question_category": "inferential",
+      "file": "CONGENITAL ANOMALY (LABIOPALATOSCHIZIS, ATRESIA COANA.chunks.json",
+      "qa_id": 905,
+      "context": "FORM NUTRITIONAL CARE PROCESS (NCP)\nNama : <NAMA> No. RM : <NO_REG>\nUmur : 4 bulan 19 hari Tgl Pengambilan Data : <TGL>\nJenis Kelamin : Perempuan Tgl MRS : <TGL>\nRuang : HCU - Sarangan\nDiagnosis Medis : Congenital Anomaly (Labiopalatoschizis, Atresia Coana, Microcephaly), Epilepsi, Pneumonia, Susp. Asd,\nUnderimunization, Diabetes Insipidus, Susp. TORCH Infection\n\n[TABLE 0]\nAssessment Gizi |  | Diagnosis Gizi | Intervensi Gizi | Monitoring dan Evaluasi\n--------------------------------------------------------------------------------\nData Dasar | Identifikasi Masalah |  |  | \nAntropometri\nBB = 3,5 kg\nPB = 56 cm\nLiLA = 11 cm\nLingkar Kepala = 29 cm\nRiwayat Lahir\nBB = 2900 gram\nPB = 50 cm\nStatus gizi berdasarkan Grafik\nWHO\n BB/U = <-3 SD  Berat Badan\nSangat Kurang | Status gizi pasien\nberdasarkan BB/PB dan\nLiLA/U adalah gizi kurang\ndengan perawakan berat\nbadan sangat kurang,\npanjang badan pendek dan\npertumbuhan tidak sesuai\ngrafik pertumbuhan (growth\nfaltering) | NC-",
+      "anthropometric_assessment": "Jenis kelamin: perempuan Usia: 4 Bulan 19 hari BB: 3,5 kg PB/TB: 56 cm LILA: 11 cm LK: 29 CM TL: -",
+      "medical_diagnosis": "Congenital Anomaly (Labiopalatoschizis, Atresia Coana, \nMicrocephaly), Epilepsi, Pneumonia, Susp. Asd, Underimunization, Diabetes Insipidus, \nSusp. Torch Infection",
+      "reference": "Status gizi pasien \nberdasarkan BB/PB dan \nLiLA/U adalah gizi kurang \ndengan perawakan berat \nbadan sangat kurang, \npanjang badan pendek dan \npertumbuhan tidak sesuai \ngrafik pertumbuhan (growth \nfaltering)",
+      "prediction": "Status gizi pasien berdasarkan penilaian antropometri adalah gizi kurang dengan perawakan berat badan sangat kurang, panjang badan pendek, dan pertumbuhan tidak sesuai grafik pertumbuhan (growth faltering).",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 5,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 5,
+          "completeness": 4,
+          "safety": 5
+        }
+      },
+      "unit_id": "U047"
+    },
+    {
+      "test_index": 45,
+      "system": "llm__gpt-4o__5shot",
+      "tier": "high",
+      "question": "Bagaimana prinsip diet yang tepat sesuai dengan kondisi pasien ini?",
+      "question_category": "recommendation",
+      "file": "NIEMANN PICK + BBLR + RESPIRATORY DISTRESS SYNDROM.chunks.json",
+      "qa_id": 819,
+      "context": "Pasien diberikan edukasi gizi terkait penatalaksanaan diet sesuai dengan\nkondisi pasien yaitu ASI eksklusif dan sebelum pemberian edukasi ditanyakan\napakah pasien sudah mengetahui tentang ASI eksklusif serta setelah pemberian\nedukasi orangtua pasien diminta untuk mengulangi inti pesan dari ASI eksklusif.\nBerikut hasil pelaksanaan monitoring dan evaluasi dapat dilihat pada tabel 3.13.\nTabel 3.13 Hasil Monitoring dan evaluasi pengetahuan\n\n[TABLE 0]\nPertanyaan | Respon pasien dan\nkeluarga sebelum\nintervensi |  | Respon pasien dan\nkeluarga setelah\nintervensi | \n--------------------------------------------------------------------------------\n | Menjawab\nbenar | Menjawab\nsalah | Menjawab\nbenar | Menjawab\nsalah\nKapan pemberian ASI\nekslusif dilakukan? | √ |  | √ | \nApa tujuan dalam\nmemberikan ASI\neksklusif? |  | √ | √ | \nBagaimana asupan\nmakanan yang\ndianjurkan untuk ibu\nmenyusui? |  | √ | √ | \n[END TABLE]\nBerdasarkan hasil monitoring dan evaluasi pengetahuan pada pasien dan\nkeluarga dapat dis",
+      "anthropometric_assessment": "Jenis kelamin: Laki-laki Usia: 24 hari BB: 2 kg PB/TB: 45 cm LILA: 6,3 cm LK: - TL: -",
+      "medical_diagnosis": "Nieman pick + BBLR + respiratory distress syndrome",
+      "reference": "ASI eksklusif",
+      "prediction": "Informasi tidak tersedia.",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 1,
+          "completeness": 1,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 1,
+          "completeness": 1,
+          "safety": 5
+        }
+      },
+      "unit_id": "U048"
+    },
+    {
+      "test_index": 87,
+      "system": "llm__qwen2.5-7b-instruct__0shot",
+      "tier": "low",
+      "question": "Bagaimana syarat diet yang harus dipenuhi dalam pengaturan diet pasien ini?",
+      "question_category": "recommendation",
+      "file": "PNEUMONIA, EFUSI PLEURA BILATERAL, SINDROM NEFRITIK, GNAPS, LUPUS.chunks.json",
+      "qa_id": 861,
+      "context": "ngurangi beban metabolisme karbohidrat yang bisa meningkatkan produksi\nkarbon dioksida (Co )\n2\n• Karbohidrat diberikan cukup 60% dari total energi atau sebesar 294 gram\n• Cairan diberikan cukup sebesar 1608 ml untuk menjaga keseimbangan cairan\ndan elektrolit pasien dan mengurangi risiko dehidrasi\n• Vitamin B12 diberikan 1,8 mcg/hari untuk pembentukan sel darah merah yang\nmembantu mengembalikan sel darah merah yang hilang\n• Natrium diberikan rendah sebesar <2300mg/hari untuk menstabilkan tekanan\ndarah dan mengurangi adanya beban kerja ginjal\n• Kalium diberikan 3900mg/hari untuk mendukung fungsi sel dan otot\n• Fe diberikan 8 mg/hari untuk mengatasi anemia defisiensi besi\n• Asam folat diberikan sebesar 300 mcg/hari untuk mendukung regenerasi sel\npada anak masa pertumbuhan\n4. Perhitungan Kebutuhan Energi dan Zat Gizi\n• Kebutuhan energi dan zat gizi dahulu\n1.) Kebutuhan energi (RDA)\nE = RDA (pake usia TB) x kg BBI\n= 70 x 28\n= 1960 kkal\n2.) Kebutuhan Protein",
+      "anthropometric_assessment": "Jenis kelamin: laki-laki Usia: 10 tahun 8 bulan BB: 25,4 kg PB/TB: 133,2 cm LILA: 18,1 cm LK: 49 TL: -",
+      "medical_diagnosis": "Distress Nafas OK, Pneumonia, Efusi Pleura Bilateral, Sindrom Nefritik, GNAPS, Lupus Nefritis, & Hipertensi \nStage I",
+      "reference": "• Diet diberikan dalam bentuk lunak melalui oral dengan frekuensi 3x makan \nutama 2x snack dan menambahkan pemberian susu Neprisol dengan frekuensi \n3x150ml \n• Energi diberikan sesuai kebutuhan pasien sebesar 1960 Kkal untuk mencegah \nkomplikasi lebih lanjut \n• Protein diberikan cukup 10% dari total energi atau sebesar 49 g untuk mencegah \nperburukan fungsi ginjal \n• Lemak diberikan cukup 25% dari total energi atau sebesar 55,7gram untuk \nmengurangi beban metabolisme karbohidrat yang bisa meningkatkan produksi \nkarbon dioksida (Co2) \n• Karbohidrat diberikan cukup 60% dari total energi atau sebesar 294 gram \n• Cairan diberikan cukup sebesar 1608 ml untuk menjaga keseimbangan cairan \ndan elektrolit pasien dan mengurangi risiko dehidrasi \n• Vitamin B12 diberikan 1,8 mcg/hari untuk pembentukan sel darah merah yang \nmembantu mengembalikan sel darah merah yang hilang \n• Natrium diberikan rendah sebesar <2300mg/hari untuk menstabilkan tekanan \ndarah dan mengurangi adanya beban kerja ginjal \n• Kalium diberikan 3900mg/hari untuk mendukung fungsi sel dan otot \n• Fe diberikan 8 mg/hari untuk mengatasi anemia defisiensi besi \n• Asam folat diberikan sebesar 300 mcg/hari untuk mendukung regenerasi sel \npada anak masa pertumbuhan",
+      "prediction": "Syarat diet yang harus dipenuhi dalam pengaturan diet pasien ini meliputi:\n\n1. Karbohidrat: Diberikan sebesar 60% dari total energi atau sekitar 294 gram per hari.\n2. Cairan: Diberikan cukup sebesar 1608 ml per hari untuk menjaga keseimbangan cairan dan elektrolit.\n3. Vitamin B12: Diberikan 1,8 mcg per hari untuk membantu pembentukan sel darah merah.\n4. Natrium: Diberikan dengan dosis rendah kurang dari 2300 mg per hari untuk menstabilkan tekanan darah dan mengurangi beban ginjal.\n5. Kalium: Diberikan sebesar 3900 mg per hari untuk mendukung fungsi sel dan otot.\n6. Besi (Fe): Diberikan 8 mg per hari untuk mengatasi anemia defisiensi besi.\n7. Asam folat: Diberikan 300 mcg per hari untuk mendukung regenerasi sel pada anak masa pertumbuhan.\n\nPerhit",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 4,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 5,
+          "completeness": 3,
+          "safety": 5
+        }
+      },
+      "unit_id": "U049"
+    },
+    {
+      "test_index": 70,
+      "system": "llm__gpt-4o-mini__0shot",
+      "tier": "mid",
+      "question": "Bagaimana menyusun diagnosis gizi dengan format PES pada pasien ini?",
+      "question_category": "inferential",
+      "file": "ASTHMA SERANGAN BERAT, PNEUMONIA, INTRACTABLE EPILEPSI.chunks.json",
+      "qa_id": 844,
+      "context": "\n[TABLE 0]\nPersentase penurunan berat badan\n<NAMA> mengalami penurunan BB dari 20 kg menjadi 18,5\nkg dalam waktu 2 minggu (7,5%) |  |  |  |  |  |  | karbohidrat (69,2%),\ndefisit tingkat berat,\npersentase asupan\nenergi (72%) defisit\ntingkat sedang dan\npersentase asupan\nlemak (81%) defisit\ntingkat ringan, ibu\nmengganti susu anak\ndari susu sapi ke soya\nuntuk mengurangi\nkejang dan hiperaktif,\nbelum pernah\nmendapatkan edukasi\ngizi dari sumber\nterpercaya seperti ahli\ngizi/dokter\nNC 3.2 Kehilangan\nberat badan yang tidak\ndiharapkan berkaitan\ndengan perubahan\nfisiologis akibat efek\nsamping pengobatan\nditandai oleh penurunan\nberat badan 7,5% dalam\nwaktu 2 minggu, LLA/U\n86,59%, dan penurunan\nnafsu makan sejak dosis\ntopomax dinaikkan. | diberikan\n2. Persiapan Rawat\nJalan\nMemberikan edukasi gizi\nkepada Ibu pasien terkait\n- Tujuan pemberian\ndiet penambahan\nberat badan\n- Anjuran\ndiet/makanan untuk\nmenambah berat\nbadan\n- Cara pembuatan\nF100 Soya\n- Contoh menu sehari\nsaat dirumah\nRC-1 Kolaborasi\ndenga",
+      "anthropometric_assessment": "Jenis kelamin: laki-laki Usia: 6 tahun 6 bulan BB: 18,5 kg PB/TB: 117,3 cm LILA: 15,5 cm LK: - TL: -",
+      "medical_diagnosis": "Distress napas ok asthma serangan berat, Pneumonia, Intractable \nepilepsi, Disabilitas intelektual, Global developmental delay",
+      "reference": "NI 2.11 Keterbatasan \npenerimaan makanan \nberkaitan dengan \npenurunan kemampuan \nmakan akibat epilepsi \nditandai oleh persentase \nasupan energi (61,3%), \nprotein (39,6%), \nkarbohidrat (49,4%) \ndefisit tingkat berat dan \nasupan lemak (84,4%) \ndefisit tingkat ringan \n\nNB 1.2 Kepercayaan \natau perilaku yang \ntidak sesuai dengan \nkaidah gizi berkaitan \ndengan kurangnya \npaparan informasi yang \nakurat ditandai oleh \npersentase asupan \nprotein (64%) karbohidrat (69,2%), \ndefisit tingkat berat, \npersentase asupan \nenergi (72%) defisit \ntingkat sedang dan \npersentase asupan \nlemak (81%) defisit \ntingkat ringan, ibu \nmengganti susu anak \ndari susu sapi ke soya \nuntuk mengurangi \nkejang dan hiperaktif, \nbelum pernah \nmendapatkan edukasi \ngizi dari sumber \nterpercaya seperti ahli \ngizi/dokter \n\nNC 3.2 Kehilangan \nberat badan yang tidak \ndiharapkan berkaitan \ndengan perubahan \nfisiologis akibat efek \nsamping pengobatan \nditandai oleh penurunan \nberat badan 7,5% dalam \nwaktu 2 minggu, LLA/U \n86,59%, dan penurunan \nnafsu makan sejak dosis \ntopomax dinaikkan.",
+      "prediction": "Diagnosis gizi dengan format PES untuk pasien ini dapat disusun sebagai berikut:\n\n**P (Problem)**: Penurunan berat badan yang tidak diharapkan (7,5% dalam 2 minggu) terkait dengan penurunan nafsu makan akibat efek samping pengobatan (topomax).\n\n**E (Etiology)**: Penurunan nafsu makan dan kehilangan berat badan disebabkan oleh efek samping pengobatan yang meningkatkan risiko malnutrisi.\n\n**S (Signs/Symptoms)**: Berat badan 18,5 kg (di bawah normal untuk usia), LLA/U 86,59%, dan belum mendapatkan edukasi gizi yang memadai.\n\nJadi, diagnosis gizi dapat dituliskan sebagai: \"Penurunan berat badan yang tidak diharapkan terkait dengan penurunan nafsu makan akibat efek samping pengobatan, ditandai dengan berat badan 18,5 kg dan LLA/U 86,59%.\"",
+      "judge_scores": {
+        "gpt-4o-mini": {
+          "factuality": 5,
+          "completeness": 4,
+          "safety": 5
+        },
+        "claude-haiku-4-5": {
+          "factuality": 3,
+          "completeness": 2,
+          "safety": 3
+        }
+      },
+      "unit_id": "U050"
+    }
+  ]
+}

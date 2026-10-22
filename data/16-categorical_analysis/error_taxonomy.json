@@ -1,0 +1,265 @@
+{
+  "sampled_indices": [
+    0,
+    3,
+    5,
+    6,
+    8,
+    11,
+    12,
+    13,
+    19,
+    20,
+    22,
+    25,
+    26,
+    27,
+    28,
+    29,
+    33,
+    35,
+    43,
+    44,
+    45,
+    48,
+    53,
+    54,
+    57,
+    62,
+    64,
+    69,
+    70,
+    71,
+    75,
+    77,
+    83,
+    89,
+    91,
+    97,
+    101,
+    103,
+    106,
+    108,
+    109,
+    115,
+    121,
+    124,
+    125,
+    126,
+    128,
+    131,
+    132,
+    136
+  ],
+  "results": {
+    "baseline__rifky": {
+      "n": 50,
+      "counts": {
+        "correct": 16,
+        "partial_answer": 6,
+        "wrong_span": 0,
+        "terminology_mismatch": 1,
+        "hallucination": 0,
+        "noise": 27
+      },
+      "percentages": {
+        "correct": 32.0,
+        "partial_answer": 12.0,
+        "wrong_span": 0.0,
+        "terminology_mismatch": 2.0,
+        "hallucination": 0.0,
+        "noise": 54.0
+      }
+    },
+    "baseline__xlmr": {
+      "n": 50,
+      "counts": {
+        "correct": 5,
+        "partial_answer": 7,
+        "wrong_span": 0,
+        "terminology_mismatch": 0,
+        "hallucination": 0,
+        "noise": 38
+      },
+      "percentages": {
+        "correct": 10.0,
+        "partial_answer": 14.0,
+        "wrong_span": 0.0,
+        "terminology_mismatch": 0.0,
+        "hallucination": 0.0,
+        "noise": 76.0
+      }
+    },
+    "baseline__mdeberta": {
+      "n": 50,
+      "counts": {
+        "correct": 6,
+        "partial_answer": 8,
+        "wrong_span": 0,
+        "terminology_mismatch": 0,
+        "hallucination": 0,
+        "noise": 36
+      },
+      "percentages": {
+        "correct": 12.0,
+        "partial_answer": 16.0,
+        "wrong_span": 0.0,
+        "terminology_mismatch": 0.0,
+        "hallucination": 0.0,
+        "noise": 72.0
+      }
+    },
+    "llm__gpt-4o-mini__5shot": {
+      "n": 50,
+      "counts": {
+        "correct": 15,
+        "partial_answer": 35,
+        "wrong_span": 0,
+        "terminology_mismatch": 0,
+        "hallucination": 0,
+        "noise": 0
+      },
+      "percentages": {
+        "correct": 30.0,
+        "partial_answer": 70.0,
+        "wrong_span": 0.0,
+        "terminology_mismatch": 0.0,
+        "hallucination": 0.0,
+        "noise": 0.0
+      }
+    },
+    "llm__gpt-4o__5shot": {
+      "n": 50,
+      "counts": {
+        "correct": 22,
+        "partial_answer": 26,
+        "wrong_span": 0,
+        "terminology_mismatch": 0,
+        "hallucination": 0,
+        "noise": 2
+      },
+      "percentages": {
+        "correct": 44.0,
+        "partial_answer": 52.0,
+        "wrong_span": 0.0,
+        "terminology_mismatch": 0.0,
+        "hallucination": 0.0,
+        "noise": 4.0
+      }
+    },
+    "llm__llama-3.1-8b-instruct__5shot": {
+      "n": 50,
+      "counts": {
+        "correct": 18,
+        "partial_answer": 31,
+        "wrong_span": 0,
+        "terminology_mismatch": 0,
+        "hallucination": 0,
+        "noise": 1
+      },
+      "percentages": {
+        "correct": 36.0,
+        "partial_answer": 62.0,
+        "wrong_span": 0.0,
+        "terminology_mismatch": 0.0,
+        "hallucination": 0.0,
+        "noise": 2.0
+      }
+    },
+    "llm__medgemma-4b-it__5shot": {
+      "n": 50,
+      "counts": {
+        "correct": 19,
+        "partial_answer": 31,
+        "wrong_span": 0,
+        "terminology_mismatch": 0,
+        "hallucination": 0,
+        "noise": 0
+      },
+      "percentages": {
+        "correct": 38.0,
+        "partial_answer": 62.0,
+        "wrong_span": 0.0,
+        "terminology_mismatch": 0.0,
+        "hallucination": 0.0,
+        "noise": 0.0
+      }
+    },
+    "llm__sahabat-ai-llama3-8b__5shot": {
+      "n": 50,
+      "counts": {
+        "correct": 14,
+        "partial_answer": 29,
+        "wrong_span": 2,
+        "terminology_mismatch": 4,
+        "hallucination": 0,
+        "noise": 1
+      },
+      "percentages": {
+        "correct": 28.0,
+        "partial_answer": 58.0,
+        "wrong_span": 4.0,
+        "terminology_mismatch": 8.0,
+        "hallucination": 0.0,
+        "noise": 2.0
+      }
+    },
+    "llm__merak-7b-v4__5shot": {
+      "n": 50,
+      "counts": {
+        "correct": 13,
+        "partial_answer": 34,
+        "wrong_span": 3,
+        "terminology_mismatch": 0,
+        "hallucination": 0,
+        "noise": 0
+      },
+      "percentages": {
+        "correct": 26.0,
+        "partial_answer": 68.0,
+        "wrong_span": 6.0,
+        "terminology_mismatch": 0.0,
+        "hallucination": 0.0,
+        "noise": 0.0
+      }
+    },
+    "llm__biomistral-7b__5shot": {
+      "n": 50,
+      "counts": {
+        "correct": 8,
+        "partial_answer": 36,
+        "wrong_span": 3,
+        "terminology_mismatch": 0,
+        "hallucination": 0,
+        "noise": 3
+      },
+      "percentages": {
+        "correct": 16.0,
+        "partial_answer": 72.0,
+        "wrong_span": 6.0,
+        "terminology_mismatch": 0.0,
+        "hallucination": 0.0,
+        "noise": 6.0
+      }
+    },
+    "llm__qwen2.5-7b-instruct__5shot": {
+      "n": 50,
+      "counts": {
+        "correct": 15,
+        "partial_answer": 35,
+        "wrong_span": 0,
+        "terminology_mismatch": 0,
+        "hallucination": 0,
+        "noise": 0
+      },
+      "percentages": {
+        "correct": 30.0,
+        "partial_answer": 70.0,
+        "wrong_span": 0.0,
+        "terminology_mismatch": 0.0,
+        "hallucination": 0.0,
+        "noise": 0.0
+      }
+    }
+  }
+}

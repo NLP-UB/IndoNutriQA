@@ -1,0 +1,2360 @@
+{
+  "results": {
+    "baseline__cahya": {
+      "model": "cahya",
+      "kind": "baseline-extractive",
+      "shots": null,
+      "n": 137,
+      "metrics": {
+        "embedding_cosine": {
+          "point": 28.500473499298096,
+          "ci_low": 23.627132587134838,
+          "ci_high": 33.70663329958916,
+          "model": "paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        "bertscore_p": {
+          "point": 24.82617199420929,
+          "ci_low": 18.393439315259457,
+          "ci_high": 31.254286244511604,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_r": {
+          "point": 25.60199201107025,
+          "ci_low": 18.9609007909894,
+          "ci_high": 32.27395944297313,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_f1": {
+          "point": 25.182119011878967,
+          "ci_low": 18.67264300584793,
+          "ci_high": 31.726033985614777,
+          "model": "xlm-roberta-large"
+        },
+        "judge_factuality": {
+          "point": 2.4744525547445257,
+          "ci_low": 2.197080291970803,
+          "ci_high": 2.759124087591241,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness": {
+          "point": 2.18978102189781,
+          "ci_low": 1.9416058394160585,
+          "ci_high": 2.45985401459854,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety": {
+          "point": 4.861313868613139,
+          "ci_low": 4.788321167883212,
+          "ci_high": 4.927007299270073,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall": {
+          "point": 3.1751824817518246,
+          "ci_low": 2.9975669099756694,
+          "ci_high": 3.35529197080292,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_factuality_anthropic": {
+          "point": 3.849056603773585,
+          "ci_low": 3.518867924528302,
+          "ci_high": 4.179245283018868,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 106,
+          "n_failed": 31
+        },
+        "judge_completeness_anthropic": {
+          "point": 2.2264150943396226,
+          "ci_low": 1.8962264150943395,
+          "ci_high": 2.5660377358490565,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 106,
+          "n_failed": 31
+        },
+        "judge_safety_anthropic": {
+          "point": 4.2075471698113205,
+          "ci_low": 3.9339622641509435,
+          "ci_high": 4.453066037735849,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 106,
+          "n_failed": 31
+        },
+        "judge_overall_anthropic": {
+          "point": 3.4276729559748427,
+          "ci_low": 3.1444182389937105,
+          "ci_high": 3.685534591194968,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 106,
+          "n_failed": 31
+        }
+      }
+    },
+    "baseline__indolem": {
+      "model": "indolem",
+      "kind": "baseline-extractive",
+      "shots": null,
+      "n": 137,
+      "metrics": {
+        "embedding_cosine": {
+          "point": 36.27021014690399,
+          "ci_low": 30.5967029184103,
+          "ci_high": 41.90341629087925,
+          "model": "paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        "bertscore_p": {
+          "point": 35.03623008728027,
+          "ci_low": 27.585245296359062,
+          "ci_high": 42.050614655017846,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_r": {
+          "point": 35.84257662296295,
+          "ci_low": 28.19290407001972,
+          "ci_high": 43.01599994301796,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_f1": {
+          "point": 35.41539013385773,
+          "ci_low": 27.867166250944138,
+          "ci_high": 42.568628042936325,
+          "model": "xlm-roberta-large"
+        },
+        "judge_factuality": {
+          "point": 2.627737226277372,
+          "ci_low": 2.3503649635036497,
+          "ci_high": 2.927007299270073,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness": {
+          "point": 2.343065693430657,
+          "ci_low": 2.080109489051095,
+          "ci_high": 2.613321167883212,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety": {
+          "point": 4.846715328467154,
+          "ci_low": 4.759124087591241,
+          "ci_high": 4.91970802919708,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall": {
+          "point": 3.2725060827250605,
+          "ci_low": 3.089963503649635,
+          "ci_high": 3.4549878345498786,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_factuality_anthropic": {
+          "point": 3.8018018018018016,
+          "ci_low": 3.4864864864864864,
+          "ci_high": 4.099099099099099,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 111,
+          "n_failed": 26
+        },
+        "judge_completeness_anthropic": {
+          "point": 2.3513513513513513,
+          "ci_low": 2.045045045045045,
+          "ci_high": 2.6581081081081077,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 111,
+          "n_failed": 26
+        },
+        "judge_safety_anthropic": {
+          "point": 4.171171171171171,
+          "ci_low": 3.9277027027027027,
+          "ci_high": 4.405405405405405,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 111,
+          "n_failed": 26
+        },
+        "judge_overall_anthropic": {
+          "point": 3.4414414414414414,
+          "ci_low": 3.195045045045046,
+          "ci_high": 3.678678678678679,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 111,
+          "n_failed": 26
+        }
+      }
+    },
+    "baseline__mt5": {
+      "model": "mt5",
+      "kind": "baseline-generative",
+      "shots": null,
+      "n": 137,
+      "metrics": {
+        "embedding_cosine": {
+          "point": 17.875540256500244,
+          "ci_low": 14.963293001055716,
+          "ci_high": 21.05080708861351,
+          "model": "paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        "bertscore_p": {
+          "point": 79.09399271011353,
+          "ci_low": 78.57423946261406,
+          "ci_high": 79.65095058083534,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_r": {
+          "point": 79.12448644638062,
+          "ci_low": 78.4011958539486,
+          "ci_high": 79.86899748444557,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_f1": {
+          "point": 79.06389236450195,
+          "ci_low": 78.4954246878624,
+          "ci_high": 79.63780879974365,
+          "model": "xlm-roberta-large"
+        },
+        "judge_factuality": {
+          "point": 1.0802919708029197,
+          "ci_low": 1.0218978102189782,
+          "ci_high": 1.145985401459854,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness": {
+          "point": 1.0437956204379562,
+          "ci_low": 1.0145985401459854,
+          "ci_high": 1.0802919708029197,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety": {
+          "point": 4.62043795620438,
+          "ci_low": 4.430656934306569,
+          "ci_high": 4.795620437956204,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall": {
+          "point": 2.2481751824817517,
+          "ci_low": 2.1800486618004866,
+          "ci_high": 2.3163017031630173,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_factuality_anthropic": {
+          "point": 1.5985401459854014,
+          "ci_low": 1.4233576642335766,
+          "ci_high": 1.7812043795620436,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness_anthropic": {
+          "point": 1.0583941605839415,
+          "ci_low": 1.0218978102189782,
+          "ci_high": 1.094890510948905,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety_anthropic": {
+          "point": 3.0291970802919708,
+          "ci_low": 2.81021897810219,
+          "ci_high": 3.2554744525547443,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall_anthropic": {
+          "point": 1.8953771289537715,
+          "ci_low": 1.7834549878345498,
+          "ci_high": 2.012226277372263,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        }
+      }
+    },
+    "baseline__rifky": {
+      "model": "rifky",
+      "kind": "baseline-extractive",
+      "shots": null,
+      "n": 137,
+      "metrics": {
+        "embedding_cosine": {
+          "point": 44.601285457611084,
+          "ci_low": 38.36855240166187,
+          "ci_high": 50.932902097702026,
+          "model": "paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        "bertscore_p": {
+          "point": 44.82118487358093,
+          "ci_low": 37.00159214437008,
+          "ci_high": 52.68263906240463,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_r": {
+          "point": 44.63948607444763,
+          "ci_low": 36.92763976752758,
+          "ci_high": 52.249149978160844,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_f1": {
+          "point": 44.71190273761749,
+          "ci_low": 36.99145391583443,
+          "ci_high": 52.47897595167159,
+          "model": "xlm-roberta-large"
+        },
+        "judge_factuality": {
+          "point": 3.1313868613138687,
+          "ci_low": 2.8248175182481754,
+          "ci_high": 3.4381386861313867,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness": {
+          "point": 2.854014598540146,
+          "ci_low": 2.5547445255474455,
+          "ci_high": 3.1605839416058394,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety": {
+          "point": 4.897810218978102,
+          "ci_low": 4.810218978102189,
+          "ci_high": 4.963503649635037,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall": {
+          "point": 3.6277372262773717,
+          "ci_low": 3.4306569343065694,
+          "ci_high": 3.829744525547446,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_factuality_anthropic": {
+          "point": 3.981981981981982,
+          "ci_low": 3.675675675675676,
+          "ci_high": 4.288513513513513,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 111,
+          "n_failed": 26
+        },
+        "judge_completeness_anthropic": {
+          "point": 2.9279279279279278,
+          "ci_low": 2.6036036036036037,
+          "ci_high": 3.2614864864864863,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 111,
+          "n_failed": 26
+        },
+        "judge_safety_anthropic": {
+          "point": 4.2792792792792795,
+          "ci_low": 4.018018018018018,
+          "ci_high": 4.5317567567567565,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 111,
+          "n_failed": 26
+        },
+        "judge_overall_anthropic": {
+          "point": 3.7297297297297303,
+          "ci_low": 3.4563813813813824,
+          "ci_high": 3.9849849849849854,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 111,
+          "n_failed": 26
+        }
+      }
+    },
+    "llm__gpt-4o-mini__0shot": {
+      "model": "gpt-4o-mini",
+      "kind": "llm",
+      "shots": 0,
+      "n": 137,
+      "metrics": {
+        "embedding_cosine": {
+          "point": 61.13079786300659,
+          "ci_low": 58.10874715447426,
+          "ci_high": 64.08262446522713,
+          "model": "paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        "bertscore_p": {
+          "point": 86.93464994430542,
+          "ci_low": 86.05665370821953,
+          "ci_high": 87.77638539671898,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_r": {
+          "point": 89.39733505249023,
+          "ci_low": 88.75226259231567,
+          "ci_high": 90.02215325832367,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_f1": {
+          "point": 88.07739615440369,
+          "ci_low": 87.43066623806953,
+          "ci_high": 88.74167770147324,
+          "model": "xlm-roberta-large"
+        },
+        "judge_factuality": {
+          "point": 4.189781021897811,
+          "ci_low": 4.007299270072993,
+          "ci_high": 4.364963503649635,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness": {
+          "point": 3.8613138686131387,
+          "ci_low": 3.708029197080292,
+          "ci_high": 4.021897810218978,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety": {
+          "point": 4.934306569343065,
+          "ci_low": 4.890510948905109,
+          "ci_high": 4.970802919708029,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall": {
+          "point": 4.328467153284672,
+          "ci_low": 4.216545012165451,
+          "ci_high": 4.437956204379562,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_factuality_anthropic": {
+          "point": 3.9927007299270074,
+          "ci_low": 3.8175182481751824,
+          "ci_high": 4.160583941605839,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness_anthropic": {
+          "point": 3.2335766423357666,
+          "ci_low": 3.0437956204379564,
+          "ci_high": 3.4162408759124085,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety_anthropic": {
+          "point": 4.343065693430657,
+          "ci_low": 4.182481751824818,
+          "ci_high": 4.481751824817518,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall_anthropic": {
+          "point": 3.8564476885644763,
+          "ci_low": 3.7031021897810215,
+          "ci_high": 4.0,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        }
+      }
+    },
+    "llm__gpt-4o-mini__5shot": {
+      "model": "gpt-4o-mini",
+      "kind": "llm",
+      "shots": 5,
+      "n": 137,
+      "metrics": {
+        "embedding_cosine": {
+          "point": 66.51212573051453,
+          "ci_low": 63.18487226963043,
+          "ci_high": 69.77218091487885,
+          "model": "paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        "bertscore_p": {
+          "point": 89.01315331459045,
+          "ci_low": 88.13782826066017,
+          "ci_high": 89.9566499888897,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_r": {
+          "point": 89.95519876480103,
+          "ci_low": 89.15324106812477,
+          "ci_high": 90.74795871973038,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_f1": {
+          "point": 89.39606547355652,
+          "ci_low": 88.66849586367607,
+          "ci_high": 90.1684944331646,
+          "model": "xlm-roberta-large"
+        },
+        "judge_factuality": {
+          "point": 4.357664233576642,
+          "ci_low": 4.197080291970803,
+          "ci_high": 4.5184306569343065,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness": {
+          "point": 3.795620437956204,
+          "ci_low": 3.605839416058394,
+          "ci_high": 3.9635036496350367,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety": {
+          "point": 4.963503649635037,
+          "ci_low": 4.934306569343065,
+          "ci_high": 4.992700729927007,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall": {
+          "point": 4.372262773722627,
+          "ci_low": 4.262773722627738,
+          "ci_high": 4.469586374695864,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_factuality_anthropic": {
+          "point": 4.145985401459854,
+          "ci_low": 3.978102189781022,
+          "ci_high": 4.306569343065694,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness_anthropic": {
+          "point": 3.321167883211679,
+          "ci_low": 3.0947080291970805,
+          "ci_high": 3.5403284671532846,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety_anthropic": {
+          "point": 4.5036496350364965,
+          "ci_low": 4.372262773722627,
+          "ci_high": 4.635036496350365,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall_anthropic": {
+          "point": 3.990267639902677,
+          "ci_low": 3.8320559610705596,
+          "ci_high": 4.143552311435523,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        }
+      }
+    },
+    "llm__llama-3.1-8b-instruct__0shot": {
+      "model": "llama-3.1-8b-instruct",
+      "kind": "llm",
+      "shots": 0,
+      "n": 137,
+      "metrics": {
+        "embedding_cosine": {
+          "point": 60.949087142944336,
+          "ci_low": 57.008494436740875,
+          "ci_high": 64.50383618474007,
+          "model": "paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        "bertscore_p": {
+          "point": 87.75734305381775,
+          "ci_low": 86.98221445083618,
+          "ci_high": 88.64182576537132,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_r": {
+          "point": 89.05952572822571,
+          "ci_low": 88.2475134730339,
+          "ci_high": 89.83878910541534,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_f1": {
+          "point": 88.32312226295471,
+          "ci_low": 87.61099964380264,
+          "ci_high": 89.03713047504425,
+          "model": "xlm-roberta-large"
+        },
+        "judge_factuality": {
+          "point": 3.9416058394160585,
+          "ci_low": 3.7153284671532845,
+          "ci_high": 4.153284671532846,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness": {
+          "point": 3.7153284671532845,
+          "ci_low": 3.510948905109489,
+          "ci_high": 3.897810218978102,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety": {
+          "point": 4.868613138686132,
+          "ci_low": 4.810218978102189,
+          "ci_high": 4.927007299270073,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall": {
+          "point": 4.175182481751825,
+          "ci_low": 4.029197080291971,
+          "ci_high": 4.309002433090024,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_factuality_anthropic": {
+          "point": 3.9197080291970803,
+          "ci_low": 3.7297445255474453,
+          "ci_high": 4.109671532846716,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness_anthropic": {
+          "point": 3.0948905109489053,
+          "ci_low": 2.8684306569343065,
+          "ci_high": 3.3138686131386863,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety_anthropic": {
+          "point": 4.299270072992701,
+          "ci_low": 4.138686131386861,
+          "ci_high": 4.437956204379562,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall_anthropic": {
+          "point": 3.771289537712896,
+          "ci_low": 3.5985401459854014,
+          "ci_high": 3.9318734793187353,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        }
+      }
+    },
+    "llm__llama-3.1-8b-instruct__5shot": {
+      "model": "llama-3.1-8b-instruct",
+      "kind": "llm",
+      "shots": 5,
+      "n": 137,
+      "metrics": {
+        "embedding_cosine": {
+          "point": 74.36914443969727,
+          "ci_low": 70.58344691991806,
+          "ci_high": 78.23914811015129,
+          "model": "paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        "bertscore_p": {
+          "point": 92.14610457420349,
+          "ci_low": 91.27226755023003,
+          "ci_high": 93.08434292674065,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_r": {
+          "point": 90.17958641052246,
+          "ci_low": 89.11146327853203,
+          "ci_high": 91.15868538618088,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_f1": {
+          "point": 91.08947515487671,
+          "ci_low": 90.19670605659485,
+          "ci_high": 91.93668484687805,
+          "model": "xlm-roberta-large"
+        },
+        "judge_factuality": {
+          "point": 3.948905109489051,
+          "ci_low": 3.7151459854014597,
+          "ci_high": 4.1678832116788325,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness": {
+          "point": 3.4306569343065694,
+          "ci_low": 3.197080291970803,
+          "ci_high": 3.649817518248175,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety": {
+          "point": 4.883211678832117,
+          "ci_low": 4.817518248175182,
+          "ci_high": 4.934306569343065,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall": {
+          "point": 4.087591240875913,
+          "ci_low": 3.934124087591241,
+          "ci_high": 4.238503649635037,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_factuality_anthropic": {
+          "point": 4.116788321167883,
+          "ci_low": 3.9051094890510947,
+          "ci_high": 4.299270072992701,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness_anthropic": {
+          "point": 3.197080291970803,
+          "ci_low": 2.9708029197080292,
+          "ci_high": 3.437956204379562,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety_anthropic": {
+          "point": 4.423357664233577,
+          "ci_low": 4.255474452554744,
+          "ci_high": 4.569343065693431,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall_anthropic": {
+          "point": 3.9124087591240877,
+          "ci_low": 3.737165450121654,
+          "ci_high": 4.08029197080292,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        }
+      }
+    },
+    "llm__qwen2.5-14b-instruct__0shot": {
+      "model": "qwen2.5-14b-instruct",
+      "kind": "llm",
+      "shots": 0,
+      "n": 137,
+      "metrics": {
+        "embedding_cosine": {
+          "point": 59.9475622177124,
+          "ci_low": 57.077427506446845,
+          "ci_high": 62.81136989593505,
+          "model": "paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        "bertscore_p": {
+          "point": 85.73138117790222,
+          "ci_low": 84.90963384509087,
+          "ci_high": 86.59760251641273,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_r": {
+          "point": 89.16450142860413,
+          "ci_low": 88.5310797393322,
+          "ci_high": 89.77443441748619,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_f1": {
+          "point": 87.32744455337524,
+          "ci_low": 86.7318169772625,
+          "ci_high": 87.93384328484535,
+          "model": "xlm-roberta-large"
+        },
+        "judge_factuality": {
+          "point": 4.043795620437956,
+          "ci_low": 3.8613138686131387,
+          "ci_high": 4.233576642335766,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness": {
+          "point": 3.8613138686131387,
+          "ci_low": 3.737043795620438,
+          "ci_high": 4.007299270072993,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety": {
+          "point": 4.846715328467154,
+          "ci_low": 4.788138686131387,
+          "ci_high": 4.905109489051095,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall": {
+          "point": 4.250608272506082,
+          "ci_low": 4.141119221411192,
+          "ci_high": 4.362530413625304,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        }
+      }
+    },
+    "llm__biomistral-7b__0shot": {
+      "model": "biomistral-7b",
+      "kind": "llm",
+      "shots": 0,
+      "n": 137,
+      "metrics": {
+        "bertscore_p": {
+          "point": 75.55280327796936,
+          "ci_low": 70.36241412162781,
+          "ci_high": 80.59637576341629,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_r": {
+          "point": 74.19409155845642,
+          "ci_low": 68.97951692342758,
+          "ci_high": 79.22016859054565,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_f1": {
+          "point": 74.76344108581543,
+          "ci_low": 69.60625112056732,
+          "ci_high": 79.75630909204483,
+          "model": "xlm-roberta-large"
+        },
+        "embedding_cosine": {
+          "point": 53.04798483848572,
+          "ci_low": 48.381729796528816,
+          "ci_high": 57.77036011219025,
+          "model": "paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        "judge_factuality": {
+          "point": 2.8394160583941606,
+          "ci_low": 2.5693430656934306,
+          "ci_high": 3.1315693430656935,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness": {
+          "point": 2.4014598540145986,
+          "ci_low": 2.1751824817518246,
+          "ci_high": 2.6496350364963503,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety": {
+          "point": 4.897810218978102,
+          "ci_low": 4.824817518248175,
+          "ci_high": 4.956204379562044,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall": {
+          "point": 3.3795620437956204,
+          "ci_low": 3.2189172749391726,
+          "ci_high": 3.5547445255474455,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_factuality_anthropic": {
+          "point": 3.6818181818181817,
+          "ci_low": 3.409090909090909,
+          "ci_high": 3.9318181818181817,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 132,
+          "n_failed": 5
+        },
+        "judge_completeness_anthropic": {
+          "point": 2.2045454545454546,
+          "ci_low": 1.9772727272727273,
+          "ci_high": 2.4320075757575754,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 132,
+          "n_failed": 5
+        },
+        "judge_safety_anthropic": {
+          "point": 4.106060606060606,
+          "ci_low": 3.8863636363636362,
+          "ci_high": 4.310795454545454,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 132,
+          "n_failed": 5
+        },
+        "judge_overall_anthropic": {
+          "point": 3.3308080808080813,
+          "ci_low": 3.136300505050505,
+          "ci_high": 3.53030303030303,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 132,
+          "n_failed": 5
+        }
+      }
+    },
+    "llm__biomistral-7b__5shot": {
+      "model": "biomistral-7b",
+      "kind": "llm",
+      "shots": 5,
+      "n": 137,
+      "metrics": {
+        "bertscore_p": {
+          "point": 90.4643714427948,
+          "ci_low": 89.46248143911362,
+          "ci_high": 91.52465283870697,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_r": {
+          "point": 88.49278688430786,
+          "ci_low": 87.51096233725548,
+          "ci_high": 89.45891425013542,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_f1": {
+          "point": 89.38292860984802,
+          "ci_low": 88.55184599757195,
+          "ci_high": 90.31237229704857,
+          "model": "xlm-roberta-large"
+        },
+        "embedding_cosine": {
+          "point": 66.13860726356506,
+          "ci_low": 62.13971972465515,
+          "ci_high": 70.34741923213005,
+          "model": "paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        "judge_factuality": {
+          "point": 3.2846715328467155,
+          "ci_low": 3.0291970802919708,
+          "ci_high": 3.5474452554744524,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness": {
+          "point": 2.664233576642336,
+          "ci_low": 2.45985401459854,
+          "ci_high": 2.883211678832117,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety": {
+          "point": 4.737226277372263,
+          "ci_low": 4.635036496350365,
+          "ci_high": 4.824817518248175,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall": {
+          "point": 3.562043795620438,
+          "ci_low": 3.4014598540145986,
+          "ci_high": 3.727493917274939,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_factuality_anthropic": {
+          "point": 3.6496350364963503,
+          "ci_low": 3.423175182481752,
+          "ci_high": 3.868795620437956,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness_anthropic": {
+          "point": 2.627737226277372,
+          "ci_low": 2.386678832116788,
+          "ci_high": 2.8686131386861313,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety_anthropic": {
+          "point": 3.9562043795620436,
+          "ci_low": 3.759124087591241,
+          "ci_high": 4.160583941605839,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall_anthropic": {
+          "point": 3.4111922141119226,
+          "ci_low": 3.2141119221411194,
+          "ci_high": 3.608333333333334,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        }
+      }
+    },
+    "llm__gpt-4o__0shot": {
+      "model": "gpt-4o",
+      "kind": "llm",
+      "shots": 0,
+      "n": 137,
+      "metrics": {
+        "bertscore_p": {
+          "point": 87.55469918251038,
+          "ci_low": 86.65632620453835,
+          "ci_high": 88.46054434776306,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_r": {
+          "point": 88.80804777145386,
+          "ci_low": 87.84658715128899,
+          "ci_high": 89.68860819935799,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_f1": {
+          "point": 88.06690573692322,
+          "ci_low": 87.23800376057625,
+          "ci_high": 88.82076933979988,
+          "model": "xlm-roberta-large"
+        },
+        "embedding_cosine": {
+          "point": 57.381224632263184,
+          "ci_low": 52.962693125009544,
+          "ci_high": 61.48117154836654,
+          "model": "paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        "judge_factuality": {
+          "point": 3.9416058394160585,
+          "ci_low": 3.6861313868613137,
+          "ci_high": 4.189781021897811,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness": {
+          "point": 3.6715328467153285,
+          "ci_low": 3.4306569343065694,
+          "ci_high": 3.883211678832117,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety": {
+          "point": 4.956204379562044,
+          "ci_low": 4.912408759124087,
+          "ci_high": 4.992700729927007,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall": {
+          "point": 4.189781021897811,
+          "ci_low": 4.029136253041363,
+          "ci_high": 4.338260340632602,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_factuality_anthropic": {
+          "point": 4.094890510948905,
+          "ci_low": 3.8905109489051095,
+          "ci_high": 4.2846715328467155,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness_anthropic": {
+          "point": 3.102189781021898,
+          "ci_low": 2.8613138686131387,
+          "ci_high": 3.3284671532846715,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety_anthropic": {
+          "point": 4.532846715328467,
+          "ci_low": 4.393978102189781,
+          "ci_high": 4.649635036496351,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall_anthropic": {
+          "point": 3.9099756690997562,
+          "ci_low": 3.761557177615572,
+          "ci_high": 4.0510948905109485,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        }
+      }
+    },
+    "llm__gpt-4o__5shot": {
+      "model": "gpt-4o",
+      "kind": "llm",
+      "shots": 5,
+      "n": 137,
+      "metrics": {
+        "bertscore_p": {
+          "point": 91.2238597869873,
+          "ci_low": 90.29274985194206,
+          "ci_high": 92.23584160208702,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_r": {
+          "point": 90.1807427406311,
+          "ci_low": 89.15794596076012,
+          "ci_high": 91.12911567091942,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_f1": {
+          "point": 90.62157869338989,
+          "ci_low": 89.751505702734,
+          "ci_high": 91.5106800198555,
+          "model": "xlm-roberta-large"
+        },
+        "embedding_cosine": {
+          "point": 69.65839862823486,
+          "ci_low": 65.4176838696003,
+          "ci_high": 74.14388626813889,
+          "model": "paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        "judge_factuality": {
+          "point": 4.211678832116788,
+          "ci_low": 4.0069343065693435,
+          "ci_high": 4.408941605839416,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness": {
+          "point": 3.5839416058394162,
+          "ci_low": 3.372262773722628,
+          "ci_high": 3.795620437956204,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety": {
+          "point": 4.978102189781022,
+          "ci_low": 4.9489051094890515,
+          "ci_high": 5.0,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall": {
+          "point": 4.257907542579075,
+          "ci_low": 4.124026763990268,
+          "ci_high": 4.3844282238442815,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_factuality_anthropic": {
+          "point": 4.394160583941606,
+          "ci_low": 4.218978102189781,
+          "ci_high": 4.562043795620438,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness_anthropic": {
+          "point": 3.291970802919708,
+          "ci_low": 3.0583941605839415,
+          "ci_high": 3.510948905109489,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety_anthropic": {
+          "point": 4.751824817518248,
+          "ci_low": 4.635036496350365,
+          "ci_high": 4.846715328467154,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall_anthropic": {
+          "point": 4.145985401459854,
+          "ci_low": 4.002433090024331,
+          "ci_high": 4.282238442822385,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        }
+      }
+    },
+    "llm__medgemma-4b-it__0shot": {
+      "model": "medgemma-4b-it",
+      "kind": "llm",
+      "shots": 0,
+      "n": 137,
+      "metrics": {
+        "bertscore_p": {
+          "point": 88.3080244064331,
+          "ci_low": 87.37588122487068,
+          "ci_high": 89.20299544930458,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_r": {
+          "point": 89.43212628364563,
+          "ci_low": 88.65116491913795,
+          "ci_high": 90.19937381148338,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_f1": {
+          "point": 88.79454731941223,
+          "ci_low": 88.03514257073402,
+          "ci_high": 89.57024395465851,
+          "model": "xlm-roberta-large"
+        },
+        "embedding_cosine": {
+          "point": 63.500964641571045,
+          "ci_low": 60.07918119430542,
+          "ci_high": 66.868586987257,
+          "model": "paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        "judge_factuality": {
+          "point": 3.9708029197080292,
+          "ci_low": 3.7662408759124086,
+          "ci_high": 4.1678832116788325,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness": {
+          "point": 3.656934306569343,
+          "ci_low": 3.45985401459854,
+          "ci_high": 3.8322992700729928,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety": {
+          "point": 4.91970802919708,
+          "ci_low": 4.861313868613139,
+          "ci_high": 4.963503649635037,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall": {
+          "point": 4.182481751824818,
+          "ci_low": 4.0486618004866175,
+          "ci_high": 4.306569343065694,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_factuality_anthropic": {
+          "point": 3.948905109489051,
+          "ci_low": 3.7518248175182483,
+          "ci_high": 4.138868613138686,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness_anthropic": {
+          "point": 3.0437956204379564,
+          "ci_low": 2.832116788321168,
+          "ci_high": 3.2554744525547443,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety_anthropic": {
+          "point": 4.37956204379562,
+          "ci_low": 4.233576642335766,
+          "ci_high": 4.511131386861313,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall_anthropic": {
+          "point": 3.790754257907543,
+          "ci_low": 3.637408759124088,
+          "ci_high": 3.9465328467153293,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        }
+      }
+    },
+    "llm__medgemma-4b-it__5shot": {
+      "model": "medgemma-4b-it",
+      "kind": "llm",
+      "shots": 5,
+      "n": 137,
+      "metrics": {
+        "bertscore_p": {
+          "point": 92.00609922409058,
+          "ci_low": 91.01049944758415,
+          "ci_high": 92.98319861292839,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_r": {
+          "point": 90.39895534515381,
+          "ci_low": 89.35190498828888,
+          "ci_high": 91.4221641421318,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_f1": {
+          "point": 91.11688137054443,
+          "ci_low": 90.19592553377151,
+          "ci_high": 92.03042894601822,
+          "model": "xlm-roberta-large"
+        },
+        "embedding_cosine": {
+          "point": 73.55554103851318,
+          "ci_low": 69.91002067923546,
+          "ci_high": 77.51542538404465,
+          "model": "paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        "judge_factuality": {
+          "point": 3.8248175182481754,
+          "ci_low": 3.591240875912409,
+          "ci_high": 4.0510948905109485,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness": {
+          "point": 3.372262773722628,
+          "ci_low": 3.153284671532847,
+          "ci_high": 3.605839416058394,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety": {
+          "point": 4.875912408759124,
+          "ci_low": 4.810218978102189,
+          "ci_high": 4.9416058394160585,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall": {
+          "point": 4.024330900243308,
+          "ci_low": 3.8734184914841845,
+          "ci_high": 4.177615571776156,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_factuality_anthropic": {
+          "point": 4.0,
+          "ci_low": 3.795620437956204,
+          "ci_high": 4.197262773722628,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness_anthropic": {
+          "point": 3.0875912408759123,
+          "ci_low": 2.854014598540146,
+          "ci_high": 3.321167883211679,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety_anthropic": {
+          "point": 4.291970802919708,
+          "ci_low": 4.116788321167883,
+          "ci_high": 4.467153284671533,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall_anthropic": {
+          "point": 3.793187347931874,
+          "ci_low": 3.615389294403893,
+          "ci_high": 3.961070559610705,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        }
+      }
+    },
+    "llm__merak-7b-v4__0shot": {
+      "model": "merak-7b-v4",
+      "kind": "llm",
+      "shots": 0,
+      "n": 137,
+      "metrics": {
+        "bertscore_p": {
+          "point": 87.43151426315308,
+          "ci_low": 86.5270148217678,
+          "ci_high": 88.36537271738052,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_r": {
+          "point": 88.75619769096375,
+          "ci_low": 88.04572239518166,
+          "ci_high": 89.49575394392014,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_f1": {
+          "point": 87.99725770950317,
+          "ci_low": 87.34535202383995,
+          "ci_high": 88.6906848847866,
+          "model": "xlm-roberta-large"
+        },
+        "embedding_cosine": {
+          "point": 61.47521138191223,
+          "ci_low": 58.0129100382328,
+          "ci_high": 64.87550169229507,
+          "model": "paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        "judge_factuality": {
+          "point": 3.6861313868613137,
+          "ci_low": 3.4525547445255476,
+          "ci_high": 3.9125912408759125,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness": {
+          "point": 3.4306569343065694,
+          "ci_low": 3.2335766423357666,
+          "ci_high": 3.6206204379562044,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety": {
+          "point": 4.737226277372263,
+          "ci_low": 4.642335766423358,
+          "ci_high": 4.817518248175182,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall": {
+          "point": 3.951338199513383,
+          "ci_low": 3.7980535279805356,
+          "ci_high": 4.102189781021898,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_factuality_anthropic": {
+          "point": 3.664233576642336,
+          "ci_low": 3.4452554744525545,
+          "ci_high": 3.8686131386861313,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness_anthropic": {
+          "point": 2.6861313868613137,
+          "ci_low": 2.4671532846715327,
+          "ci_high": 2.9197080291970803,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety_anthropic": {
+          "point": 3.9854014598540144,
+          "ci_low": 3.7737226277372264,
+          "ci_high": 4.175182481751825,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall_anthropic": {
+          "point": 3.4452554744525545,
+          "ci_low": 3.2627737226277373,
+          "ci_high": 3.6277980535279806,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        }
+      }
+    },
+    "llm__merak-7b-v4__5shot": {
+      "model": "merak-7b-v4",
+      "kind": "llm",
+      "shots": 5,
+      "n": 137,
+      "metrics": {
+        "bertscore_p": {
+          "point": 90.5468225479126,
+          "ci_low": 89.50491636991501,
+          "ci_high": 91.59120738506317,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_r": {
+          "point": 89.55052495002747,
+          "ci_low": 88.69824081659317,
+          "ci_high": 90.3709477186203,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_f1": {
+          "point": 89.94627594947815,
+          "ci_low": 89.16965574026108,
+          "ci_high": 90.80551713705063,
+          "model": "xlm-roberta-large"
+        },
+        "embedding_cosine": {
+          "point": 69.43092346191406,
+          "ci_low": 65.98031103610992,
+          "ci_high": 73.06156784296036,
+          "model": "paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        "judge_factuality": {
+          "point": 3.8175182481751824,
+          "ci_low": 3.605656934306569,
+          "ci_high": 4.036678832116788,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness": {
+          "point": 3.1751824817518246,
+          "ci_low": 2.9854014598540144,
+          "ci_high": 3.372262773722628,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety": {
+          "point": 4.846715328467154,
+          "ci_low": 4.773722627737226,
+          "ci_high": 4.912408759124087,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall": {
+          "point": 3.94647201946472,
+          "ci_low": 3.8150851581508523,
+          "ci_high": 4.090024330900243,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_factuality_anthropic": {
+          "point": 3.875912408759124,
+          "ci_low": 3.6715328467153285,
+          "ci_high": 4.08029197080292,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness_anthropic": {
+          "point": 2.7664233576642334,
+          "ci_low": 2.5474452554744524,
+          "ci_high": 3.0,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety_anthropic": {
+          "point": 4.226277372262774,
+          "ci_low": 4.043795620437956,
+          "ci_high": 4.401459854014599,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall_anthropic": {
+          "point": 3.6228710462287106,
+          "ci_low": 3.447688564476886,
+          "ci_high": 3.7980535279805347,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        }
+      }
+    },
+    "llm__qwen2.5-7b-instruct__0shot": {
+      "model": "qwen2.5-7b-instruct",
+      "kind": "llm",
+      "shots": 0,
+      "n": 137,
+      "metrics": {
+        "bertscore_p": {
+          "point": 86.32505536079407,
+          "ci_low": 85.38811296224594,
+          "ci_high": 87.22557574510574,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_r": {
+          "point": 88.56825828552246,
+          "ci_low": 87.89366960525513,
+          "ci_high": 89.2135763168335,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_f1": {
+          "point": 87.3474657535553,
+          "ci_low": 86.68772652745247,
+          "ci_high": 87.98619881272316,
+          "model": "xlm-roberta-large"
+        },
+        "embedding_cosine": {
+          "point": 58.28140377998352,
+          "ci_low": 55.21152719855309,
+          "ci_high": 61.300334334373474,
+          "model": "paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        "judge_factuality": {
+          "point": 3.72992700729927,
+          "ci_low": 3.5328467153284673,
+          "ci_high": 3.934306569343066,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness": {
+          "point": 3.6204379562043796,
+          "ci_low": 3.466970802919708,
+          "ci_high": 3.7737226277372264,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety": {
+          "point": 4.817518248175182,
+          "ci_low": 4.744525547445256,
+          "ci_high": 4.876094890510949,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall": {
+          "point": 4.05596107055961,
+          "ci_low": 3.936739659367397,
+          "ci_high": 4.177676399026764,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_factuality_anthropic": {
+          "point": 3.6934306569343067,
+          "ci_low": 3.510948905109489,
+          "ci_high": 3.875912408759124,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness_anthropic": {
+          "point": 2.9635036496350367,
+          "ci_low": 2.7518248175182483,
+          "ci_high": 3.1753649635036494,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety_anthropic": {
+          "point": 4.153284671532846,
+          "ci_low": 4.0,
+          "ci_high": 4.313868613138686,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall_anthropic": {
+          "point": 3.6034063260340634,
+          "ci_low": 3.447627737226277,
+          "ci_high": 3.7640510948905117,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        }
+      }
+    },
+    "llm__qwen2.5-7b-instruct__5shot": {
+      "model": "qwen2.5-7b-instruct",
+      "kind": "llm",
+      "shots": 5,
+      "n": 137,
+      "metrics": {
+        "bertscore_p": {
+          "point": 89.0953540802002,
+          "ci_low": 88.00043791532516,
+          "ci_high": 90.16298145055771,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_r": {
+          "point": 90.06416201591492,
+          "ci_low": 89.24271196126938,
+          "ci_high": 90.80524176359177,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_f1": {
+          "point": 89.47627544403076,
+          "ci_low": 88.64619329571724,
+          "ci_high": 90.25587677955627,
+          "model": "xlm-roberta-large"
+        },
+        "embedding_cosine": {
+          "point": 66.49781465530396,
+          "ci_low": 62.98017174005508,
+          "ci_high": 70.0831826031208,
+          "model": "paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        "judge_factuality": {
+          "point": 4.116788321167883,
+          "ci_low": 3.934306569343066,
+          "ci_high": 4.2773722627737225,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness": {
+          "point": 3.6350364963503647,
+          "ci_low": 3.45985401459854,
+          "ci_high": 3.802919708029197,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety": {
+          "point": 4.912408759124087,
+          "ci_low": 4.854014598540146,
+          "ci_high": 4.963503649635037,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall": {
+          "point": 4.221411192214112,
+          "ci_low": 4.097323600973236,
+          "ci_high": 4.330900243309002,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_factuality_anthropic": {
+          "point": 4.1678832116788325,
+          "ci_low": 3.9854014598540144,
+          "ci_high": 4.335766423357664,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness_anthropic": {
+          "point": 3.1605839416058394,
+          "ci_low": 2.934306569343066,
+          "ci_high": 3.379744525547445,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety_anthropic": {
+          "point": 4.532846715328467,
+          "ci_low": 4.37956204379562,
+          "ci_high": 4.671532846715328,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall_anthropic": {
+          "point": 3.9537712895377135,
+          "ci_low": 3.795620437956204,
+          "ci_high": 4.102189781021898,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        }
+      }
+    },
+    "llm__sahabat-ai-llama3-8b__0shot": {
+      "model": "sahabat-ai-llama3-8b",
+      "kind": "llm",
+      "shots": 0,
+      "n": 137,
+      "metrics": {
+        "bertscore_p": {
+          "point": 84.39682722091675,
+          "ci_low": 83.42189162969589,
+          "ci_high": 85.38576751947403,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_r": {
+          "point": 87.61923313140869,
+          "ci_low": 87.02533513307571,
+          "ci_high": 88.22386533021927,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_f1": {
+          "point": 85.88588833808899,
+          "ci_low": 85.24347379803658,
+          "ci_high": 86.56177818775177,
+          "model": "xlm-roberta-large"
+        },
+        "embedding_cosine": {
+          "point": 64.08746242523193,
+          "ci_low": 61.14805296063424,
+          "ci_high": 67.05645471811295,
+          "model": "paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        "judge_factuality": {
+          "point": 4.0510948905109485,
+          "ci_low": 3.8394160583941606,
+          "ci_high": 4.255839416058394,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness": {
+          "point": 3.5839416058394162,
+          "ci_low": 3.3649635036496353,
+          "ci_high": 3.81021897810219,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety": {
+          "point": 4.91970802919708,
+          "ci_low": 4.875912408759124,
+          "ci_high": 4.956386861313868,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall": {
+          "point": 4.184914841849148,
+          "ci_low": 4.041362530413625,
+          "ci_high": 4.321289537712896,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_factuality_anthropic": {
+          "point": 3.9416058394160585,
+          "ci_low": 3.72992700729927,
+          "ci_high": 4.131386861313868,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness_anthropic": {
+          "point": 2.795620437956204,
+          "ci_low": 2.605656934306569,
+          "ci_high": 3.0,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety_anthropic": {
+          "point": 4.255474452554744,
+          "ci_low": 4.087591240875913,
+          "ci_high": 4.416058394160584,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall_anthropic": {
+          "point": 3.6642335766423364,
+          "ci_low": 3.508515815085158,
+          "ci_high": 3.8200121654501222,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        }
+      }
+    },
+    "llm__sahabat-ai-llama3-8b__5shot": {
+      "model": "sahabat-ai-llama3-8b",
+      "kind": "llm",
+      "shots": 5,
+      "n": 137,
+      "metrics": {
+        "bertscore_p": {
+          "point": 89.82760310173035,
+          "ci_low": 88.62990319728851,
+          "ci_high": 90.99180355668068,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_r": {
+          "point": 90.3430163860321,
+          "ci_low": 89.30116027593613,
+          "ci_high": 91.38227477669716,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_f1": {
+          "point": 89.97330665588379,
+          "ci_low": 88.97165566682816,
+          "ci_high": 90.99332213401794,
+          "model": "xlm-roberta-large"
+        },
+        "embedding_cosine": {
+          "point": 71.68798446655273,
+          "ci_low": 67.9937107861042,
+          "ci_high": 75.58595553040504,
+          "model": "paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        "judge_factuality": {
+          "point": 3.54014598540146,
+          "ci_low": 3.269890510948905,
+          "ci_high": 3.8248175182481754,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness": {
+          "point": 3.0072992700729926,
+          "ci_low": 2.7662408759124086,
+          "ci_high": 3.2481751824817517,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety": {
+          "point": 4.671532846715328,
+          "ci_low": 4.54014598540146,
+          "ci_high": 4.781021897810219,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall": {
+          "point": 3.739659367396594,
+          "ci_low": 3.5571776155717765,
+          "ci_high": 3.9270681265206813,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_factuality_anthropic": {
+          "point": 3.7372262773722627,
+          "ci_low": 3.5034671532846717,
+          "ci_high": 3.9636861313868614,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness_anthropic": {
+          "point": 2.846715328467153,
+          "ci_low": 2.5839416058394162,
+          "ci_high": 3.124087591240876,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety_anthropic": {
+          "point": 4.160583941605839,
+          "ci_low": 3.9562043795620436,
+          "ci_high": 4.350364963503649,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall_anthropic": {
+          "point": 3.581508515815085,
+          "ci_low": 3.372262773722628,
+          "ci_high": 3.7811435523114354,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 137,
+          "n_failed": 0
+        }
+      }
+    },
+    "baseline__mdeberta": {
+      "model": "mdeberta",
+      "kind": "baseline-extractive",
+      "shots": null,
+      "n": 137,
+      "metrics": {
+        "bertscore_p": {
+          "point": 28.305694460868835,
+          "ci_low": 21.486796662211418,
+          "ci_high": 35.641487911343575,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_r": {
+          "point": 28.684958815574646,
+          "ci_low": 21.66695598512888,
+          "ci_high": 36.15697905421257,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_f1": {
+          "point": 28.46813201904297,
+          "ci_low": 21.53167564421892,
+          "ci_high": 35.89879691600799,
+          "model": "xlm-roberta-large"
+        },
+        "embedding_cosine": {
+          "point": 32.18184411525726,
+          "ci_low": 26.708007082343098,
+          "ci_high": 38.04953262209892,
+          "model": "paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        "judge_factuality": {
+          "point": 2.54014598540146,
+          "ci_low": 2.2771897810218977,
+          "ci_high": 2.832116788321168,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness": {
+          "point": 2.321167883211679,
+          "ci_low": 2.0655109489051093,
+          "ci_high": 2.591240875912409,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety": {
+          "point": 4.890510948905109,
+          "ci_low": 4.817518248175182,
+          "ci_high": 4.941788321167883,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall": {
+          "point": 3.2506082725060828,
+          "ci_low": 3.075364963503649,
+          "ci_high": 3.437956204379562,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_factuality_anthropic": {
+          "point": 3.8672566371681416,
+          "ci_low": 3.575221238938053,
+          "ci_high": 4.168141592920354,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 113,
+          "n_failed": 24
+        },
+        "judge_completeness_anthropic": {
+          "point": 2.2035398230088497,
+          "ci_low": 1.8849557522123894,
+          "ci_high": 2.5400442477876104,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 113,
+          "n_failed": 24
+        },
+        "judge_safety_anthropic": {
+          "point": 4.176991150442478,
+          "ci_low": 3.9292035398230087,
+          "ci_high": 4.415929203539823,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 113,
+          "n_failed": 24
+        },
+        "judge_overall_anthropic": {
+          "point": 3.415929203539823,
+          "ci_low": 3.176917404129793,
+          "ci_high": 3.646165191740413,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 113,
+          "n_failed": 24
+        }
+      }
+    },
+    "baseline__xlmr": {
+      "model": "xlmr",
+      "kind": "baseline-extractive",
+      "shots": null,
+      "n": 137,
+      "metrics": {
+        "bertscore_p": {
+          "point": 22.825051844120026,
+          "ci_low": 16.47051565349102,
+          "ci_high": 29.233957454562187,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_r": {
+          "point": 23.565365374088287,
+          "ci_low": 17.084534876048565,
+          "ci_high": 30.223609060049057,
+          "model": "xlm-roberta-large"
+        },
+        "bertscore_f1": {
+          "point": 23.156706988811493,
+          "ci_low": 16.73880472779274,
+          "ci_high": 29.638248309493065,
+          "model": "xlm-roberta-large"
+        },
+        "embedding_cosine": {
+          "point": 27.613219618797302,
+          "ci_low": 23.021810613572598,
+          "ci_high": 32.624451741576195,
+          "model": "paraphrase-multilingual-MiniLM-L12-v2"
+        },
+        "judge_factuality": {
+          "point": 2.335766423357664,
+          "ci_low": 2.051094890510949,
+          "ci_high": 2.6425182481751825,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_completeness": {
+          "point": 2.116788321167883,
+          "ci_low": 1.8759124087591241,
+          "ci_high": 2.3795620437956204,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_safety": {
+          "point": 4.839416058394161,
+          "ci_low": 4.751642335766423,
+          "ci_high": 4.91970802919708,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_overall": {
+          "point": 3.0973236009732363,
+          "ci_low": 2.9245133819951334,
+          "ci_high": 3.2920316301703165,
+          "scale": "1-5 Likert",
+          "judge_model": "gpt-4o-mini",
+          "n_judged": 137,
+          "n_failed": 0
+        },
+        "judge_factuality_anthropic": {
+          "point": 3.8125,
+          "ci_low": 3.5089285714285716,
+          "ci_high": 4.125,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 112,
+          "n_failed": 25
+        },
+        "judge_completeness_anthropic": {
+          "point": 1.9642857142857142,
+          "ci_low": 1.6875,
+          "ci_high": 2.2857142857142856,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 112,
+          "n_failed": 25
+        },
+        "judge_safety_anthropic": {
+          "point": 4.125,
+          "ci_low": 3.857142857142857,
+          "ci_high": 4.383928571428571,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 112,
+          "n_failed": 25
+        },
+        "judge_overall_anthropic": {
+          "point": 3.3005952380952377,
+          "ci_low": 3.0654017857142857,
+          "ci_high": 3.547619047619047,
+          "scale": "1-5 Likert",
+          "judge_model": "claude-haiku-4-5",
+          "n_judged": 112,
+          "n_failed": 25
+        }
+      }
+    }
+  }
+}

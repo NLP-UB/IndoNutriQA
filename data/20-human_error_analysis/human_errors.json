@@ -1,0 +1,1104 @@
+{
+ "codebook": {
+  "OMISSION": "Incomplete coverage: a clinical point present in the reference is missing",
+  "PES_FORMAT": "NCP/PES structural violation: wrong expansion of P-E-S, or domains collapsed",
+  "CONTRADICTION": "Claim contradicts the patient's own assessment data",
+  "NUMERIC": "Numeric or arithmetic error in a prescription or interpretation",
+  "UNVERIFIABLE": "Specifics added that the reference does not support and that cannot be checked",
+  "NON_ANSWER": "Empty output, truncated mid-sentence, or does not address the question",
+  "DEGENERATE": "Repetition, or source-document boilerplate and table markup leaking into the answer",
+  "LANGUAGE": "Non-standard Indonesian or non-standard clinical terminology",
+  "REF_PROBLEM": "The reference answer itself is wrong or contestable"
+ },
+ "n_notes": 53,
+ "n_units_commented": 37,
+ "n_units_total": 50,
+ "notes_per_rater": {
+  "RD1": 9,
+  "RD2": 8,
+  "RD3": 36
+ },
+ "units_by_code": {
+  "NUMERIC": [
+   "U003",
+   "U009",
+   "U013"
+  ],
+  "CONTRADICTION": [
+   "U001",
+   "U004",
+   "U016"
+  ],
+  "PES_FORMAT": [
+   "U006",
+   "U017",
+   "U025",
+   "U039",
+   "U044",
+   "U050"
+  ],
+  "REF_PROBLEM": [
+   "U009",
+   "U012",
+   "U013",
+   "U029",
+   "U030"
+  ],
+  "OMISSION": [
+   "U001",
+   "U003",
+   "U006",
+   "U011",
+   "U013",
+   "U016",
+   "U017",
+   "U020",
+   "U021",
+   "U023",
+   "U029",
+   "U032",
+   "U036",
+   "U039",
+   "U042",
+   "U043",
+   "U049",
+   "U050"
+  ],
+  "UNVERIFIABLE": [
+   "U014",
+   "U020",
+   "U023",
+   "U029",
+   "U046"
+  ],
+  "DEGENERATE": [
+   "U007",
+   "U014",
+   "U038",
+   "U040"
+  ],
+  "LANGUAGE": [
+   "U009",
+   "U019",
+   "U040"
+  ],
+  "NON_ANSWER": [
+   "U005",
+   "U010",
+   "U012",
+   "U014",
+   "U024",
+   "U027",
+   "U045",
+   "U048"
+  ]
+ },
+ "notes_by_code": {
+  "NUMERIC": 4,
+  "CONTRADICTION": 5,
+  "PES_FORMAT": 10,
+  "REF_PROBLEM": 6,
+  "OMISSION": 19,
+  "UNVERIFIABLE": 6,
+  "DEGENERATE": 5,
+  "LANGUAGE": 3,
+  "NON_ANSWER": 8
+ },
+ "mean_scores_by_code": {
+  "OMISSION": {
+   "factuality": 3.32,
+   "completeness": 2.58,
+   "safety": 2.53
+  },
+  "PES_FORMAT": {
+   "factuality": 3.2,
+   "completeness": 2.6,
+   "safety": 2.4
+  },
+  "CONTRADICTION": {
+   "factuality": 2.0,
+   "completeness": 2.0,
+   "safety": 1.8
+  },
+  "NUMERIC": {
+   "factuality": 2.0,
+   "completeness": 3.0,
+   "safety": 1.75
+  },
+  "UNVERIFIABLE": {
+   "factuality": 4.17,
+   "completeness": 3.83,
+   "safety": 4.0
+  },
+  "NON_ANSWER": {
+   "factuality": 1.75,
+   "completeness": 1.5,
+   "safety": 1.5
+  },
+  "DEGENERATE": {
+   "factuality": 4.4,
+   "completeness": 4.2,
+   "safety": 4.4
+  },
+  "LANGUAGE": {
+   "factuality": 4.0,
+   "completeness": 4.0,
+   "safety": 3.67
+  },
+  "REF_PROBLEM": {
+   "factuality": 2.83,
+   "completeness": 3.67,
+   "safety": 2.5
+  }
+ },
+ "cross_rater_confirmed": {
+  "NUMERIC": [
+   "U003"
+  ],
+  "CONTRADICTION": [
+   "U004"
+  ],
+  "PES_FORMAT": [
+   "U006",
+   "U017",
+   "U025",
+   "U044"
+  ],
+  "REF_PROBLEM": [
+   "U013"
+  ],
+  "OMISSION": [
+   "U029"
+  ],
+  "UNVERIFIABLE": [
+   "U046"
+  ],
+  "DEGENERATE": [
+   "U007"
+  ]
+ },
+ "units_by_code_and_question_category": {
+  "NUMERIC": {
+   "recommendation": [
+    "U003",
+    "U013"
+   ],
+   "inferential": [
+    "U009"
+   ]
+  },
+  "CONTRADICTION": {
+   "inferential": [
+    "U004"
+   ],
+   "factual": [
+    "U001",
+    "U016"
+   ]
+  },
+  "PES_FORMAT": {
+   "inferential": [
+    "U006",
+    "U017",
+    "U025",
+    "U039",
+    "U044",
+    "U050"
+   ]
+  },
+  "REF_PROBLEM": {
+   "recommendation": [
+    "U012",
+    "U013",
+    "U030"
+   ],
+   "inferential": [
+    "U009",
+    "U029"
+   ]
+  },
+  "OMISSION": {
+   "inferential": [
+    "U006",
+    "U017",
+    "U029",
+    "U032",
+    "U039",
+    "U042",
+    "U050"
+   ],
+   "factual": [
+    "U001",
+    "U011",
+    "U016",
+    "U020",
+    "U023",
+    "U036"
+   ],
+   "recommendation": [
+    "U003",
+    "U013",
+    "U021",
+    "U043",
+    "U049"
+   ]
+  },
+  "UNVERIFIABLE": {
+   "inferential": [
+    "U029",
+    "U046"
+   ],
+   "recommendation": [
+    "U014"
+   ],
+   "factual": [
+    "U020",
+    "U023"
+   ]
+  },
+  "DEGENERATE": {
+   "factual": [
+    "U007",
+    "U038",
+    "U040"
+   ],
+   "recommendation": [
+    "U014"
+   ]
+  },
+  "LANGUAGE": {
+   "inferential": [
+    "U009",
+    "U019"
+   ],
+   "factual": [
+    "U040"
+   ]
+  },
+  "NON_ANSWER": {
+   "inferential": [
+    "U005",
+    "U010"
+   ],
+   "recommendation": [
+    "U012",
+    "U014",
+    "U024",
+    "U048"
+   ],
+   "factual": [
+    "U027",
+    "U045"
+   ]
+  }
+ },
+ "notes": [
+  {
+   "rater": "RD1",
+   "unit_id": "U003",
+   "question_category": "recommendation",
+   "scores": {
+    "factuality": 2,
+    "completeness": 2,
+    "safety": 2
+   },
+   "ref_problem_flag": false,
+   "note": "Protein bukan 60%, karbohidrat yang justru seharusnya 60% dari energi harian.",
+   "codes": [
+    "NUMERIC"
+   ]
+  },
+  {
+   "rater": "RD1",
+   "unit_id": "U004",
+   "question_category": "inferential",
+   "scores": {
+    "factuality": 1,
+    "completeness": 1,
+    "safety": 1
+   },
+   "ref_problem_flag": false,
+   "note": "Pasien tidak underweight, namun justru overweight.",
+   "codes": [
+    "CONTRADICTION"
+   ]
+  },
+  {
+   "rater": "RD1",
+   "unit_id": "U006",
+   "question_category": "inferential",
+   "scores": {
+    "factuality": 3,
+    "completeness": 3,
+    "safety": 2
+   },
+   "ref_problem_flag": false,
+   "note": "S nya bukan solusi namun sign and symptom, tanda dan gejala dari problem.",
+   "codes": [
+    "PES_FORMAT"
+   ]
+  },
+  {
+   "rater": "RD1",
+   "unit_id": "U013",
+   "question_category": "recommendation",
+   "scores": {
+    "factuality": 1,
+    "completeness": 3,
+    "safety": 1
+   },
+   "ref_problem_flag": true,
+   "note": "Jumlah lemak+protein+karbo=150% bukan 100%",
+   "codes": [
+    "NUMERIC",
+    "REF_PROBLEM"
+   ]
+  },
+  {
+   "rater": "RD1",
+   "unit_id": "U016",
+   "question_category": "factual",
+   "scores": {
+    "completeness": 5,
+    "safety": 4,
+    "factuality": 4
+   },
+   "ref_problem_flag": false,
+   "note": "eosinofil tinggi seharusnya hasilnyarendah",
+   "codes": [
+    "CONTRADICTION"
+   ]
+  },
+  {
+   "rater": "RD1",
+   "unit_id": "U017",
+   "question_category": "inferential",
+   "scores": {
+    "factuality": 3,
+    "completeness": 3,
+    "safety": 3
+   },
+   "ref_problem_flag": false,
+   "note": "P itu Problem E etiology S sign and symptom",
+   "codes": [
+    "PES_FORMAT"
+   ]
+  },
+  {
+   "rater": "RD1",
+   "unit_id": "U029",
+   "question_category": "inferential",
+   "scores": {
+    "safety": 4,
+    "completeness": 4,
+    "factuality": 4
+   },
+   "ref_problem_flag": false,
+   "note": "NI 1.2 referensi tidak lengkap, sign symptom belum ada.",
+   "codes": [
+    "OMISSION",
+    "REF_PROBLEM"
+   ]
+  },
+  {
+   "rater": "RD1",
+   "unit_id": "U044",
+   "question_category": "inferential",
+   "scores": {
+    "factuality": 4,
+    "completeness": 4,
+    "safety": 3
+   },
+   "ref_problem_flag": false,
+   "note": "**Solusi (S)** ini tidak tepat ya, seharusnya Sign and Symptom/tanda dan gejala dari problem (P)",
+   "codes": [
+    "PES_FORMAT"
+   ]
+  },
+  {
+   "rater": "RD1",
+   "unit_id": "U046",
+   "question_category": "inferential",
+   "scores": {
+    "safety": 4,
+    "completeness": 4,
+    "factuality": 4
+   },
+   "ref_problem_flag": false,
+   "note": "Penurunan berat badan tidak diharapkan membutuhkan data berat badan sebelumnya (weight history), dimana tidak ada data tersebut, jadi bagaimana mengatahui tren turunnya?",
+   "codes": [
+    "UNVERIFIABLE"
+   ]
+  },
+  {
+   "rater": "RD2",
+   "unit_id": "U004",
+   "question_category": "inferential",
+   "scores": {
+    "factuality": 1,
+    "safety": 1,
+    "completeness": 1
+   },
+   "ref_problem_flag": false,
+   "note": "Berbeda diagnosis, referensi menyebutkan anak overweight, sedangkan sistem menjawab anak mengalami malnutrisi",
+   "codes": [
+    "CONTRADICTION"
+   ]
+  },
+  {
+   "rater": "RD2",
+   "unit_id": "U007",
+   "question_category": "factual",
+   "scores": {
+    "factuality": 5,
+    "completeness": 5,
+    "safety": 5
+   },
+   "ref_problem_flag": false,
+   "note": "kalimat dituliskan berulang-ulang",
+   "codes": [
+    "DEGENERATE"
+   ]
+  },
+  {
+   "rater": "RD2",
+   "unit_id": "U009",
+   "question_category": "inferential",
+   "scores": {
+    "factuality": 5,
+    "completeness": 5,
+    "safety": 5
+   },
+   "ref_problem_flag": false,
+   "note": "kata \"dikontrastikan\" tidak sesuai dengan KBBI",
+   "codes": [
+    "LANGUAGE"
+   ]
+  },
+  {
+   "rater": "RD2",
+   "unit_id": "U014",
+   "question_category": "recommendation",
+   "scores": {
+    "factuality": 5,
+    "completeness": 3,
+    "safety": 5
+   },
+   "ref_problem_flag": false,
+   "note": "terdapat simbol yang tidak relevan, yaitu £55",
+   "codes": [
+    "DEGENERATE"
+   ]
+  },
+  {
+   "rater": "RD2",
+   "unit_id": "U025",
+   "question_category": "inferential",
+   "scores": {
+    "factuality": 5,
+    "completeness": 3,
+    "safety": 5
+   },
+   "ref_problem_flag": false,
+   "note": "Penulisan tidak sesuai dengan format penulisan diagnosis gizi",
+   "codes": [
+    "PES_FORMAT"
+   ]
+  },
+  {
+   "rater": "RD2",
+   "unit_id": "U029",
+   "question_category": "inferential",
+   "scores": {
+    "factuality": 3,
+    "completeness": 3,
+    "safety": 3
+   },
+   "ref_problem_flag": false,
+   "note": "Tidak ada data penurunan berat badan, namun jawaban kandidat menyebutkannya",
+   "codes": [
+    "UNVERIFIABLE"
+   ]
+  },
+  {
+   "rater": "RD2",
+   "unit_id": "U038",
+   "question_category": "factual",
+   "scores": {
+    "factuality": 5,
+    "completeness": 5,
+    "safety": 5
+   },
+   "ref_problem_flag": false,
+   "note": "Terdapat beberapa kata yang tidak sinkron dengan topik: \"bab v kesimpulan dan saran 5. 1 kesimpulan 1\"",
+   "codes": [
+    "DEGENERATE"
+   ]
+  },
+  {
+   "rater": "RD2",
+   "unit_id": "U040",
+   "question_category": "factual",
+   "scores": {
+    "factuality": 5,
+    "completeness": 5,
+    "safety": 5
+   },
+   "ref_problem_flag": false,
+   "note": "Terdapat kalimat yang tidak sinkron dengan referensi: \"tabel 2. 5 data biokimia [ table 0 ] data lab nilai interpretasi - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \"",
+   "codes": [
+    "DEGENERATE"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U001",
+   "question_category": "factual",
+   "scores": {
+    "factuality": 3,
+    "completeness": 2,
+    "safety": 2
+   },
+   "ref_problem_flag": false,
+   "note": "Jawaban kandidat tidak lengkap dan hanya merujuk pada salah satu penyakit saja, yang mana hal tersebut kurang sesuai dengan diagnosis medis pasien",
+   "codes": [
+    "OMISSION",
+    "CONTRADICTION"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U002",
+   "question_category": "recommendation",
+   "scores": {
+    "factuality": 5,
+    "completeness": 5,
+    "safety": 5
+   },
+   "ref_problem_flag": false,
+   "note": "Jawaban kandidat sudah sesuai dengan jawaban referensi",
+   "codes": []
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U003",
+   "question_category": "recommendation",
+   "scores": {
+    "factuality": 2,
+    "completeness": 2,
+    "safety": 1
+   },
+   "ref_problem_flag": false,
+   "note": "Jawaban kandidat tidak lengkap dan terdapat kekeliruan yang berpotensi membahayakan pasien. Pada jawaban kandidat makronutrien yang disebutkan hanya karbohidrat dan protein, sedangkan seharusnya terdapat makronutrien lemak. Persentase protein yang diberikan terlalu besar sehingga tidak sesuai dengan kebutuhan dan kondisi pasien. Mikronutrien seperti vitamin dan mineral tidak disebutkan secara lengkap",
+   "codes": [
+    "OMISSION",
+    "NUMERIC"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U004",
+   "question_category": "inferential",
+   "scores": {
+    "factuality": 1,
+    "completeness": 1,
+    "safety": 1
+   },
+   "ref_problem_flag": false,
+   "note": "Diagnosis gizi pada jawaban kandidat sangat tidak sesuai dengan asesmen antropometri pasien sehingga jawaban keseluruhan salah",
+   "codes": [
+    "CONTRADICTION"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U005",
+   "question_category": "inferential",
+   "scores": {
+    "factuality": 1,
+    "completeness": 1,
+    "safety": 1
+   },
+   "ref_problem_flag": false,
+   "note": "Jawaban kandidat tidak menjawab pertanyaan klinis dan tidak sesuai dengan jawaban referensi",
+   "codes": [
+    "NON_ANSWER"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U006",
+   "question_category": "inferential",
+   "scores": {
+    "factuality": 3,
+    "completeness": 2,
+    "safety": 1
+   },
+   "ref_problem_flag": false,
+   "note": "Format PES jawaban kandidat tidak sesuai dengan kaidah/pedoman. Seharusnya yang benar adalah P = Problem, E = Etiologi, S = Sign/Symptoms, bukan S = Solusi. Pada jawaban kandidat, diagnosis gizi pada PES tidak dituliskan satu per satu menggunakan domain diagnosis, melainkan gabungan dari semua permasalahan. Jawaban kandidat tidak lengkap",
+   "codes": [
+    "PES_FORMAT",
+    "OMISSION"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U007",
+   "question_category": "factual",
+   "scores": {
+    "factuality": 2,
+    "safety": 2,
+    "completeness": 3
+   },
+   "ref_problem_flag": false,
+   "note": "Jawaban kandidat kurang sesuai dibandingkan dengan jawaban referensi. Jawaban kandidat berulang dengan isi yang sama",
+   "codes": [
+    "DEGENERATE"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U009",
+   "question_category": "inferential",
+   "scores": {
+    "factuality": 3,
+    "completeness": 5,
+    "safety": 3
+   },
+   "ref_problem_flag": true,
+   "note": "Jawaban referensi kurang tepat. Perhitungan persentase LiLA untuk anak laki-laki usia 12 tahun 6 bulan yaitu = (LiLA yang diukur / standar LiLA sesuai usia dan jenis kelamin) x 100%. Hasil yang didapatkan adalah 88% yang mana termasuk dalam kategori gizi baik/normal",
+   "codes": [
+    "REF_PROBLEM",
+    "NUMERIC"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U010",
+   "question_category": "inferential",
+   "scores": {
+    "factuality": 1,
+    "completeness": 1,
+    "safety": 1
+   },
+   "ref_problem_flag": false,
+   "note": "Tidak terdapat jawaban pada jawaban kandidat",
+   "codes": [
+    "NON_ANSWER"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U011",
+   "question_category": "factual",
+   "scores": {
+    "factuality": 5,
+    "completeness": 4,
+    "safety": 5
+   },
+   "ref_problem_flag": false,
+   "note": "Jawaban kandidat sudah sesuai dengan referensi, namun tidak selengkap jawaban referensi yang memberikan beberapa jawaban baru kemudian dikerucutkan/disimpulkan",
+   "codes": [
+    "OMISSION"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U012",
+   "question_category": "recommendation",
+   "scores": {
+    "factuality": 4,
+    "completeness": 3,
+    "safety": 3
+   },
+   "ref_problem_flag": false,
+   "note": "Pada jawaban referensi terdapat jawaban yang kurang yaitu perhitungan kebutuhan makronutrien lemak Format jawaban kandidat sudah baik karena lebih ringkas dan tidak bertele-tele jika dibandingkan dengan jawaban referensi. Namun, jawaban kandidat tidak lengkap karena terputus di tengah jalan",
+   "codes": [
+    "NON_ANSWER",
+    "REF_PROBLEM"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U013",
+   "question_category": "recommendation",
+   "scores": {
+    "factuality": 2,
+    "completeness": 2,
+    "safety": 2
+   },
+   "ref_problem_flag": true,
+   "note": "Terdapat kesalahan pada jawaban referensi yaitu pada pembagian persentase makronutrien karbohidrat, protein, dan lemak Jawaban kandidat tidak lengkap",
+   "codes": [
+    "OMISSION",
+    "REF_PROBLEM"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U014",
+   "question_category": "recommendation",
+   "scores": {
+    "factuality": 4,
+    "completeness": 3,
+    "safety": 3
+   },
+   "ref_problem_flag": false,
+   "note": "Format jawaban kandidat sudah baik karena lebih ringkas dan tidak bertele-tele jika dibandingkan dengan jawaban referensi. Namun, jawaban kandidat tidak lengkap karena terputus di tengah jalan Pada jawaban kandidat tidak diberikan referensi sehingga terasa kurang kredibel",
+   "codes": [
+    "NON_ANSWER",
+    "UNVERIFIABLE"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U016",
+   "question_category": "factual",
+   "scores": {
+    "factuality": 2,
+    "completeness": 3,
+    "safety": 2
+   },
+   "ref_problem_flag": false,
+   "note": "Terdapat jawaban yang kurang sesuai pada jawaban kandidat",
+   "codes": [
+    "OMISSION"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U017",
+   "question_category": "inferential",
+   "scores": {
+    "factuality": 1,
+    "completeness": 1,
+    "safety": 1
+   },
+   "ref_problem_flag": false,
+   "note": "Komponen PES pada diagnosis gizi di jawaban kandidat salah, seharusnya P = Problem, E = Etiologi, S = Sign/Symptoms Pada jawaban kandidat, diagnosis gizi tidak dituliskan menggunakan domain Jawaban kandidat sangat tidak lengkap dan tidak sesuai",
+   "codes": [
+    "PES_FORMAT",
+    "OMISSION"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U019",
+   "question_category": "inferential",
+   "scores": {
+    "factuality": 5,
+    "completeness": 5,
+    "safety": 5
+   },
+   "ref_problem_flag": false,
+   "note": "Penulisan pada jawaban kandidat harus dibenahi agar sesuai dengan standar penulisan indikator status gizi",
+   "codes": [
+    "LANGUAGE"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U020",
+   "question_category": "factual",
+   "scores": {
+    "factuality": 5,
+    "completeness": 4,
+    "safety": 5
+   },
+   "ref_problem_flag": false,
+   "note": "Pada jawaban kandidat terdapat data berupa angka yang tidak ada di jawaban referensi, sehingga tidak bisa dibuktikan kebenaran angkanya, namun kategori rendah dan tingginya sudah sesuai. Pada jawaban kandidat tidak dijelaskan sebab akibat dari data biokimia yang abnormal, sehingga terasa kurang lengkap",
+   "codes": [
+    "UNVERIFIABLE",
+    "OMISSION"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U021",
+   "question_category": "recommendation",
+   "scores": {
+    "factuality": 3,
+    "completeness": 3,
+    "safety": 2
+   },
+   "ref_problem_flag": false,
+   "note": "Jawaban kandidat kurang lengkap",
+   "codes": [
+    "OMISSION"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U023",
+   "question_category": "factual",
+   "scores": {
+    "factuality": 5,
+    "completeness": 4,
+    "safety": 5
+   },
+   "ref_problem_flag": false,
+   "note": "Pada jawaban kandidat terdapat data berupa angka yang tidak ada di jawaban referensi, sehingga tidak bisa dibuktikan kebenaran angkanya, namun kategori rendah dan tingginya sudah sesuai Pada jawaban kandidat tidak dijelaskan sebab akibat dari data biokimia yang abnormal, sehingga terasa kurang lengkap",
+   "codes": [
+    "UNVERIFIABLE",
+    "OMISSION"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U024",
+   "question_category": "recommendation",
+   "scores": {
+    "factuality": 1,
+    "completeness": 1,
+    "safety": 1
+   },
+   "ref_problem_flag": false,
+   "note": "Tidak terdapat jawaban pada jawaban kandidat",
+   "codes": [
+    "NON_ANSWER"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U025",
+   "question_category": "inferential",
+   "scores": {
+    "factuality": 4,
+    "completeness": 3,
+    "safety": 3
+   },
+   "ref_problem_flag": false,
+   "note": "Pada jawaban kandidat, diagnosis gizi pada PES tidak dituliskan satu per satu menggunakan domain diagnosis, melainkan gabungan dari semua permasalahan.",
+   "codes": [
+    "PES_FORMAT"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U027",
+   "question_category": "factual",
+   "scores": {
+    "factuality": 1,
+    "completeness": 1,
+    "safety": 1
+   },
+   "ref_problem_flag": false,
+   "note": "Tidak terdapat jawaban pada jawaban kandidat",
+   "codes": [
+    "NON_ANSWER"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U029",
+   "question_category": "inferential",
+   "scores": {
+    "factuality": 2,
+    "completeness": 1,
+    "safety": 1
+   },
+   "ref_problem_flag": false,
+   "note": "Jawaban kandidat tidak lengkap Terdapat ketidaksesuaian pada jawaban kandidat",
+   "codes": [
+    "OMISSION"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U030",
+   "question_category": "recommendation",
+   "scores": {
+    "factuality": 3,
+    "completeness": 5,
+    "safety": 2
+   },
+   "ref_problem_flag": true,
+   "note": "Pada neonatus sebaiknya pemberian protein diberikan adekuat dan disesuaikan dengan kebutuhan secara bertahap",
+   "codes": [
+    "REF_PROBLEM"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U032",
+   "question_category": "inferential",
+   "scores": {
+    "factuality": 4,
+    "completeness": 4,
+    "safety": 3
+   },
+   "ref_problem_flag": false,
+   "note": "Terdapat 1 domain diagnosis gizi yang tidak tercantum pada jawaban kandidat",
+   "codes": [
+    "OMISSION"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U036",
+   "question_category": "factual",
+   "scores": {
+    "factuality": 2,
+    "completeness": 1,
+    "safety": 1
+   },
+   "ref_problem_flag": false,
+   "note": "Jawaban kandidat tidak lengkap seperti di referensi",
+   "codes": [
+    "OMISSION"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U039",
+   "question_category": "inferential",
+   "scores": {
+    "factuality": 3,
+    "completeness": 2,
+    "safety": 2
+   },
+   "ref_problem_flag": false,
+   "note": "Jawaban kandidat tidak lengkap seperti jawaban referensi Format penulisan PES tidak sesuai",
+   "codes": [
+    "OMISSION",
+    "PES_FORMAT"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U040",
+   "question_category": "factual",
+   "scores": {
+    "factuality": 2,
+    "completeness": 2,
+    "safety": 1
+   },
+   "ref_problem_flag": false,
+   "note": "Penulisan jawaban kandidat tidak sesuai dengan referensi",
+   "codes": [
+    "LANGUAGE"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U042",
+   "question_category": "inferential",
+   "scores": {
+    "factuality": 5,
+    "completeness": 4,
+    "safety": 5
+   },
+   "ref_problem_flag": false,
+   "note": "Kesimpulan jawaban kandidat benar, namun kurang lengkap jika dibandingkan dengan jawaban referensi",
+   "codes": [
+    "OMISSION"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U043",
+   "question_category": "recommendation",
+   "scores": {
+    "factuality": 5,
+    "completeness": 2,
+    "safety": 2
+   },
+   "ref_problem_flag": false,
+   "note": "Penulisan jawaban kandidat sudah sesuai seperti jawaban referensi, namun tidak lengkap sehingga dapat berpengaruh terhadap keamanan klinis",
+   "codes": [
+    "OMISSION"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U044",
+   "question_category": "inferential",
+   "scores": {
+    "factuality": 3,
+    "completeness": 3,
+    "safety": 2
+   },
+   "ref_problem_flag": false,
+   "note": "Format S pada jawaban kandidat tidak sesuai dengan pedoman Format penulisan PES pada jawaban kandidat sebaiknya ditulis satu per satu untuk setiap problem/tidak digabung agar tidak membingungkan",
+   "codes": [
+    "PES_FORMAT"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U045",
+   "question_category": "factual",
+   "scores": {
+    "factuality": 1,
+    "completeness": 1,
+    "safety": 1
+   },
+   "ref_problem_flag": false,
+   "note": "Tidak terdapat jawaban pada jawaban kandidat",
+   "codes": [
+    "NON_ANSWER"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U046",
+   "question_category": "inferential",
+   "scores": {
+    "factuality": 4,
+    "completeness": 5,
+    "safety": 4
+   },
+   "ref_problem_flag": false,
+   "note": "Terdapat penambahan jawaban pada jawaban kandidat yang tidak dapat diverifikasi kebenarannya karena tidak tercantum di jawaban referensi",
+   "codes": [
+    "UNVERIFIABLE"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U048",
+   "question_category": "recommendation",
+   "scores": {
+    "factuality": 1,
+    "completeness": 1,
+    "safety": 1
+   },
+   "ref_problem_flag": false,
+   "note": "Tidak terdapat jawaban pada jawaban kandidat",
+   "codes": [
+    "NON_ANSWER"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U049",
+   "question_category": "recommendation",
+   "scores": {
+    "factuality": 4,
+    "completeness": 2,
+    "safety": 2
+   },
+   "ref_problem_flag": false,
+   "note": "Jawaban kandidat tidak lengkap",
+   "codes": [
+    "OMISSION"
+   ]
+  },
+  {
+   "rater": "RD3",
+   "unit_id": "U050",
+   "question_category": "inferential",
+   "scores": {
+    "factuality": 3,
+    "completeness": 2,
+    "safety": 2
+   },
+   "ref_problem_flag": false,
+   "note": "Jawaban kandidat tidak lengkap Format penulisan PES tidak sesuai dengan pedoman",
+   "codes": [
+    "OMISSION",
+    "PES_FORMAT"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,476 @@
+[
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 4,
+    "chunk_index": 0,
+    "text": "BAB I\n1.1 DATA DASAR\n\n[TABLE 0]\nInisial Pasien | : | By.Ny. E\n--------------------------------------------------------------------------------\nUmur | : | 7 hari\nJenis Kelamin | : | Perempuan\nAgama | : | Islam\nNo.Rekam Medis | : | <NO_REG>\nMRS | : | <TGL>\nPengambilan data | : | <TGL>\nDiagnosa Medis | : | Neonatus Moderate Preterm, BBLR, SMK, Respiratory\nDistress Syndrome, Sepsis, Apneu of Prematurity, ASD\nSecundum kecil, Hiperbilirubinemia, Feeding Difficulty\n[END TABLE]\n1"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 5,
+    "chunk_index": 0,
+    "text": "1.2 SKRINING TOOLS\nI. Alat Skrining Risiko Gizi Neonatal FARNNeo\nNama : <NAMA> Tanggal Skrining : <TGL>\nNo.RM : <NO_REG> Jenis Kelamin : Perempuan\nTanggal Lahir : <TGL>\nDiagnosa : Neonatus Moderate Preterm, BBLR, SMK, Respiratory Distress Syndrome,\nSepsis, Apneu of Prematurity, ASD Secundum kecil, Hiperbilirubinemia,\nFeeding Difficulty\n\n[TABLE 0]\n1) Usia kehamilan saat lahir\nUsia 33 Minggu |  (≥ 37 minggu)\n (≥28 hingga <37 minggu)\n (<28 minggu) |  0 poin\n√ 1 poin\n 2 poin\n--------------------------------------------------------------------------------\n2) Berat badan lahir\nBBL = 1900 minggu |  (≥2500 gram)\n (≥1500 hingga <2500 gram)\n (≥1000 hingga <1500 gram)\n (<1000 gram) |  0 poin\n√ 1 poin\n 2 poin\n 3 poin\n3) Penyakit dan/atau kondisi\nklinis* (dengan risiko gizi\ntinggi) | Kelainan atau malformasi kongenital yang dapat\nmembahayakan saluran gastrointestinal (contoh:\n Sindrom berdon,\n Sindrom usus pendek,\n Atresia esofagus,\n Penyakit metabolik,\n Enterokoliti"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 5,
+    "chunk_index": 1,
+    "text": "inggi) | Kelainan atau malformasi kongenital yang dapat\nmembahayakan saluran gastrointestinal (contoh:\n Sindrom berdon,\n Sindrom usus pendek,\n Atresia esofagus,\n Penyakit metabolik,\n Enterokolitis nekrotikans,\n Fibrosis kistik,\n√ Penyakit jantung,\n Hiperplasia/tumor,\n Penyakit hati,\n Penyakit ginjal,\n Hernia diafragma,\n Operasi besar,\n Pembatasan pertumbuhan intrauterin,\n Displasia bronkopulmonalis,\n Suatu kondisi yang dapat\nmembahayakan makanan dan status\ngizi,\n Kesulitan dalam menjalankan diet\n(contoh: perut kembung, residu lambung,\nmuntah, dll.),\n Kondisi lain yang\ndiklasifikasikan oleh\nprofesional. |  Tidak (0)\n√ Ya (2)\n4) Terapi gizi |  Rute oral\n Rute oral atau dimodif dengan enteral\n Rute parenteral\n Tidak ada terapi gizi |  0 poin\n√ 1 poin\n 2 poin\n 3 poin\nSkor |  | 5\n[END TABLE]"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 6,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nInterpretasi\n Tidak berisiko malnutrisi (0 poin)\n Malnutrisi sedang (1 – 3 poin)\n Malnutrisi tinggi (≥4 poin) | Malnutrisi Tinggi\n--------------------------------------------------------------------------------\n[END TABLE]\nII. FORM Neonatal Nutritional Risk Screening Tools\n\n[TABLE 1]\nSKRINING NEONATUS |  | \n--------------------------------------------------------------------------------\nNama : <NAMA>\nNRM : <NO_REG>\nJenis Kelamin : Perempuan\nTanggal Lahir : <TGL> |  | Tanggal\nSkrining\n:\n<TGL>\nNo | Pertanyaan dan Skor | Skor\n1. | Umur kehamilan saat melahirkan\nA. ≥ 22 minggu dan < 28 minggu (4)\nB. ≥ 28 minggu dan < 32 minggu (3)\nC. ≥ 32 minggu dan < 37 minggu (2) | 2\n | Berat bayi saat lahir\nA. <1000 gram (4)\nB. SGA (<P10) (3)\nC. ≥ 1000 gr dan < 1500 gr (2)\nD. ≥ 1500 gr dan < 2500 gr (1)\nE. LGA (<P90) (1) | 1\n2 | Perubahan Berat Badan\nA. Penurunan BB > 15% (4)\nB. Penurunan BB> 10% (3)\nC. Usia > 2 minggu ; Penambahan BB < 10 g/Kg (2)\nD. Usia 1-2 minggu, Be"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 6,
+    "chunk_index": 1,
+    "text": ". ≥ 1500 gr dan < 2500 gr (1)\nE. LGA (<P90) (1) | 1\n2 | Perubahan Berat Badan\nA. Penurunan BB > 15% (4)\nB. Penurunan BB> 10% (3)\nC. Usia > 2 minggu ; Penambahan BB < 10 g/Kg (2)\nD. Usia 1-2 minggu, Berat badan menurun atau tidak ada perubahan (2) | 2\n3 | Pemberian Nutrisi\nA. Complete Parenteral nutrition (3)\nB. Partial Parenteral nutrition (2)\nC. Tube feed (1) | 2\n4. | Diagnosa Penyakit | 1\n | A. Digistive system Disease\na. NEC, Gastrointestinal Congenital malformation (4)\nb. Recurrent diarrhea, Gastric-intestinal perforation (3)\nc. Milk proteint allergy, GER (2)\nB. Other Disease\no Severe infection (pneumonia, septicemia) (2)\no BPD, Acute illness or injury, Congenital heart disease,\nGlucose metabolic disorder (hypoglycemia,\nhyperinsulinemia), RDS, Hypokalemia,Brain\ninjury/intracranial hemmorrhage, HIE,Hyperbilirubinemia (1) | \nTotal Skor |  | 10\nKesimpulan : Berisiko Tinggi Malnutrisi |  | \nKeterangan\nSkor 0 = beresiko rendah malnutrisi\nSkor 1-3 = beresiko sedang malnutrisi\nSkor 4-10 ="
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 6,
+    "chunk_index": 2,
+    "text": "orrhage, HIE,Hyperbilirubinemia (1) | \nTotal Skor |  | 10\nKesimpulan : Berisiko Tinggi Malnutrisi |  | \nKeterangan\nSkor 0 = beresiko rendah malnutrisi\nSkor 1-3 = beresiko sedang malnutrisi\nSkor 4-10 = beresiko tinggi malnutrisi |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 7,
+    "chunk_index": 0,
+    "text": "Kesimpulan : Berdasarkan hasil screening didapatkan hasil By.Ny. E beresiko\nmalnutrisi sehingga butuh dilakukan pengkajian gizi lebih lanjut. Dari ke dua skrining\nyang digunakan skrining Farnneo lebih direkomendasikan pada pasien Karena berupa\npertanyaan singkat dan lebih cepat saat digunakan untuk skrining serta lebih spesifik\npertanyaan untuk bayi prematur. Skrining Farnneo memiliki ,sensitivitas 85,11%,\nspesifisitas 91,07 % (Zhou et al., 2021).\n3"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 8,
+    "chunk_index": 0,
+    "text": "1.3 BAGAN ANALISIS MASALAH\nInfeksi\nIbu hamil dengan Ibu mengalami Pre\nGestasional DM Eklamsia Berat (PEB)\nAnemia\nRespiratory\nDistress\nApneu of Syndrome\nBayi lahir Hb (↓)\nprematurity (RDS)\nPrematur\nBBLR Peningkatan\nO2 Kebutuhan\nSupport Energi, Protein\nKesulitan\nReflek hisap\nHFN menyusu dan lemak\nbayi lemah\nPemberian Frekuensi\nKeterbatasan nutrisi via kehadiran ibu\npenerimaan asupan\nOGT\nAsupan\nResiko malnutrisi\n4"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 9,
+    "chunk_index": 0,
+    "text": "BAB II\nNUTRITIONAL CARE PROSES\nNama : <NAMA> Jenis Kelamin : Perempuan\nUmur : 34 Minggu Registrasi : <NO_REG>\nDiagnosa : Neonatus Moderate Preterm, BBLR, SMK, Respiratory Distress Syndrome, Sepsis, Apneu of Prematurity, ASD\nSecundum kecil, Hiperbilirubinemia, Feeding Difficulty\nTgl MRS : <TGL> Tgl Pengambilan Data : <TGL>\n\n[TABLE 0]\nAsesmen Gizi |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\n--------------------------------------------------------------------------------\nData Dasar | Identifikasi |  |  | \n | Masalah |  |  | \nAntropometri |  | NI 2.11 – Keterbatasan\nPenerimaan makanan\nberkaitan dengan bayi\nmengalami kesulitan\nmenyusu (reflek hisap bayi\nlemah) ditandai dengan\njalur pemberian zat gizi\nmelalui OGT\nNI 1.1 – Peningkatan\nkebutuhan Energi\nberkaitan dengan bayi\nlahir prematur < 37 minggu\nditandai dengan BBL 1900\ngr (BBLR) dan status gizi\nunderweight BB/PB =74,28\n% | ND-2.1 Makanan atau zat\ngizi yang diberikan lewat\npipa (tube) dan ND-2.2 Zat\nGizi "
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 9,
+    "chunk_index": 1,
+    "text": "engan bayi\nlahir prematur < 37 minggu\nditandai dengan BBL 1900\ngr (BBLR) dan status gizi\nunderweight BB/PB =74,28\n% | ND-2.1 Makanan atau zat\ngizi yang diberikan lewat\npipa (tube) dan ND-2.2 Zat\nGizi atau cairan yang\ndiberikan melalui intravena\nDiet Enteral dan Diet\nParenteral\n● Bentuk makanan Cair\nASI /Lactogen Prematur\n12x 14 ml\n● Diet Parenteral TPN\n70ml/24 jam\nE-1 Edukasi gizi terkait Diet\nEnteral dan Parenteral dan\ntata laksana nutrisi pada\nbayi prematur kepada\nkeluarganya. | ● F.H-1.3.1 Monitoring\nterkait asupan makanan\nenteral, metode\nobservasi,Frekuensi\nsetiap hari, Target\nAsupan > 80 %.\n● F.H-1.3.2 Monitoring\nterkait asupan makanan\nparenteral, metode\nobservasi,Frekuensi\nsetiap hari, Target\nAsupan > 80 %.\n● A.D-1.1 Monitoring\nterkait data antropometri\n1x/bulan, metode\npengukuran langsung,\nFrekuensi 1x/bulan.\nBB Lahir : 1900 gr\nPB Lahir : 46 cm\nBB saat ini : 1857 gr\nLK : 31 cm\nUsia = usia kronologis + UK\n= 1 Minggu + 33 minggu = 34 minggu\nStatus Gizi :\nFenton :\nBB/U : Normal (> "
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 9,
+    "chunk_index": 2,
+    "text": "ngsung,\nFrekuensi 1x/bulan.\nBB Lahir : 1900 gr\nPB Lahir : 46 cm\nBB saat ini : 1857 gr\nLK : 31 cm\nUsia = usia kronologis + UK\n= 1 Minggu + 33 minggu = 34 minggu\nStatus Gizi :\nFenton :\nBB/U : Normal (> 10 persentil)\nPB/U : Normal (> 10 persentil )\nBB/PB : 1857: 2500 X100% = 74,28 %\n(Underweight)\nLK/U : Normal | Grafik Fenton :\nBB/PB=Underweight\nBayi lahir prematur\n< 37 minggu\nBerat badan lahir\nrendah (BBLR) |  |  | \n[END TABLE]\n5"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 10,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nBiokimia |  |  |  |  |  |  | NI 5.1 – Peningkatan\nkebutuhan Protein\nberkaitan dengan adanya\nanemia dan infeksi\nditandai dengan Hb 15,5\ng/dl % (↓), hematokrit 46%\n(↓) , eosinofil 0,5% (↓) ,\nlimfosit 23,7 % (↑)\nNI 5.1 – Peningkatan\nkebutuhan lemak\nBerkaitan dengan bayi\nlahir prematur < 37 minggu\nditandai dengan BBL 1900\ngr (BBLR) dan status gizi\nunderweight BB/PB =74,28\n%\nNB-1.1 Kurangnya\npengetahuan tentang gizi\ndan makanan pada ibu\nberkaitan dengan\nkurangnya paparan\ninformasi ditandai dengan\nFrekuensi kehadiran ibu\nuntuk menyusui ↓ | RC 1 - Kolaborasi dengan\ndokter, perawat, ahli gizi\nruangan dan fisioterapi\nterkait pemeriksaan TTV,\npemeriksaan kondisi fisik\nklinis, melatih oromotor\nbayi dan pemberian nutrisi\ndan pemeriksaan\nlaboratorium. | Target ; status gizi\npasien normal\n● B.D-1 Monitoring terkait\npemeriksaan darah\nlengkap, metode\npemeriksaan Lab,\nFrekuensi setiap 3 hari,\ntarget nilai lab mencapai\nnormal.\n● P.D-1.1 Monitoring\nterkait fisik klinis pasien,\nmetode observasi"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 10,
+    "chunk_index": 1,
+    "text": ".D-1 Monitoring terkait\npemeriksaan darah\nlengkap, metode\npemeriksaan Lab,\nFrekuensi setiap 3 hari,\ntarget nilai lab mencapai\nnormal.\n● P.D-1.1 Monitoring\nterkait fisik klinis pasien,\nmetode observasi atau\nwawancara. Frekuensi\nsetiap hari, target\nMemantau kondisi\npasien yang berkaitan\ndengan pemberian diet\ndengan target nafsu\nmakan membaik, tidak\nada mual, muntah dan\nnilai klinis normal.\n● FH-4.1. monitoring\nevaluasi Pengetahuan\nterkait makanan dan gizi,\nmetode pre post test\nwawancara Frekuensi\nsekali sebelum pasien\n--------------------------------------------------------------------------------\n | Lab | Nilai | Normal | Hasil |  | Hb (↓),hematokrit (↓)\nberkaitan dengan\nanemia (Erlanie and\nsudarto,2016)\nEosinofil (↓) , Basofil\n(↓) Limfosit (↑)\nmenunjukkan\nadanya efek\nproinflamasi (\nQomariah,et\nal.,2023)\nBilirubin Total\n(↑),Bilirubin Direk (↑)\nmenunjukkan\nadanya\nhiperbilirubinemia\nkarena belum\nmaturnya fungsi\nhepar pada bayi\nBBLR (Manihuruk\nand\nsitumorang,2020) |  |  | \n | <TGL> |  "
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 10,
+    "chunk_index": 2,
+    "text": "h,et\nal.,2023)\nBilirubin Total\n(↑),Bilirubin Direk (↑)\nmenunjukkan\nadanya\nhiperbilirubinemia\nkarena belum\nmaturnya fungsi\nhepar pada bayi\nBBLR (Manihuruk\nand\nsitumorang,2020) |  |  | \n | <TGL> |  |  |  |  |  |  |  | \n | Hb | 15,5 g/dl | 16,5-\n21,5 | R |  |  |  |  | \n | Eritrosit | 4,62.106/uL | 4,10-\n6,10 | N |  |  |  |  | \n | Hematokrit | 46% | 48-68 | R |  |  |  |  | \n | Lekosit | 10,95\n.103/uL | 9-37 | N |  |  |  |  | \n | Trombosit | 340 .103/uL | 150-\n450 | N |  |  |  |  | \n | Basofil | 0,2% | 0,3-1,4 | R |  |  |  |  | \n | Eosinofil | 0,5% | 0,6-5,4 | R |  |  |  |  | \n | Limfosit | 23,7 % | 1,6-\n14,1 | T |  |  |  |  | \n | Monosit | 11,7% | 0,1-4,4 | T |  |  |  |  | \n | <TGL> |  |  |  |  |  |  |  | \n | Bilirubin\nTotal | 13,99\nmg/dL | 0,2-1 | T |  |  |  |  | \n | Bilirubin\nDirek | 0,27 mg/dL | <0,20 | T |  |  |  |  | \n |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  | \nFisik Klinis |  |  |  |  |  |  |  |  | \nKU : Bayi berbaring di inkubator, tidak ada\ninstabilitas suhu\nBay"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 10,
+    "chunk_index": 3,
+    "text": " 0,27 mg/dL | <0,20 | T |  |  |  |  | \n |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  | \nFisik Klinis |  |  |  |  |  |  |  |  | \nKU : Bayi berbaring di inkubator, tidak ada\ninstabilitas suhu\nBayi Support 02 HFN\nSPO2 99 %\nBayi mengalami kesulitan menyusu\nBayi terpasang OGT\nKesadaran : Compos mentis\nPerut sedikit kembung\nBAB, BAK normal\nN : 146/menit\nRR : 45x/menit\nT : 36,9 0C\nMuntah (-) |  |  |  |  |  | Perut sedikit\nkembung karena\nsistempencernaan\nbayi belum\nsempurna (Pitri and\narla , 2020)\nSesak karena Bayi\nprematur\nmengalami\nimaturitas organ\npada paru-paru\nyang ditandai |  |  | \n[END TABLE]\n6"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 11,
+    "chunk_index": 0,
+    "text": "Diare (-) dengan sesak nafas KRS, Target hasil skor\n(Kurdaningsih et\nNC-4.1.5 Malnutrisi peningkatan\nal.,2024)\nberkaitan dengan bayi pengetahuan minimal\nBayi sulit menyusu\nlahir prematur pada uk 33 skor 60 %.\nsecara langsung\nkarena reflek hisap minggu ditandai dengan\nbayi prematur lemah\nBB lahir 1900 gr (BBLR)\n(fatimah and\npurwaningsih,2022) dan % BB/PB =74,28 %\nDietary Assesment\nRiwayat Gizi Sekarang Hasil Recall :\nBayi di RS mendapatkan TPN Energi , Karbohidrat\nDan diet Enteral ASI 6 X 14 ml dan Lactogen defisit tingkat\nPrematur 5 x 14 ml sedang < 80%,\nDiet Energi dan zat gizi Protein, vitaminA,\nTPN 70 ml/24 jam E =58,8 Kkal Vitamin E, Fe defisit\nDextrose 5% = P =1,95 g tingkat berat (<70%)\n15,2 ml L=2,17 g Cairan defisit tingkat\nDextrose 40 % = Kha =6,84 ringan < 90%\n15,2 ml Vitamin A =1,42 (Depkes,1996)\nAmino acid 19,5 mg\nml Vitamin E =0,42\nLipid 9,8 ml mg\nNacl 15 % = 1,6 Fe =0 mg\nml GIR = 12\nKcl 7,46% = 2 ml mg/Kg/menit\nCa Gluconate = 2\nml\n7"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 12,
+    "chunk_index": 0,
+    "text": "Mg So4 = 1ml\nSolufit = 2 ml\nVitalipid =2 ml\nGlycophus = 1,4\nml\nASI 6 X 14 ml dan E =114,14 Kkal\nLactogen Prematur P =3,13 gr\n5 x 14 ml L=8,4 gr\nKha =9,4 gr\nVitamin A\n=369,11 ug\nVitamin E =2,89\nug\nFe =1,31 mg\nTotal asupan E = 172,9 Kkal\n(77,6 %)\nP =5,08 gr (68,4\n%)\nL=10,6 gr( 95 %)\nKha =16,26 gr (\n70,8 %)\nVitamin A =370,5\niu( 28,5%)\nVitamin E =3,32\nIU(29,9%)\n8"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 13,
+    "chunk_index": 0,
+    "text": "Fe =1,31 mg\n(11,8%)\ncairan =224 ml (\n80,4 %)\nEkologi\na. Riwayat sosial ekonomi\n• Bayi merupakan anak ke-3 , bayi lahir Bayi lahir pada uk\npada usia kehamilan 33 minggu 33 minggu secara\nsecara SC SC\n• Ibu bayi seorang ibu rumah tangga,\nIbu melahirkan\ndengan pendidikan terakhir sarjana,\nAyah Bayi seorang guru. dengan riwayat PEB\ndan plasenta akreta\n• Riwayat Penyakit Ibu :\nDiagnosa Ibu : D2p2002 + PEB +\nplasenta akreta Frekuensi kehadiran\nKeluhan Utama : ibu dengan ibu untuk menyusui\npendarahan berulang kurang\n• Frekuensi kehadiran ibu untuk\nDiagnosa medis\nmenyusui kurang\nsaat ini\nb. Riwayat Penyakit sekarang :\nNeonatus Moderate\nDiagnosa medis saat ini : Neonatus\nPreterm, BBLR,\nModerate Preterm, BBLR, SMK,\nSMK, Respiratory\nRespiratory Distress Syndrome, Sepsis,\nDistress Syndrome,\nApneu of Prematurity, ASD Secundum\nSepsis, Apneu of\nkecil, Hiperbilirubinemia, Feeding\nPrematurity, ASD\n9"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 14,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nDifficulty\nFarmakologi :\nTPN 70 ml/24 jam :\nDextrose 5% = 15,2 ml\nDextrose 40 % = 15,2 ml\nAmino acid 19,5 ml\nLipid 9,8 ml\nNacl 15 % = 1,6 ml\nKcl 7,46% = 2 ml\nCa Gluconate = 2 ml\nMg So4 = 1ml\nSolufit = 2 ml\nVitalipid =2 ml\nGlycophus = 1,4 ml\nInj.Cefoperaxone sulbactam 2 x100\nInj.Amikasin 30 mg tiap 36 jam | Secundum kecil,\nHiperbilirubinemia,\nFeeding Difficulty\nInterakasi Obat\ndan Makanan :\n-Konsumsi alkohol\nperlu dihindari\nsetelah\nCefoperaxone\ndiberikan, efek obat\nadanya diare, reaksi\nalergi dan anemia\n- Amikasin,Hindari\nmengonsumsi\nalkoho, efek obat\nkerusakan\npendengaran dan\nginjal |  |  | \n--------------------------------------------------------------------------------\n[END TABLE]\n10"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 15,
+    "chunk_index": 0,
+    "text": "Perhitungan Kebutuhan Energi sesuai IDAI, 2016\n⮚ Energi = 120 Kkal/ Kg BB\n= 120 Kkal x 1,857\n= 222,8 Kkal\nProtein = 4 x BBA = 4 X 1,857\n= 7,43 gr (13,3 %)\nLemak = 45 %x 222,8 Kkal\n= 11,14 gr\nKarbohidrat = 41,7 % x 222,8 Kkal = 23,2gr\nKebutuhan Cairan = 150 ml/Kg BB = 150 X 1,857 = 278,5 ml/hari\nVitamin A 700 IU/kgBB/hari = 700 X 1,857 = 1299 IU\nVitamin E 6 IU/kgBB/hari = 6 X 1,857 = 11,1 IU\nZat besi 2mg/kgBB/hari = 2 x 1,857 = 3,714 mg\nRENCANA INTERVENSI DIET\nNama : <NAMA>\nUmur : 34 minggu\nJenis Kelamin : Perempuan\nDiagnosis Medis : Neonatus Moderate Preterm, BBLR, SMK, Respiratory Distress\nSyndrome, Sepsis, Apneu of Prematurity, ASD Secundum kecil, Hiperbilirubinemia,\nFeeding Difficulty\nPRESKRIPSI DIET\n⮚ Tujuan Diet\no Memenuhi kebutuhan asupan pasien sesuai dengan kondisi prematur\no Meningkatkan asupan Energi, protein dan lemak untuk meningkatkan\nBB dan kadar Hb\no Membantu meningkatkan BB bayi untuk mencapai status gizi normal\no Meningkatkan pengetahuan ibu dan keluarga untuk mening"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 15,
+    "chunk_index": 1,
+    "text": "ingkatkan asupan Energi, protein dan lemak untuk meningkatkan\nBB dan kadar Hb\no Membantu meningkatkan BB bayi untuk mencapai status gizi normal\no Meningkatkan pengetahuan ibu dan keluarga untuk meningkatkan\nproduksi ASI yang berkualitas\n⮚ Prinsip Diet : Tinggi Energi, Tinggi Protein, Tinggi lemak\n11"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 16,
+    "chunk_index": 0,
+    "text": "⮚ Syarat Diet\n✔ Energi diberikan tinggi sebesar 120Kkal/BB sebesar 222,8 Kkal untuk\nmendukung pertumbuhan, perkembangan, aktifitas otot dan fungsi\nmetabolik lainnya.\n✔ Protein diberikan tinggi secara bertahap sebesar 4 gr/KgBB sebesar 7,43 gr\nuntuk mendukung pertumbuhan dan pemeliharaan jaringan\n✔ Lemak tinggi yaitu 45% dari energi total sebesar 11,14 gr, sebagai sumber\nenergi dan membantu penyerapan vitamin-vitamin larut lemak dari\nkebutuhan kalori untuk menjadi sumber energi dan membantu penyerapan\nvitamin-vitamin larut lemak.\n✔ Karbohidrat diberikan sebesar 41,7 % dari energi total sebesar 23,2 gr\nberfungsi sebagai sumber energi utama untuk tubuh\n✔ Memberikan makanan Cair ASI atau susu lactogen Prematur 12 x 14 ml /\nhari\n✔ Zat besi diberikan 3,714 mg untuk membawa oksigen ke seluruh tubuh\nmelalui hemoglobin dalam sel darah merah .\n✔ Vitamin A diberikan 1299 IU untuk meningkatkan kekebalan tubuh\n✔ Vitamin E diberikan 11,1 IU /hari sebagai antioksidan sehingga mampu\nmenangkal radikal "
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 16,
+    "chunk_index": 1,
+    "text": "uh\nmelalui hemoglobin dalam sel darah merah .\n✔ Vitamin A diberikan 1299 IU untuk meningkatkan kekebalan tubuh\n✔ Vitamin E diberikan 11,1 IU /hari sebagai antioksidan sehingga mampu\nmenangkal radikal bebas penyebab penyakit\n✔ Cairan diberikan 278,5 ml untuk menjaga suhu tubuh,membentuk sel dan\nmengeluarkan zat sisa.\n12"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 17,
+    "chunk_index": 0,
+    "text": "RENCANA INTERVENSI EDUKASI\nE-1 Edukasi gizi terkait Diet Enteral / Sonde (Makanan lewat Pipa), Leaflet Diet ASI\ndan makanan untuk ibu menyusui\n- Tujuan : Memberikan solusi bersama antara ahli gizi dan klien/pasien untuk\npermasalahan gizi yang dialami klien/pasien sehingga diperoleh kesepakatan dalam\npengaturan makan dan perubahan perilaku konsumsi makanan untuk mendukung\nkesehatan atau kesembuhan klien/pasien. - Sasaran : Pasien dan keluarga pasien\n- Waktu Konseling : 15 Menit.\n- Media Konseling : Leaflet Diet Enteral / Sonde (Makanan lewat Pipa), Leaflet Diet\nASI dan makanan untuk ibu menyusui\n- Materi Konseling :\na. Menjelaskan mengenai tujuan, syarat, prinsip diet.\nb. Menjelaskan mengenai bahan makanan yang dianjurkan dan tidak dianjurkan untuk\ndikonsumsi.\nc. Menjelaskan cara pengolahan yang dianjurkan sesuai penyakit pasien\nd. Memberikan motivasi kepada pasien dan keluarganya untuk mengikuti rekomendasi\ndiet yang diberikan kepada pasien dan meningkatkan motivasi pada ibu bayi untuk"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 17,
+    "chunk_index": 1,
+    "text": " yang dianjurkan sesuai penyakit pasien\nd. Memberikan motivasi kepada pasien dan keluarganya untuk mengikuti rekomendasi\ndiet yang diberikan kepada pasien dan meningkatkan motivasi pada ibu bayi untuk\nhadir dan disiplin menyusui di ruang neonatus.\n13"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 18,
+    "chunk_index": 0,
+    "text": "TABEL MONITORING DAN EVALUASI GIZI\nNama : <NAMA>\nUsia : 34 minggu\nJenis Kelamin : Perempuan\nNo. Registrasi : <NO_REG>\nDiagnosa Medis : Neonatus Moderate Preterm, BBLR, SMK, Respiratory Distress Syndrome, Sepsis, Apneu of Prematurity, ASD\nSecundum kecil, Hiperbilirubinemia, Feeding Difficulty\nTanggal Antrop Biokimia Fisik Klinis Asupan Eduka Diagnosis Gizi Rencana Tindak\nometri Makan si Gizi Baru lanjut\nMonev I - Tidak ada hasil lab KU : Bayi E =128,56 Kkal Konseli - Pada rencana edukasi\n(<TGL>) terbaru berbaring di ng gizi meningkatkan motivasi\n(57,7%)\ninkubator, tidak terkait dan kedisplinan untuk\nada instabilitas P =2,35 gr (31,6%) diet hadir menyusui di\nsuhu L=11,08gr enteral ruang HCU Neonatus\nSPO2 99 % NC\nBayi mengalami (99,53%)\nkesulitan\nKha =10,72 gr\nmenyusu\nBayi terpasang (46,21%)\nOGT\nVitamin A =147,8\nKesadaran :\nCompos mentis IU(11,38%)\nPerut sedikit\nVitamin E =0,42 IU\nkembung\nBAB, BAK (3,78%)\nnormal\nFe =0,588 mg\nN : 136/menit\nRR : 50x/menit (15,89%)\nT : 36,7 0C\ncairan "
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 18,
+    "chunk_index": 1,
+    "text": "6,21%)\nOGT\nVitamin A =147,8\nKesadaran :\nCompos mentis IU(11,38%)\nPerut sedikit\nVitamin E =0,42 IU\nkembung\nBAB, BAK (3,78%)\nnormal\nFe =0,588 mg\nN : 136/menit\nRR : 50x/menit (15,89%)\nT : 36,7 0C\ncairan = 208 ml\nMuntah (-)\n14"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 19,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\n |  |  | Diare (-) | (74,69%)\nEnergi, Protein,\nkarbohidrat,\nvitamin A, Vitamin\nE dan Fe Defisit\ntingkat berat\n(<70%)\nCairan defisit\ntingkat sedang\n(<80%) |  |  | \n--------------------------------------------------------------------------------\nMonev II\n(<TGL>) | - | (<TGL>)\n● HB : 15,6 gr/dl\n(N = 15 – 19,7\ng/dl)\n● Eritrosit 4,78\n.106/ul (4-5,6)\n● MCV 92,7 fl (N =\n95-115 fl) (↓)\n● MCH : 32,6 pg\n(N= 30-42 pg)\n● MCHC :35,2 %\n(N=30-34%)\n● Hematokrit : 44,3\n% ( 46-62%)(↓)\n● Eosinofil 3,2 %\n(0,6-5,4)\n● Neutrofil 37 %\n(39,8-70,5%) (↓) | KU : Bayi\nberbaring di\ninkubator, tidak\nada instabilitas\nsuhu\nSPO2 99 %\nBayi mengalami\nkesulitan\nmenyusu\nBayi terpasang\nOGT\nKesadaran :\nCompos mentis\nPerut sedikit\nkembung\nBAB, BAK\nnormal\nN : 141/menit\nRR : 45x/menit\nT : 36,8 0C\nMuntah (-)\nDiare (-) | E = 144,72 Kkal\n(64,96%)\nP =3,024 gr\n(40,7%)\nL=14,26 gr( 127,9\n%)\nKha =8,64 gr\n(37,24 %)\nVitamin A =190,08\nIU( 14,63 %)\nVitamin E =0,54\nIU(4,86%)\nFe =0,756 mg\n(20,43%)\ncairan =216 ml\n(77,56%).\n"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 19,
+    "chunk_index": 1,
+    "text": " (-) | E = 144,72 Kkal\n(64,96%)\nP =3,024 gr\n(40,7%)\nL=14,26 gr( 127,9\n%)\nKha =8,64 gr\n(37,24 %)\nVitamin A =190,08\nIU( 14,63 %)\nVitamin E =0,54\nIU(4,86%)\nFe =0,756 mg\n(20,43%)\ncairan =216 ml\n(77,56%).\nEnergi, Protein, | Konseling\ngizi terkait\nASI dan\nMakanan\nuntuk ibu\nmenyusui | - | Meningkatkan motivasi\ndan kedisplinan untuk\nhadir menyusui di\nruang HCU Neonatus\n[END TABLE]\n15"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 20,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\n |  | ● Limfosit 46,7 %\n(1,5-13%) (↑)\n● Monosit 13,4 %\n(0,2-3,6) (↑)\n● Eosinofil absolut\n0,42 x103 uL(0,0-\n0,1) (↑) |  | karbohidrat,\nvitamin A, Vitamin\nE dan Fe Defisit\ntingkat berat\n(<70%)\nCairan defisit\ntingkat sedang\n(<80%) |  |  | \n--------------------------------------------------------------------------------\nMonev III\n(<TGL>) | - | Tidak ada hasil lab\nterbaru | KU : Bayi\nberbaring di\ninkubator, tidak\nada instabilitas\nsuhu\nSPO2 98 %\nBayi mengalami\nkesulitan\nmenyusu\nBayi terpasang\nOGT\nKesadaran :\nCompos mentis\nBAB, BAK\nnormal\nN : 146/menit\nRR : 47x/menit\nT : 36,7 0C\nMuntah (-)\nDiare (-) | E = 178,55 Kkal\n(80,14 %)\nP = 6,029 gr\n(81,14 %)\nL= 8,85 gr(79,39\n%)\nKha = 18,7 gr\n(80,6 %)\nVitamin A = 910,8\nIU( 70,12 %)\nVitamin E = 8,27\nIU(74,48 %)\nFe = 3,97 mg\n(107,32 %)\ncairan = 216 ml\n(77,56 %)\nEnergi, Protein,\nkarbohidrat, | Konseling\ngizi terkait\nASI dan\nMakanan\nuntuk ibu\nmenyusui | - | Meningkatkan motivasi\ndan kedisplinan untuk\nhadir menyusui di\nruang HCU Neonatus\n[END "
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 20,
+    "chunk_index": 1,
+    "text": " 216 ml\n(77,56 %)\nEnergi, Protein,\nkarbohidrat, | Konseling\ngizi terkait\nASI dan\nMakanan\nuntuk ibu\nmenyusui | - | Meningkatkan motivasi\ndan kedisplinan untuk\nhadir menyusui di\nruang HCU Neonatus\n[END TABLE]\n16"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 21,
+    "chunk_index": 0,
+    "text": "vitamin A, Vitamin\nE dan cairan\nDefisit tingkat\nringan (<90%)\nlemak defisit\ntingkat sedang\n(<80%)\n17"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 22,
+    "chunk_index": 0,
+    "text": "BAB III HASIL\nDari monitoring evaluasi asupan selama 3 hari diketahui bahawa By.Ny.E diberikan D10% pada pengamatan hari ke\n1,selanjutnya By.Ny.E hanya diberikan diet enteral melalui OGT. Asupan energi dan zat gizi pasien disajikan pada tabel berikut.\nTabel Hasil Monev Asupan Makan\n\n[TABLE 0]\nTanggal | Zat Gizi | Kebutuhan | Asupan |  |  |  |  | Total | Pemenuhan\n--------------------------------------------------------------------------------\nMONEV |  |  | Enteral |  |  | Parenteral |  | Asupan | (%)\n |  |  | ASI | Lactogen | SubTotal | D10% | SubTotal |  | \n |  |  |  | Prematur |  |  |  |  | \nMonev I\n(<TGL>) | Energi (Kkal) | 222,8 | 112,56 |  | 112,56 | 16 | 16 | 128,56 | 57,70\n | Protein (gr) | 7,43 | 2,352 |  | 2,352 |  |  | 2,352 | 31,66\n | Lemak (gr) | 11,14 | 11,088 |  | 11,088 |  |  | 11,088 | 99,53\n | Karbohidrat (gr) | 23,2 | 6,72 |  | 6,72 | 4 | 4 | 10,72 | 46,21\n | Vitamin A (gr) | 1299 | 147,84 |  | 147,84 |  |  | 147,84 | 11,38\n | Fe (mg) | 3,7 | 0,588 |  | 0,588 |  |"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 22,
+    "chunk_index": 1,
+    "text": "|  |  | 11,088 | 99,53\n | Karbohidrat (gr) | 23,2 | 6,72 |  | 6,72 | 4 | 4 | 10,72 | 46,21\n | Vitamin A (gr) | 1299 | 147,84 |  | 147,84 |  |  | 147,84 | 11,38\n | Fe (mg) | 3,7 | 0,588 |  | 0,588 |  |  | 0,588 | 15,89\n | Vitamin E (mg) | 11,1 | 0,42 |  | 0,42 |  |  | 0,42 | 3,78\n | Cairan (ml) | 278,5 | 168 |  | 168 | 40 | 40 | 208 | 74,69\nMonev II\n(<TGL>) | Energi (Kkal) | 222,8 | 144,72 |  | 144,72 |  |  | 144,72 | 64,96\n | Protein (gr) | 7,43 | 3,024 |  | 3,024 |  |  | 3,024 | 40,7\n | Lemak (gr) | 11,14 | 14,256 |  | 14,256 |  |  | 14,256 | 127,97\n | Karbohidrat (gr) | 23,2 | 8,64 |  | 8,64 |  |  | 8,64 | 37,24\n | Vitamin A (gr) | 1299 | 190,08 |  | 190,08 |  |  | 190,08 | 14,63\n | Fe (mg) | 3,7 | 0,756 |  | 0,756 |  |  | 0,756 | 20,43\n | Vitamin E (mg) | 11,1 | 0,54 |  | 0,54 |  |  | 0,54 | 4,86\n | Cairan (ml) | 278,5 | 216 |  | 216 |  |  | 216 | 77,56\nMonev III\n(<TGL>) | Energi (Kkal) | 222,8 |  | 178,55 | 178,55 |  |  | 178,55 | 80,14\n | Protein (gr) | 7,43 |  | 6,023 | 6,"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 22,
+    "chunk_index": 2,
+    "text": " | 0,54 | 4,86\n | Cairan (ml) | 278,5 | 216 |  | 216 |  |  | 216 | 77,56\nMonev III\n(<TGL>) | Energi (Kkal) | 222,8 |  | 178,55 | 178,55 |  |  | 178,55 | 80,14\n | Protein (gr) | 7,43 |  | 6,023 | 6,023 |  |  | 6,023 | 81,14\n | Lemak (gr) | 11,14 |  | 8,85 | 8,85 |  |  | 8,85 | 79,39\n | Karbohidrat (gr) | 23,2 |  | 18,69 | 18,69 |  |  | 18,69 | 80,6\n | Vitamin A (gr) | 1299 |  | 910.80 | 910.80 |  |  | 910.80 | 70,12\n | Fe (mg) | 3,7 |  | 3,971 | 3,971 |  |  | 3,971 | 107,32\n | Vitamin E (mg) | 11,1 |  | 8,26 | 8,26 |  |  | 8,26 | 74,48\n | Cairan (ml) | 278,5 |  | 216 | 216 |  |  | 216 | 77,56\n[END TABLE]\n18"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 23,
+    "chunk_index": 0,
+    "text": "3.1 Antropometri\nData perubahan berat badan By.Ny.E disajikan pada tabel berikut\n\n[TABLE 0]\nWaktu | BB\n--------------------------------------------------------------------------------\nPengambilan data awal | 1857 gr\nMonev 1 | 1860 gr\nMonev 2 | 1865 gr\nMonev 3 | 1865 gr\n[END TABLE]\nTerdapat peningkatan BB By.Ny.E pada awal pengamatan sampai dengan\npengamatan hari ke-3 dimana BB pasien pada hari ke-3 sebesar 1865 gr. Hal ini seiring\ndengan peningkatan asupan makan pasien yang meningkat.\n3.2 Asupan Makan\n1. Asupan Energi\nGrafik asupan energi ditunjukkan pada grafik berikut.\nASUPAN ENERGI\n90\n80\n70\n60\n50\n40\n30\n20\n10\n0\n\n[TABLE 1]\n | Monev 1 | Monev 2 | Monev 3\n--------------------------------------------------------------------------------\n% Asupan | 57,7 | 64,96 | 80,14\n% Target | 80 | 80 | 80\n[END TABLE]\nBerdasarkan monitoring asupan diketahui bahwa asupan energi By.Ny.E\nsebelum intervensi tergolong defisit tingkat sedang masih belum memenuhi\ntarget asupan dan kebutuhan pasien, setelah dil"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 23,
+    "chunk_index": 1,
+    "text": "[END TABLE]\nBerdasarkan monitoring asupan diketahui bahwa asupan energi By.Ny.E\nsebelum intervensi tergolong defisit tingkat sedang masih belum memenuhi\ntarget asupan dan kebutuhan pasien, setelah dilakukan intervensi terdapat\npeningkatan asupan pada pengamatan hari ke 1, ke 2 dan ke 3.Peningkatan\nasupan energi pada pengamatan hari ke-3 telah memenuhi target asupan\nsebesar 80,14%. Pada pengamatan hari ke-3 By.Ny.E mendapatkan susu\nlactogen Prematur.\n19"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 24,
+    "chunk_index": 0,
+    "text": "2. Asupan Protein\nGrafik asupan protein ditunjukkan pada grafik berikut.\nASUPAN PROTEIN\n90\n80\n70\n60\n50\n40\n30\n20\n10\n0\n\n[TABLE 0]\n | Monev 1 | Monev 2 | Monev 3\n--------------------------------------------------------------------------------\n% Asupan | 31,66 | 40,7 | 81,14\n% Target | 80 | 80 | 80\n[END TABLE]\nBerdasarkan monitoring asupan protein diketahui bahwa asupan protein\nBy.Ny.E sebelum intervensi tergolong defisit dan belum memenuhi kebutuhan\nprotein pasien, setelah dilakukan intervensi pada pengamatan hari ke-1 asupan\nprotein pasien menurun, pasien mendapatkan asi dimana asi memiliki\nkandungan protein yang tidak terlalu tinggi, pada pengamatan hari ke2 dan ke3\nasupan protein pasien meningkat karena penambahan jumlah volume ASI atau\nsusu formula yang diberikan.\n3. Asupan Lemak\nGrafik asupan lemak ditunjukkan pada grafik berikut.\nASUPAN LEMAK\n140\n120\n100\n80\n60\n40\n20\n0\n\n[TABLE 1]\n | Monev 1 | Monev 2 | Monev 3\n--------------------------------------------------------------------------"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 24,
+    "chunk_index": 1,
+    "text": "supan lemak ditunjukkan pada grafik berikut.\nASUPAN LEMAK\n140\n120\n100\n80\n60\n40\n20\n0\n\n[TABLE 1]\n | Monev 1 | Monev 2 | Monev 3\n--------------------------------------------------------------------------------\n% Asupan | 99,53 | 127,97 | 79,39\n% Target | 80 | 80 | 80\n[END TABLE]\nBerdasarkan monitoring asupan lemak diketahui bahwa asupan lemak\nBy.Ny.E sebelum intervensi sampai dengan pengamatan hari ke-3 telah\nmemenuhi target asupan lemak pasien dimana asupan lemak meningkat pada\npengamatan hari ke-1 dan ke-2, lalu menurun pada pengamaran hari ke-3\nnamun masih memenuhi kebutuhan lemak By.Ny.E.\n20"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 25,
+    "chunk_index": 0,
+    "text": "4. Asupan Karbohidrat\nGrafik asupan karbohidrat ditunjukkan pada grafik berikut.\nAsupan Karbohidrat\n90\n80\n70\n60\n50\n40\n30\n20\n10\n0\n\n[TABLE 0]\n | Monev 1 | Monev 2 | Monev 3\n--------------------------------------------------------------------------------\n% Asupan | 46,21 | 37,24 | 80,6\n% Target | 80 | 80 | 80\n[END TABLE]\nDiketahui bahwa asupan karbohidrat By.Ny.E sebelum intervensi\nsampai dengan pengamatan hari ke 2 belum memenuhi target asupan makan\npasien yaitu sebesar 80% dari kebutuhan. Namun asupan karbohidrat pasien\nmeningkat pada pengamatan hari ke-3 dan telah memenuhi target asupan\nkarbohidrat pasien sebesar 80,6%.\n5. Asupan Vitamin A\nGrafik asupan Vitamin A ditunjukkan pada grafik berikut.\nASUPAN VITAMIN A\n90\n80\n70\n60\n50\n40\n30\n20\n10\n0\n\n[TABLE 1]\n | Monev 1 | Monev 2 | Monev 3\n--------------------------------------------------------------------------------\n% Asupan | 11,38 | 14,63 | 70,12\n% Target | 80 | 80 | 80\n[END TABLE]\nBerdasarkan monitoring asupan vitamin A diketahui bahwa a"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 25,
+    "chunk_index": 1,
+    "text": "-------------------------------------------------------------------------\n% Asupan | 11,38 | 14,63 | 70,12\n% Target | 80 | 80 | 80\n[END TABLE]\nBerdasarkan monitoring asupan vitamin A diketahui bahwa asupan\nVitamin A By.Ny.E sebelum intervensi sampai dengan pengamatan hari ke 3\nmasih belum memnuhi target asupan. Asupan natrium pasien masih < 80%.\nAsupan Vitamin A meningkat dan hampir memenuhi target asupan pada\npengamatan hari ke-3 saat pasien diberikan diet lactogen prematur dengan\n21"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 26,
+    "chunk_index": 0,
+    "text": "peningkatan volume diabndingkan pada awal pengamatan.\n6. Asupan Vitamin E\nGrafik asupan Vitamin E ditunjukkan pada grafik berikut.\nASUPAN VITAMIN E\n90\n80\n70\n60\n50\n40\n30\n20\n10\n0\n\n[TABLE 0]\n | Monev 1 | Monev 2 | Monev 3\n--------------------------------------------------------------------------------\n% Asupan | 3,78 | 4,86 | 74,48\n% Target | 80 | 80 | 80\n[END TABLE]\nBerdasarkan monitoring asupan Vitamin E diketahui bahwa asupan\nVitamin E By.Ny.E sebelum intervensi sampai dengan pengamatan hari ke 3\ntergolong defisit dan belum memenuhi target dan kebutuhan pasien. Terdapat\npeningkatan asupan Vitamin E pada pengamatan ke-3. Dimana pasien hanya\nmendapatkan diet lactogen prematur 12x18 ml/hari.\n7. Asupan Fe\nGrafik asupan Fe ditunjukkan pada grafik berikut.\nASUPAN FE\n90\n80\n70\n60\n50\n40\n30\n20\n10\n0\n\n[TABLE 1]\n | Monev 1 | Monev 2 | Monev 3\n--------------------------------------------------------------------------------\n% Asupan | 15,89 | 20,43 | 74,48\n% Target | 80 | 80 | 80\n[END TABLE]\nBerdasar"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 26,
+    "chunk_index": 1,
+    "text": "\n[TABLE 1]\n | Monev 1 | Monev 2 | Monev 3\n--------------------------------------------------------------------------------\n% Asupan | 15,89 | 20,43 | 74,48\n% Target | 80 | 80 | 80\n[END TABLE]\nBerdasarkan monitoring asupan Fel By.Ny.E diketahui bahwa asupan Fe\nBy.Ny.E sebelum intervensi sampai dengan pengamatan hari ke 3 mengalami\npeningkatan. Peningkatan asupan Fe hampir memenuhi target asupan pada hari\nke-3, dimana pasien mendapatkan intervensi peningkatan volume pemberian\n22"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 27,
+    "chunk_index": 0,
+    "text": "susu formula.\n8. Asupan Cairan\nBerdasarkan monitoring asupan cairan pasien dapat dilihat pada tabel\nberikut.\n\n[TABLE 0]\nWaktu | Input | Output | Balance\n--------------------------------------------------------------------------------\n |  |  | \nPengambilan Data\nAwal | Infus, oral :\n224 ml | Urine, defekasi :\n276 ml + iwl 25 ml = 301 | -77 ml\nMonev 1 | Infus, oral :\n208 ml | Urine, defekasi :\n166 ml | + 17\nMonev 2 | Oral :216 ml | Urine, defekasi :\n258 ml + iwl 25 ml =283 | -67 ml\nMonev 3 | Oral : 216 ml | Urine, defekasi :\n189 ml + iwl 25 ml =214 | +2 ml\n[END TABLE]\nMonev asupan By.Ny.E pada awal pengamatan –77 ml setelah\npenambahan IWL, pada pengamatan hari ke-3, asupan cairan + 2ml setelah\npada output ada penambahan IWL sebesar 25 ml.\n3.3 Fisik Klinis\nTabel Monitoring Evaluasi Fisik klinis\n\n[TABLE 1]\nSEBELUM | MONEV HARI | MONEV HARI KE | MONEV HARI KE\n--------------------------------------------------------------------------------\nINTERVENSI | KE 1 | 2 (<TGL>) | 3 (<TGL>)\n |"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 27,
+    "chunk_index": 1,
+    "text": "s\n\n[TABLE 1]\nSEBELUM | MONEV HARI | MONEV HARI KE | MONEV HARI KE\n--------------------------------------------------------------------------------\nINTERVENSI | KE 1 | 2 (<TGL>) | 3 (<TGL>)\n | (<TGL>) |  | \n |  |  | \nKU : Bayi berbaring di\ninkubator, tidak ada\ninstabilitas suhu\nBayi Support 02 HFN\nSPO2 99 %\nBayi mengalami\nkesulitan menyusu\nBayi terpasang OGT\nKesadaran : Compos\nmentis\nPerut sedikit kembung\nBAB, BAK normal\nN : 146/menit\nRR : 45x/menit\nT : 36,9 0C\nMuntah (-)\nDiare (-) | KU : Bayi berbaring\ndi inkubator, tidak\nada instabilitas suhu\nSPO2 99 % NC\nBayi mengalami\nkesulitan menyusu\nBayi terpasang OGT\nKesadaran :\nCompos mentis\nPerut sedikit\nkembung\nBAB, BAK normal\nN : 136/menit\nRR : 50x/menit\nT : 36,7 0C\nMuntah (-)\nDiare (-) | KU : Bayi berbaring di\ninkubator, tidak ada\ninstabilitas suhu\nSPO2 99 %\nBayi mengalami\nkesulitan menyusu\nBayi terpasang OGT\nKesadaran : Compos\nmentis\nPerut sedikit kembung\nBAB, BAK normal\nN : 141/menit\nRR : 45x/menit\nT : 36,8 0C\nMuntah (-)\nDia"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 27,
+    "chunk_index": 2,
+    "text": "\ninstabilitas suhu\nSPO2 99 %\nBayi mengalami\nkesulitan menyusu\nBayi terpasang OGT\nKesadaran : Compos\nmentis\nPerut sedikit kembung\nBAB, BAK normal\nN : 141/menit\nRR : 45x/menit\nT : 36,8 0C\nMuntah (-)\nDiare (-) | KU : Bayi berbaring di\ninkubator, tidak ada\ninstabilitas suhu\nSPO2 98 %\nBayi mengalami\nkesulitan menyusu\nBayi terpasang OGT\nKesadaran : Compos\nmentis\nBAB, BAK normal\nN : 146/menit\nRR : 47x/menit\nT : 36,7 0C\nMuntah (-)\nDiare (-)\n[END TABLE]\nBerdasarkan tabel monitoring evaluasi fisik klinis diketahui bahwa terdapat\n23"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 28,
+    "chunk_index": 0,
+    "text": "perbaikan kondisi fisik klinis dari sebelum intervensi sampai dengan pengamatan\nhari ke-3, dimana diketahui sebelum intervensi pasien mengalami sesak dan harus\nmenggunakan 02 HFN pada pengamatan hari ke-3 pasien sudah tidak sesak dan\ndapat menggunakan O2 ruangan. Sampai dengan pengamatan hari ke-3\npemberian asupan pasien masih menggunakan OGT karena reflek hisap pasien\nmasih lemah.\n3.4 Hasil Laboratorium Biokimia\nMonitoring Evaluasi biokimia By.Ny.E disajikan pada tabel berikut,\n\n[TABLE 0]\nLab | Normal | Data awal | Hasil | Monev 1 | Monev 2 | Hasil | Monev 3\n--------------------------------------------------------------------------------\nHb | 15,6-21,5 | 15,5 g/dl | R | Tidak ada\ndata | 15,6 g/dl | N | Tidak ada\ndata\nEritrosit | 4,10-6,10 | 4,62.106/uL | N |  | 4,78.106/uL | N | \nHematokrit | 48-68 | 46% | R |  | 44,3% | R | \nLekosit | 9-37 | 10,95\n.103/uL | N |  | 12,98 .103/uL | N | \nTrombosit | 150-450 | 340 .103/uL | N |  | 576 .103/uL | T | \nBasofil | 0,3-1,4 | 0,2% | R |  | 0,7%"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 28,
+    "chunk_index": 1,
+    "text": "it | 48-68 | 46% | R |  | 44,3% | R | \nLekosit | 9-37 | 10,95\n.103/uL | N |  | 12,98 .103/uL | N | \nTrombosit | 150-450 | 340 .103/uL | N |  | 576 .103/uL | T | \nBasofil | 0,3-1,4 | 0,2% | R |  | 0,7% | N | \nEosinofil | 0,6-5,4 | 0,5% | R |  | 0,5% | R | \nLimfosit | 1,6-14,1 | 23,7 % | T |  | 45,7 % | T | \nMonosit | 0,1-4,4 | 11,7% | T |  | 13,4% | T | \nBilirubin\nTotal | 0,2-1 | 13,99\nmg/dL | T |  |  |  | \nBilirubin\nDirek | <0,20 | 0,27 mg/dL | T |  |  |  | \n[END TABLE]\nBerdasarkan tabel monitoring evaluasi biokimia diketahui bahwa terdapat\nperbaikan nilai laboratorium pada pengamatan hari ke-1 dibandingkan sebelum\nintervensi, dimana diketahui nilai laboratorium Hb telah terjadi peningkatan pada\nmonev hari ke-2, namun peningkatan tersebut dalam batas awal nilai laboratorium\nnormal.\n3.5 Perubahan Diet\nMonitoring perubahan diet By.Ny.E dapat dilihat pada tabel monitoring\nevaluasi perubahan diet sebagai berikut.\n24"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 29,
+    "chunk_index": 0,
+    "text": "Tabel Monitoring Evaluasi Perubahan diet\n\n[TABLE 0]\nSebelum | Monev 1 | Monev 2 | Monev 3\n--------------------------------------------------------------------------------\nIntervensi |  |  | \nTPN 70 ml/24 jam\nASI 6X 14 ml\nLactogen Prematur\n5x14ml | D10% 40 ml\nAsi 12x14 ml | Asi 12 x 18 ml | Lactogen prematur\n12 x 18 ml\n[END TABLE]\nBerdasarkan tabel monitoring evaluasi perubahan diet diketahui bahwa terdapat\nperubahan diet dari sebelum intervensi ke pengamatan hari ke 1 yaitu sesuai dengan\nkondisi pasien pasien diberikan perubahan diet dari yang sebelumnya pemberian TPN\ndirubah menjadi D10% dan pemberian ASI sesuai dengan persedian ASI yang\ndiberikan oleh ibu bayi. Lalu pada Monev hari ke-2 pasien diberikan hanya ASI saja.\nDan pada pengamatan hari ke-3 pasien hanya diberikan susu lactogen prematur\nkarena ibu bayi belum mengirimkan kembali ASI untuk pasien.\n3.6 Hasil Edukasi\nMonitoring evaluasi hasil edukasi By.Ny.E dan keluarga dapat dilihat\npada tabel monitoring evaluasi Konseling gizi "
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 29,
+    "chunk_index": 1,
+    "text": "ematur\nkarena ibu bayi belum mengirimkan kembali ASI untuk pasien.\n3.6 Hasil Edukasi\nMonitoring evaluasi hasil edukasi By.Ny.E dan keluarga dapat dilihat\npada tabel monitoring evaluasi Konseling gizi sebagai berikut.\nTabel Hasil Monitoring dan Evaluasi Edukasi Gizi\n\n[TABLE 1]\nPertanyaan | Sebelum |  | Sesudah | \n--------------------------------------------------------------------------------\n | Edukasi |  | Edukasi | \n | Tahu | Tidak | Tahu | Tidak\nTujuan Pemberian Diet Sonde\nPada bayi prematur |  | V | V | \nMakanan yang dianjurkan\nuntuk Ibu menyusui |  | V | V | \nCara menyusui yang baik dan\nbenar |  | V | V | \nPengertian ASI | V |  | V | \nManfaat memberikan ASI | V |  | V | \n% skor | 40 |  | 100 | \n[END TABLE]\nBerdasarkan tabel monitoring evaluasi edukasi gizi diketahui bahwa\nterdapat peningkatan pengetahuan pada ibu pasien setelah dilakukan\n25"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 30,
+    "chunk_index": 0,
+    "text": "edukasi gizi. Peningkatan pengetahuan tersebut diharapkan mampu\nmembuat pasien dan keluarga termotivasi untuk meningkatkan asupan makan\nibu pasien dan mengikuti rekomendasi diet yang dianjurkan untuk ibu pasien,\nsehingga produksi ASI meningkat secara kuantitas dan kualitas.\n26"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 31,
+    "chunk_index": 0,
+    "text": "BAB IV\nPEMBAHASAN\nSkrining yang digunakan adalah skrining Farnneo dan Strongkids. Berdasarkan\nhasil screening didapatkan hasil By.Ny. E beresiko malnutrisi sehingga butuh dilakukan\npengkajian gizi lebih lanjut. Dari ke dua skrining yang digunakan skrining Farnneo lebih\ndirekomendasikan pada pasien Karena berupa pertanyaan singkat dan lebih cepat\nsaat digunakan untuk skrining serta lebih spesifik pertanyaan untuk bayi prematur. Skrining\nFarnneo memiliki ,sensitivitas 85,11%, spesifisitas 91,07 % (Zhou et al., 2021).\nBy.Ny.E lahir premature yang lahir pada usia kehamilan 33 minggu, Bayi\npremature merupakan bayi yang lahir pada usia kehamilan kurang dari 37 minggu. Bayi\npremature merupakan penyebab utama kematian perinatal dan morbiditas.\nSehubungan dengan berat lahir dan usia kehamilan yang kurang, terdapat beberapa\nkekhususan dalam pemberian nutrisi pada bayi premature (Fredy, 2018). By.Ny. E\nmengalami Respiratory Distress Syndrome, Respiratory Distress Syndrome (RDS)\nadalah penyakit pa"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 31,
+    "chunk_index": 1,
+    "text": "kurang, terdapat beberapa\nkekhususan dalam pemberian nutrisi pada bayi premature (Fredy, 2018). By.Ny. E\nmengalami Respiratory Distress Syndrome, Respiratory Distress Syndrome (RDS)\nadalah penyakit paru akut dan berat yang menyerang bayi terutama pada bayi preterm,\ndimana sistem pernapasan bayi tidak mampu melakukan pertukaran gas secara normal\ntanpa bantuan (Agrina et al., 2017). Selain itu By.Ny.E juga mengalami\nhiperbilirubinemia. Salah satu penyebab hiperbilirubinemia adalah bayi berat lahir\nrendah. Hiperbilirubinemia ini dapat terjadi karena belum maturnya fungsi hepar.\nPenelitian di dunia kedokteran menyebutkan bahwa 70 % bayi baru lahir mengalami\nkuning atau ikterus (Manihuruk and situmorang, 2020). Hiperbilirubinemia pasien\nkembali normal setelah dilakukan fototerapi 1 x24 jam.\nBy.Ny. E mengalami Keterbatasan Penerimaan makanan berkaitan dengan bayi\nmengalami kesulitan menyusu (reflek hisap bayi lemah) ditandai dengan jalur\npemberian zat gizi melalui OGT. Bayi premature atau ya"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 31,
+    "chunk_index": 2,
+    "text": "Ny. E mengalami Keterbatasan Penerimaan makanan berkaitan dengan bayi\nmengalami kesulitan menyusu (reflek hisap bayi lemah) ditandai dengan jalur\npemberian zat gizi melalui OGT. Bayi premature atau yang lahir pada usia kehamilan\nkurang dari 37 minggu memiliki kekhususan dalam pemberian minum, dimana hal\ntersebut berkaitan dengan kematangan perkembangan fungsi oral motor pada bayi\npremature. Meskipun komponen reflek menghisap sudah ada mulai usia kehamilan 28\nminggu, namun sinkronisasi masih tidak teratur (Fatimah and Purwaningsih,2022).\nPada bayi premature Laju infus glukosa (GIR) biasanya lebih tinggi dibandingkan pada\nbayi cukup bulan, karena bayi belum sepenuhnya mampu mengatur jadar glukosa, GIR\nyang direkomendasikan untuk bayi premature 5-8 mg/kg/menit pada awalnya, dan bisa\ndititrasi hingga 12-15 mg/kg/menit tergantung pada kebutuhan bayi. Ketika reflek hisap\n27"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 32,
+    "chunk_index": 0,
+    "text": "bayi sudah baik dan bayi mampu menyusu secara langsung, maka oro gastatric tube\n(OGT) dapat dilepas (Herlina,2015).\nPeningkatan kebutuhan Energi dan lemak berkaitan dengan bayi lahir prematur\n< 37 minggu dengan Berat badan lahir rendah < 2500 gr. Peningkatan kebutuhan\nProtein berkaitan dengan adanya anemia, infeksi ditandai dengan Hb, hematokrit,\neosinofil yang rendah dan limfosit yang tingg. Protein diberikan tinggi secara bertahap\nsebesar 4 gr/KgBB untuk mendukung pertumbuhan dan pemeliharaan jaringan,\nmengatasi anemia dan infeksi. Kondisi Anemia adalah suatu kondisi dimana jumlah sel\ndarah merah atau hemoglobin (Hb) kurang dari kadar nilai normal. Anemia biasanya\nterjadi pada dapat disebabkan oleh asupan makan yang kurang atau tidak adekuat,\nstress, infeksi, perdarahan kronis, trauma. Zat besi merupakan unsur utama dalam\npembentukkan hemoglobin, sehingga mengkonsumsi makanan yang rendah zat besi\ndapat menyebabkan anemia defisiensi besi (Widyaningrum et al., 2023).Protein yang\ntinggi"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 32,
+    "chunk_index": 1,
+    "text": "at besi merupakan unsur utama dalam\npembentukkan hemoglobin, sehingga mengkonsumsi makanan yang rendah zat besi\ndapat menyebabkan anemia defisiensi besi (Widyaningrum et al., 2023).Protein yang\ntinggi dapat diberikan dengan pemberian susu lactogen prematur, dimana pemberian\nsusu lactogen prematur mampu memenuhi kebutuhan protein By.Ny.E pada\npengamatan hari ke-3. Penambahan berat badan pada bayi lahir prematur dikatakan\nbaik jika terdapat kenaikan 15gr/kg/hari (IDAI,2016). Penambahan BB pada bayi Ny.E\ndikatakan masih kurang karena < 15 gr/Kg/hari.\nHasil monitoring asupan makan pasien setelah dilakukan intervensi sampai\ndengan pengamatan hari ke 3 diperoleh bahwa terjadi peningkatan asupan energi,\nprotein, lemak, karbohidrat, vitamin A, Vitamin E dan Fe. Asupan energi protein dan Fe\npada pengamatan hari ke-3 telah mencapai target asupan sebesar 80%, pencapaian\ntarget asupan ini terjadi saat pasien mendapatkan diet lactogen premature 12 x18\nml/hari. Untuk dapat meningkatkan asupan makan "
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 32,
+    "chunk_index": 2,
+    "text": "ngamatan hari ke-3 telah mencapai target asupan sebesar 80%, pencapaian\ntarget asupan ini terjadi saat pasien mendapatkan diet lactogen premature 12 x18\nml/hari. Untuk dapat meningkatkan asupan makan pasien saat dirumah diharapkan ibu\nBy.Ny.E mengkonsumsi makanan untuk ibu menyusui dalam jumlah dan jenis sesuai\ndengan yang direkomendasikan agar dapat meningkatkan produksi ASI secara\nkuantitas maupun kualitas. Rekomendasi susu lain yang dapat diberikan yaitu susu\nSGM BBLR.\nEdukasi gizi dilakukan dengan media leaflet makanan lewat pipa, ASI dan\nMakanan untuk ibu menyusui. Pada monitoring dan evaluasi dilakukan dengan cara\nmelakukan pre dan post tes , wawancara serta observasi asupan ASI/Sufor pasien\nselama di rumah sakit. Edukasi gizi yang dilakukan dapat dikatakan cukup berhasil\nkarena terjadi peningkatan pengetahuan ibu pasien terkait diet pada bayi premature.\nTujuan EDukais adalah mengubah perilaku pasien dan meningkatnya kepatuhan yang\nselanjutnya diharapkan meningkatkan kualitas hid"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 32,
+    "chunk_index": 3,
+    "text": "adi peningkatan pengetahuan ibu pasien terkait diet pada bayi premature.\nTujuan EDukais adalah mengubah perilaku pasien dan meningkatnya kepatuhan yang\nselanjutnya diharapkan meningkatkan kualitas hidup pasien. Edukasi atau konseling\n28"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 33,
+    "chunk_index": 0,
+    "text": "gizi dinilai efektif dan signifikan dalam perubahan perilaku antara lain pengetahuan\n(knowledge), sikap (attitude) dan praktik (practice) (Sukraniti, et al. 2018).\n29"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 34,
+    "chunk_index": 0,
+    "text": "BAB V\nKESIMPULAN DAN SARAN\n5.1 Kesimpulan\nIntervensi pemberian Edukasi gizi pada By.Ny.E berdampak pada\npeningkatan pengetahuan pasien, peningkatan pengetahuan tersebut diharapkan\ndapat meningkatkan produksi asi ibu By.Ny.E secara kuantitas dan kualitas.\nTerdapat kenaikan BB pada monev hari ke-3 seiring dengan meningkattnya asupan\nenergi dan zat gizi yang dibutuhkan pada By.Ny.E, namun peningkatan BB tersebut\nmasih kurang dari standar peningkatan BB yang diharapkan yaitu 15 gr/Kg/hari.\nFisik klinis By.Ny E juga terjadi perbaikan kondisi Dimana pasien sudah tidak\nmengalami sesak dan mampu menggunakan O2 di ruangan, namun pemberian\nnutrisi masih diberikan lewat OGT. Dari hasil laboratorium terjadi peningkatan hasil\nlab Hb, Dimana seblumnya pasien mengalami anemia dan membaik pada\npengamatan hari ke-2.\n5.2 Saran\nUntuk meningkatkan asupan makan pasien > 80 % dan mencapai target\nsesuai dengan kebutuhan pasien saat dirumah dilakukan dengan ibu rajin untuk\nmemberikan ASI kepada bayi. Diharapk"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 34,
+    "chunk_index": 1,
+    "text": "hari ke-2.\n5.2 Saran\nUntuk meningkatkan asupan makan pasien > 80 % dan mencapai target\nsesuai dengan kebutuhan pasien saat dirumah dilakukan dengan ibu rajin untuk\nmemberikan ASI kepada bayi. Diharapkan ibu mematuhi rekomendasi terkait diet\nuntuk makanan ibu menyusui sehingga produksi asi akan meningkat baik kuantitas\nmaupun kualitasnya. Selain itu rekomendasi susu lain yang dapat diberikan kepada\nbayi selain lactogen premature yaitu susu sgm BBLR dengan harga yang lebih\nterjangkau namun kandungan energi dan zat gizinya hampir sama sesuai kebutuhan\nbayi premature.\n30"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 35,
+    "chunk_index": 0,
+    "text": "DAFTAR PUSTAKA\nAgrina MF, Afnani T, Jupriyono. (2017).Tingkat Kejadian Respiratory Distress Syndrome\n(RDS) Antara BBLR Preterm Dan BBLR Dismatur ; 2(3): 1(25-131.\nHandayani, D. & Kusumastuty, I. 2022. Diagnosis Gizi Edisi Revisi. Malang: <PENERBIT>\nFatimah A, Purwaningsih D. Ppengaruh Intervensi Oral Motor (Piomi) Terhadap\nKemampuan Reflek Hisap Bayi Prematur. J Kesehat Siliwangi. 2022;2(3):841–50.\nFredy, Gessal J. Rehabilitasi Medik Pada Bayi Prematur dan Kesulitan Makan. J Med\ndan Rehabil.2018;1(1)\nManihuruk FN. Pemeriksaan Bilirubin Total Pada Bayi Neonatus Di <RS> Medan Tahun 2019. Indones J Med Lab Vol 1 No 1, Tahun 2020\n[Internet]. 2020;1(1):11–8. Available from:\nhttp://ijml.jurnalsenior.com/index.php/ijml/article/view/8\nNasar, Sri Sudaryati. 2004. Tatalaksana Nutrisi pada Bayi Berat Lahir Rendah. Sari\nPediatri 5 (4) : 165 – 170.\nPersagi. 2019. Penuntun Diet dan Terapi Gizi. <PENERBIT> 4. EGC\nWidyaningrum, M.,Solichah,M.K., and D"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 35,
+    "chunk_index": 1,
+    "text": "laksana Nutrisi pada Bayi Berat Lahir Rendah. Sari\nPediatri 5 (4) : 165 – 170.\nPersagi. 2019. Penuntun Diet dan Terapi Gizi. <PENERBIT> 4. EGC\nWidyaningrum, M.,Solichah,M.K., and Dewi,A.D.A.,2023. Hubungan Asupan Fe\nTerhadap Kadar Hemoglobin Pada Remaja Putri.Prosiding Seminar Nasional\nPenelitian dan Pengabdian Kepada Masyarakat .LPPM Universitas ‘Aisyiyah\nYogyakarta Vol 1\nQomariah N, Rohmi, Fihiruddin, Inayati N. Korelasi Kadar C-Reaktif Protein dengan\nPersentase Eosinofil pada Pasien Covid-19. J Ilm Multi Sci. 2023;15(2):83–8.\nSukartini, D. P., Taufiqurrahman., dan Iwan, S. 2018. Bahan Ajar Gizi: Konseling Gizi. Pusat\nPendidikan Sumber Daya Manusia Kesehatan; Kemenkes RI.\nSufarnap E, Sudarto S. Model Analisis Klasifikasi Untuk Anemia Dengan Fungsi\nKeanggotaan Fuzzy Inference System Sugeno. J SIFO Mikroskil. 2017;18(1):31–42.\nZhou, M. et al. (2021) ‘New screening tool for neonatal nutritional risk in China: A\nvalidation study’, BMJ Open, 11(4). Available at: https:"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 35,
+    "chunk_index": 2,
+    "text": "ference System Sugeno. J SIFO Mikroskil. 2017;18(1):31–42.\nZhou, M. et al. (2021) ‘New screening tool for neonatal nutritional risk in China: A\nvalidation study’, BMJ Open, 11(4). Available at: https://doi.org/10.1136/bmjopen-\n2020-042467. 1.\n31"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 36,
+    "chunk_index": 0,
+    "text": "LAMPIRAN 1 REKOMENDASI MENU\nDI RUMAH SAKIT\n\n[TABLE 0]\n |  |  |  | Lemak |  |  |  | \n--------------------------------------------------------------------------------\nJenis Diet | Volume (ml) | Energi (Kkal) | Protein (gr) | (gr) | Kha (gr) | Vit.A (IU) | Vit.E (IU) | Fe (mg)\nE1 Jam 08.00 Lactogen\npremature 18 ml | 18 | 19 | 0,642 | 0,94 | 1,989 | 96,9 | 0,879 | 0,42\nE2 Jam 10.00 Lactogen\npremature 18 ml | 18 | 19 | 0,642 | 0,94 | 1,989 | 96,9 | 0,879 | 0,42\nE3 Jam 12.00 Lactogen\npremature 18 ml | 18 | 19 | 0,642 | 0,94 | 1,989 | 96,9 | 0,879 | 0,42\nE4 Jam 14.00 Lactogen\npremature 18 ml | 18 | 19 | 0,642 | 0,94 | 1,989 | 96,9 | 0,879 | 0,42\nE5 Jam 16.00 Lactogen\npremature 18 ml | 18 | 19 | 0,642 | 0,94 | 1,989 | 96,9 | 0,879 | 0,42\nE6 Jam 18.00 Lactogen\npremature 18 ml | 18 | 19 | 0,642 | 0,94 | 1,989 | 96,9 | 0,879 | 0,42\nE7 Jam 20.00 Lactogen\npremature 18 ml | 18 | 19 | 0,642 | 0,94 | 1,989 | 96,9 | 0,879 | 0,42\nE8Jam 22.00 Lactogen\npremature 18 ml | 18 | 19 | 0,642 | 0,94 | 1,989 | 96"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 36,
+    "chunk_index": 1,
+    "text": "94 | 1,989 | 96,9 | 0,879 | 0,42\nE7 Jam 20.00 Lactogen\npremature 18 ml | 18 | 19 | 0,642 | 0,94 | 1,989 | 96,9 | 0,879 | 0,42\nE8Jam 22.00 Lactogen\npremature 18 ml | 18 | 19 | 0,642 | 0,94 | 1,989 | 96,9 | 0,879 | 0,42\nE9 Jam 24.00 Lactogen\npremature 18 ml | 18 | 19 | 0,642 | 0,94 | 1,989 | 96,9 | 0,879 | 0,42\nE10Jam 02.00 Lactogen\npremature 18 ml | 18 | 19 | 0,642 | 0,94 | 1,989 | 96,9 | 0,879 | 0,42\nE11 Jam 04.00 Lactogen\npremature 18 ml | 18 | 19 | 0,642 | 0,94 | 1,989 | 96,9 | 0,879 | 0,42\nE12 Jam 06.00 Lactogen\npremature 18 ml | 18 | 19 | 0,642 | 0,94 | 1,989 | 96,9 | 0,879 | 0,42\nTotal Asupan | 276 | 228,0106 | 7,6987 | 11,2945 | 23,8798 | 1163,103 | 10,5569 | 5,071\nKebutuhan | 278,5 | 222,8 | 7,43 | 11,14 | 23,2 | 1299 | 11,1 | 3,7\n% Pemenuhan | 99,10 | 102,34 | 103,62 | 101,39 | 102,93 | 89,54 | 95,11 | 137,05\n[END TABLE]\n32"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 37,
+    "chunk_index": 0,
+    "text": "DI RUMAH\n\n[TABLE 0]\n |  |  |  | Lemak |  |  |  | \n--------------------------------------------------------------------------------\nJenis Diet | Volume (ml) | Energi (Kkal) | Protein (gr) | (gr) | Kha (gr) | Vit.A (IU) | Vit.E (IU) | Fe (mg)\nE1 Jam 08.00 ASI 30 ml | 30 ml | 20,1 | 0,42 | 1,98 | 1,2 | 26,4 | 0,075 | 0,105\nE2 Jam 10.00 ASI 30 ml | 30 ml | 20,1 | 0,42 | 1,98 | 1,2 | 26,4 | 0,075 | 0,105\nE3 Jam 12.00 ASI 30 ml | 30 ml | 20,1 | 0,42 | 1,98 | 1,2 | 26,4 | 0,075 | 0,105\nE4 Jam 14.00 ASI 30 ml | 30 ml | 20,1 | 0,42 | 1,98 | 1,2 | 26,4 | 0,075 | 0,105\nE5 Jam 16.00 ASI 30 ml | 30 ml | 20,1 | 0,42 | 1,98 | 1,2 | 26,4 | 0,075 | 0,105\nE6 Jam 18.00 ASI 30 ml | 30 ml | 20,1 | 0,42 | 1,98 | 1,2 | 26,4 | 0,075 | 0,105\nE7 Jam 20.00 ASI 30 ml | 30 ml | 20,1 | 0,42 | 1,98 | 1,2 | 26,4 | 0,075 | 0,105\nE8Jam 22.00 ASI 30 ml | 30 ml | 20,1 | 0,42 | 1,98 | 1,2 | 26,4 | 0,075 | 0,105\nE9 Jam 24.00 ASI 30 ml | 30 ml | 20,1 | 0,42 | 1,98 | 1,2 | 26,4 | 0,075 | 0,105\nE10 Jam 02.00 ASI 30 ml | 30 ml"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 37,
+    "chunk_index": 1,
+    "text": "| 0,105\nE8Jam 22.00 ASI 30 ml | 30 ml | 20,1 | 0,42 | 1,98 | 1,2 | 26,4 | 0,075 | 0,105\nE9 Jam 24.00 ASI 30 ml | 30 ml | 20,1 | 0,42 | 1,98 | 1,2 | 26,4 | 0,075 | 0,105\nE10 Jam 02.00 ASI 30 ml | 30 ml | 20,1 | 0,42 | 1,98 | 1,2 | 26,4 | 0,075 | 0,105\nE11 Jam 04.00 ASI 30 ml | 30 ml | 20,1 | 0,42 | 1,98 | 1,2 | 26,4 | 0,075 | 0,105\nE12 Jam 06.00 ASI 30 ml | 30 ml | 20,1 | 0,42 | 1,98 | 1,2 | 26,4 | 0,075 | 0,105\nTotal Asupan | 360 | 241,2 | 5,04 | 23,76 | 14,4 | 316,8 | 0,9 | 1,26\nKebutuhan | 360 | 240 | 8 | 12 | 25,02 | 1399 | 11,9 | 3,98\n% Pemenuhan | 100,00 | 100,50 | 63,00 | 198,00 | 57,55 | 22,64 | 7,56 | 31,66\n[END TABLE]\n33"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 38,
+    "chunk_index": 0,
+    "text": "Lampiran 2 Hasil Recall\nHari 1\n\n[TABLE 0]\n |  |  |  | Lemak |  |  |  | \n--------------------------------------------------------------------------------\nJenis Diet | Volume (ml) | Energi (Kkal) | Protein (gr) | (gr) | Kha (gr) | Vit.A (IU) | Vit.E (IU) | Fe (mg)\nEnteral |  |  |  |  |  |  |  | \nE1 Jam 08.00 ASI 14 ml | 14 | 9,38 | 0,196 | 0,924 | 0,56 | 12,32 | 0,035 | 0,049\nE2 Jam 10.00 ASI 14 ml | 14 | 9,38 | 0,196 | 0,924 | 0,56 | 12,32 | 0,035 | 0,049\nE3 Jam 12.00 ASI 14 ml | 14 | 9,38 | 0,196 | 0,924 | 0,56 | 12,32 | 0,035 | 0,049\nE4 Jam 14.00 ASI 14 ml | 14 | 9,38 | 0,196 | 0,924 | 0,56 | 12,32 | 0,035 | 0,049\nE5 Jam 16.00 ASI 14 ml | 14 | 9,38 | 0,196 | 0,924 | 0,56 | 12,32 | 0,035 | 0,049\nE6 Jam 18.00 ASI 14 ml | 14 | 9,38 | 0,196 | 0,924 | 0,56 | 12,32 | 0,035 | 0,049\nE7 Jam 20.00 ASI 14 ml | 14 | 9,38 | 0,196 | 0,924 | 0,56 | 12,32 | 0,035 | 0,049\nE8Jam 22.00 ASI 14 ml | 14 | 9,38 | 0,196 | 0,924 | 0,56 | 12,32 | 0,035 | 0,049\nE9 Jam 24.00 ASI 14 ml | 14 | 9,38 | 0,196 | 0,924"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 38,
+    "chunk_index": 1,
+    "text": "ASI 14 ml | 14 | 9,38 | 0,196 | 0,924 | 0,56 | 12,32 | 0,035 | 0,049\nE8Jam 22.00 ASI 14 ml | 14 | 9,38 | 0,196 | 0,924 | 0,56 | 12,32 | 0,035 | 0,049\nE9 Jam 24.00 ASI 14 ml | 14 | 9,38 | 0,196 | 0,924 | 0,56 | 12,32 | 0,035 | 0,049\nE10 Jam 02.00 ASI 14 ml | 14 | 9,38 | 0,196 | 0,924 | 0,56 | 12,32 | 0,035 | 0,049\nE11 Jam 04.00 ASI 14 ml | 14 | 9,38 | 0,196 | 0,924 | 0,56 | 12,32 | 0,035 | 0,049\nE12 Jam 06.00 ASI 14 ml | 14 | 9,38 | 0,196 | 0,924 | 0,56 | 12,32 | 0,035 | 0,049\nSubtotal | 168 | 112,56 | 2,352 | 11,088 | 6,72 | 147,84 | 0,42 | 0,588\nParenteral |  |  |  |  |  |  |  | \nD10% | 40 | 16 |  |  | 4 |  |  | \nSubtotal | 40 | 16 |  |  | 4 |  |  | \nTotal Asupan | 208 | 128,56 | 2,352 | 11,088 | 10,72 | 147,84 | 0,42 | 0,588\nKebutuhan | 278,5 | 222,8 | 7,43 | 11,14 | 23,2 | 1299 | 11,1 | 3,7\n% Pemenuhan | 74,69 | 57,70 | 31,66 | 99,53 | 46,21 | 11,38 | 3,78 | 15,89\n[END TABLE]\n34"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 39,
+    "chunk_index": 0,
+    "text": "Hari 2\n\n[TABLE 0]\n |  |  |  | Lemak |  |  |  | \n--------------------------------------------------------------------------------\nJenis Diet | Volume (ml) | Energi (Kkal) | Protein (gr) | (gr) | Kha (gr) | Vit.A (IU) | Vit.E (IU) | Fe (mg)\nE1 Jam 08.00 ASI 18 ml | 18 | 12,06 | 0,252 | 1,188 | 0,72 | 15,84 | 0,045 | 0,063\nE2 Jam 10.00 ASI 18 ml | 18 | 12,06 | 0,252 | 1,188 | 0,72 | 15,84 | 0,045 | 0,063\nE3 Jam 12.00 ASI 18 ml | 18 | 12,06 | 0,252 | 1,188 | 0,72 | 15,84 | 0,045 | 0,063\nE4 Jam 14.00 ASI 18 ml | 18 | 12,06 | 0,252 | 1,188 | 0,72 | 15,84 | 0,045 | 0,063\nE5 Jam 16.00 ASI 18 ml | 18 | 12,06 | 0,252 | 1,188 | 0,72 | 15,84 | 0,045 | 0,063\nE6 Jam 18.00 ASI 18 ml | 18 | 12,06 | 0,252 | 1,188 | 0,72 | 15,84 | 0,045 | 0,063\nE7 Jam 20.00 ASI 18 ml | 18 | 12,06 | 0,252 | 1,188 | 0,72 | 15,84 | 0,045 | 0,063\nE8Jam 22.00 ASI 18 ml | 18 | 12,06 | 0,252 | 1,188 | 0,72 | 15,84 | 0,045 | 0,063\nE9 Jam 24.00 ASI 18 ml | 18 | 12,06 | 0,252 | 1,188 | 0,72 | 15,84 | 0,045 | 0,063\nE10 Jam 02.00 A"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 39,
+    "chunk_index": 1,
+    "text": ",84 | 0,045 | 0,063\nE8Jam 22.00 ASI 18 ml | 18 | 12,06 | 0,252 | 1,188 | 0,72 | 15,84 | 0,045 | 0,063\nE9 Jam 24.00 ASI 18 ml | 18 | 12,06 | 0,252 | 1,188 | 0,72 | 15,84 | 0,045 | 0,063\nE10 Jam 02.00 ASI 18 ml | 18 | 12,06 | 0,252 | 1,188 | 0,72 | 15,84 | 0,045 | 0,063\nE11 Jam 04.00 ASI 18 ml | 18 | 12,06 | 0,252 | 1,188 | 0,72 | 15,84 | 0,045 | 0,063\nE12 Jam 06.00 ASI 18 ml | 18 | 12,06 | 0,252 | 1,188 | 0,72 | 15,84 | 0,045 | 0,063\nTotal Asupan | 216 | 144,72 | 3,024 | 14,256 | 8,64 | 190,08 | 0,54 | 0,756\nKebutuhan | 278,5 | 222,8 | 7,43 | 11,14 | 23,2 | 1299 | 11,1 | 3,7\n% Pemenuhan | 77,56 | 64,96 | 40,70 | 127,97 | 37,24 | 14,63 | 4,86 | 20,43\n[END TABLE]\n35"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 40,
+    "chunk_index": 0,
+    "text": "Hari 3\n\n[TABLE 0]\n |  |  |  | Lemak |  |  |  | \n--------------------------------------------------------------------------------\nJenis Diet | Volume (ml) | Energi (Kkal) | Protein (gr) | (gr) | Kha (gr) | Vit.A (IU) | Vit.E (IU) | Fe (mg)\nE1 Jam 08.00 Lactogen\nprematur 18 ml | 18 | 14,87 | 0,502 | 0,737 | 1,5583 | 75,9 | 0,689 | 0,331\nE2 Jam 10.00 Lactogen\nprematur 18 ml | 18 | 14,87 | 0,502 | 0,737 | 1,5583 | 75,9 | 0,689 | 0,331\nE3 Jam 12.00 Lactogen\nprematur 18 ml | 18 | 14,87 | 0,502 | 0,737 | 1,5583 | 75,9 | 0,689 | 0,331\nE4 Jam 14.00 Lactogen\nprematur 18 ml | 18 | 14,87 | 0,502 | 0,737 | 1,5583 | 75,9 | 0,689 | 0,331\nE5 Jam 16.00 Lactogen\nprematur 18 ml | 18 | 14,87 | 0,502 | 0,737 | 1,5583 | 75,9 | 0,689 | 0,331\nE6 Jam 18.00 Lactogen\nprematur 18 ml | 18 | 14,87 | 0,502 | 0,737 | 1,5583 | 75,9 | 0,689 | 0,331\nE7 Jam 20.00 Lactogen\nprematur 18 ml | 18 | 14,87 | 0,502 | 0,737 | 1,5583 | 75,9 | 0,689 | 0,331\nE8Jam 22.00 Lactogen\nprematur 18 ml | 18 | 14,87 | 0,502 | 0,737 | 1,5583 |"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 40,
+    "chunk_index": 1,
+    "text": "583 | 75,9 | 0,689 | 0,331\nE7 Jam 20.00 Lactogen\nprematur 18 ml | 18 | 14,87 | 0,502 | 0,737 | 1,5583 | 75,9 | 0,689 | 0,331\nE8Jam 22.00 Lactogen\nprematur 18 ml | 18 | 14,87 | 0,502 | 0,737 | 1,5583 | 75,9 | 0,689 | 0,331\nE9 Jam 24.00 Lactogen\nprematur 18 ml | 18 | 14,87 | 0,502 | 0,737 | 1,5583 | 75,9 | 0,689 | 0,331\nE10 Jam 02.00 Lactogen\nprematur 18 ml | 18 | 14,87 | 0,502 | 0,737 | 1,5583 | 75,9 | 0,689 | 0,331\nE11 Jam 04.00 Lactogen\nprematur 18 ml | 18 | 14,87 | 0,502 | 0,737 | 1,5583 | 75,9 | 0,689 | 0,331\nE12 Jam 06.00 Lactogen\nprematur 18 ml | 18 | 14,87 | 0,502 | 0,737 | 1,5583 | 75,9 | 0,689 | 0,331\nTotal Asupan | 216 | 178,5506 | 6,0287 | 8,8445 | 18,6998 | 910,803 | 8,2669 | 3,971\nKebutuhan | 278,5 | 222,8 | 7,43 | 11,14 | 23,2 | 1299 | 11,1 | 3,7\n% Pemenuhan | 77,56 | 80,14 | 81,14 | 79,39 | 80,60 | 70,12 | 74,48 | 107,32\n[END TABLE]\n36"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 62,
+    "chunk_index": 0,
+    "text": "Dietetic Internship Program\nProfessional Development Form\nNama Intern : <NAMA>\nNIM <NIM>\nMata Kuliah : Asuhan Gizi Pada Anak dengan Kegawatan\nTanggal : <TGL>\n\n[TABLE 0]\nWhat am I good at?\n(Skill/kemampuan apa yang sudah saya\nmiliki) | What am I not so good at?\n(skill/kemampuan apa yang belum\nsaya miliki/kuasai)\n--------------------------------------------------------------------------------\nBersikap professional sebagai ahli gizi.\nMelakukan managemen bangsal. | Merencanakan dan mengimplementasikan\nintervensi diet.\nWhat practice I want to continue | What area I wish to improve in\nMampu melakukan penilaian status gizi,\nmenegakkan diagnosa gizi, merencanakan\ndan mengimplementasikan intervensi\nedukasi. Menyusun laporan dan\nmepresentasikan kasus. | Membuat bagan analisis masalah,\nmelakukan monitoring serta evaluasi dan\nmelakukan pendokumentasian kasus\nyang ditangani.\n[END TABLE]\nLevel kemampuan yang dimiliki : 1-2-3-4-5\nLevel kemampuan yang belum dimiliki : 1-2-3-4-5\n"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 62,
+    "chunk_index": 1,
+    "text": "masalah,\nmelakukan monitoring serta evaluasi dan\nmelakukan pendokumentasian kasus\nyang ditangani.\n[END TABLE]\nLevel kemampuan yang dimiliki : 1-2-3-4-5\nLevel kemampuan yang belum dimiliki : 1-2-3-4-5\nMalang, <TGL>\nMengetahui,\nDosen Pembimbing\n<NAMA>\n<NO_PEGAWAI>"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 63,
+    "chunk_index": 0,
+    "text": "Dietetic Internship Program\nProfessional Development Form\nNama Intern : <NAMA>\nNIM : <NIM>\nMata Kuliah : Asuhan Gizi Pada Anak dengan Kegawatan\nTanggal : <TGL>\n\n[TABLE 0]\nWhat am I good at?\n(Skill/kemampuan apa yang sudah saya\nmiliki) | What am I not so good at?\n(skill/kemampuan apa yang belum\nsaya miliki/kuasai)\n--------------------------------------------------------------------------------\nBersikap professional sebagai ahli gizi.\nMelakukan managemen bangsal. | Merencanakan dan mengimplementasikan\nintervensi diet.\nWhat practice I want to continue | What area I wish to improve in\nMampu melakukan penilaian status gizi,\nmenegakkan diagnosa gizi, merencanakan\ndan mengimplementasikan intervensi\nedukasi. Menyusun laporan dan\nmepresentasikan kasus. | Membuat bagan analisis masalah,\nmelakukan monitoring serta evaluasi dan\nmelakukan pendokumentasian kasus\nyang ditangani.\n[END TABLE]\nLevel kemampuan yang dimiliki : 1-2-3-4-5\nLevel kemampuan yang belum dimiliki : 1-2-3-4-"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 63,
+    "chunk_index": 1,
+    "text": "s masalah,\nmelakukan monitoring serta evaluasi dan\nmelakukan pendokumentasian kasus\nyang ditangani.\n[END TABLE]\nLevel kemampuan yang dimiliki : 1-2-3-4-5\nLevel kemampuan yang belum dimiliki : 1-2-3-4-5\nMalang, <TGL>\nMengetahui,\nDosen Pembimbing\n<NAMA>\n<NO_PEGAWAI>"
+  },
+  {
+    "pdf_name": "PRETERM, BBLR, SMK, RESPIRATORY DISTRESS SYNDROME, SEPSIS.pdf",
+    "page_number": 64,
+    "chunk_index": 0,
+    "text": "LEMBAR KONSULTASI MAHASISWA\nRotasi/Tempat : <RS>/Stase : Asuhan Gizi Klinik / Kegawatan Anak\n\n[TABLE 0]\nNo. | Tgl. | Materi Kosultasi | TTD Instruktur | TTD Dosen\n--------------------------------------------------------------------------------\n1.\n2.\n3.\n4. | 28 /04/ 2025\n<TGL>\n<TGL>\n<TGL> | Konsultasi penentuan pasien sebagai kasus\nwajib dan kasus harian stase Kegawatan\nAnak dengan CI\nKonsultasi penentuan pasien sebagai kasus\nwajib dengan SPV\nKonsultasi terkait laporan kasus wajib dengan\nCI dan SPV\nKonsultasi laporan skrining dan Manajemen\nbangsal dengan CI |  | \n[END TABLE]\nRekapitulasi bimbingan:\nInstruktur = ................................ x/sub-rotasi\nDosen = .............................. x/sub-rotasi"
+  }
+]

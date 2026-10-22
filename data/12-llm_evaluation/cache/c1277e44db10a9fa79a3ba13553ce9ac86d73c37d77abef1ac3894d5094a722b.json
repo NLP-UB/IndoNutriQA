@@ -1,0 +1,4 @@
+{
+  "model_id": "Qwen/Qwen2.5-7B-Instruct",
+  "response": "Metode skrining status gizi yang direkomendasikan untuk pasien ini adalah FARNNeo. Meskipun NNRST memiliki tingkat sensitivitas sedikit lebih tinggi, FARNNeo telah digunakan di <RS> dan telah menunjukkan sensitivitas yang baik (89,6%). Selain itu, pertimbangan juga harus dilakukan terhadap diagnosis medis pasien yang kompleks, termasuk spina bifida dan meningomyelocele, yang mungkin mempengaruhi status gizi pasien."
+}

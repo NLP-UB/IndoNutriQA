@@ -1,0 +1,512 @@
+[
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 3,
+    "chunk_index": 0,
+    "text": "BAB I\nDATA DASAR\n1.1 Identitas Pasien\nNama : <NAMA>\nNo. Register : 1201xxxx\nRuang : Krakatau\nJenis kelamin : Perempuan\nTanggal lahir : <TGL>\nUmur : 7 tahun 9 bulan\nAgama : Islam\nTanggal MRS : <TGL>\nTanggal pengkajian data : <TGL>\nDiagnosa medis : Respiratory Failure ok Intracarnial Process,\nPneumonia, Meningitis Bakterialis, Non-Hodgkin\nLymphoma on Chemoterapy, Hemiparese Dextra\nok Infark Subakut Temporoparietal Sinistra dd Mild\nCommunicating Hidrosefalus Sinistra, Sinusitis\nEtmoidalis, Sphenoidalis Bilateral Dan Hipertensi\nStage II\n1.2 Skrining Gizi\nFormulir STRONGKIDs\n\n[TABLE 0]\nParameter | Y/T |  |  | Nilai |  | \n--------------------------------------------------------------------------------\nApakah pasien tampak kurus? |  | Ya |  |  | 1 | \n | Tidak |  |  | 0 |  | \nApakah terdapat penurunan berat badan selama satu bulan\nterakhir? (berdasarkan penilaian objektif data berat badan bila\nada atau penilaian subjektif orang tua pasien atau untuk bayi <\n1 tahun berat "
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 3,
+    "chunk_index": 1,
+    "text": " \nApakah terdapat penurunan berat badan selama satu bulan\nterakhir? (berdasarkan penilaian objektif data berat badan bila\nada atau penilaian subjektif orang tua pasien atau untuk bayi <\n1 tahun berat badan tidak naik selama 3 bulan terakhir) |  | Ya |  |  | 1 | \n | Tidak |  |  | 0 |  | \nApakah terdapat salah satu dari kondisi tersebut? (diare ≥ 5\nkali/hari dan muntah > 3 kali/hari dalam seminggu terakhir atau\nasupan makanan berkurang selama 1 minggu terakhir) | Ya |  |  | 1 |  | \n | Tidak |  |  | 0 |  | \nApakah terdapat penyakit atau keadaan yang mengakibatkan\npasien berisiko mengalami nutrisi? |  | Ya |  |  | 2 | \n | Tidak |  |  | 0 |  | \nTotal Skor | 4 |  |  |  |  | \n[END TABLE]\nInterpretasi:\nSkor 0 : Resiko rendah\nSkor 1-3 : Resiko sedang\nSkor 4-5 : Resiko tinggi"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 4,
+    "chunk_index": 0,
+    "text": "Formulir Skrining Gizi Anak PYMS\n\n[TABLE 0]\nNama : An. N |  |  | Tanggal\nMRS: | 30/01/25\n--------------------------------------------------------------------------------\nNama :\nkeluarga |  |  | Tanggal\nskrining: | 17/03/25\nUsia : 7 tahun 9\nbulan |  |  |  | \nRuang : Krakatau |  |  | Berat\nbadan: | 13,8 kg\nNo. RM : <NO_REG> |  |  | Tinggi\nbadan: | 106 cm\nJenis : Perempuan\nkelamin |  |  | BMI/U: | 12, 3 kg/m2\nStep 1 | Apakah BMI\nberada di bawah\nstandar acuan? | Tidak | 0 | \n |  | Ya | 2 | \nStep 2 | Apakah akhir-\nakhir ini anak\nmengalami\npenurunan\nberat badan? | Tidak | 0 | \n |  | Ya\n Kehilangan BB yang\ntidak diharapkan\n Baju terasa longgar\n Penambahan BB yang rendah (jika\n< 2 tahun) | 1 | \n |  |  |  | \nStep 3 | Apakah satu\nminggu\nterakhir anak\nmengalami\npenurunan\nasupan\nmakan? | Tidak\nAsupan makan seperti biasa | 0 | \n |  | Ya | 1 | \n |  | Mengalami penurunan asupan |  | \n |  | makan untuk 1 minggu terakhir |  | \n |  | Ya\nTidak ada asupan (atau asupan\nsangat sedikit) untuk 1 minggu\nter"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 4,
+    "chunk_index": 1,
+    "text": "an makan seperti biasa | 0 | \n |  | Ya | 1 | \n |  | Mengalami penurunan asupan |  | \n |  | makan untuk 1 minggu terakhir |  | \n |  | Ya\nTidak ada asupan (atau asupan\nsangat sedikit) untuk 1 minggu\nterakhir | 2 | \nStep 4 | Akankah\nkebutuhan gizi\nanak\ndipengaruhi\noleh kondisi\nanak untuk\nkurang lebih 1\nminggu ke\ndepan? | Tidak | 0 | \n |  | Ya\nUntuk 1 minggu ke depan:\n Mengalami penurunan asupan\ndan/atau\n Mengalami\npeningkatan kebutuhan\ndan/atau\n Mengalami\npeningkatan kehilangan | 1 | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  | Ya\nTidak ada asupan (atau asupan sangat\nsedikit) untuk satu minggu ke depan | 2 | \nTotal skor |  |  | 3 | \n[END TABLE]\nInterpretasi:\nSkor < 2 : Tidak berisiko malnutrisi\nSkor ≥ 2 : Berisiko malnutrisi"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 6,
+    "chunk_index": 0,
+    "text": "BAB II\nNUTRITIONAL CARE PROCESS (NCP)\n2.1 Form NCP\nFORM NUTRITIONAL CARE PROCESS\nNama : <NAMA> Jenis Kelamin : Perempuan\nUmur : 7 tahun 9 bulan Registered : 1201xxxx\nTanggal Pemeriksaan : <TGL> Tanggal MRS : <TGL>\nDiagnosa Medis : Respiratory Failure ok Intracarnial Process, Pneumonia, Meningitis Bakterialis, Non-Hodgkin Lymphoma on\nChemoterapy, Hemiparese Dextra ok Infark Subakut Temporoparietal Sinistra dd Mild Communicating Hidrosefalus\nSinistra, Sinusitis Etmoidalis, Sphenoidalis Bilateral Dan Hipertensi Stage II\n\n[TABLE 0]\n | Assessment Gizi |  |  |  |  |  |  |  | Intervensi Gizi | Monitoring Evaluasi\n--------------------------------------------------------------------------------\n | Data Dasar |  |  | Identifikasi Masalah |  |  | Diagnosa Gizi |  |  | \nAntropometri (<TGL>):\n BB SMRS = 15,7 kg (bulan november)\n BB sekarang= 13,8 kg\n Tinggi badan= 106 cm\n BBI = 17, 5 kg (CDC)\n Lingkar kepala= 49,5 cm\n Lingkar lengan atas = 14 cm\n BB/U (CDC) = 13,8 kg (<P5) -> s"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 6,
+    "chunk_index": 1,
+    "text": "25):\n BB SMRS = 15,7 kg (bulan november)\n BB sekarang= 13,8 kg\n Tinggi badan= 106 cm\n BBI = 17, 5 kg (CDC)\n Lingkar kepala= 49,5 cm\n Lingkar lengan atas = 14 cm\n BB/U (CDC) = 13,8 kg (<P5) -> severely underweight\n TB/U (CDC) = 106 cm (<P5) -> Sangat pendek\n BB/TB = 78,8% (Gizi kurang) |  |  |  Terdapat penurunan\nberat badan pasien\nsebanyak 12% selama\n5 bulan\n Pasien memiliki berat\nbadan yang sangat\nkurang dan\nberperawakan sangat\npendek serta status\ngizi pasien termasuk\nkategori gizi buruk |  |  | NI 2.11 Keterbatasan\npenerimaan\nmakanan berkaitan\ndengan kondisi pasien\nyang mengalami\nperdarahan pada\nupper GI ditandai\ndengan kondisi sesak\npada pasien, telah\nterpasangnya NGT\ndan hasil recall 24h |  |  | ND 2.1 Formula\nenteral\nFormula enteral\n(F100) diberikan\nmelalui NGT dengan\nfrekuensi 8x55 cc 1\nkkal per 1 cc\nND 2.2 Nutrisi\nparenteral\nPemberian cairan\ninfus berupa C1:1 | FH 1.3.1 Asupan\nenteral dan parenteral.\nMemantau pemberian\nformula enteral pasien\nsetiap hari.\nTarget : asup"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 6,
+    "chunk_index": 2,
+    "text": "ensi 8x55 cc 1\nkkal per 1 cc\nND 2.2 Nutrisi\nparenteral\nPemberian cairan\ninfus berupa C1:1 | FH 1.3.1 Asupan\nenteral dan parenteral.\nMemantau pemberian\nformula enteral pasien\nsetiap hari.\nTarget : asupan enteral\npasien diberikan secara\nbertahap dari 70%\nkebutuhan basal\n[END TABLE]"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 7,
+    "chunk_index": 0,
+    "text": "Assessment Gizi\nIntervensi Gizi Monitoring Evaluasi\nData Dasar Identifikasi Masalah Diagnosa Gizi\n Indeks Massa Tubuh (IMT): asupan energi= 474,7 (DS 5% ½ + NS ½)\nIMT = 𝐵𝐵 kkal (64,8%), 17 cc/jam\n𝑇𝐵2\nkarbohidrat= 49,2 g\n= 13,8\n(1,06)2 (39,7%) dan cairan=\n= 12,3 kg/m2\n848 ml (71, 3) dalam\n IMT/U = 𝐼𝑀𝑇 ℎ𝑖𝑡𝑢𝑛𝑔 − 𝐼𝑀𝑇 𝑚𝑒𝑑𝑖𝑎𝑛 kategori defisit\n𝑁𝑖𝑙𝑎𝑖 𝑠𝑖𝑚𝑝𝑎𝑛𝑔 𝑏𝑎𝑘𝑢 𝑟𝑢𝑗𝑢𝑘𝑎𝑛\n= 12,3− 15,7\n15,7 − 14,3\nNI 5.3 pembatasan\n= − 3,4\n1,4 natrium berkaitan PD 1.1 pemeriksaan\n= - 2,43 sd (Gizi kurang) dengan kondisi fisik klinis\n LLA/U (gibson) = 14 (<P5) -> gizi buruk hipertensi pasien Memantau tekanan\nBiokimia :  Basofil (%) ditandai dengan hasil darah pasien setiap\n(<TGL>) (↑),mengindikasikan tekanan darah= hari.\nPemeriksaan Lab Hasil Keterangan adanya proses 134/92 mmHg Target : tekanan darah\nHematologi inflamasi yang dapat pasien menurun secara\nHemoglobin (g/dL) 14,2 Normal berkaitan dengan bertahap hingga batas\nEritrosit (106/uL) 5,02 Normal penyakit infeksi normal\nLeukosit (103/uL) 9,85 Norma"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 7,
+    "chunk_index": 1,
+    "text": "logi inflamasi yang dapat pasien menurun secara\nHemoglobin (g/dL) 14,2 Normal berkaitan dengan bertahap hingga batas\nEritrosit (106/uL) 5,02 Normal penyakit infeksi normal\nLeukosit (103/uL) 9,85 Normal seperti pneumonia,\nHematokrit (%) 44,4 Normal meningitis bakterialis, NB 1.1 Kurangnya E-1 Edukasi gizi FH 4.1 Pengetahuan\nTrombosit (103/uL) 335 Normal atau bahkan efek dari pengetahuan terkait Memberikan terkait makanan dan\nkemoterapi akibat gizi dan makanan informasi terkait diet gizi Memantau\nMCV (fl) 88,4 Normal\nNon-Hodgkin berkaitan dengan yang diberikan pengetahuan pasien\nMCH (pg) 28,3 Normal\nLymphoma (Bax, et kurangnya paparan sesuai kondisi terkait gizi dengan cara\nMCHC (g/dL) 32 Normal\nal., 2020) informasi terkait gizi pasien (diet cair dan tanya jawab secara\nRDW (%) 12 Normal\n pCO2 (↓), dan makanan TETP) lisan, dilakukan setelah\nPDW (fl) 10,8 Normal\nmengindikasikan keluarga pasien, Materi : edukasi selesai.\nMPV (fl) 10,3 Normal"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 8,
+    "chunk_index": 0,
+    "text": "Assessment Gizi\nIntervensi Gizi Monitoring Evaluasi\nData Dasar Identifikasi Masalah Diagnosa Gizi\nP-LCR (%) 23,7 Normal adanya hiperventilasi status gizi pasien  Penjelasan Target: pasien dan\nPCT (%) 0,34 Normal pada pasien dengan yang tergolong terkait diet cair keluarga pasien\nNRBC absolut 0 - gangguan pernapasan severely underweight dan TETP memperhatikan serta\n(103/uL) (Wong, et al., 2022) menurut BB/U, gizi  Bahan pengetahuan pasien\nNRBC percent (%) 0 -  pO2 (↑) dapat buruk berdasarkan makanan yang meningkat minimal 80%\nEosinophil (%) 1,2 - disebabkan oleh LLA/U, terdapat dihindari dan (dapat menjawab 4 dari\nBasophil (%) 1,2 Tinggi pemberian terapi penurunan berat dianjurkan 5 pertanyaan)\nNeutrofil (%) 64,2 Normal oksigen untuk badan sebanyak 12%  Cara\nLimfosit (%) 28,4 Normal mempertahankan selama 5 bulan pemberian AD. 1.1 Antropometri\nMonosit (%) 5 Normal saturasi oksigen terakhir serta hasil SQ makanan cair Memantau status gizi\ndalam darah (De FFQ dalam kategori sesuai deng"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 8,
+    "chunk_index": 1,
+    "text": "pertahankan selama 5 bulan pemberian AD. 1.1 Antropometri\nMonosit (%) 5 Normal saturasi oksigen terakhir serta hasil SQ makanan cair Memantau status gizi\ndalam darah (De FFQ dalam kategori sesuai dengan pasien di akhir monev\nEosinophil absolut 0,12 -\n(103/uL) Carvalho, et al., 2020) deficit petunjuk label dilaksanakan\n Kelebihan basa (BE) susu yang Target: terdapat\nBasophil absolut 0,12 Normal\n(103/uL) (↑), dapat mengarah digunakan peningkatan status gizi\npada kondisi alkalosis  Contoh menu pasien hingga\nNeutrofil absolut 6,32 Normal\n(103/uL) metabolic yang sehari dan mencapai kategori gizi\nmuncul sebagai pembagian baik\nLimfosit absolut 2,80 Normal\nkompensasi tubuh porsi\n(103/uL)\nterhadap gangguan Waktu : 15 menit\nNLR 2,26 -\npernapasan kronis Media : leaflet\nMonosit absolute 0,49 Normal\natau kehilangan cairan Sasaran : Keluarga\n(103/uL)\nyang signifikan (Do, et pasien\nIG (%) 0,2 -\nal., 2022)\nIG 0,02 -\nE-2 Edukasi Gizi –\nFaal Hati\naplikasi\nSGOT (U/L) 20 Normal"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 9,
+    "chunk_index": 0,
+    "text": "Assessment Gizi\nIntervensi Gizi Monitoring Evaluasi\nData Dasar Identifikasi Masalah Diagnosa Gizi\nSGPT (U/L) 10 Normal Pemberian informasi\nAlbumin (g/dL) 4,41 Normal terkait cara\nMetabolisme Karbohidrat pembuatan\nGDS (mg/dL) 83 Normal modisco, cara\nLemak Darah penggunaan DBMP,\ndan bentuk\nKolesterol total 193 Normal\n(mg/dL) makanan yang akan\nditingkatkan secara\nTrigliserida (mg/dL) 95 Normal\nbertahap\nFaal Ginjal\nUreum (mg/dL) 16,9 Normal\nC-1 Konseling gizi\nKreatinin (mg/dL) 0,65 Normal\n– pendekatan\nElektrolit\ndasar teori\nKalsium (mg/dL) 8,9 Normal\nMemberikan\nFofsor (mg/dL) 4,1 Normal\npengertian dan\nMagnesium (mg/dL) 1,87 Normal\nmotivasi kepada\nNatrium (mmol/L) 136 Normal\npasien agar dapat\nKalium (mmol/L) 4,32 Normal\nmenerapkan\nKlorida (mmol/L) 101 Normal\nrekomendasi diet\nyang diberikan pada\nsaat dirumah serta\n(<TGL>)\nmemberikan contoh\nPemeriksaan Lab Hasil Keterangan\nmakanan yang\nKimia Klinik (Analisa Gas Darah)\ndapat diterapkan\npH 7,5 Normal\nsebagai makanan\npCO2 34,9 Rendah"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 10,
+    "chunk_index": 0,
+    "text": "Assessment Gizi\nIntervensi Gizi Monitoring Evaluasi\nData Dasar Identifikasi Masalah Diagnosa Gizi\npO2 175,4 Tinggi tumbuh kejar untuk\nBikarbonat (HCO3) 27,5 Normal pasien\nKelebihan basa (BE) 4,1 Tinggi\nSaturasi O2 99,7 Normal NC 4.1 Malnutrisi RC 1. Kolaborasi\nFisik Klinis (<TGL>):  Keadaan umum berkaitan dengan Dengan PPA lain\nkurangnya asupan (dokter, ners dan\nPemeriksaan Hasil Keterangan pasien yang lemah\nmakanan dalam apoteker) terkait\nKU Lemah Tidak normal dapat disebabkan\njangka waktu yang pemberian\nGCS 1x2 Tidak normal kurangnya asupan\nlama ditandai dengan obat/suplemen,\nRR (x/menit) 21 Normal makanan sehingga\nstatus gizi pasien pemberian nutrisi\nHR (x/menit) 135 Tinggi badan menjadi lemas\nberdasarkan LLA/U parenteral,\nSuhu (°C) 36,7 Normal (Pedersen, et al.,\n(<P5)= gizi buruk, pemberian nutrisi\nTekanan darah 134/93 Tinggi (HT 2020)\ntampilan fisik pasien enteral sesuai\n(mmHg) stage II)  GCS 1x2\nyang nampak sangat jadwal dan\nSPO2 (%) 100 Normal mengindikasikan\nkurus, terli"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 10,
+    "chunk_index": 1,
+    "text": ", pemberian nutrisi\nTekanan darah 134/93 Tinggi (HT 2020)\ntampilan fisik pasien enteral sesuai\n(mmHg) stage II)  GCS 1x2\nyang nampak sangat jadwal dan\nSPO2 (%) 100 Normal mengindikasikan\nkurus, terlihat iga pemeriksaan lab\nbahwa pasien tidak\nUT (cc) 350/6 jam -\ngambang dan perut terkait\nmenunjukkan respons\nMual - Normal\npasien cekung,\ndalam membuka\nMuntah - Normal\npenurunan berat\nmata, dan tubuhnya\nSesak + Tidak normal\nbadan sebanyak 12%\nhanya memberikan\nTampilan fisik Pasien tampak sangat Tidak normal\nselama 5 bulan\nrespons dengan\nkurus, nampak iga\nterakhir serta hasil SQ\nekstensi abnormal\ngambang dan perut\nFFQ dalam kategori\nsaat diberikan\ncekung\ndeficit\nrangsangan nyeri\nO2 ETT mode SIMV RR 30 VT 120 (8,6 cc/kg)\n(Omar et al., 2024)\nPEEP 7 Ti. 0,8 Ftrig 1,5 Psupp 10 FiO2\n HR tinggi, dapat\n30%\nterjadi akibat hipoksia"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 11,
+    "chunk_index": 0,
+    "text": "Assessment Gizi\nIntervensi Gizi Monitoring Evaluasi\nData Dasar Identifikasi Masalah Diagnosa Gizi\ndan hiperkapnia pada\npasien gagal napas\nyang disebabkan\nadanya peningkatan\nsympathetic drive\nyang menyebabkan\ntakikardia (Meszaros\net al., 2023)\n Tekanan darah yang\ntinggi merupakan efek\ndari adanya\npeningkatan tekanan\nintrakarnial akibat\ninfark subakut dan\nhidrosefalus yang\ndialami pasien\n(Fernandes et al.,\n2021)\n Kondisi sesak\nmerupakan tanda dan\ngejala penyakit\npneumonia yang\ndiderita\n(Rögnvaldsson et al.,\n2023)"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 12,
+    "chunk_index": 0,
+    "text": "Assessment Gizi\nIntervensi Gizi Monitoring Evaluasi\nData Dasar Identifikasi Masalah Diagnosa Gizi\n Tampilan fisik pasien\nyang nampak sangat\nkurus, terlihat iga\ngambang dan perut\ncekung merupakan\ntanda-tanda fisik\npasien mengalami gizi\nburuk (Bunker and\nPandey, 2021)\nDietary: Riwayat asupan\nRiwayat dahulu: dahulu:\n Pasien tidak ada alergi  Berdasarkan hasil\n Frekuensi makan utama 3x/hari SQ-FFQ asupan\n ASI eksklusif diberikan hingga usia pasien 6 bulan energi (59, 3%), lemak\n MPASI diberikan sejak pasien (69,4%) dan\n Makanan pokok yang dikonsumsi: nasi putih 3x/hari (100g), bihun karbohidrat (69,4%)\n2x/bulan (50g), mie kering 2x/bulan (60 g) termasuk dalam\n Lauk hewani yang dikonsumsi: ayam 2x/hari (40g), telur ayam kategori deficit Tingkat\n2x/minggu (60 g), nugget 1x/hari (40 g) berat. Kemudian\nasupan protein\n Lauk nabati yang dikonsumsi: tempe 2x/minggu (50 g), tahu\n(78,7%) dan cairan\n2x/minggu (40 g)\n(73,5%) termasuk\n Sayuran yang dikonsumsi: wortel 2x/minggu (30 g), buncis"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 12,
+    "chunk_index": 1,
+    "text": "rat. Kemudian\nasupan protein\n Lauk nabati yang dikonsumsi: tempe 2x/minggu (50 g), tahu\n(78,7%) dan cairan\n2x/minggu (40 g)\n(73,5%) termasuk\n Sayuran yang dikonsumsi: wortel 2x/minggu (30 g), buncis\n3x/minggu @20 gram, bayam 3x/minggu @10 gram\ndalam kategori defisit\nsedang.\n Buah yang dikonsumsi: pepaya 3x/minggu (200 g), melon\n Pasien lebih sering\n4x/minggu (100 g), semangka 3x/bulan (100 g), apel 4x/minggu\nkonsumsi jajanan\n(100 g)"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 13,
+    "chunk_index": 0,
+    "text": "Assessment Gizi\nIntervensi Gizi Monitoring Evaluasi\nData Dasar Identifikasi Masalah Diagnosa Gizi\n Konsumsi air putih 3-4 gelas/hari @250 ml sehingga tidak\n Makanan pasien disiapkan oleh ibu pasien menghabiskan\n Cara pengolahan makanan seringkali diolah dengan cara digoreng makanan utama\n Pasien kurang suka mengkonsumsi sayur\n Pasien lebih sering mengonsumsi jajanan di warung atau penjual\nkeliling sehingga makanan utama kadang tidak dihabiskan\n Pola waktu makan pasien tidak teratur\n Hasil SQ-FFQ:\n\n[TABLE 0]\nZat Gizi |  | SQ- |  | Keb |  | % |  | Kategori\n--------------------------------------------------------------------------------\n |  | FFQ |  |  |  | Asupan |  | \nEnergi\n(Kkal) | 830 |  |  | 1400 | 59, 3 |  |  | Defisit\nberat\nProtein (g) | 41,3 |  |  | 52, 5 | 78,7 |  |  | Defisit\nsedang\nLemak (g) | 27 |  |  | 38,9 | 69,4 |  |  | Defisit\nberat\nKarbohidrat\n(g) | 101,4 |  |  | 210 | 69,4 |  |  | Defistt\nberat\nCairan (ml) | 875 |  |  | 1190 | 73,5 |  |  | Defisit\nsedang\n[END TAB"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 13,
+    "chunk_index": 1,
+    "text": "t\nsedang\nLemak (g) | 27 |  |  | 38,9 | 69,4 |  |  | Defisit\nberat\nKarbohidrat\n(g) | 101,4 |  |  | 210 | 69,4 |  |  | Defistt\nberat\nCairan (ml) | 875 |  |  | 1190 | 73,5 |  |  | Defisit\nsedang\n[END TABLE]\nRiwayat asupan\nRiwayat sekarang:\nsekarang:\n Saat ini pasien\nBerdasarkan hasil recall\nmendapatkan\n24h asupan energi\ndiet cair berupa"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 14,
+    "chunk_index": 0,
+    "text": "Assessment Gizi\nIntervensi Gizi Monitoring Evaluasi\nData Dasar Identifikasi Masalah Diagnosa Gizi\nF100 8x55 cc (64,8%), dan karbohidrat\nvia NGT dan (39,7%) termasuk dalam\nIVFD C1:1 17 kategori defisit berat,\ncc/jam sedangkan asupan\n Hasil Recall cairan (71,3%) termasuk\n24h: dalam kategori defisit\nIVFD tingkat sedang. Asupan\nF100 Total %\nZat Gizi 8x55cc C1:1 asupan Keb Asupan Kategori lemak pasien (133,9%)\n17cc/jam\ntermasuk dalam kategori\nEnergi Deficit\n440 34,7 474,7 732,2 64,8\n(Kkal) berat berlebih\nProtein (g) 13,3 0 13,3 13, 8 96,4 Baik\nLemak (g) 27,2 0 27,2 20,3 133,9 Berlebih\nKarbohidrat Deficit\n39 10,2 49,2 123,5 39,7\n(g) berat\nDeficit\nCairan (ml) 440 408 848 1190 71, 3\nsedang\nEkologi:  Pasien memiliki\nRiwayat personal: riwayat keluarga yang\n Pasien merupakan anak kedua dari dua bersaudara, (kakak memiliiki tumor\npasien u:20 thn)  Orangtua pasien\n Pasien tinggal bersama ayah, ibu dan kakak belum pernah\n Pendidikan terakhir ayah SMP dan ibu SMA mendapatkan edukasi\nterkait die"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 14,
+    "chunk_index": 1,
+    "text": "rsaudara, (kakak memiliiki tumor\npasien u:20 thn)  Orangtua pasien\n Pasien tinggal bersama ayah, ibu dan kakak belum pernah\n Pendidikan terakhir ayah SMP dan ibu SMA mendapatkan edukasi\nterkait diet cair\n Pekerjaan ayah sebagai petani dann ibu merupakan IRT\n Pasien terdiagnosa\n Orangtua belum pernah mendapatkan edukasi terkait gizi dan\nlymphoma sejak\nkesehatan\ndesember 2024\n Ayah pasien merupakan seorang perokok"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 15,
+    "chunk_index": 0,
+    "text": "Assessment Gizi\nIntervensi Gizi Monitoring Evaluasi\nData Dasar Identifikasi Masalah Diagnosa Gizi\nKeluhan saat MRS:\n Pasien mengalami demam sejak 3 hari SMRS dengan suhu\nmencapai 39°C\n Pasien juga sempat mengalami batuk tidak berdahak dan pilek\npada saat MRS\n Pasien mengeluhkan tidak bisa melihat dan mata juling\n Orangtua merasakan pada saat berkomunikasi dengan pasien\nterkadang nyabung dan tidak\n Sempat mengalami muntah 2x\n Tidak mau makan namun masih mau minum\nRiwayat penyakit sekarang:\n Pasien post kemo terakhir (17/01/25)\n Semenjak sakit, pasien menjadi sulit berjalan\nRiwayat penyakit dahulu:\n Pasien terdiagnosa non-hodgkin lymphoma sejak desember 2024\n Sudah menjalani kemoterapi siklus kedua\n Riwayat kejang desember 2024\nRiwayat penyakit keluarga:\n Kakek pasien dari sisi ayah memiliki riwayat tumor kandung kemih"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 16,
+    "chunk_index": 0,
+    "text": "Assessment Gizi\nIntervensi Gizi Monitoring Evaluasi\nData Dasar Identifikasi Masalah Diagnosa Gizi\nhingga meninggal\nRiwayat kelahiran:\n Spontan 36 minggu\n BB lahir: 3,2 kg\n PB lahir: - (orangtua lupa dan tidak membawa buku KIA)\nRiwayat ASI:\nASI diiberikan hingga pasien berusia 3 tahun\nRiwayat imunisasi:\nRiwayat imunisasi pasien telah lengkap\nFarmakologi:  Hindari konsumsi\n IVFD C1:1 17 cc/jam, merupakan cairan infus yang terdiri dari grapefruit bersamaan\nD5% dan NS ½ yang digunakan untuk menjaga keseimbangan dengan\ncairan dan elektrolit pasien nicardipine,midalozam\ndan fentanyl karena\n IV Midazolam 1 mcg/kgBB/menit, merupakan obat sedatif yang\ndapat meningkatkan\ndigunakan untuk mengontrol kejang pada pasien critical ill\nkadar obat dalam\n IV Fentanyl 2 mcg/kgBB/jam, digunakan untuk mengurangi nyeri\ndarah\nyang sering digunakan pada pasien dengan ventilator atau\n Hindari konsumsi\nmengalami nyeri berat\nmakanan tinggi\n IV Nicardipine 1,5 mcg/kg/menit, merupakan antihipertensi yang\nn"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 16,
+    "chunk_index": 1,
+    "text": "ngurangi nyeri\ndarah\nyang sering digunakan pada pasien dengan ventilator atau\n Hindari konsumsi\nmengalami nyeri berat\nmakanan tinggi\n IV Nicardipine 1,5 mcg/kg/menit, merupakan antihipertensi yang\nnatrium pada saat\ndigunakan untuk mengontrol tekanan darah tinggi\nmengonsumsi\n IV Manitol 3x35 cc, digunakan untuk mengurangi tekanan nicardipine, clonidine\nintrakarnial akibat edema otak atau hidrosefalus karena dapat"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 17,
+    "chunk_index": 0,
+    "text": "Assessment Gizi\nIntervensi Gizi Monitoring Evaluasi\nData Dasar Identifikasi Masalah Diagnosa Gizi\n IV Meropenem 3x600 mg, merupakan antibiotik spektrum luas menurunkan\nuntuk mengatasi infeksi berat seperti pneumonia efektivitas obat dalam\nmenurunkan tekanan\n IV Paracetamol 4x150 mg, digunakan untuk menurunkan demam\ndarah\ndan mengurangi nyeri\n Hindari konsumsi\n IV Fenitoin 2x55 mg, merupakan anti epilepsi yang digunakan\nalkohol dan makanan\nuntuk mengontrol atau mencegah kejang\nyang asan jika\n IV Fenobarbital 2x45 mg, digunakan jika kejang pada pasien sulit\nmengonsumsi aspilet\ndikontrol\ndan paracetamol\n IV Omeprazol 1x10 mg, diberikan untuk melindungi lambung dari  Hindari konsumsi\niritasi atau perdarahan akibat stress atau obat lain makanan tinggi\n PO C 1 respul dan nebul NaCl 0,9% 3cc setiap 12 jam, digunakan kalsium saat\nuntuk melembabkan saluran napas dan membantu sekresi lendir mengonsumsi\n Clonidin 3x25 mcg, meropenem karena\ndapat mengganggu\n Po Spironolakton 2x6,25 mg, d"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 17,
+    "chunk_index": 1,
+    "text": "3cc setiap 12 jam, digunakan kalsium saat\nuntuk melembabkan saluran napas dan membantu sekresi lendir mengonsumsi\n Clonidin 3x25 mcg, meropenem karena\ndapat mengganggu\n Po Spironolakton 2x6,25 mg, digunakan untuk mengatasi gagal\npenyerapan obat\njantung atau hipertensi\n PO Zinc 1x20 mg, berfungsi untuk mendukung sistem imun dan\npenyembuhan luka\n PO Aspilet 1x20 mg, merupakan aspirin dosis rendah yang\ndigunakan untuk menurunkan demam dan mengurangi nyeri\n PO Acetazolamide 3x150 mg, membantu mengurangi produksi\ncairan serebrospinal pada hidrosefalus\n PO Asam folat 1x1 mg, mendukung pembentukan sele darah\nmerah dan fungsi saraf\n PO Asparka 2x300 mg, merupakan suplemen kalium dan"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 18,
+    "chunk_index": 0,
+    "text": "Assessment Gizi\nIntervensi Gizi Monitoring Evaluasi\nData Dasar Identifikasi Masalah Diagnosa Gizi\nmagnesium yang penting untuk menjaga keseimbangan elektrolit\ndana fungsi jantung\n PO Lactulosa 3x5 cc, merupakan laksatif osmotik untuk mengatasi\nkonnstipasi dan membantu menurunkan amonia pada pasien\ndengan gangguan hati\n PO Sucralfat 3x2,5 cc, sebagai pelindung mukosa lambung untuk\nmengobati tukak lambung\n Nebul venton, digunakan untuk melebarkan saluran nafas pada\npasien dengan gangguan pernapasan"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 19,
+    "chunk_index": 0,
+    "text": "2.2 Rencana Intervensi\nA. Terapi diet\n1. Tujuan\n Memberikan asupan makanan dan minuman jalur enteral (NGT)\ndan parenteral sesuai dengan kebutuhan agar kebutuhan energi\ndan zat gizi harian dapat terpenuhi.\n2. Prinsip\n Tatalaksana gizi buruk fase stabilisasi\n3. Syarat\n Energi diberikan sebesar 50% dari total kebutuhan energi atau\nsebesar 732,2 Kkal untuk mengatasi kegawatan dan mendukung\npemulihan kondisi klinis pasien serta mencegah komplikasi lebih\nlanjut\n Protein diberikan sebesar 50% dari total kebutuhan protein atau 13,8\ng untuk memperkuat sistem imun dan mendukung proses perbaikan\njaringan yang rusak akibat peradangan. Contoh bahan makanan\nyang dianjurkan seperti daging tanpa kulit, ikan, telur, susu dan\nolahannya. Selain itu protein nabati yang berasal dari kacang-\nkacangan dan olahannya juga direkomendasikan.\n Lemak diberikan sebesar 50% dari total kebutuhan lemak atau 20,3\ngram untuk mengurangi beban metabolisme karbohidrat yang bisa\nmeningkatkan produksi karbon dioksida (C"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 19,
+    "chunk_index": 1,
+    "text": "ahannya juga direkomendasikan.\n Lemak diberikan sebesar 50% dari total kebutuhan lemak atau 20,3\ngram untuk mengurangi beban metabolisme karbohidrat yang bisa\nmeningkatkan produksi karbon dioksida (Co ). Lemak jenis omega 3\n2\nlebih dianjurkan untuk kondisi pasien, dapat ditemukan pada ikan laut\nsegar (ikan kembung, ikan tongkol, ikan teri), serta kacang-kacangan\n(kacang tanah, kacang kedelai dan olahannya).\n Karbohidrat diberikan sebesar 50% dari total kebutuhan karbohidrat\natau 123,5 gram agar tidak membebani kerja pernafasan. Adapun\nsumber karbohidrat yang dianjurkan seperti nasi putih,kentang,\nsingkong, makaroni\n Cairan diberikan cukup sebesar 1190 ml untuk menjaga\nkeseimbangan cairan dan elektrolit pasien serta mengurangi risiko\nkomplikasi akibat dehidrasi. Cairan dapat diberikan melalui formula\nenteral dan parenteral (infus).\n Vitamin C 45 mg/hari untuk memperkuat sistem imun untuk melawan\ninfeksi, berfungsi sebagai antioksidan yang melindungi sel dari\nkerusakan, serta membant"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 19,
+    "chunk_index": 2,
+    "text": "lalui formula\nenteral dan parenteral (infus).\n Vitamin C 45 mg/hari untuk memperkuat sistem imun untuk melawan\ninfeksi, berfungsi sebagai antioksidan yang melindungi sel dari\nkerusakan, serta membantu penyerapan zat besi guna mencegah\nanemia."
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 20,
+    "chunk_index": 0,
+    "text": " Vitamin E diberikan 8 mcg/hari sebagai antioksidan yang membantu\nmelindungi sel dari peradangan dan stres oksidatif serta menjaga\nintegritas membran sel serta mendukung sistem imun agar lebih\noptimal dalam melawan infeksi.\n Zinc diberikan sebesar 5 mg/hari untuk mempercepat penyembuhan\njaringan, terutama dalam pemulihan paru pada pneumonia,\nmeningkatkan daya tahan tubuh terhadap infeksi, serta membantu\npertumbuhan dan perkembangan yang sering terganggu akibat\nkondisi gizi buruk.\n Asam folat diberikan sebesar 300 mcg/hari untuk membantu produksi\nsel darah merah untuk mencegah anemia, mendukung regenerasi\ndan pembelahan sel yang sangat dibutuhkan dalam proses\npemulihan jaringan tubuh, serta berkontribusi dalam menjaga fungsi\nsistem saraf.\n4. Perhitungan Kebutuhan Energi dan Zat Gizi\n Kebutuhan energi dan zat gizi dahulu\n1.) Kebutuhan energi (RDA)\nE = RDA x kg BBI\n= 80 x 17, 5\n= 1400 kkal\n2.) Kebutuhan Protein\n15% 𝑥 𝑡𝑜𝑡𝑎𝑙 𝑒𝑛𝑒𝑟𝑔𝑖\nP =\n4\n15% × 1400\n=\n4\n= 52, 5 g\n3.) Kebutuhan Lemak\n25% "
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 20,
+    "chunk_index": 1,
+    "text": "butuhan energi dan zat gizi dahulu\n1.) Kebutuhan energi (RDA)\nE = RDA x kg BBI\n= 80 x 17, 5\n= 1400 kkal\n2.) Kebutuhan Protein\n15% 𝑥 𝑡𝑜𝑡𝑎𝑙 𝑒𝑛𝑒𝑟𝑔𝑖\nP =\n4\n15% × 1400\n=\n4\n= 52, 5 g\n3.) Kebutuhan Lemak\n25% × 𝑡𝑜𝑡𝑎𝑙 𝑒𝑛𝑒𝑟𝑔𝑖\nL=\n9\n25% × 1400 𝑘𝑘𝑎𝑙\n=\n9\n= 38,9 g\n4.) Kebutuhan Karbohidrat\n60% × 𝑡𝑜𝑡𝑎𝑙 𝑒𝑛𝑒𝑟𝑔𝑖\nKH=\n4\n60% × 1400 𝑘𝑘𝑎𝑙\n=\n4\n= 210 g\n5.) Cairan\nCairan = 1000 ml + 50/kg BB"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 21,
+    "chunk_index": 0,
+    "text": "= 1000 + 50 x 3,8\n= 1190 ml\n Kebutuhan energi dan zat gizi sekarang\n1.) Kebutuhan energi (schofield)\nREE = (16,97 x BB) + (1,61 x TB) + 371,2\n= (16,97 x 13,8) + (1,61 x 106) + 371,2\n= 776,9 kkal\nTEE = REE x FA x FS\n= 776,9 x 1,3 x 1,45\n= 1464,5\n2.) Kebutuhan Protein\nP= 2 g x kg BB\n= 2 x 13,8\n= 27,6 g (7,5%)\n3.) Kebutuhan Lemak\n25% × 𝑡𝑜𝑡𝑎𝑙 𝑒𝑛𝑒𝑟𝑔𝑖\nL=\n9\n25% × 1464,5 𝑘𝑘𝑎𝑙\n=\n9\n= 40,7 g\n4.) Kebutuhan Karbohidrat\n67,5% × 𝑡𝑜𝑡𝑎𝑙 𝑒𝑛𝑒𝑟𝑔𝑖\nKH =\n4\n67,5% × 1464,5 𝑘𝑘𝑎𝑙\n=\n4\n= 247,1 g\n5.) Cairan\nCairan = 1000 ml + 50/kg BB\n= 1000 + 50 x 3,8\n= 1190 ml\n Fase stabilisasi (50% kebutuhan energi dan zat gizi)\n1.) Kebutuhan energi (schofield)\nE = 50% x total energi\n= 50% x 1464,5\n= 732,2 kkal\n2.) Kebutuhan Protein\nP = 50% x total protein\n= 50% x 27,6\n= 13,8 g\n3.) Kebutuhan Lemak\nL = 50% x total lemak\n= 50% x 40,7\n= 20,3 g"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 22,
+    "chunk_index": 0,
+    "text": "4.) Kebutuhan Karbohidrat\nKH = 50% x total karbohidrat\n= 50% x 247,1\n= 123,5 g\n Fase Transisi (75% kebutuhan energi dan zat gizi)\n1.) Kebutuhan energi (schofield)\nE = 75% x total energi\n= 75% x 1464,5\n= 1098,4 kkal\n2.) Kebutuhan Protein\nP = 75% x total protein\n= 75% x 27,6\n= 20,7 g\n3.) Kebutuhan Lemak\nL = 75% x total lemak\n= 75% x 40,7\n= 30,5 g\n4.) Kebutuhan Karbohidrat\nKH = 75% x total karbohidrat\n= 75% x 247,1\n= 185,3 g\n Fase Rehabilitasi (100% kebutuhan energi dan zat gizi)\n1.) Kebutuhan energi (schofield)\nE = 1464,5 kkal\n2.) Kebutuhan Protein\nP= 27,6 g\n3.) Kebutuhan Lemak\nL= 40,7 g\n4.) Kebutuhan Karbohidrat\nKH = 247,1 g\nB. Terapi Edukasi\n1. Tujuan\n Meningkatkan pengetahuan orangtua pasien terkait rekomendasi\ndiet yang tepat untuk pasien dan cara pengaplikasian diet dalam\nkehidupan sehari-hari.\n2. Tanggal dan Waktu Pelaksanaan\nHari/tanggal : Kanis, <TGL>\nWaktu : 10.00 – 10.15 WIB\nTempat : Ruang Krakatau\n3. Sasaran\nOrangtua pasien\n4. Metode, Media, dan Materi"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 23,
+    "chunk_index": 0,
+    "text": "a.) Metode\nMetode yang digunakan pada kegiatan edukasi ialah ceramah\ndan tanya jawab.\nb.) Media\nMedia yang digunakan pada kegiatan ini berupa media cetak\n(leaflet).\nc.) Materi\n Penjelasan terkait diet cair dan TETP\n Bahan makanan yang dihindari dan dianjurkan\n Cara pemberian makanan cair sesuai dengan petunjuk label\nsusu yang digunakan\n Contoh menu sehari dan pembagian porsi\nd.) Target Indikator\n\n[TABLE 0]\n | Aspek |  |  | Penilaian | \n--------------------------------------------------------------------------------\nDapat menjelaskan tujuan dari pemberian\ndiet cair TETP |  |  | 20 |  | \nDapat menyebutkan 3 contoh bahan\nmakanan yang dianjurkan |  |  | 20 |  | \nDapat menjelaskan kembali porsi makan\nsesuai dengan kondisi pasien |  |  | 20 |  | \nDapat menjelaskan manfaat penerapan\ndiet yang direkomendasikan |  |  | 20 |  | \nPasien dapat menyebutkan contoh menu\nseimbang 1 kali makan yang dapat\nditerapkan di rumah |  |  | 20 |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 24,
+    "chunk_index": 0,
+    "text": "BAB III\nHASIL IMPLEMENTASI DAN MONITORING EVALUASI\n3.1 Form Monitoring dan Evaluasi\nMonitoring Evaluasi dan Tindak Lanjut\nNama : <NAMA>\nJenis Kelamin : Perempuan\nUsia : 7 tahun 9 bulan\nNo. Registrasi : <NO_REG>\nDiagnosa Medis : Respiratory Failure ok Intracarnial Process, Pneumonia, Meningitis Bakterialis, Non-Hodgkin Lymphoma on\nChemoterapy, Hemiparese Dextra ok Infark Subakut Temporoparietal Sinistra dd Mild Communicating\nHidrosefalus Sinistra, Sinusitis Etmoidalis, Sphenoidalis Bilateral Dan Hipertensi Stage II\n\n[TABLE 0]\nMonev ke- | Antropometri | Biokimia | Fisik Klinis |  | Asupan |  | Edukasi Gizi |  | Identifikasi Masalah |  |  | Diagnosa |  | Rencana Tindak Lanjut\n--------------------------------------------------------------------------------\n |  |  |  |  | makan |  |  |  | Baru |  |  | Gizi Baru |  | \n1 (<TGL>) | - |  Eritrosit=\n3,84 106/uL (↓)\n Leukosit=\n15,39 103/uL\n(↑)\n Hematokrit=\n29,30 % (↓)\n Trombosit=\n556103/uL (↑) |  KU= lemah\n GCS= 1x2\n RR= 28 x/meni"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 24,
+    "chunk_index": 1,
+    "text": "  |  | Gizi Baru |  | \n1 (<TGL>) | - |  Eritrosit=\n3,84 106/uL (↓)\n Leukosit=\n15,39 103/uL\n(↑)\n Hematokrit=\n29,30 % (↓)\n Trombosit=\n556103/uL (↑) |  KU= lemah\n GCS= 1x2\n RR= 28 x/menit\n HR= 150\nx/menit\n Suhu= 36,8 °C\n TD= 121/92\nmmHg\n SPO2= 100% |  E= 474,7\nKkal\n(64,8%)\n P= 13,3 g\n(96,4%)\n L=27,2 g\n(133,9%)\n KH= 49,2g\n(39,7%) |  |  | - | Pemenuhan asupan\nmakanan enteral dan\nparenteral pasien\nmasih 60% dari\nkebutuhan |  |  | - |  |  |  Melanjutkan intervensi\ndengan pemberian\nformula enteral F100\n8x55 cc (440 cc/24 jam)\ndan nutrisi parenteral\nberupa infus c 1: 1 (D5%\ndan ½ NS, 17 cc/jam)\n[END TABLE]"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 25,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nMonev ke- | Antropometri | Biokimia | Fisik Klinis |  | Asupan |  | Edukasi Gizi |  | Identifikasi Masalah |  |  | Diagnosa |  | Rencana Tindak Lanjut\n--------------------------------------------------------------------------------\n |  |  |  |  | makan |  |  |  | Baru |  |  | Gizi Baru |  | \n |  |  MCHC= 37,2\ng/dL (↑)\n Neutrofil= 80\n% (↑)\n Limfosit=\n12,3 (↓) |  UT= 1500 ml\n Sesak (+)\n Batuk (-)\n Mual (-)\n Muntah (-)\n Diare (-)\n Tampilan fisik=\ntampak sangat\nkurus, Nampak\niga gambang\ndan perut\ncekung |  Cairan=\n848 ml (71,\n3%) |  |  |  |  |  |  |  |  |  | \n2 (<TGL>) | - | - |  KU= lemah\n GCS= 1x2\n RR= 30 x/menit\n HR= 145\nx/menit\n Suhu= 36,8 °C\n TD= 157/116\nmmHg\n SPO2= 100%\n UT=900 ml\n Sesak (+)\n Batuk (-) |  E= 474,7\nKkal\n(64,8%)\n P= 13,3 g\n(96,4%)\n L=27,2 g\n(133,9%)\n KH= 49,2g\n(39,7%)\n Cairan=\n848 ml (71,\n3%) |  |  | - | - |  |  | - |  |  | Melanjutkan intervensi\ndengan menaikkan\npemberian formula enteral\nF100 8x80 cc (640 cc/24\njam) dan n"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 25,
+    "chunk_index": 1,
+    "text": ")\n L=27,2 g\n(133,9%)\n KH= 49,2g\n(39,7%)\n Cairan=\n848 ml (71,\n3%) |  |  | - | - |  |  | - |  |  | Melanjutkan intervensi\ndengan menaikkan\npemberian formula enteral\nF100 8x80 cc (640 cc/24\njam) dan nutrisi parenteral\nberupa infus c 1: 1 (D5%\ndan ½ NS, 1 cc/jam)\n[END TABLE]"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 26,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nMonev ke- | Antropometri | Biokimia | Fisik Klinis |  | Asupan |  | Edukasi Gizi |  | Identifikasi Masalah |  |  | Diagnosa |  | Rencana Tindak Lanjut\n--------------------------------------------------------------------------------\n |  |  |  |  | makan |  |  |  | Baru |  |  | Gizi Baru |  | \n |  |  |  Mual (-)\n Muntah (-)\n Diare (-)\n Tampilan fisik=\ntampak sangat\nkurus, Nampak\niga gambang\ndan perut\ncekung |  |  |  |  |  |  |  |  |  |  | \n3 (<TGL>) |  LILA= 14 cm\n LK= 49,5 cm | - |  KU= lemah\n GCS= 1x2\n RR= 30 x/menit\n HR= 140\nx/menit\n Suhu= 36,8 °C\n TD= 123/84\nmmHg\n SPO2= 100%\n UT= 550 ml\n Sesak (+)\n Batuk (-)\n Mual (-)\n Muntah (-)\n Diare (-) |  E= 646,8\nKkal\n(88,3%)\n P= 19,4 g\n(140,6%)\n L=39,5 g\n(194,6%)\n KH= 56,8g\n(45,9%)\n Cairan=\n869 ml (7\n3%) |  |  | Edukasi secara\nlengkap terkait\ndefinisi dan tujuan\npemberian diet cair\ndan TETP, contoh\nbahan makanan\nyang dianjurkan\ndan tidak\ndianjurkan, contoh\nmenu sehari untuk\ndirumah serta cara\npenggu"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 26,
+    "chunk_index": 1,
+    "text": ") |  |  | Edukasi secara\nlengkap terkait\ndefinisi dan tujuan\npemberian diet cair\ndan TETP, contoh\nbahan makanan\nyang dianjurkan\ndan tidak\ndianjurkan, contoh\nmenu sehari untuk\ndirumah serta cara\npenggunaan DBMP | - |  |  | - |  |  |  Melanjutkan intervensi\ndengan menaikkan\nvolume pemberian\nformula enteral F100\nmenjadi 8x140 cc (1120\ncc/24 jam) dan nutrisi\nparenteral berupa infus c\n1: 1 (D5% dan ½ NS, 1\ncc/jam)\n Memberitahu kepada\npasien jika ada sesuatu\nyang kurang dipahami\nterkait implementasi\npenerapan diet pada\nmenu sehari-hari dapat\nmenghubungi melalui\nwhatsapp atau datang\n[END TABLE]"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 27,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nMonev ke- | Antropometri | Biokimia | Fisik Klinis |  | Asupan |  | Edukasi Gizi |  | Identifikasi Masalah |  |  | Diagnosa |  | Rencana Tindak Lanjut\n--------------------------------------------------------------------------------\n |  |  |  |  | makan |  |  |  | Baru |  |  | Gizi Baru |  | \n |  |  |  Tampilan fisik=\ntampak sangat\nkurus, Nampak\niga gambang\ndan perut\ncekung |  |  |  |  |  |  |  |  |  |  | secara langsung ke poli\ngizi\n[END TABLE]"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 28,
+    "chunk_index": 0,
+    "text": "BAB IV\nPEMBAHASAN\n1.1 Skrining Gizi\nPengumpulan data dilakukan pada tanggal <TGL>. An. N\nberjenis kelamin Perempuan dan berusia 7 tahun 9 bulan. Pasien merupakan\nanak kedua dari dua bersaudara. Pasien tinggal bersama ayah, ibu dan\nkakaknya. Pasien dirawat di rumah sakit sejak tanggal <TGL>\ndengan keluhan demam sejak hari SMRS, batuk tidak berdahak dan pilek,\nmata kanan bengkak dan tidak bisa melihat, tidak dapat berkomunikasi\ndengan lancer, mual dan muntah 2x/hari serta tidak mau makan namun masih\nmau minum.\nHasil skrining gizi menggunakan form STRONGKIDs menunjukkan\nskor 4 dengan interpretasi risiko tinggi malnutrisi. STRONGKIDs (Screening\nTool for Risk On Nutritional status and Growth in Kids) adalah alat skrining\nyang dirancang untuk mengevaluasi risiko malnutrisi pada anak-anak di\nrumah sakit. Alat ini mencakup beberapa aspek, termasuk riwayat penyakit,\nasupan makanan, gejala gastrointestinal, serta status nutrisi fisik (Meral, et al.,\n2025). Selain itu, skrining "
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 28,
+    "chunk_index": 1,
+    "text": " anak-anak di\nrumah sakit. Alat ini mencakup beberapa aspek, termasuk riwayat penyakit,\nasupan makanan, gejala gastrointestinal, serta status nutrisi fisik (Meral, et al.,\n2025). Selain itu, skrining gizi dengan form PYMS memberikan skor 3, yang\njuga menunjukkan bahwa pasien memiliki risiko malnutrisi. Tools ini menilai\nbeberapa parameter, seperti status berat badan terhadap usia, perubahan\nberat badan dalam waktu dekat, durasi asupan makanan yang tidak adekuat,\ndan tingkat keparahan penyakit (Gysi et al., 2022).\nSTRONGKIDs memiliki sensitivitas 60,9% dan spesifisitas 96,4%,\nsedangkan tools PYMS memiliki nilai spesifisitas yang sama dengan\nSTRONGKIDs yaitu 96,4%. Namun PYMS memiliki nilai sensitivitas yang\nlebih tinggi yaitu 79,7%. Pada kasus ini, skrining gizi menggunakan tools\nSTRONGKIDs dan PYMS memastikan bahwa risiko malnutrisi tidak terlewat,\nterutama karena kondisi ini sering menyebabkan peningkatan kebutuhan\nmetabolik dan penurunan asupan makanan. Namun PYMS memberikan\npenilaia"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 28,
+    "chunk_index": 2,
+    "text": " dan PYMS memastikan bahwa risiko malnutrisi tidak terlewat,\nterutama karena kondisi ini sering menyebabkan peningkatan kebutuhan\nmetabolik dan penurunan asupan makanan. Namun PYMS memberikan\npenilaian yang lebih rinci, sehingga dengan sensitivitas dan spesifisitas yang\nlebih tinggi dapat membantu menghindari overdiagnosis risiko malnutrisi dan\ndirekomendasikan untuk mendiagnosis risiko malnutrisi dengan tepat (Meral,\net al., 2025).\n1.2 Pemeriksaan Antropometri"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 29,
+    "chunk_index": 0,
+    "text": "Pengkajian status gizi antropometri dilakukan menggunakan\npengukuran berat badan, tinggi badan, LILA (Lingkar Lengan Atas) dan lingkar\nkepala. Berdasarkan perhitungan status gizi dengan grafik cdc 2000 pada\nparameter BB/U didapatkan Kesimpulan bahwa An. N memiliki berat badan\nyang sangat kurang (<P5 atau 55,2%). Kemudian jika dilihat dari parameter\nTB/U pasien memiliki tinggi badan yang pendek (<P5 atau 80,3%). Sedangkan\nstatus gizi pasien berdasarkan parameter LLA/U termasuk ke dalam kategori\ngizi buruk dengan hasil LLA/U kurang dari persentil 5. Selama 3 hari\nmonitoring dan evaluasi, pengukuran antropometri ulang dilakukan pada hari\nketiga dimana hanya dapat mengukur ulang LILA dan lingkar kepala pasien\ndan didapatkan hasil 14 cm dan 49,5 cm. Hal ini disebabkan oleh pemasangan\nalat medis yang esensial untuk stabilisasi kondisi pasien, seperti ventilator\nmekanik, infus, dan alat monitoring vital lainnya. Kondisi ini menghambat\npenggunaan metode standar seperti penimbangan berat badan "
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 29,
+    "chunk_index": 1,
+    "text": " yang esensial untuk stabilisasi kondisi pasien, seperti ventilator\nmekanik, infus, dan alat monitoring vital lainnya. Kondisi ini menghambat\npenggunaan metode standar seperti penimbangan berat badan dan\npengukuran panjang/tinggi badan (Khademi, et al., 2019).\nPasien dengan defisiensi energi kronis cenderung mengalami\npenurunan massa otot dan lemak tubuh akibat defisit energi yang\nberkepanjangan. Dalam kondisi ini, tubuh mulai menggunakan cadangan\nprotein dan lemak sebagai sumber energi utama, menyebabkan wasting yang\nsangat nyata. Penurunan massa otot, atau kacheksia, menjadi lebih dominan\ndibandingkan kehilangan lemak tubuh. Hal ini menyebabkan pasien tampak\nsangat kurus dengan otot yang lemah, yang pada gilirannya meningkatkan\nrisiko infeksi dan memperlambat pemulihan klinis (Trigui, et al., 2023). Selain\nitu, gangguan pertumbuhan linear sering terjadi pada pasien anak yang\nmengalami gizi buruk dalam jangka waktu lama. Stunting, atau pertumbuhan\ntinggi badan yang terhambat, merupaka"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 29,
+    "chunk_index": 2,
+    "text": " al., 2023). Selain\nitu, gangguan pertumbuhan linear sering terjadi pada pasien anak yang\nmengalami gizi buruk dalam jangka waktu lama. Stunting, atau pertumbuhan\ntinggi badan yang terhambat, merupakan indikator dari defisiensi zat gizi yang\nberlangsung kronis. Kondisi ini tidak hanya berdampak pada pertumbuhan\nfisik anak, tetapi juga berpengaruh pada perkembangan organ serta fungsi\nkognitif. Anak yang mengalami stunting memiliki risiko lebih tinggi terhadap\nberbagai penyakit infeksi, gangguan perkembangan saraf, serta\nberkurangnya kapasitas kerja dan kualitas hidup di masa depan. Dalam\nkondisi kritis, kebutuhan metabolik tubuh meningkat drastis akibat stres\npenyakit. Tubuh memasuki kondisi hipermetabolik, di mana lebih banyak\nenergi dibakar untuk mempertahankan fungsi organ vital. Tanpa asupan nutrisi\nyang mencukupi, terjadi ketidakseimbangan energi yang ekstrem yang"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 30,
+    "chunk_index": 0,
+    "text": "mempercepat wasting dan meningkatkan risiko hipotermia, hipotensi, bahkan\nkegagalan organ (Dipasquale, et al., 2020).\n1.3 Pemeriksaan Laboratorium\nPada saat asesmen yaitu pada tanggal <TGL> terdapat data\nlaboratorium pada rekam medis yang pemeriksaannya dilakukan pada tanggal\n<TGL> dimana berdasarkan data tersebut diketahui hasil laboratorium\nyang abnormal diantaranya basophil (%) ↑, pCO2 ↓, pO2 ↑ dan Kelebihan\nbasa (BE) ↑. Peningkatan basofil dalam darah menandakan adanya proses\ninflamasi yang dapat berkaitan dengan penyakit infeksi seperti pneumonia,\nmeningitis bakterialis, atau bahkan efek dari kemoterapi akibat Non-Hodgkin\nLymphoma. Peradangan kronis yang terjadi dalam tubuh dapat menyebabkan\naktivasi sistem imun yang berlebihan, sehingga meningkatkan kadar basofil\nsebagai respons terhadap infeksi atau penyakit yang sedang berlangsung\n(Bax et al., 2020)\nSelain itu, hasil pemeriksaan menunjukkan kadar pCO2 yang rendah,\nyang mengindikasikan adanya hiperventilasi. Kond"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 30,
+    "chunk_index": 1,
+    "text": "gai respons terhadap infeksi atau penyakit yang sedang berlangsung\n(Bax et al., 2020)\nSelain itu, hasil pemeriksaan menunjukkan kadar pCO2 yang rendah,\nyang mengindikasikan adanya hiperventilasi. Kondisi ini dapat terjadi akibat\ngangguan pernapasan yang dialami pasien, seperti pada kasus pneumonia\nberat atau gagal napas. Pasien dengan gangguan pada sistem saraf pusat,\nseperti infark subakut temporoparietal atau meningitis, juga dapat mengalami\ngangguan regulasi pernapasan yang menyebabkan pCO2 turun. Hal ini\nmenunjukkan adanya gangguan dalam sistem pertukaran gas, yang jika tidak\nsegera ditangani dapat memperburuk kondisi pasien (Wong et al., 2022). Di\nsisi lain, kadar pO2 yang meningkat bisa disebabkan oleh pemberian terapi\noksigen untuk mempertahankan saturasi oksigen dalam darah (De Carvalho\net al., 2020). Selain itu, hasil laboratorium menunjukkan adanya kelebihan\nbasa (BE) yang meningkat, yang mengarah pada kondisi alkalosis metabolik.\nKondisi ini bisa terjadi akibat kompensasi tu"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 30,
+    "chunk_index": 2,
+    "text": "valho\net al., 2020). Selain itu, hasil laboratorium menunjukkan adanya kelebihan\nbasa (BE) yang meningkat, yang mengarah pada kondisi alkalosis metabolik.\nKondisi ini bisa terjadi akibat kompensasi tubuh terhadap gangguan\npernapasan kronis atau kehilangan cairan yang signifikan (Do, et al., 2022).\nSelama monitoring dan evaluasi berjalan, terdapat asil pemeriksaan\nlaboratorium terbaru di hari pertama monev yaitu tanggal <TGL>.\nBerdasarkan hasil lab terbaru, terdapat beberapa parameter lain yang\nbermasalah yaitu Eritrosit ↓, Leukosit ↑, Hematokrit ↓, Trombosit ↑, MCHC ↑,\nNeutrofil ↑, dan Limfosit ↓. Penurunan eritrosit dan hematokrit tetap\nmenunjukkan adanya anemia, yang bisa terjadi akibat infeksi kronis, inflamasi\nberkepanjangan, atau gangguan produksi sel darah merah di sumsum tulang"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 31,
+    "chunk_index": 0,
+    "text": "akibat Non-Hodgkin Lymphoma (Trisnawati, et al., 2023). Peningkatan\nleukosit dan neutrofil, serta penurunan limfosit, menunjukkan bahwa tubuh\nsedang melawan infeksi. Infeksi berat ini dapat memicu respons inflamasi\nsistemik, yang menyebabkan pergeseran leukosit ke arah neutrofil,\nsedangkan limfosit menurun karena tertekan oleh infeksi atau inflamasi yang\nberlebihan (Yusran, 2023). Kenaikan trombosit bisa merupakan respons tubuh\nterhadap peradangan atau hipoksia kronis akibat gangguan pernapasan\n(Wang dan Zhang, 2024). Peningkatan MCHC mengindikasikan eritrosit yang\nmengandung lebih banyak hemoglobin, yang dapat terjadi sebagai respons\nterhadap hipoksia kronis akibat gangguan pernapasan. Hal ini juga bisa\nmenjadi tanda adanya stres oksidatif atau perubahan dalam produksi sel\ndarah merah (Sanskriti et al., 2023).\n1.4 Pemeriksaan Fisik Klinis\nHasil pemantauan dan evaluasi klinis fisik pasien selama intervensi\nmenunjukkan bahwa pasien berada dalam kondisi umum (KU) yang lemah,\ndengan penur"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 31,
+    "chunk_index": 1,
+    "text": "nskriti et al., 2023).\n1.4 Pemeriksaan Fisik Klinis\nHasil pemantauan dan evaluasi klinis fisik pasien selama intervensi\nmenunjukkan bahwa pasien berada dalam kondisi umum (KU) yang lemah,\ndengan penurunan tingkat kesadaran yang signifikan berdasarkan skor\nGlasgow Coma Scale (GCS) 1x2, yang menandakan gangguan neurologis\nberat. Hal ini dapat dikaitkan dengan kondisi Intracranial Process, Infark\nSubakut Temporoparietal Sinistra, atau Mild Communicating Hidrosefalus\nSinistra, yang dapat menyebabkan peningkatan tekanan intrakranial dan\ndisfungsi otak. Dari sisi respirasi, pasien mengalami takikardia (HR 135\nx/menit) dan hipertensi stage II (134/93 mmHg). Kombinasi dari tanda-tanda\nini dapat mengindikasikan distress kardiovaskular akibat Respiratory Failure\nyang mungkin disebabkan oleh Pneumonia atau Meningitis Bakterialis, yang\nkeduanya dapat menyebabkan hipoksia dan gangguan perfusi otak.\nPemeriksaan menunjukkan sesak napas, yang semakin memperkuat\nkemungkinan adanya gagal napas akibat Pn"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 31,
+    "chunk_index": 2,
+    "text": "a atau Meningitis Bakterialis, yang\nkeduanya dapat menyebabkan hipoksia dan gangguan perfusi otak.\nPemeriksaan menunjukkan sesak napas, yang semakin memperkuat\nkemungkinan adanya gagal napas akibat Pneumonia, atau komplikasi dari\nSinusitis Etmoidalis dan Sphenoidalis Bilateral, yang dapat menyebabkan\ninfeksi sekunder dan gangguan pernapasan. Saturasi oksigen yang tetap\n100% terjadi karena pasien mendapat oksigen tambahan menggunakan\nventilator, namun tetap harus diwaspadai risiko hipoksia jaringan akibat\ngangguan perfusi. Dari segi tampilan fisik, pasien tampak sangat kurus\ndengan gambaran iga yang menonjol dan perut cekung, yang\nmengindikasikan malnutrisi berat. Hal ini dapat dikaitkan dengan Non-Hodgkin\nLymphoma on Chemotherapy, karena pasien yang menjalani kemoterapi"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 32,
+    "chunk_index": 0,
+    "text": "sering mengalami penurunan nafsu makan, malabsorpsi nutrisi, serta\npeningkatan katabolisme tubuh. Malnutrisi juga dapat memperburuk daya\ntahan tubuh pasien, meningkatkan risiko infeksi oportunistik seperti\nPneumonia atau Meningitis Bakterialis. Selain itu, adanya Hemiparese Dextra\nmenunjukkan gangguan neurologis yang signifikan, yang dapat berkaitan\ndengan Infark Subakut Temporoparietal Sinistra. Gangguan motorik ini bisa\nmenyebabkan pasien tidak mampu membersihkan jalan napas dengan efektif,\nmeningkatkan risiko aspirasi dan memperburuk gagal napas.\nSelama monitoring dan evaluasi berlangsung, pasien masih dalam\nkeadaan yang lemah dengan skor GCS 1x2. Pasien juga masih mengalami\nsesak. Tekanan darah pasien mengalami fluktuasi naik dan turun, yang dapat\nmengindikasikan ketidakstabilan sistem kardiovaskular. Selain itu, pasien\nmengalami takikardia dengan HR 135 x/menit pada awal pemeriksaan.\nSelama tiga hari pemantauan, heart rate mengalami penurunan dari 150\nx/menit menjadi 140 x/menit, "
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 32,
+    "chunk_index": 1,
+    "text": " kardiovaskular. Selain itu, pasien\nmengalami takikardia dengan HR 135 x/menit pada awal pemeriksaan.\nSelama tiga hari pemantauan, heart rate mengalami penurunan dari 150\nx/menit menjadi 140 x/menit, meskipun masih berada dalam kategori\ntakikardia. Penurunan ini dapat mengindikasikan adanya respons tubuh\nterhadap terapi yang diberikan, meskipun tetap menunjukkan adanya beban\nkerja jantung yang meningkat\n1.5 Asupan Makanan\nPemenuhan kebutuhan energi dan zat gizi pasien dilakukan dengan\npemberian diet cair F100 melalui NGT dengan frekuensi 8 x 55cc pada hari\npertama intervensi dan pada hari kedua, sedangkan pada ketiga intervensi\nvolume pemberian ditingkatkan menjadi 8 x 80cc. Pemberian makanan enteral\nini dilakukan karena adanya kondisi pasien yang sempat mengalami\nperdarahan pada upper GI dan kondisi pasien yang mengalami penurunan\ntingkat kesadaran. Hasil monitoring dan evaluasi, pemenuhan energi dan zat\ngizi pasien 100% didapatkan dari pemberian susu. Pada hari pertama dan\nmonitoring"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 32,
+    "chunk_index": 2,
+    "text": "dan kondisi pasien yang mengalami penurunan\ntingkat kesadaran. Hasil monitoring dan evaluasi, pemenuhan energi dan zat\ngizi pasien 100% didapatkan dari pemberian susu. Pada hari pertama dan\nmonitoring dan evaluasi, asupan energi pasien melalui pemberian nutrisi\nenteral dan parenteral hanya mampu mencukupi 60% dari kebutuhan energi\nperhari pasien. Sedangkan pada hari ketiga, asupan energi meningkat hingga\n88,3% dari kebutuhan. Hal ini dapat dipengaruhi oleh adanya perbaikan\ngastrointestinal pada pasien sehingga dapat dilakukan peningkatan volume\ndari makanan enteral yang diberikan. Begitu pula dengan asupan protein,\nlemak, karbohidrat, dan cairan selama monitoring dan evaluasi selama tiga"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 33,
+    "chunk_index": 0,
+    "text": "hari telah menunjukkan adanya peningkatan dan telah memenuhi target\nasupan 50%.\nPada pasien anak dengan gizi buruk, pemberian makanan terapeutik\nseperti F100 merupakan bagian penting dalam tata laksana gizi buruk. Dalam\nkasus ini, peningkatan volume pemberian F100 dari 8 x 55 cc menjadi 8 x 80\ncc, hingga akhirnya direncanakan mencapai 8 x 140 cc, dilakukan secara\nbertahap seiring dengan perbaikan kondisi klinis pasien. Pada awalnya,\npemberian F100 dalam volume kecil (8 x 55 cc) dilakukan untuk memastikan\ntoleransi pasien, mencegah diare osmotik, serta menghindari beban metabolik\nyang berlebihan. Seiring dengan stabilisasi fungsi kardiovaskular dan\npencernaan, volume pemberian dapat ditingkatkan secara bertahap untuk\nmencukupi kebutuhan energi dan mempercepat pemulihan. Peningkatan\nvolume pemberian F100 pada pasien ini menunjukkan bahwa pasien dapat\nmentoleransi asupan yang lebih tinggi. Hal ini menandakan perbaikan fungsi\npencernaan, adaptasi metabolik, serta kesiapan tubuh untuk masuk"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 33,
+    "chunk_index": 1,
+    "text": "emberian F100 pada pasien ini menunjukkan bahwa pasien dapat\nmentoleransi asupan yang lebih tinggi. Hal ini menandakan perbaikan fungsi\npencernaan, adaptasi metabolik, serta kesiapan tubuh untuk masuk ke fase\nrehabilitasi dengan target kenaikan berat badan optimal.\n1.6 Edukasi Gizi\nSetelah diberikan intervensi edukasi terdapat peningkatan\npengetahuan pada orangtua pasin sebanyak 80%. Konten edukasi yang\ndiberikan kepada pasien berupa pengertian dan tujuan dari pemberian diet\ncair dan TETP. Selain itu, contoh bahan makanan yang dianjurkan dan tidak\ndianjurkan juga diberikan kepada pasien beserta contoh menu sehari yang\ntelah disesuaikan dengan kebutuhan energi dan zat gizi perhari pasien.\nEdukasi gizi juga memberikan wawasan tentang pentingnya pemberian\nprotein tinggi seperti ikan, daging tanpa lemak, telur, tahu, dan tempe serta\nbahan makanan yang dapat meningkatkan imunitas tubuh untuk membentuk\nkomponen utama sistem imun, seperti antibodi, yang membantu melawan\npatogen penyebab infek"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 33,
+    "chunk_index": 2,
+    "text": "anpa lemak, telur, tahu, dan tempe serta\nbahan makanan yang dapat meningkatkan imunitas tubuh untuk membentuk\nkomponen utama sistem imun, seperti antibodi, yang membantu melawan\npatogen penyebab infeksi (Mamahit et al., 2022).\nSelain itu, edukasi gizi terkait bentuk makanan dirumah dapat\ndisesuaikan. Saat ini, pasien telah menunjukkan kemampuan untuk\nmenerima asupan makanan cair dalam jumlah yang lebih banyak, Edukasi\ndapat difokuskan pada pentingnya memberikan makanan dengan kandungan\nenergi dan protein tinggi untuk tumbuh kejar anak, seperti susu formula\nkhusus atau makanan cair bernutrisi yang telah direkomendasikan oleh\ntenaga medis. Selain itu, jika pasien masih mengalami kesulitan dalam"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 34,
+    "chunk_index": 0,
+    "text": "menerima makanan padat, maka perlu dijelaskan kepada orangtua mengenai\npentingnya pemberian makanan dalam bentuk cair atau semi-padat yang\ntetap kaya nutrisi. Dalam memberikan makanan, orangtua juga perlu\nmemperhatikan tanda-tanda intoleransi seperti muntah, diare, atau kembung,\nyang bisa menandakan bahwa sistem pencernaan pasien belum siap\nmenerima peningkatan asupan. Jika hal ini terjadi, maka pemberian makanan\nharus dilakukan lebih bertahap dan dengan pemantauan ketat oleh tim medis.\nSelain itu, hidrasi juga menjadi hal yang penting untuk diperhatikan guna\nmencegah dehidrasi, terutama karena pasien sebelumnya mengalami kondisi\nhemodinamik yang tidak stabil.\nSetelah diberikan edukasi mengenai makanan cair yang tinggi energi\ndan tinggi protein untuk anak dengan gizi buruk, terjadi peningkatan\npengetahuan yang signifikan pada orangtua pasien. Hal ini dibuktikan dengan\nhasil evaluasi pemahaman, di mana 80% orangtua mampu menjawab dengan\nbenar minimal 4 dari 5 pertanyaan yang diberikan. "
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 34,
+    "chunk_index": 1,
+    "text": "atan\npengetahuan yang signifikan pada orangtua pasien. Hal ini dibuktikan dengan\nhasil evaluasi pemahaman, di mana 80% orangtua mampu menjawab dengan\nbenar minimal 4 dari 5 pertanyaan yang diberikan. Edukasi yang disampaikan\nmencakup pemahaman tentang jenis makanan yang direkomendasikan,\nkandungan energi dan protein yang dibutuhkan, cara pengolahan yang tepat,\nserta pentingnya pemberian makanan sesuai dengan kondisi anak. Dengan\nmeningkatnya pemahaman ini, diharapkan orangtua dapat menerapkan pola\npemberian makanan yang sesuai untuk mempercepat perbaikan status gizi\nanak mereka."
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 35,
+    "chunk_index": 0,
+    "text": "BAB V\nPENUTUP\n5.1 Kesimpulan\nPasien An. N berusia 7 tahun 9 bulan, dengan diagnosa Respiratory\nFailure ok Intracarnial Process, Pneumonia, Meningitis Bakterialis, Non-\nHodgkin Lymphoma on Chemoterapy, Hemiparese Dextra ok Infark Subakut\nTemporoparietal Sinistra dd Mild Communicating Hidrosefalus Sinistra,\nSinusitis Etmoidalis, Sphenoidalis Bilateral Dan Hipertensi Stage II\nmenunjukkan risiko malnutrisi berdasarkan hasil skrining gizi menggunakan\nSTRONGKIDs dan PYMS. Status gizi pasien termasuk kategori gizi buruk\n(LLA/U <P5) dengan perawakan pendek dan berat badan yang sangat kurang.\nIntervensi yang diberikan kepada An. N adalah diet cair F100 dengan\nfrekuensi 8x55 cc melalui NGT yang terus ditingkatkan secara bertahap\nmenjadi 8x80 cc pada hari ketiga. Selain itu dari intervensi edukasi yang\ndilakukan pada orangtua pasien juga telah terdapat peningkatan sebanyak\n80%.\n5.2 Saran\nOrangtua pasien diharapkan dapat melanjutkan intervensi pada saat\ndirumahsakit yaitu pemberian makanan cair (s"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 35,
+    "chunk_index": 1,
+    "text": "ng\ndilakukan pada orangtua pasien juga telah terdapat peningkatan sebanyak\n80%.\n5.2 Saran\nOrangtua pasien diharapkan dapat melanjutkan intervensi pada saat\ndirumahsakit yaitu pemberian makanan cair (susu) melalui oral untuk\nmemenuhi kebutuhan energi dan zat gizi pasien. Namun, pemenuhan tidak\nhanya melalui susu, namun juga dengan memberikan makanan keluarga yang\nmemiliki kandungan gizi yang padat untuk tumbuh kejar anak setelah keluar\ndari rumah sakit. Selain itu juga orangtua diharapkan dapat memahami cara\npembuatan modisco serta penggunaannya sebagai kombinasi dari makanan\nlain yang dapat digunakan sebagai makanan yang diberikan untuk tumbuh\nkejar anak."
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 36,
+    "chunk_index": 0,
+    "text": "DAFTAR PUSTAKA\nBax, H.J. et al. (2020) ‘Basophils from cancer patients respond to immune stimuli\nand predict clinical outcome’, Cells, 9(7), pp. 1–21. Available at:\nhttps://doi.org/10.3390/cells9071631.\nBunker, S. and Pandey, J. (2021) ‘Educational Case: Understanding Kwashiorkor\nand Marasmus: Disease Mechanisms and Pathologic Consequences’,\nAcademic Pathology, 8, p. 23742895211037028. Available at:\nhttps://doi.org/10.1177/23742895211037027.\nDe Carvalho, W.B. et al. (2020) ‘Ventilatory support recommendations in children\nwith Sars-CoV-2’, Revista da Associacao Medica Brasileira, 66(4), pp.\n528–533. Available at: https://doi.org/10.1590/1806-9282.66.4.528.\nDipasquale, V., Cucinotta, U., & Romano, C. (2020). Acute Malnutrition in Children:\nPathophysiology, Clinical Effects and Treatment. Nutrients, 12(8), 2413.\nhttps://doi.org/10.3390/nu12082413\nDo, C., Vasquez, P.C. and Soleimani, M. (2022) ‘Metabolic Alkalosis\nPathogenesis, Diagnosis, and Treatment: Core Curriculum 2022’,\nAmerican Jour"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 36,
+    "chunk_index": 1,
+    "text": "rients, 12(8), 2413.\nhttps://doi.org/10.3390/nu12082413\nDo, C., Vasquez, P.C. and Soleimani, M. (2022) ‘Metabolic Alkalosis\nPathogenesis, Diagnosis, and Treatment: Core Curriculum 2022’,\nAmerican Journal of Kidney Diseases, 80(4), pp. 536–551. Available at:\nhttps://doi.org/10.1053/j.ajkd.2021.12.016.\nFernandes, M.V. et al. (2021) ‘Intracranial Pressure during the Development of\nRenovascular Hypertension’, Hypertension, 77(4), pp. 1311–1322.\nAvailable at: https://doi.org/10.1161/HYPERTENSIONAHA.120.16217.\nGysi, S. et al. (2022) ‘The Role of the Pediatric Yorkhill Malnutrition Score (PYMS),\nNeutrophil-to-Lymphocyte and Platelet-to-Lymphocyte Ratios in\nMalnutrition Prediction of Hospitalized Children’, Children, 9(9).\nAvailable at: https://doi.org/10.3390/children9091378.\nKhademi, G., Imani, B. and Mehdizadeh, A. (2019) ‘Assessment, intervention, and\nmonitoring: Stepwise nutritional management in pediatric intensive care\nunits: A short review’, Journal of Comprehensive Pediatrics, 10(1), "
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 36,
+    "chunk_index": 2,
+    "text": "B. and Mehdizadeh, A. (2019) ‘Assessment, intervention, and\nmonitoring: Stepwise nutritional management in pediatric intensive care\nunits: A short review’, Journal of Comprehensive Pediatrics, 10(1), pp.\n1–6. Available at: https://doi.org/10.5812/compreped.66474.\nMamahit, A.Y. et al. (2022) Teori Promosi Kesehatan.\nMeral, B., Kangalgil, M. and Erduran, E. (2025) ‘Comparison of nutritional\nscreening tools in pediatric oncology patients receiving chemotherapy\ntreatment’, Journal of Pediatric Nursing, 80, pp. 154–160. Available at:\nhttps://doi.org/10.1016/j.pedn.2024.11.009.\nMeszaros, M. et al. (2023) ‘Effects of Acute Hypoxia on Heart Rate Variability in"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 37,
+    "chunk_index": 0,
+    "text": "Patients with Pulmonary Vascular Disease’, Journal of Clinical Medicine,\n12(5). Available at: https://doi.org/10.3390/jcm12051782.\nOmar, W.M. et al. (2024) ‘The Glasgow Coma Scale and Full Outline of\nUnresponsiveness score evaluation to predict patient outcomes with\nneurological illnesses in intensive care units in West Bank: a prospective\ncross-sectional study’, Acute and Critical Care, 39(3), pp. 408–419.\nAvailable at: https://doi.org/10.4266/acc.2024.00570.\nPedersen, J.L., Pederen, P.U. and Damsgaard, E.M. (2020) ‘Patient-Reported\nFatigue Is Associated with Poor Energy Intake and Readmission to\nHospital’, Health, 12(03), pp. 253–269. Available at:\nhttps://doi.org/10.4236/health.2020.123021.\nRögnvaldsson, K.G. et al. (2023) ‘Adults with symptoms of pneumonia: a\nprospective comparison of patients with and without infiltrates on chest\nradiography’, Clinical Microbiology and Infection, 29(1), pp. 108.e1-\n108.e6. Available at: https://doi.org/10.1016/j.cmi.2022.07.013.\nSanskriti, S. et a"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 37,
+    "chunk_index": 1,
+    "text": "patients with and without infiltrates on chest\nradiography’, Clinical Microbiology and Infection, 29(1), pp. 108.e1-\n108.e6. Available at: https://doi.org/10.1016/j.cmi.2022.07.013.\nSanskriti, S. et al. (2023) ‘The Spectrum of Motivations Behind Watching Mukbang\nVideos and Its Health Effects on Its Viewers: A Review’, Cureus, 15(8).\nAvailable at: https://doi.org/10.7759/cureus.44392.\nTrigui, A., Rose, C. F., & Bémeur, C. (2023). Nutritional Strategies to Manage\nMalnutrition and Sarcopenia following Liver Transplantation: A Narrative\nReview. Nutrients, 15(4), 903. https://doi.org/10.3390/nu15040903\nTrisnawati, L.T., Hardianti, M.S. and Purwanto, I. (2023) ‘Prognostic Values of\nHemoglobin and Red Blood Cell Distribution Width to Overall Survival in\nNon-Hodgkin Lymphoma’, 12(2), pp. 40–54.\nWang, Q. and Zhang, G. (2024) ‘Platelet count as a prognostic marker for acute\nrespiratory distress syndrome’, BMC Pulmonary Medicine, 24(1).\nAvailable at: https://doi.org/10.1186/s12890-024-03204-5.\nWo"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 37,
+    "chunk_index": 2,
+    "text": "ng, Q. and Zhang, G. (2024) ‘Platelet count as a prognostic marker for acute\nrespiratory distress syndrome’, BMC Pulmonary Medicine, 24(1).\nAvailable at: https://doi.org/10.1186/s12890-024-03204-5.\nWong, S.K. et al. (2022) ‘Carbon dioxide levels in neonates: what are safe\nparameters?’, Pediatric Research, 91(5), pp. 1049–1056. Available at:\nhttps://doi.org/10.1038/s41390-021-01473-y.\nYusran, A. (2023) HUBUNGAN JUMLAH LEUKOSIT, NEUTROFIL , LIMFOSIT,\nDAN NEUTROFIL LIMFOSIT RASIO (NLR) SEBAGAI BIOMARKER\nTINGKAT DETEKSI KUMAN DENGAN TES CEPAT MOLEKULER\nPADA PASIEN TUBERKULOSIS PARU."
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 38,
+    "chunk_index": 0,
+    "text": "LAMPIRAN\n Grafik pertumbuhan anak (CDC, 2000)\n BB/U, TB/U dan BB/TB"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 42,
+    "chunk_index": 0,
+    "text": " Rekomendasi Menu Modifikasi RS\n Hari Ke-1\n\n[TABLE 0]\n | Waktu |  | URT | Gram |  |  | Volume |  |  | Energi |  |  | Protein |  |  | Lemak |  | KH (g) |  | \n--------------------------------------------------------------------------------\n | pemberian |  |  |  |  |  | air (ml) |  |  | (Kkal) |  |  | (g) |  |  | (g) |  |  |  | \nNutrisi Enteral |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n08.00 |  |  | 1 sdm | 11 |  | 55 |  |  | 55 |  |  | 1, 66 |  |  | 3,4 |  |  | 4,9 |  | \n11.00 |  |  | 1 sdm | 11 |  | 55 |  |  | 55 |  |  | 1, 66 |  |  | 3,4 |  |  | 4,9 |  | \n14.00 |  |  | 1 sdm | 11 |  | 55 |  |  | 55 |  |  | 1, 66 |  |  | 3,4 |  |  | 4,9 |  | \n17.00 |  |  | 1 sdm | 11 |  | 55 |  |  | 55 |  |  | 1, 66 |  |  | 3,4 |  |  | 4,9 |  | \n20.00 |  |  | 1 sdm | 11 |  | 55 |  |  | 55 |  |  | 1, 66 |  |  | 3,4 |  |  | 4,9 |  | \n23.00 |  |  | 1 sdm | 11 |  | 55 |  |  | 55 |  |  | 1, 66 |  |  | 3,4 |  |  | 4,9 |  | \n02.00 |  |  | 1 sdm | 11 |  | 55 |  |  | 55 |  |  | 1, 66 |  |  | "
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 42,
+    "chunk_index": 1,
+    "text": "5 |  |  | 1, 66 |  |  | 3,4 |  |  | 4,9 |  | \n23.00 |  |  | 1 sdm | 11 |  | 55 |  |  | 55 |  |  | 1, 66 |  |  | 3,4 |  |  | 4,9 |  | \n02.00 |  |  | 1 sdm | 11 |  | 55 |  |  | 55 |  |  | 1, 66 |  |  | 3,4 |  |  | 4,9 |  | \n05.00 |  |  | 1 sdm | 11 |  | 55 |  |  | 55 |  |  | 1, 66 |  |  | 3,4 |  |  | 4,9 |  | \n | Total |  |  |  |  |  | 440 |  |  | 440 |  |  | 13, 3 |  |  | 27,2 |  |  | 39 | \n | Kebutuhan |  |  |  |  |  | 1190 |  |  | 776,9 |  |  | 13,8 |  |  | 17,3 |  |  | 141,6 | \n | %Pemenuhan |  |  |  |  |  | 36,9 |  |  | 56, 6 |  |  | 96,4 |  |  | 157,2 |  |  | 27,5 | \n[END TABLE]\n Hari Ke-2\n\n[TABLE 1]\n | Waktu |  | URT | Gram |  |  | Volume |  |  | Energi |  |  | Protein |  |  | Lemak |  | KH (g) |  | \n--------------------------------------------------------------------------------\n | pemberian |  |  |  |  |  | air (ml) |  |  | (Kkal) |  |  | (g) |  |  | (g) |  |  |  | \nNutrisi Enteral |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n08.00 |  |  | 1 sdm | 11 |  | 55 |  |"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 42,
+    "chunk_index": 2,
+    "text": "pemberian |  |  |  |  |  | air (ml) |  |  | (Kkal) |  |  | (g) |  |  | (g) |  |  |  | \nNutrisi Enteral |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n08.00 |  |  | 1 sdm | 11 |  | 55 |  |  | 55 |  |  | 1, 66 |  |  | 3,4 |  |  | 4,9 |  | \n11.00 |  |  | 1 sdm | 11 |  | 55 |  |  | 55 |  |  | 1, 66 |  |  | 3,4 |  |  | 4,9 |  | \n14.00 |  |  | 1 sdm | 11 |  | 55 |  |  | 55 |  |  | 1, 66 |  |  | 3,4 |  |  | 4,9 |  | \n17.00 |  |  | 1 sdm | 11 |  | 55 |  |  | 55 |  |  | 1, 66 |  |  | 3,4 |  |  | 4,9 |  | \n20.00 |  |  | 1 sdm | 11 |  | 55 |  |  | 55 |  |  | 1, 66 |  |  | 3,4 |  |  | 4,9 |  | \n23.00 |  |  | 1 sdm | 11 |  | 55 |  |  | 55 |  |  | 1, 66 |  |  | 3,4 |  |  | 4,9 |  | \n02.00 |  |  | 1 sdm | 11 |  | 55 |  |  | 55 |  |  | 1, 66 |  |  | 3,4 |  |  | 4,9 |  | \n05.00 |  |  | 1 sdm | 11 |  | 55 |  |  | 55 |  |  | 1, 66 |  |  | 3,4 |  |  | 4,9 |  | \n | Total |  |  |  |  |  | 440 |  |  | 440 |  |  | 13, 3 |  |  | 27,2 |  |  | 39 | \n | Kebutuhan |  |  |  |  |  | 1190 |  |  | 776,9 |"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 42,
+    "chunk_index": 3,
+    "text": " 11 |  | 55 |  |  | 55 |  |  | 1, 66 |  |  | 3,4 |  |  | 4,9 |  | \n | Total |  |  |  |  |  | 440 |  |  | 440 |  |  | 13, 3 |  |  | 27,2 |  |  | 39 | \n | Kebutuhan |  |  |  |  |  | 1190 |  |  | 776,9 |  |  | 13,8 |  |  | 17,3 |  |  | 141,6 | \n | %Pemenuhan |  |  |  |  |  | 36,9 |  |  | 56, 6 |  |  | 96,4 |  |  | 157,2 |  |  | 27,5 | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 43,
+    "chunk_index": 0,
+    "text": " Hari Ke-3\n\n[TABLE 0]\n | Waktu |  | URT | Gram |  |  | Volume |  | Energi\n(Kkal) | Protein\n(g) |  |  | Lemak |  | KH (g) |  | \n--------------------------------------------------------------------------------\n | pemberian |  |  |  |  |  | air (ml) |  |  |  |  |  | (g) |  |  |  | \nNutrisi Enteral |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n08.00 |  |  | 1 ½ sdm | 16,4 |  | 80 |  |  | 80 | 2,42 |  | 4,94 |  |  | 7,1 |  | \n11.00 |  |  | 1 ½ sdm | 16,4 |  | 80 |  |  | 80 | 2,42 |  | 4,94 |  |  | 7,1 |  | \n14.00 |  |  | 1 ½ sdm | 16,4 |  | 80 |  |  | 80 | 2,42 |  | 4,94 |  |  | 7,1 |  | \n17.00 |  |  | 1 ½ sdm | 16,4 |  | 80 |  |  | 80 | 2,42 |  | 4,94 |  |  | 7,1 |  | \n20.00 |  |  | 1 ½ sdm | 16,4 |  | 80 |  |  | 80 | 2,42 |  | 4,94 |  |  | 7,1 |  | \n23.00 |  |  | 1 ½ sdm | 16,4 |  | 80 |  |  | 80 | 2,42 |  | 4,94 |  |  | 7,1 |  | \n02.00 |  |  | 1 ½ sdm | 16,4 |  | 80 |  |  | 80 | 2,42 |  | 4,94 |  |  | 7,1 |  | \n05.00 |  |  | 1 ½ sdm | 16,4 |  | 80 |  |  | 80 | 2,42 |  | 4,94 |  |  "
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 43,
+    "chunk_index": 1,
+    "text": "|  |  | 80 | 2,42 |  | 4,94 |  |  | 7,1 |  | \n02.00 |  |  | 1 ½ sdm | 16,4 |  | 80 |  |  | 80 | 2,42 |  | 4,94 |  |  | 7,1 |  | \n05.00 |  |  | 1 ½ sdm | 16,4 |  | 80 |  |  | 80 | 2,42 |  | 4,94 |  |  | 7,1 |  | \n | Total |  |  |  |  |  | 640 |  | 640 | 19,4 |  |  | 39, 5 |  |  | 56, 8 | \n | Kebutuhan |  |  |  |  |  | 1190 |  | 776,9 | 13,8 |  |  | 17,3 |  |  | 141,6 | \n | %Pemenuhan |  |  |  |  |  | 53,7 |  | 82,4 | 140, 6 |  |  | 228,3 |  |  | 40, 1 | \n[END TABLE]\n Food Recall MONEV\n Hari ke-1 dan 2\n\n[TABLE 1]\nJenis |  | Bahan | Jumlah |  | E\n(Kkal) | P (g) |  | L (g) |  | KH (g) |  |  |  | Cairan | \n--------------------------------------------------------------------------------\n |  |  |  |  |  |  |  |  |  |  |  |  |  | (ml) | \nFormula\nenteral |  | F100 | 8x55cc\n(440) |  | 440 | 13, 3 |  | 27,2 |  | 39 |  |  | 440 |  | \nParenteral |  | DS 5% +\n½ NS 17\ncc/jam | 408 |  | 34,7 | 0 |  | 0 |  | 10,2 |  |  | 408 |  | \n | Total |  |  |  | 474,7 |  | 13,3 | 27,2 |  |  | 49,2 |  |  | 848 | "
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 43,
+    "chunk_index": 2,
+    "text": "|  | 27,2 |  | 39 |  |  | 440 |  | \nParenteral |  | DS 5% +\n½ NS 17\ncc/jam | 408 |  | 34,7 | 0 |  | 0 |  | 10,2 |  |  | 408 |  | \n | Total |  |  |  | 474,7 |  | 13,3 | 27,2 |  |  | 49,2 |  |  | 848 | \n | Kebutuhan |  |  |  | 776,9 |  | 13,8 | 17,3 |  |  | 141,6 |  |  | 1190 | \n | %Pemenuhan |  |  |  | 61,1 |  | 96,4 | 157,2 |  |  | 34,7 |  |  | 71,3 | \n[END TABLE]\n Hari Ke-3\n\n[TABLE 2]\nJenis |  | Bahan | Jumlah |  | E\n(Kkal) | P (g) |  | L (g) |  | KH (g) |  |  |  | Cairan | \n--------------------------------------------------------------------------------\n |  |  |  |  |  |  |  |  |  |  |  |  |  | (ml) | \nFormula\nenteral |  | F100 | 8x80cc\n(440) |  | 642,7 | 19,4 |  | 39, 5 |  | 56, 8 |  |  | 640 |  | \nParenteral |  | DS 5% +\n½ NS 1\ncc/jam +\nmani 105\ncc+ cipro\n100 cc | 229 |  | 4,1 | 0 |  | 0 |  | 1,2 |  |  | 408 |  | \n | Total |  |  |  | 646,8 |  | 19,4 | 39, 5 |  |  | 56,8 |  |  | 869 | \n | Kebutuhan |  |  |  | 776,9 |  | 13,8 | 17,3 |  |  | 141,6 |  |  | 1190 | \n | %Pemenuhan |  |  "
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 43,
+    "chunk_index": 3,
+    "text": "| 0 |  | 1,2 |  |  | 408 |  | \n | Total |  |  |  | 646,8 |  | 19,4 | 39, 5 |  |  | 56,8 |  |  | 869 | \n | Kebutuhan |  |  |  | 776,9 |  | 13,8 | 17,3 |  |  | 141,6 |  |  | 1190 | \n | %Pemenuhan |  |  |  | 83,2 |  | 140,6 | 228, |  |  | 40,1 |  |  | 73 | \n[END TABLE]\n Rekomendasi Menu Sehari untuk di Rumah (1400 Kkal)\n\n[TABLE 3]\n | Waktu |  | Menu | Bahan | Berat | URT | Penukar | E\n(kkal) |  | P (g) | L (g) |  | KH | \n--------------------------------------------------------------------------------\n | makan |  |  |  |  |  |  |  |  |  |  |  | (g) | \nMakan\npagi\n(07.00) |  |  | Nasi tim | Nasi | 100 | ½ gls | 1 | 170 |  | 2,4 | 0,2 | 28,6 |  | \n |  |  | Sup telur\npuyuh | Telur | 20 | 5 btr | 1 | 23,3 |  | 1,9 | 1.6 | 0,2 |  | \n |  |  |  | Wortel | 15 | 1\nsdm | ¼ | 3,9 |  | 0,1 | 0 | 0,7 |  | \n |  |  |  | buncis | 15 | 1\nsdm | ¼ | 5,6 |  | 0,6 | 0 | 1,1 |  | \n |  |  | Tempe\ngoreng | Tempe | 40 | 1 ptg\nsdg | 1 | 59,8 |  | 5,6 | 2,4 | 5 |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 44,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\n | Waktu |  | Menu | Bahan | Berat | URT | Penukar |  |  | E |  | P (g) |  |  | L (g) |  |  |  | KH | \n--------------------------------------------------------------------------------\n | makan |  |  |  |  |  |  |  |  | (kkal) |  |  |  |  |  |  |  |  | (g) | \n | Subtotal |  |  |  |  |  |  |  |  | 262,6 |  |  | 10,6 |  |  | 9,6 |  |  | 35,6 | \nSelingan\n(10.00) |  |  | F100 | Susu\nskim | 17 | 1 ½\nsdm | 1 |  | 200,8 |  |  | 6,1 |  |  | 12,4 |  |  | 17,7 |  | \n |  |  |  | Gula\npasir | 9 | 1\nsdm | 1 |  |  |  |  |  |  |  |  |  |  |  |  | \n |  |  |  | Minyak\nkelapa | 12 | 2\nsdm | 1 |  |  |  |  |  |  |  |  |  |  |  |  | \n |  |  |  | KCL | 0,4 | - | 1 |  |  |  |  |  |  |  |  |  |  |  |  | \n |  |  |  | Air | 200 | 1 gls | 1 |  |  |  |  |  |  |  |  |  |  |  |  | \n | Subtotal |  |  |  |  |  |  |  |  | 200,8 |  |  | 6,1 |  |  | 12,4 |  |  | 17,7 | \nMakan\nsiang\n(13.00) |  |  | Nasi tim | Nasi | 100 | ½ gls | 1 |  | 170 |  |  | 2,4 |  |  | 0,2 |  |  | 28,6 |  | \n |  |  | Ayam\nungkep | Dagin"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 44,
+    "chunk_index": 1,
+    "text": "|  |  |  | 200,8 |  |  | 6,1 |  |  | 12,4 |  |  | 17,7 | \nMakan\nsiang\n(13.00) |  |  | Nasi tim | Nasi | 100 | ½ gls | 1 |  | 170 |  |  | 2,4 |  |  | 0,2 |  |  | 28,6 |  | \n |  |  | Ayam\nungkep | Daging\nayam | 40 | 1 ptg\nsdg | 1 |  | 85,4 |  |  | 8 |  |  | 5,6 |  |  | 0 |  | \n |  |  | Tempe\norek | Tempe | 40 | 1 ptg\nsdg | 1 |  | 59,8 |  |  | 5,6 |  |  | 2,4 |  |  | 5 |  | \n |  |  | Tumis\nsayur | Wortel | 15 | 1\nsdm | ¼ |  | 3,9 |  |  | 0,1 |  |  | 0 |  |  | 0,7 |  | \n |  |  |  | Bayam | 15 | 1\nsdm | ¼ |  | 5,6 |  |  | 0,6 |  |  | 0 |  |  | 1,1 |  | \n | Subtotal |  |  |  |  |  |  |  |  | 324,7 |  |  | 16,7 |  |  | 8,2 |  |  | 35,4 | \nSelingan\n(16.00) |  |  | F100 | Susu\nskim | 17 | 1 ½\nsdm | 1 |  | 200,8 |  |  | 6,1 |  |  | 12,4 |  |  | 17,7 |  | \n |  |  |  | Gula\npasir | 9 | 1\nsdm | 1 |  |  |  |  |  |  |  |  |  |  |  |  | \n |  |  |  | Minyak\nkelapa | 12 | 2\nsdm | 1 |  |  |  |  |  |  |  |  |  |  |  |  | \n |  |  |  | KCL | 0,4 | - | 1 |  |  |  |  |  |  |  |  |  |  |  |  | \n |  |  |  | Air"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 44,
+    "chunk_index": 2,
+    "text": " |  |  |  |  |  |  |  |  |  |  | \n |  |  |  | Minyak\nkelapa | 12 | 2\nsdm | 1 |  |  |  |  |  |  |  |  |  |  |  |  | \n |  |  |  | KCL | 0,4 | - | 1 |  |  |  |  |  |  |  |  |  |  |  |  | \n |  |  |  | Air | 200 | 1 gls | 1 |  |  |  |  |  |  |  |  |  |  |  |  | \n | Subtotal |  |  |  |  |  |  |  |  | 200,8 |  |  | 6,1 |  |  | 12,4 |  |  | 17,7 | \nMakan\nmalam\n(19.00) |  |  | Nasi tim | Nasi | 100 | ½ gls | 1 |  | 170 |  |  | 2,4 |  |  | 0,2 |  |  | 28,6 |  | \n |  |  | Telur\ndadar | Telur\ndadar | 30 | ½ btr | ½ |  | 42,7 |  |  | 4 |  |  | 2,8 |  |  | 0 |  | \n |  |  | Tahu\ngoreng | Tahu | 15 | 1 ptg\nsdg | ½ |  | 11,4 |  |  | 1,2 |  |  | 0,7 |  |  | 0,3 |  | \n |  |  | Bening\nbayam | Labu\nkuning | 15 | 1 ptg\nkcl | ¼ |  | 5,8 |  |  | 0,6 |  |  | 0 |  |  | 1,1 |  | \n |  |  |  | bayam | 15 | 1\nsdm | ¼ |  | 5,6 |  |  | 0,6 |  |  | 0 |  |  | 1,1 |  | \n | Subtotal |  |  |  |  |  |  |  |  | 235,5 |  |  | 8,8 |  |  | 3,7 |  |  | 31,1 | \nSelingan\n(22.00) |  |  | F100 | Susu\nskim | 17 | 1 ½\nsdm | 1 |  | 20"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 44,
+    "chunk_index": 3,
+    "text": "  | 5,6 |  |  | 0,6 |  |  | 0 |  |  | 1,1 |  | \n | Subtotal |  |  |  |  |  |  |  |  | 235,5 |  |  | 8,8 |  |  | 3,7 |  |  | 31,1 | \nSelingan\n(22.00) |  |  | F100 | Susu\nskim | 17 | 1 ½\nsdm | 1 |  | 200,8 |  |  | 6,1 |  |  | 12,4 |  |  | 17,7 |  | \n |  |  |  | Gula\npasir | 9 | 1\nsdm | 1 |  |  |  |  |  |  |  |  |  |  |  |  | \n |  |  |  | Minyak\nkelapa | 12 | 2\nsdm | 1 |  |  |  |  |  |  |  |  |  |  |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 45,
+    "chunk_index": 0,
+    "text": "Waktu E KH\nMenu Bahan Berat URT Penukar P (g) L (g)\nmakan (kkal) (g)\nKCL 0,4 - 1\nAir 200 1 gls 1\nSubtotal 200,8 6,1 12,4 17,7\nTotal 1425,2 54,4 58,7 195,2\nKebutuhan 1400 52,5 38,9 210\n%Pemenuhan 101,8 103,6 150,9 92,9\n Media Edukasi"
+  },
+  {
+    "pdf_name": "RESPIRATORY FAILURE OK INTRACARNIAL PROCESS, PNEUMONIA.pdf",
+    "page_number": 46,
+    "chunk_index": 0,
+    "text": "Nama : <NAMA>\nUsia : 83 tahun\nKebutuhan : 1700 Kkal"
+  }
+]

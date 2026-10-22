@@ -1,0 +1,91 @@
+{
+  "method": "single-label GPT classification of each unique medical_diagnosis (one dominant category per report); supersedes the multi-label keyword matcher in notebooks/Data Visualization.ipynb",
+  "judge_model": "gpt-4o-mini",
+  "n_source_reports": 120,
+  "n_qa_pairs": 911,
+  "n_unique_diagnoses": 128,
+  "by_report": {
+    "respiratory": 34,
+    "infectious": 21,
+    "gastrointestinal": 15,
+    "nutrition_growth": 13,
+    "neurologic": 12,
+    "cardiac": 10,
+    "hematologic_oncologic": 10,
+    "other": 3,
+    "renal_urologic": 1,
+    "ent": 1
+  },
+  "rows": [
+    {
+      "category": "respiratory",
+      "reports": 34,
+      "pct_reports": 28.333333333333332,
+      "pairs": 273,
+      "pct_pairs": 29.967069154774972
+    },
+    {
+      "category": "infectious",
+      "reports": 21,
+      "pct_reports": 17.5,
+      "pairs": 157,
+      "pct_pairs": 17.233809001097693
+    },
+    {
+      "category": "gastrointestinal",
+      "reports": 15,
+      "pct_reports": 12.5,
+      "pairs": 104,
+      "pct_pairs": 11.41602634467618
+    },
+    {
+      "category": "nutrition_growth",
+      "reports": 13,
+      "pct_reports": 10.833333333333334,
+      "pairs": 92,
+      "pct_pairs": 10.098792535675083
+    },
+    {
+      "category": "neurologic",
+      "reports": 12,
+      "pct_reports": 10.0,
+      "pairs": 86,
+      "pct_pairs": 9.440175631174533
+    },
+    {
+      "category": "cardiac",
+      "reports": 10,
+      "pct_reports": 8.333333333333334,
+      "pairs": 74,
+      "pct_pairs": 8.122941822173436
+    },
+    {
+      "category": "hematologic_oncologic",
+      "reports": 10,
+      "pct_reports": 8.333333333333334,
+      "pairs": 85,
+      "pct_pairs": 9.330406147091109
+    },
+    {
+      "category": "other",
+      "reports": 3,
+      "pct_reports": 2.5,
+      "pairs": 22,
+      "pct_pairs": 2.4149286498353457
+    },
+    {
+      "category": "renal_urologic",
+      "reports": 1,
+      "pct_reports": 0.8333333333333334,
+      "pairs": 11,
+      "pct_pairs": 1.2074643249176729
+    },
+    {
+      "category": "ent",
+      "reports": 1,
+      "pct_reports": 0.8333333333333334,
+      "pairs": 7,
+      "pct_pairs": 0.7683863885839737
+    }
+  ]
+}

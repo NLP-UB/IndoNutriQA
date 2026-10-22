@@ -1,0 +1,15 @@
+.env
+*.env
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+models/
+*checkpoint*
+data/0-raw/
+data/1-run_extraction/
+data/2-remove_pre_pendahuluan/
+data/3-extract_medical_ner/
+data/4-anonymize_using_extracted_ner/
+data/5-match_qna_to_chunks/
+notebooks/*.xlsx

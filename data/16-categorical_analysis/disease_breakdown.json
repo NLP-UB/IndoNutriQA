@@ -1,0 +1,949 @@
+{
+  "categories": [
+    "respiratory",
+    "cardiac",
+    "nutrition_growth",
+    "infectious",
+    "hematologic_oncologic",
+    "neurologic",
+    "renal_urologic",
+    "gastrointestinal",
+    "ent",
+    "other"
+  ],
+  "distribution": {
+    "neurologic": 25,
+    "ent": 7,
+    "hematologic_oncologic": 22,
+    "gastrointestinal": 27,
+    "infectious": 7,
+    "respiratory": 42,
+    "nutrition_growth": 7
+  },
+  "results": {
+    "baseline__cahya": {
+      "respiratory": {
+        "n": 42,
+        "f1": 18.089686637216758
+      },
+      "cardiac": {
+        "n": 0,
+        "f1": null
+      },
+      "nutrition_growth": {
+        "n": 7,
+        "f1": 8.374384236453201
+      },
+      "infectious": {
+        "n": 7,
+        "f1": 27.272727272727277
+      },
+      "hematologic_oncologic": {
+        "n": 22,
+        "f1": 14.342996352840487
+      },
+      "neurologic": {
+        "n": 25,
+        "f1": 9.353206865401987
+      },
+      "renal_urologic": {
+        "n": 0,
+        "f1": null
+      },
+      "gastrointestinal": {
+        "n": 27,
+        "f1": 18.717908708420993
+      },
+      "ent": {
+        "n": 7,
+        "f1": 28.997801341460022
+      },
+      "other": {
+        "n": 0,
+        "f1": null
+      }
+    },
+    "baseline__indolem": {
+      "respiratory": {
+        "n": 42,
+        "f1": 24.534188099012656
+      },
+      "cardiac": {
+        "n": 0,
+        "f1": null
+      },
+      "nutrition_growth": {
+        "n": 7,
+        "f1": 5.714285714285714
+      },
+      "infectious": {
+        "n": 7,
+        "f1": 13.651464814255512
+      },
+      "hematologic_oncologic": {
+        "n": 22,
+        "f1": 18.77623525515887
+      },
+      "neurologic": {
+        "n": 25,
+        "f1": 27.482919855108058
+      },
+      "renal_urologic": {
+        "n": 0,
+        "f1": null
+      },
+      "gastrointestinal": {
+        "n": 27,
+        "f1": 26.763779976751874
+      },
+      "ent": {
+        "n": 7,
+        "f1": 38.57142857142858
+      },
+      "other": {
+        "n": 0,
+        "f1": null
+      }
+    },
+    "baseline__mdeberta": {
+      "respiratory": {
+        "n": 42,
+        "f1": 20.224727305084176
+      },
+      "cardiac": {
+        "n": 0,
+        "f1": null
+      },
+      "nutrition_growth": {
+        "n": 7,
+        "f1": 0.6762468300929839
+      },
+      "infectious": {
+        "n": 7,
+        "f1": 16.53262400250352
+      },
+      "hematologic_oncologic": {
+        "n": 22,
+        "f1": 13.32426417921701
+      },
+      "neurologic": {
+        "n": 25,
+        "f1": 23.28752282654079
+      },
+      "renal_urologic": {
+        "n": 0,
+        "f1": null
+      },
+      "gastrointestinal": {
+        "n": 27,
+        "f1": 19.399027404505052
+      },
+      "ent": {
+        "n": 7,
+        "f1": 40.23503894311348
+      },
+      "other": {
+        "n": 0,
+        "f1": null
+      }
+    },
+    "baseline__mt5": {
+      "respiratory": {
+        "n": 42,
+        "f1": 7.36097573124497
+      },
+      "cardiac": {
+        "n": 0,
+        "f1": null
+      },
+      "nutrition_growth": {
+        "n": 7,
+        "f1": 13.856517479343596
+      },
+      "infectious": {
+        "n": 7,
+        "f1": 16.479395816453426
+      },
+      "hematologic_oncologic": {
+        "n": 22,
+        "f1": 5.1857075143380555
+      },
+      "neurologic": {
+        "n": 25,
+        "f1": 6.328952890851992
+      },
+      "renal_urologic": {
+        "n": 0,
+        "f1": null
+      },
+      "gastrointestinal": {
+        "n": 27,
+        "f1": 5.35393191757794
+      },
+      "ent": {
+        "n": 7,
+        "f1": 14.82837796767211
+      },
+      "other": {
+        "n": 0,
+        "f1": null
+      }
+    },
+    "baseline__rifky": {
+      "respiratory": {
+        "n": 42,
+        "f1": 35.71244651710589
+      },
+      "cardiac": {
+        "n": 0,
+        "f1": null
+      },
+      "nutrition_growth": {
+        "n": 7,
+        "f1": 23.76882376882377
+      },
+      "infectious": {
+        "n": 7,
+        "f1": 47.463832694649916
+      },
+      "hematologic_oncologic": {
+        "n": 22,
+        "f1": 33.74183616715011
+      },
+      "neurologic": {
+        "n": 25,
+        "f1": 31.833859157698164
+      },
+      "renal_urologic": {
+        "n": 0,
+        "f1": null
+      },
+      "gastrointestinal": {
+        "n": 27,
+        "f1": 41.11476677580593
+      },
+      "ent": {
+        "n": 7,
+        "f1": 48.91403613261862
+      },
+      "other": {
+        "n": 0,
+        "f1": null
+      }
+    },
+    "baseline__xlmr": {
+      "respiratory": {
+        "n": 42,
+        "f1": 13.768513926805342
+      },
+      "cardiac": {
+        "n": 0,
+        "f1": null
+      },
+      "nutrition_growth": {
+        "n": 7,
+        "f1": 2.0930118832216733
+      },
+      "infectious": {
+        "n": 7,
+        "f1": 16.539826517488468
+      },
+      "hematologic_oncologic": {
+        "n": 22,
+        "f1": 10.67012717057079
+      },
+      "neurologic": {
+        "n": 25,
+        "f1": 4.873465378949092
+      },
+      "renal_urologic": {
+        "n": 0,
+        "f1": null
+      },
+      "gastrointestinal": {
+        "n": 27,
+        "f1": 19.826864977116333
+      },
+      "ent": {
+        "n": 7,
+        "f1": 17.854945920200223
+      },
+      "other": {
+        "n": 0,
+        "f1": null
+      }
+    },
+    "llm__biomistral-7b__0shot": {
+      "respiratory": {
+        "n": 42,
+        "f1": 27.303820378209842
+      },
+      "cardiac": {
+        "n": 0,
+        "f1": null
+      },
+      "nutrition_growth": {
+        "n": 7,
+        "f1": 27.109246860799658
+      },
+      "infectious": {
+        "n": 7,
+        "f1": 33.18696111745759
+      },
+      "hematologic_oncologic": {
+        "n": 22,
+        "f1": 23.009099942147007
+      },
+      "neurologic": {
+        "n": 25,
+        "f1": 30.966357529126597
+      },
+      "renal_urologic": {
+        "n": 0,
+        "f1": null
+      },
+      "gastrointestinal": {
+        "n": 27,
+        "f1": 32.17881576555992
+      },
+      "ent": {
+        "n": 7,
+        "f1": 52.57779843559703
+      },
+      "other": {
+        "n": 0,
+        "f1": null
+      }
+    },
+    "llm__biomistral-7b__5shot": {
+      "respiratory": {
+        "n": 42,
+        "f1": 42.31893813878473
+      },
+      "cardiac": {
+        "n": 0,
+        "f1": null
+      },
+      "nutrition_growth": {
+        "n": 7,
+        "f1": 35.03819117991298
+      },
+      "infectious": {
+        "n": 7,
+        "f1": 53.04361851046213
+      },
+      "hematologic_oncologic": {
+        "n": 22,
+        "f1": 37.67414683114641
+      },
+      "neurologic": {
+        "n": 25,
+        "f1": 43.730608923377396
+      },
+      "renal_urologic": {
+        "n": 0,
+        "f1": null
+      },
+      "gastrointestinal": {
+        "n": 27,
+        "f1": 32.288748632205525
+      },
+      "ent": {
+        "n": 7,
+        "f1": 43.284906439064656
+      },
+      "other": {
+        "n": 0,
+        "f1": null
+      }
+    },
+    "llm__gpt-4o-mini__0shot": {
+      "respiratory": {
+        "n": 42,
+        "f1": 36.20102073106274
+      },
+      "cardiac": {
+        "n": 0,
+        "f1": null
+      },
+      "nutrition_growth": {
+        "n": 7,
+        "f1": 35.34080287722255
+      },
+      "infectious": {
+        "n": 7,
+        "f1": 42.75386621514103
+      },
+      "hematologic_oncologic": {
+        "n": 22,
+        "f1": 33.72744580489343
+      },
+      "neurologic": {
+        "n": 25,
+        "f1": 38.28253722111034
+      },
+      "renal_urologic": {
+        "n": 0,
+        "f1": null
+      },
+      "gastrointestinal": {
+        "n": 27,
+        "f1": 34.34561756466159
+      },
+      "ent": {
+        "n": 7,
+        "f1": 35.155933393539655
+      },
+      "other": {
+        "n": 0,
+        "f1": null
+      }
+    },
+    "llm__gpt-4o-mini__5shot": {
+      "respiratory": {
+        "n": 42,
+        "f1": 44.574922983554885
+      },
+      "cardiac": {
+        "n": 0,
+        "f1": null
+      },
+      "nutrition_growth": {
+        "n": 7,
+        "f1": 40.75921981405434
+      },
+      "infectious": {
+        "n": 7,
+        "f1": 45.80380391304761
+      },
+      "hematologic_oncologic": {
+        "n": 22,
+        "f1": 39.740159501416166
+      },
+      "neurologic": {
+        "n": 25,
+        "f1": 46.528378816009614
+      },
+      "renal_urologic": {
+        "n": 0,
+        "f1": null
+      },
+      "gastrointestinal": {
+        "n": 27,
+        "f1": 38.73398081486352
+      },
+      "ent": {
+        "n": 7,
+        "f1": 48.36429790988948
+      },
+      "other": {
+        "n": 0,
+        "f1": null
+      }
+    },
+    "llm__gpt-4o__0shot": {
+      "respiratory": {
+        "n": 42,
+        "f1": 37.1029533018756
+      },
+      "cardiac": {
+        "n": 0,
+        "f1": null
+      },
+      "nutrition_growth": {
+        "n": 7,
+        "f1": 40.55373500061573
+      },
+      "infectious": {
+        "n": 7,
+        "f1": 44.126975471024174
+      },
+      "hematologic_oncologic": {
+        "n": 22,
+        "f1": 34.83384435511438
+      },
+      "neurologic": {
+        "n": 25,
+        "f1": 38.928655469614604
+      },
+      "renal_urologic": {
+        "n": 0,
+        "f1": null
+      },
+      "gastrointestinal": {
+        "n": 27,
+        "f1": 35.20019738120264
+      },
+      "ent": {
+        "n": 7,
+        "f1": 42.2312865239368
+      },
+      "other": {
+        "n": 0,
+        "f1": null
+      }
+    },
+    "llm__gpt-4o__5shot": {
+      "respiratory": {
+        "n": 42,
+        "f1": 53.398298969961566
+      },
+      "cardiac": {
+        "n": 0,
+        "f1": null
+      },
+      "nutrition_growth": {
+        "n": 7,
+        "f1": 45.90577125074744
+      },
+      "infectious": {
+        "n": 7,
+        "f1": 59.40755023674278
+      },
+      "hematologic_oncologic": {
+        "n": 22,
+        "f1": 42.98485082608663
+      },
+      "neurologic": {
+        "n": 25,
+        "f1": 48.18599582154363
+      },
+      "renal_urologic": {
+        "n": 0,
+        "f1": null
+      },
+      "gastrointestinal": {
+        "n": 27,
+        "f1": 51.03433275727244
+      },
+      "ent": {
+        "n": 7,
+        "f1": 55.237106415698
+      },
+      "other": {
+        "n": 0,
+        "f1": null
+      }
+    },
+    "llm__llama-3.1-8b-instruct__0shot": {
+      "respiratory": {
+        "n": 42,
+        "f1": 41.137442881873845
+      },
+      "cardiac": {
+        "n": 0,
+        "f1": null
+      },
+      "nutrition_growth": {
+        "n": 7,
+        "f1": 34.71103581323467
+      },
+      "infectious": {
+        "n": 7,
+        "f1": 47.282022254179026
+      },
+      "hematologic_oncologic": {
+        "n": 22,
+        "f1": 31.947507367922178
+      },
+      "neurologic": {
+        "n": 25,
+        "f1": 37.22891835937969
+      },
+      "renal_urologic": {
+        "n": 0,
+        "f1": null
+      },
+      "gastrointestinal": {
+        "n": 27,
+        "f1": 36.58452058060061
+      },
+      "ent": {
+        "n": 7,
+        "f1": 36.953530811467125
+      },
+      "other": {
+        "n": 0,
+        "f1": null
+      }
+    },
+    "llm__llama-3.1-8b-instruct__5shot": {
+      "respiratory": {
+        "n": 42,
+        "f1": 57.54842250449652
+      },
+      "cardiac": {
+        "n": 0,
+        "f1": null
+      },
+      "nutrition_growth": {
+        "n": 7,
+        "f1": 51.83240958884987
+      },
+      "infectious": {
+        "n": 7,
+        "f1": 61.564299218773776
+      },
+      "hematologic_oncologic": {
+        "n": 22,
+        "f1": 50.0788076214831
+      },
+      "neurologic": {
+        "n": 25,
+        "f1": 57.537182381690066
+      },
+      "renal_urologic": {
+        "n": 0,
+        "f1": null
+      },
+      "gastrointestinal": {
+        "n": 27,
+        "f1": 52.23363888082123
+      },
+      "ent": {
+        "n": 7,
+        "f1": 64.17034030146166
+      },
+      "other": {
+        "n": 0,
+        "f1": null
+      }
+    },
+    "llm__medgemma-4b-it__0shot": {
+      "respiratory": {
+        "n": 42,
+        "f1": 43.635136457110505
+      },
+      "cardiac": {
+        "n": 0,
+        "f1": null
+      },
+      "nutrition_growth": {
+        "n": 7,
+        "f1": 44.71365478000089
+      },
+      "infectious": {
+        "n": 7,
+        "f1": 51.71263355263241
+      },
+      "hematologic_oncologic": {
+        "n": 22,
+        "f1": 42.09978692601123
+      },
+      "neurologic": {
+        "n": 25,
+        "f1": 41.542297643718626
+      },
+      "renal_urologic": {
+        "n": 0,
+        "f1": null
+      },
+      "gastrointestinal": {
+        "n": 27,
+        "f1": 40.65183631556496
+      },
+      "ent": {
+        "n": 7,
+        "f1": 37.9315207134756
+      },
+      "other": {
+        "n": 0,
+        "f1": null
+      }
+    },
+    "llm__medgemma-4b-it__5shot": {
+      "respiratory": {
+        "n": 42,
+        "f1": 57.58073710197695
+      },
+      "cardiac": {
+        "n": 0,
+        "f1": null
+      },
+      "nutrition_growth": {
+        "n": 7,
+        "f1": 57.30198762985649
+      },
+      "infectious": {
+        "n": 7,
+        "f1": 66.36058042414447
+      },
+      "hematologic_oncologic": {
+        "n": 22,
+        "f1": 47.95834589995337
+      },
+      "neurologic": {
+        "n": 25,
+        "f1": 54.407866818693876
+      },
+      "renal_urologic": {
+        "n": 0,
+        "f1": null
+      },
+      "gastrointestinal": {
+        "n": 27,
+        "f1": 51.24710637620773
+      },
+      "ent": {
+        "n": 7,
+        "f1": 50.48172659731524
+      },
+      "other": {
+        "n": 0,
+        "f1": null
+      }
+    },
+    "llm__merak-7b-v4__0shot": {
+      "respiratory": {
+        "n": 42,
+        "f1": 31.57093664884393
+      },
+      "cardiac": {
+        "n": 0,
+        "f1": null
+      },
+      "nutrition_growth": {
+        "n": 7,
+        "f1": 33.29756601436292
+      },
+      "infectious": {
+        "n": 7,
+        "f1": 35.12006828414673
+      },
+      "hematologic_oncologic": {
+        "n": 22,
+        "f1": 30.906652096022917
+      },
+      "neurologic": {
+        "n": 25,
+        "f1": 33.30515156709002
+      },
+      "renal_urologic": {
+        "n": 0,
+        "f1": null
+      },
+      "gastrointestinal": {
+        "n": 27,
+        "f1": 33.66974931127445
+      },
+      "ent": {
+        "n": 7,
+        "f1": 31.15852271858711
+      },
+      "other": {
+        "n": 0,
+        "f1": null
+      }
+    },
+    "llm__merak-7b-v4__5shot": {
+      "respiratory": {
+        "n": 42,
+        "f1": 41.79096806214146
+      },
+      "cardiac": {
+        "n": 0,
+        "f1": null
+      },
+      "nutrition_growth": {
+        "n": 7,
+        "f1": 42.30695722701686
+      },
+      "infectious": {
+        "n": 7,
+        "f1": 42.744897641530585
+      },
+      "hematologic_oncologic": {
+        "n": 22,
+        "f1": 35.52429661501553
+      },
+      "neurologic": {
+        "n": 25,
+        "f1": 42.577642545529834
+      },
+      "renal_urologic": {
+        "n": 0,
+        "f1": null
+      },
+      "gastrointestinal": {
+        "n": 27,
+        "f1": 45.75534343063139
+      },
+      "ent": {
+        "n": 7,
+        "f1": 42.74270402993721
+      },
+      "other": {
+        "n": 0,
+        "f1": null
+      }
+    },
+    "llm__qwen2.5-7b-instruct__0shot": {
+      "respiratory": {
+        "n": 42,
+        "f1": 30.488542042007182
+      },
+      "cardiac": {
+        "n": 0,
+        "f1": null
+      },
+      "nutrition_growth": {
+        "n": 7,
+        "f1": 35.205476330705956
+      },
+      "infectious": {
+        "n": 7,
+        "f1": 30.98299038931111
+      },
+      "hematologic_oncologic": {
+        "n": 22,
+        "f1": 31.177570788794334
+      },
+      "neurologic": {
+        "n": 25,
+        "f1": 31.92132613068268
+      },
+      "renal_urologic": {
+        "n": 0,
+        "f1": null
+      },
+      "gastrointestinal": {
+        "n": 27,
+        "f1": 29.902334110767065
+      },
+      "ent": {
+        "n": 7,
+        "f1": 30.83230821614857
+      },
+      "other": {
+        "n": 0,
+        "f1": null
+      }
+    },
+    "llm__qwen2.5-7b-instruct__5shot": {
+      "respiratory": {
+        "n": 42,
+        "f1": 44.23381134805558
+      },
+      "cardiac": {
+        "n": 0,
+        "f1": null
+      },
+      "nutrition_growth": {
+        "n": 7,
+        "f1": 41.950804408529
+      },
+      "infectious": {
+        "n": 7,
+        "f1": 41.50264927509028
+      },
+      "hematologic_oncologic": {
+        "n": 22,
+        "f1": 33.286010147773055
+      },
+      "neurologic": {
+        "n": 25,
+        "f1": 40.71792920265536
+      },
+      "renal_urologic": {
+        "n": 0,
+        "f1": null
+      },
+      "gastrointestinal": {
+        "n": 27,
+        "f1": 44.8504166794054
+      },
+      "ent": {
+        "n": 7,
+        "f1": 62.17244334016371
+      },
+      "other": {
+        "n": 0,
+        "f1": null
+      }
+    },
+    "llm__sahabat-ai-llama3-8b__0shot": {
+      "respiratory": {
+        "n": 42,
+        "f1": 27.883477306677474
+      },
+      "cardiac": {
+        "n": 0,
+        "f1": null
+      },
+      "nutrition_growth": {
+        "n": 7,
+        "f1": 29.347662187724517
+      },
+      "infectious": {
+        "n": 7,
+        "f1": 23.56970921491371
+      },
+      "hematologic_oncologic": {
+        "n": 22,
+        "f1": 25.184136323199922
+      },
+      "neurologic": {
+        "n": 25,
+        "f1": 27.018972508977086
+      },
+      "renal_urologic": {
+        "n": 0,
+        "f1": null
+      },
+      "gastrointestinal": {
+        "n": 27,
+        "f1": 26.59412825916776
+      },
+      "ent": {
+        "n": 7,
+        "f1": 25.61031726239805
+      },
+      "other": {
+        "n": 0,
+        "f1": null
+      }
+    },
+    "llm__sahabat-ai-llama3-8b__5shot": {
+      "respiratory": {
+        "n": 42,
+        "f1": 44.640191017750055
+      },
+      "cardiac": {
+        "n": 0,
+        "f1": null
+      },
+      "nutrition_growth": {
+        "n": 7,
+        "f1": 40.86167323492923
+      },
+      "infectious": {
+        "n": 7,
+        "f1": 38.05438653563355
+      },
+      "hematologic_oncologic": {
+        "n": 22,
+        "f1": 43.217267720620015
+      },
+      "neurologic": {
+        "n": 25,
+        "f1": 48.805646893324024
+      },
+      "renal_urologic": {
+        "n": 0,
+        "f1": null
+      },
+      "gastrointestinal": {
+        "n": 27,
+        "f1": 39.625745518889495
+      },
+      "ent": {
+        "n": 7,
+        "f1": 38.12285664618075
+      },
+      "other": {
+        "n": 0,
+        "f1": null
+      }
+    }
+  }
+}

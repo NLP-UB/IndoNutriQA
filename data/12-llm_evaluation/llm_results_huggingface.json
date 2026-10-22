@@ -1,0 +1,47 @@
+{
+  "config": {
+    "data_path": "data/7-json_file_similarity/qa_pairs_with_chunks.json",
+    "n_test": 137,
+    "shots": [
+      0,
+      5
+    ],
+    "temperature": 0.0,
+    "max_new_tokens": 256,
+    "few_shot_seed": 42,
+    "openai_base_url": null
+  },
+  "last_updated": "2026-04-27T09:17:47",
+  "results": [
+    {
+      "alias": "llama-3.1-8b-instruct",
+      "provider": "huggingface",
+      "label": "llama-3.1-8b-instruct (0-shot)",
+      "model_id": "meta-llama/Llama-3.1-8B-Instruct",
+      "shots": 0,
+      "n_examples": 137,
+      "exact_match": 0.7299270072992701,
+      "f1_score": 37.82298467113769,
+      "bleu": 14.477918912394275,
+      "rouge1": 38.51062016220788,
+      "rouge2": 26.831636478335597,
+      "rougeL": 33.89050669679483,
+      "run_timestamp": "2026-04-27T09:17:47"
+    },
+    {
+      "alias": "llama-3.1-8b-instruct",
+      "provider": "huggingface",
+      "label": "llama-3.1-8b-instruct (5-shot)",
+      "model_id": "meta-llama/Llama-3.1-8B-Instruct",
+      "shots": 5,
+      "n_examples": 137,
+      "exact_match": 16.78832116788321,
+      "f1_score": 55.55090997043435,
+      "bleu": 26.5909841149631,
+      "rouge1": 56.645501146535096,
+      "rouge2": 46.71335675432099,
+      "rougeL": 54.02845798032261,
+      "run_timestamp": "2026-04-27T09:17:47"
+    }
+  ]
+}

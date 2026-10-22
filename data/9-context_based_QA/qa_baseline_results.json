@@ -1,0 +1,49 @@
+{
+  "bert_models": {
+    "Rifky_IndoBERT_QA": {
+      "model_path": "Rifky/Indobert-QA",
+      "exact_match": 12.408759124087592,
+      "f1_score": 36.34076588743036,
+      "bleu": 12.9253084269534,
+      "rouge1": 37.28093957418579,
+      "rouge2": 34.3061017148513,
+      "rougeL": 36.71924848802676
+    },
+    "Cahya_IndoBERT": {
+      "model_path": "cahya/bert-base-indonesian-1.5G",
+      "exact_match": 4.37956204379562,
+      "f1_score": 16.56024417869073,
+      "bleu": 6.139828977556695,
+      "rouge1": 17.015073411738893,
+      "rouge2": 16.010539235948656,
+      "rougeL": 16.91744237185805
+    },
+    "Indolem_IndoBERT": {
+      "model_path": "indolem/indobert-base-uncased",
+      "exact_match": 5.839416058394161,
+      "f1_score": 23.77927834310849,
+      "bleu": 10.599029105472821,
+      "rouge1": 24.444553657868582,
+      "rouge2": 22.870956077163996,
+      "rougeL": 24.166103299972715
+    }
+  },
+  "mt5": {
+    "exact_match": 0.0,
+    "f1_score": 7.839082143057113,
+    "bleu": 1.2956662788711892,
+    "rouge1": 7.21771740308156,
+    "rouge2": 2.7806122905831785,
+    "rougeL": 6.4782838803432625
+  },
+  "best_bert_model": {
+    "name": "Rifky_IndoBERT_QA",
+    "model_path": "Rifky/Indobert-QA",
+    "exact_match": 12.408759124087592,
+    "f1_score": 36.34076588743036,
+    "bleu": 12.9253084269534,
+    "rouge1": 37.28093957418579,
+    "rouge2": 34.3061017148513,
+    "rougeL": 36.71924848802676
+  }
+}

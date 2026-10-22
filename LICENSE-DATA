@@ -1,0 +1,53 @@
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+The IndoNutriQA dataset is licensed under the Creative Commons
+Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+You are free to:
+
+  Share — copy and redistribute the material in any medium or format
+  Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+
+  Attribution — You must give appropriate credit, provide a link to the
+  license, and indicate if changes were made. You may do so in any reasonable
+  manner, but not in any way that suggests the licensor endorses you or your
+  use.
+
+  NonCommercial — You may not use the material for commercial purposes.
+
+  No additional restrictions — You may not apply legal terms or technological
+  measures that legally restrict others from doing anything the license
+  permits.
+
+Notices:
+
+  You do not have to comply with the license for elements of the material in
+  the public domain or where your use is permitted by an applicable exception
+  or limitation.
+
+  No warranties are given. The license may not give you all of the
+  permissions necessary for your intended use. For example, other rights such
+  as publicity, privacy, or moral rights may limit how you use the material.
+
+The full legal code of CC BY-NC 4.0 is available at:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+A human-readable summary is available at:
+https://creativecommons.org/licenses/by-nc/4.0/
+
+------------------------------------------------------------------------
+
+How to cite:
+
+If you use the IndoNutriQA dataset, please cite the accompanying paper and
+include attribution to the IndoNutriQA project.
+
+Additional notes:
+
+The IndoNutriQA dataset is derived from anonymized Indonesian clinical
+nutrition records. All personally identifiable information (PII) has been
+removed using a custom anonymization pipeline (see DATASHEET.md for
+details). Users of the dataset are responsible for complying with applicable
+privacy laws and regulations in their jurisdiction.

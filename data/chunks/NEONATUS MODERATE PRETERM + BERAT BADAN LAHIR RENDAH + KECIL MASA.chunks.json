@@ -1,0 +1,608 @@
+[
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 3,
+    "chunk_index": 0,
+    "text": "SKRINING GIZI\nA. Menggunakan FARNneo\nNama : <NAMA>\nUsia : 6 hari\nJenis Kelamin : Perempuan\n\n[TABLE 0]\nNo | Komponen | Nilai\n--------------------------------------------------------------------------------\n1 | Usia gestasional anak saat lahir\nA. ≥37 minggu 0\nB. ≥28 - <37 minggu 1\nC. <28 minggu 2 | 1\n2 | Berat lahir bayi\nA. ≥2500 g 0\nB. ≥1500 - <2500 g 1\nC. ≥1000 - <1500 g 2\nD. <1000 g 3 | 1\n3 | Penyakit atau kondisi khusus\nA. Tidak ada 0\nB. Ada 2\n● Bardon syndrome\n● Metabolic disease\n● Heart disease\n● Kidney disease\n● Restriksi pertumbuhan infranturne\n● Residu di lambung\n● Short bowel syndrome\n● Necrotizing enterocolitis\n● Hyperplasia tumor\n● Diaphragmatic hernia\n● Brochucopulmonary dysplasia\n● Lambung\n● Esophageal atresia\n● Cystic fibrosis\n● Liver disease\n● Operasi mayor\n● Distensi abdomen | 2\n4 | Terapi Gizi\nA. Rute oral 0\nB. Rute oral atau dimodif dengan enteral 1\nC. Rute parenteral 2\nD. Tidak ada terapi nutrisi 3 | 1\n | SKOR | 5\n[END TABLE]"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 4,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\n | Interpretasi\nSkor 0 = berisiko rendah malnutrisi\nSkor 1-3 = berisiko sedang malnutrisi\nSkor 4-10 = berisiko tinggi malnutrisi | Berisiko tinggi\nmalnutrisi\n--------------------------------------------------------------------------------\n[END TABLE]\nB. Menggunakan Neonatal Nutritional Risk Screening Tool\nNama : <NAMA>\nUsia Kehamilan : 33 minggu\nBBL : 2450 g\n\n[TABLE 1]\nItem |  | Indicator | Score | Scoring\n--------------------------------------------------------------------------------\nBirth\nsituation | Gestational\nage | ≥22 weeks and <28 weeks | 4 | 2\n |  | ≥28 weeks and <32 weeks | 3 | \n |  | ≥32 weeks dan <37 weeks | 2 | \n | Birth weight | <1000 g | 4 | 1\n |  | SGA (P<10) | 3 | \n |  | ≥1000 g and <1500 g | 2 | \n |  | ≥1500 g and <2500 g\nLGA (>P90)) | 1 | \nWeight change |  | Weight loss >15% | 4 | 2\n |  | Weight loss >10% | 3 | \n |  | ● >2 weeks of age: weight gain\n<10g/(kg.d)\n● 1 ~ 2 weeks of age: weight\ndecreased or unaltered | 2 | \nNutrient intake way |  | Comp"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 4,
+    "chunk_index": 1,
+    "text": "ge |  | Weight loss >15% | 4 | 2\n |  | Weight loss >10% | 3 | \n |  | ● >2 weeks of age: weight gain\n<10g/(kg.d)\n● 1 ~ 2 weeks of age: weight\ndecreased or unaltered | 2 | \nNutrient intake way |  | Complete parenteral nutrition | 3 | 2\n |  | Partial parenteral nutrition | 2 | \n |  | Tube feed | 1 | \nDisease\ndiagnosis | Digestive\nsystem\ndisease | NEC, Gastrointestinal congenital\nmalformation | 4 | 2\n |  | Recurrent diarrhea,\nGastric-intestinal perforation | 3 | \n |  | Milk protein allergy, GER | 2 | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 5,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\n | Other\nDisease | Severe infection (pneumonia,\nsepticemia) | 2 | \n--------------------------------------------------------------------------------\n |  | BPD, Acute illness or injury,\nCongenital heart disease,\nGlucose metabolic disorder, RDS,\nHypokalemia, Brain injury, HIE,\nHyperbilirubinemia | 1 | \nAggregate Score |  |  |  | 9\n[END TABLE]\nInterpretasi:\n≥8 berisiko malnutrisi\n≥4 - <8 berisiko sedang\n<4 berisiko rendah\nBerdasarkan kedua alat skrining yang digunakan, dapat disimpulkan bahwa pasien\nberisiko mengalami malnutrisi sehingga diperlukan proses asuhan gizi lebih lanjut yang\nterstandar untuk mencegah pasien mengalami malnutrisi dan memperlama masa rawat inap\npasien."
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 6,
+    "chunk_index": 0,
+    "text": "BAGAN ANALISIS MASALAH\nFaktor utama yang mendasari kondisi bayi adalah pola makan ibu selama kehamilan\nyang kurang tepat, khususnya asupan rendah energi dan protein, serta sering mengonsumsi\nteh yang dapat menghambat penyerapan zat besi. Hal ini menyebabkan kecil masa kehamilan\ndan kelahiran prematur (moderate preterm), yang kemudian berkontribusi pada berbagai\nkomplikasi neonatal. Prematuritas yang terjadi berdampak pada gangguan pernapasan berupa\nRespiratory Distress Syndrome (RDS) akibat ketidakmatangan paru-paru. Selain itu, bayi juga\nmengalami anemia neonatus, yang ditandai dengan penurunan kadar MCHC, hemoglobin,\neritrosit, dan hematokrit. Anemia ini mengakibatkan tidak adanya refleks menghisap, sehingga\nbayi memerlukan pemasangan Orogastric Tube (OGT) untuk pemberian nutrisi. Akibatnya,"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 7,
+    "chunk_index": 0,
+    "text": "terjadi defisiensi asupan energi dan zat gizi makro yang dapat memperburuk kondisi bayi dan\nmeningkatkan risiko infeksi berulang, sehingga memperpanjang masa rawat inap. Selain itu,\nbayi juga mengalami Atrial Septal Defect (ASD) Sekundum Besar, yang berkontribusi pada\nketidakmatangan sistem organ serta menghambat pertumbuhan dan perkembangan bayi.\nSepsis Neonatal Dini (Early Onset Sepsis/EOS) juga ditemukan pada bayi, yang ditandai\ndengan penurunan kadar limfosit akibat imaturitas sistem imun dan peningkatan kadar monosit\nsebagai respons terhadap infeksi. Sepsis ini menyebabkan bayi memerlukan ventilator, yang\nlebih lanjut meningkatkan risiko infeksi. Komplikasi lainnya adalah hiperbilirubinemia, yang\nterjadi karena ketidakmatangan hati dalam mengolah bilirubin. Peningkatan kadar bilirubin ini\nberisiko menyebabkan komplikasi neurologis jika tidak tertangani dengan baik. Secara\nkeseluruhan, kondisi prematuritas yang diperburuk oleh faktor maternal seperti asupan gizi\nyang tidak adekuat "
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 7,
+    "chunk_index": 1,
+    "text": " ini\nberisiko menyebabkan komplikasi neurologis jika tidak tertangani dengan baik. Secara\nkeseluruhan, kondisi prematuritas yang diperburuk oleh faktor maternal seperti asupan gizi\nyang tidak adekuat selama kehamilan menyebabkan multisistem gangguan, termasuk\ngangguan pernapasan, anemia, kelainan jantung, infeksi, dan gangguan metabolisme bilirubin.\nKombinasi dari berbagai komplikasi ini menyebabkan kebutuhan intervensi medis yang\nkompleks, meningkatkan risiko infeksi berulang, dan memperpanjang masa rawat inap bayi di\nrumah sakit."
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 8,
+    "chunk_index": 0,
+    "text": "FORM NUTRITIONAL CARE PROCESS (NCP)\nIDENTITAS PASIEN\nNama : <NAMA>\nJenis Kelamin : Perempuan\nTanggal Lahir : <TGL>\nUmur : 6 hari\nTanggal MRS : <TGL>\nTanggal Assessment : <TGL>\nDiagnosis Medis : Neonatus moderate preterm, berat badan lahir rendah, kecil masa kehamilan, respiratory distress syndrome,\ns. EOS, anemia, ASD sekundum besar, hiperbilirubinemia\n\n[TABLE 0]\nAssessment |  | Diagnosa Gizi | Intervensi | Rencana Monev\n--------------------------------------------------------------------------------\nData Dasar | Identifikasi Masalah |  |  | \nANTROPOMETRI\nPengukuran <TGL>\nBBL = 2500\nPBL = 43\nLKL = 32 cm\nLDL = 28\nBBS = 2450\nPBS = 43\nBBI = 2000\nKurva Fenton | - Status gizi pasien\nberdasarkan BB/U,\nPB/U, dan LK/U\nyaitu normal\n- Status gizi pasien\nberdasarkan %BBI\nyaitu normal | NI-2.11 Keterbatasan\npenerimaan makanan\nberkaitan dengan\nkondisi medis dan\npembatasan cairan\npada pasien ditandai\ndengan pemberian\ncairan diberikan\nbertahap serta asupan\ne"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 8,
+    "chunk_index": 1,
+    "text": "dasarkan %BBI\nyaitu normal | NI-2.11 Keterbatasan\npenerimaan makanan\nberkaitan dengan\nkondisi medis dan\npembatasan cairan\npada pasien ditandai\ndengan pemberian\ncairan diberikan\nbertahap serta asupan\nenergi, protein, lemak,\ndan karbohidrat pasien\ndari 24 h recall defisit\ntingkat berat | ND-2.1 Pemberian\nformula enteral\nberupa ASI\nTujuan:\n- Memenuhi\nkebutuhan asupan\npasien melalui OGT\n- Pemberian diet susu\natau ASI\nRC-1 Kolaborasi\ndengan tenaga\nkesehatan lain terkait\npengobatan dan | FH-1.2.3 Asupan\nmakanan enteral\nMetode: food record\nFrekuensi: setiap hari\nTarget: mencapai 60%\ndan terus mengalami\npeningkatan\nAnalisis:\nmembandingkan\nasupan dengan\nkebutuhan pasien\nAD-1.1 Pemantauan\nberat badan, panjang\n[END TABLE]"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 9,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nBB/U = percentile <90\nPB/U = percentile <90\nLK/U = percentile <90\n%BBI = 2450/2000 x\n100 = 122.5% |  | NB-1.1 Kurangnya\npengetahuan terkait\nmakanan dan gizi\nberkaitan dengan\nkurangnya paparan ibu\nterhadap informasi\nterkait gizi ditandai\nbelum pernah\nmendapatkan edukasi\ngizi pasca persalinan\ndan menyusui | pemantauan berat\nbadan, panjang badan,\ndan lingkar kepala\nE-1 Pemberian\nedukasi-Konten terkait\ngizi dan makanan\nTujuan:\n- Meningkatkan\npengetahuan\nkeluarga pasien\nterkait diet susu\natau ASI\n- Meningkatkan\nmotivasi keluarga\npasien untuk\nmemberikan asupan\nmakan yang tepat\ndan sesuai\nMetode: ceramah dan\ndiskusi\nMateri:\n- Gambaran diet susu\natau ASI\n- Manfaat dan cara\nmenyimpan ASI\n- Gizi untuk ibu\nmenyusui\n- Hasil yang akan\ndicapai jika patuh\nterhadap\nrekomendasi diet\nyang diberikan\nMedia:\n- Leaflet Makanan Ibu\nMenyusui | badan, dan lingkar\nkepala\nMetode: pengukuran\nantropometri BB, PB,\ndan LK\nFrekuensi: satu minggu\nsekali (setiap jumat)\nTarget: mengalami\npeningkatan\nAnalisis:"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 9,
+    "chunk_index": 1,
+    "text": "an\nMedia:\n- Leaflet Makanan Ibu\nMenyusui | badan, dan lingkar\nkepala\nMetode: pengukuran\nantropometri BB, PB,\ndan LK\nFrekuensi: satu minggu\nsekali (setiap jumat)\nTarget: mengalami\npeningkatan\nAnalisis:\nmembandingkan hasil\npengukuran BB, PB,\ndan LK dengan\npengukuran\nsebelumnya\nFH-4.1 Pengetahuan\nterkait makanan dan\ngizi\nMetode: diskusi\nTarget: peningkatan\npengetahuan\nFrekuensi: sebelum dan\nsesudah edukasi\nAnalisis:\nmembandingkan hasil\ndiskusi dengan teori\n--------------------------------------------------------------------------------\nBIOKIMIA\n<TGL>\n- Hemoglobin = 9.5\ng/dL (↓)\n- Eritrosit = 2.48\n106/uL (↓)\n- Hematokrit = 25.6%\n(↓)\n- MCHC = 35.8 g/dL\n(↑)\n- Limfosit = 14.1% (↑)\n- Monosit = 18.0% (↑)\n- Bilirubin total =\n17.10 (↑)\n- Bilirubin direk = 1.56\nmg/dL (↑) | - Penurunan kadar\nhemoglobin,\neritrosit, hematokrit,\ndan peningkatan\nkadar MCHC\nberkaitan dengan\nanemia neonatus\nserta pasien lahir\nprematur sehingga\ncadangan zat besi\nterbatas\n- Penurunan kadar\nlimfosit dan\npeningkata"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 9,
+    "chunk_index": 2,
+    "text": "hemoglobin,\neritrosit, hematokrit,\ndan peningkatan\nkadar MCHC\nberkaitan dengan\nanemia neonatus\nserta pasien lahir\nprematur sehingga\ncadangan zat besi\nterbatas\n- Penurunan kadar\nlimfosit dan\npeningkatan kadar\nmonosit berkaitan\ndengan pasien\nmengalami sepsis\nearly onset\n- Peningkatan kadar\nbilirubin berkaitan\ndengan pasien lahir\nprematur sehingga\nenzim hati belum\nmatang |  |  | \nFISIK KLINIS\nJanuari 2025 |  |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 10,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\n- KU = gerak tangis\nlemak\n- HR = 160x/menit\n- RR = ventilator\n- Suhu = 36.6 C\n- SpO2 = 98% on\nventilator | - Pasien mengalami\nsesak sehingga\ndipasang ventilator |  | - Leaflet ASI\n- DBMP\nWaktu: 15-30 menit\nSasaran: keluarga\npasien (orang tua) | \n--------------------------------------------------------------------------------\nDIETARY\n(SEKARANG)\n24-h recall\nTPN D15%\n● D15%: 134 ml\n● Aminosteril infant\n10%: 49 ml\n● Smoflipid: 18.5 ml\n● NaCl 15%: 2 ml\n● KCl 7.46%: 2.5 ml\n● Ca gluconate 10%:\n10 ml\n● MgSO4 20%: 1 ml\n● Vitalipid: 10 ml\n● Soluvit: 2.5 ml\n- Energi = 133 kkal\n- Protein = 4.9 gram\n- Lemak = 3.7 gram\n- KH = 20.1 gram\n- Enteral dipuasakan\nGIR (Glucose Infusion\nRate)\n= 9.58 x 15% / 6 x 2.45\n= 143.7 / 14.7\n= 9.78 (normal) | Sekarang\n- Energi = 67.56% →\ndefisit tingkat berat\n- Protein = 57.18% →\ndefisit tingkat berat\n- Lemak = 43.12% →\ndefisit tingkat berat\n- KH = 60.21% →\ndefisit tingkat berat |  |  | \nEKOLOGI\n- Riwayat KB suntik | - |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 11,
+    "chunk_index": 0,
+    "text": "- Ibu pasien\nmelahirkan anak\nketiga melalui\npersalinan normal di\nusia kehamilan 33\nminggu\n- Ibu pasien rutin\nkonsumsi TTD dan\nsuplemen asam\nfolat\n- Ibu pasien\nmelahirkan anak\npertama dan kedua\nsecara normal dan\ncukup bulan\n- Riwayat penyakit\nibu: obesitas, BSC\n- Riwayat kehamilan:\nanak ke 3 dari ibu\nG3P2002, UK 33\nminggu, riwayat\nUSG janin normal,\nair ketuban cukup\n- Riwayat persalinan:\nper vaginam, lahir\ntidak langsung\nmenangis, tonus\notot lemak, ketuban\njernih\n- Diagnosis pasien\nsekarang yaitu\nneonatus moderate\npreterm, berat\nbadan lahir rendah,\nkecil masa\nkehamilan,"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 12,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nrespiratory distress\nsyndrome, s. EOS,\nanemia, ASD\nsekundum besar,\nhiperbilirubinemia |  |  |  | \n--------------------------------------------------------------------------------\nFARMAKOLOGI\n- TPN D15% 230\nml/24 jam\n- Inj. Ampicillin 120\nmg/12 jam\n- Inj. Gentamicin 11\nmg/36 jam\n- SP Dobutamin ~5\n- Capneu 25 mg\nloading\n- Surfaktan 10 ml\n- Inj. vit K 1 mg | - Tidak ada interaksi\nobat dan makanan |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 13,
+    "chunk_index": 0,
+    "text": "RENCANA INTERVENSI GIZI\nA. Terapi Diet: ND-1 Makanan utama dan snack\na. Tujuan\n- Meningkatkan asupan makan dan minuman melalui parenteral dan enteral sesuai\nkemampuan untuk memenuhi kebutuhan asupan pasien dan mendukung tumbuh\nkembang\nb. Prinsip Diet\nGizi Seimbang\nc. Syarat Diet\n- Energi diberikan 115 kkal/kgBB/hari sesuai Konsensus Asuhan Nutrisi pada Bayi\nPrematur (IDAI, 2016) yaitu sebesar 196 kkal untuk mendukung pertumbuhan dan\nperkembangan\n- Protein diberikan 3.5 gram kgBB/hari sesuai Konsensus Asuhan Nutrisi pada Bayi\nPrematur (IDAI, 2016) yaitu sebesar 34.28 gram untuk mencegah gagal tumbuh\nkembang pasca lahir pada bayi prematur\n- Lemak diberikan 4.8 gram sesuai rekomendasi ESPGHAN 2022 sebesar untuk\nmencegah penurunan massa lemak dan membantu mencukupi kebutuhan nutrisi\n- Karbohidrat diberikan cukup dari total kebutuhan energi dikurangi kebutuhan protein\ndan lemak sebesar\n- Cairan diberikan 150 ml/kg/hari untuk memenuhi kebutuhan fisiologis dan menjaga\nkeseimbangan cairan sert"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 13,
+    "chunk_index": 1,
+    "text": "rat diberikan cukup dari total kebutuhan energi dikurangi kebutuhan protein\ndan lemak sebesar\n- Cairan diberikan 150 ml/kg/hari untuk memenuhi kebutuhan fisiologis dan menjaga\nkeseimbangan cairan serta elektrolit dan mencegah kehilangan cairan ekstraseluler\n- Makanan diberikan dalam bentuk cair (ASI) diberikan melalui OGT\nd. Perhitungan Zat Gizi Sekarang\n● Energi = 115 x 2450 = 281.75 kkal\n● Protein = 4 x 2450 = 9.8 gram ~ 39.2 kkal (14%)\n● Lemak = 4.8 x 2450 = 11.76 gram ~ 105.84 kkal (38%)\n● Karbohidrat = 281.75 - (39.2 + 105.84) = 136.71 kkal ~ 34.18 gram (48%)\n● Cairan = 140 x 2450 = 343 ml\nB. Kolaborasi: RC-1 Kolaborasi dengan tenaga kesehatan lain\na. Tujuan\n- Memantau pengobatan, pemberian makanan enteral, dan komposisi tubuh berupa\nberat badan, panjang badan, dan lingkar kepala\nC. Terapi Edukasi: E-1 Pemberian Edukasi Gizi-Konten\na. Tujuan\n- Meningkatkan pengetahuan keluarga pasien terkait diet susu atau ASI\n- Meningkatkan motivasi keluarga pasien untuk memberikan asupan makan y"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 13,
+    "chunk_index": 2,
+    "text": "erapi Edukasi: E-1 Pemberian Edukasi Gizi-Konten\na. Tujuan\n- Meningkatkan pengetahuan keluarga pasien terkait diet susu atau ASI\n- Meningkatkan motivasi keluarga pasien untuk memberikan asupan makan yang\ntepat dan sesuai"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 14,
+    "chunk_index": 0,
+    "text": "b. Metode\nCeramah dan diskusi\nc. Materi\n- Gambaran diet susu atau ASI\n- Manfaat dan cara menyimpan ASI\n- Gizi untuk ibu menyusui\n- Hasil yang akan dicapai jika patuh terhadap rekomendasi diet yang diberikan\nd. Media\n- Leaflet cara penyimpanan ASI\n- Leaflet makanan ibu menyusui\n- DBMP\ne. Waktu\n15-30 menit\nf. Sasaran\nKeluarga pasien (orang tua)"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 15,
+    "chunk_index": 0,
+    "text": "FORM MONITORING DAN EVALUASI\nIDENTITAS PASIEN\nNama : <NAMA>\nJenis Kelamin : Perempuan\nTanggal Lahir : <TGL>\nUmur : 6 hari\nTanggal MRS : <TGL>\nTanggal Assessment : <TGL>\nDiagnosis Medis : Neonatus moderate preterm, berat badan lahir rendah, kecil masa kehamilan, respiratory distress syndrome,\ns. EOS, anemia, ASD sekundum besar, hiperbilirubinemia\n\n[TABLE 0]\nTangga\nl | Antro\npomet\nri | Biokimia | Fisik Klinis | Asupan Makan | Edukasi Gizi | Diagnosis\nGizi Baru | Rencana\nIntervensi\nGizi\n--------------------------------------------------------------------------------\n<TGL> | - | - | - KU: gerak tangis\nlemah\n- HR: 160x/menit\n- RR ~ ventilator\n- Suhu: 36.6 C\n- SpO2 98% on\nventilator\n- Terpasang OGT,\ntidak ada retensi\nCairan\n- BAK 373 ml/24 jam,\nbelum BAB | Parenteral\n- D15%: 181.5 ml\n- Aminosteril infant\n10%: 73.5 ml\n- Smoflipid 20%: 37\nml\n- NaCl 15%: 2 ml\n- KCl 7.46%: 2.5 ml\n- Ca gluconate 10%:\n10 ml\n- MgSO4 20%: 1 ml\n- Vitalipid: 10 ml |  | - | Me"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 15,
+    "chunk_index": 1,
+    "text": "B | Parenteral\n- D15%: 181.5 ml\n- Aminosteril infant\n10%: 73.5 ml\n- Smoflipid 20%: 37\nml\n- NaCl 15%: 2 ml\n- KCl 7.46%: 2.5 ml\n- Ca gluconate 10%:\n10 ml\n- MgSO4 20%: 1 ml\n- Vitalipid: 10 ml |  | - | Melanjutkan\nintervensi\n[END TABLE]"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 16,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\n |  |  | - CM: 370.4 ml\n- BAK: 373 ml\n- IWL: 50 ml\n- Total CK: 423 ml\n- BC: 52.6 ml | - Soluvit: 2.5 ml\nTotal Asupan\nParenteral\n- E: 206.7 kkal\n- P: 7.35 gram\n- L: 7.4 gram\n- KH: 27.2 gram\nEnteral\n- ASI 8 x 1 ml\nTotal Asupan Enteral\n- E: 4.8 kkal\n- P: 0.18 gram\n- L: 0.21 gram\n- KH: 0.6 gram\nTOTAL ASUPAN\n- E: 211.5 kkal\n- P: 7.53 gram\n- L: 7.61 gram\n- KH: 27.8 gram |  |  | \n--------------------------------------------------------------------------------\n<TGL> | - | - | - KU: gerak tangis\nlemah\n- HR: 160x/menit\n- RR ~ ventilator\n- Suhu: 36.6 C\n- SpO2 98% on\nventilator\n- Terpasang OGT\n- Tidak ada muntah\n- Retensi susu minimal\ndi selang | Parenteral\n- D15%: 159 ml\n- Aminosteril infant\n10%: 86 ml\n- Smoflipid 20%: 37\nml\n- NaCl 15%: 2 ml\n- KCl 7.46%: 2.5 ml\n- Ca gluconate 10%:\n10 ml\n- MgSO4 20%: 1 ml |  | - | Melanjutkan\nintervensi\n[END TABLE]"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 17,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\n |  |  | Cairan\n- BAK 335 ml/24 jam,\nbelum BAB\n- Post transfusi PRC 2\nkali\n- CM: 364.2 ml\n- BAK: 335 ml\n- IWL: 50 ml\n- Total CK: 385 ml\n- BC: 20.8 ml\n- Balance komulatif: +\n31.8 ml | - Soluvit: 2.5 ml\nTotal Asupan\nParenteral\n- E: 199.03 kkal\n- P: 8.6 gram\n- L: 7.4 gram\n- KH: 23.85 gram\nEnteral\n- ASI 12 x 4 ml\nTotal Asupan Enteral\n- E: 28.8 kkal\n- P: 1.07 gram\n- L: 1.25 gram\n- KH: 3.4 gram\nTOTAL\n- E: 227.83 kkal\n- P: 9.67 gram\n- L: 8.65 gram\n- KH: 27.25 gram |  |  | \n--------------------------------------------------------------------------------\n<TGL> | - BB:\n2600\ngram | - | - KU: gerak tangis\nlemah\n- HR: 160x/menit\n- RR ~ ventilator\n- Suhu: 36.6 C\n- SpO2 98% on\nventilator\n- Terpasang OGT,\ntidak ada retensi\n- Tidak ada muntah\n- Retensi ASI minimal | Parenteral\n- D25%: 124 ml\n- Aminosteril infant\n10%: 73.5 ml\n- Smoflipid 20%: 37\nml\n- NaCl 15%: 2 ml\n- KCl 7.46%: 2.5 ml\n- Ca gluconate 10%:\n10 ml\n- MgSO4 20%: 1 ml | - Pasien dan\nkeluarga\npasien\nmampu\nmenjelaska\nn ulang"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 17,
+    "chunk_index": 1,
+    "text": "124 ml\n- Aminosteril infant\n10%: 73.5 ml\n- Smoflipid 20%: 37\nml\n- NaCl 15%: 2 ml\n- KCl 7.46%: 2.5 ml\n- Ca gluconate 10%:\n10 ml\n- MgSO4 20%: 1 ml | - Pasien dan\nkeluarga\npasien\nmampu\nmenjelaska\nn ulang\nmateri\nedukasi\nyang\ndiberikan | - | Melanjutkan\nintervensi\n[END TABLE]"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 18,
+    "chunk_index": 0,
+    "text": "di selang Total Asupan\nCairan Parenteral\n- BAK BAB 183 ml/24 - E: 221.2 kkal\njam, BAB sekali post - P: 7.35 gram\nlavemen kuning - L: 7.4 gram\nkehijauan - KH: 31 gram\n- CM: 359 ml Enteral\n- BAK BAB: 183 ml - ASI 12 x 5 ml\n- IWL: 50 ml Total Asupan Enteral\n- Total: 233 ml - E: 36 kkal\n- BC: 126 ml - P: 1.32 gram\n- BC komulatif: + 105.2 - L: 1.56 gram\nml - KH: 4.2 gram\nTOTAL\n- E: 257.2 kkal\n- P: 8.67 gram\n- L: 8.96 gram\n- KH: 35.2 gram"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 19,
+    "chunk_index": 0,
+    "text": "PEMBAHASAN\nA. Skrining Gizi\nAlat skrining gizi sangat penting di lingkungan rumah sakit dan harus digunakan pada\nsaat masuk rumah sakit, karena dapat mengidentifikasi faktor-faktor yang memengaruhi status\ngizi secara dini. Skrining gizi menjadi salah sa (Andini et al., 2017). Alat skrining gizi yang\ndigunakan untuk pasien bayi prematur di <RS> e\nAvaliação do Risco Nutritional Neonatal (FARNneo) yang telah dimodifikasi. Alat skrining\ntersebut berisi komponen pertanyaan terkait usia gestasional saat bayi lahir, berat lahir bayi,\npenyakit atau kondisi khusus yang diderita bayi, dan terapi gizi yang didapatkan. FARNneo\numum digunakan pada pasien neonatus yang dirawat inap (Silvino et al., 2020). FARNneo\ndapat ditetapkan untuk menentukan sistemasi perawatan sesuai dengan klasifikasi risiko,\nmengalokasikan sumber daya dengan lebih baik, dan memberikan dukungan nutrisi yang\nmemadai dan lebih baik (Becker dan Brunet-Wood, 2022).\nAlat skrining pembanding yang di"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 19,
+    "chunk_index": 1,
+    "text": "ai dengan klasifikasi risiko,\nmengalokasikan sumber daya dengan lebih baik, dan memberikan dukungan nutrisi yang\nmemadai dan lebih baik (Becker dan Brunet-Wood, 2022).\nAlat skrining pembanding yang digunakan adalah Neonatal Nutritional Risk Screening\nTool (NNRST). NNRST dikembangkan oleh kelompok yang terdiri dari tujuh dokter dengan\ndokter klinis neonatal yang berpengalaman, dua ahli gizi, dan enam supervisor keperatan\nneonatal. Alat skrining tersebut terdiri dari 4 poin utama, yaitu situasi kelahiran, perubahan berat\nbadan, jalur pemberian nutrisi, dan diagnosis penyakit umum neonatal. Karena alat ini hanya\nmelakukan skrining risiko gizi awal, penting untuk memantau dan menilai pertumbuhan\n(panjang, lingkar kepala, dan berat badan) secara teratur untuk menghindari kesalahan\nklasifikasi bayi baru lahir yang mungkin menerima intervensi yang tidak tepat. Oleh karena itu,\nNNRST perlu dikombinasikan dengan revisi grafik pertumbuhan Fenton tahun 2013 untuk\npenentuan dua indikator (kecil un"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 19,
+    "chunk_index": 2,
+    "text": "ayi baru lahir yang mungkin menerima intervensi yang tidak tepat. Oleh karena itu,\nNNRST perlu dikombinasikan dengan revisi grafik pertumbuhan Fenton tahun 2013 untuk\npenentuan dua indikator (kecil untuk usia kehamilan dan besar untuk usia kehamilan) dan\npenilaian pertumbuhan (Zhou et al., 2021).\nB. Diagnosa dan Intervensi Gizi\nPasien mendapatkan diagnosa medis Neonatus Moderate Preterm, Berat Badan Lahir\nRendah, Kecil Masa Kehamilan, Respiratory Distress Syndrome, s. Early Onset Sepsis,\nAnemia, Atrial Septal Defect Sekundum Besar, dan Hiperbilirubinemia. Neonatus moderate\npreterm disebut juga sebagai neonatus prematur sedang. Persalinan prematur adalah\npersalinan yang terjadi pada usia kehamilan kurang dari 37 minggu dengan perkiraan berat\njanin kurang dari 2500 gram. Persalinan prematur terbagi menjadi, Usia kehamilan 32–36\nminggu disebut persalinan prematur (preterm), usia kehamilan 28–32 minggu disebut\npersalinan sangat prematur (very preterm) dan usia kehamilan 20–27 minggu disebu"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 19,
+    "chunk_index": 3,
+    "text": "terbagi menjadi, Usia kehamilan 32–36\nminggu disebut persalinan prematur (preterm), usia kehamilan 28–32 minggu disebut\npersalinan sangat prematur (very preterm) dan usia kehamilan 20–27 minggu disebut"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 20,
+    "chunk_index": 0,
+    "text": "persalinan ekstrim prematur (extremely preterm) (Mustika dan Minata, 2021). Pada kasus ini,\npasien lahir di usia kehamilan 33 minggu dengan berat 2500 gram. Berat bayi lahir rendah atau\nBBLR adalah salah satu penyebab tingginya angka kematian bayi (AKB). Definisi WHO tahun\n2017 terkait BBLR yaitu sebagai bayi yang lahir dengan berat ≤ 2500 gr. WHO\nmengelompokkan BBLR menjadi 3 macam, yaitu BBLR (1500–2499 gram), BBLR (1000-1499\ngram), BBLR (<1000 gram). BBLR tidak hanya terjadi pada bayi prematur, tetapi juga dapat\nterjadi pada kelahiran cukup bulan. Namun, pada bayi prematur risiko BBLR meningkat.\nSemakin rendah berat badan bayi, maka semakin penting untuk memantau perkembangannya\ndi minggu-minggu setelah kelahiran (Pristya et al., 2020).\nRespiratory distress syndrome (RDS) adalah suatu sindrom gawat napas bawaan lahir\nakibat defisiensi kadar surfaktan dalam tubuh bayi dengan masa gestasi kurang (Ulita dan\nAstuti, 2024). RDS pada neonatal disebabkan oleh gangguan atau keterlambatan pr"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 20,
+    "chunk_index": 1,
+    "text": "indrom gawat napas bawaan lahir\nakibat defisiensi kadar surfaktan dalam tubuh bayi dengan masa gestasi kurang (Ulita dan\nAstuti, 2024). RDS pada neonatal disebabkan oleh gangguan atau keterlambatan produksi dan\nsekresi surfaktan paru, yaitu campuran protein dan fosfolipid yang menurunkan tegangan\npermukaan pada permukaan alveolus. Produksi atau sekresi surfaktan yang tidak mencukupi\nmenyebabkan tegangan permukaan alveolus yang lebih tinggi, yang menyebabkan atelektasis\ndan gangguan pertukaran gas. Produksi atau sekresi surfaktan yang tidak mencukupi\nmenyebabkan tegangan permukaan alveolus yang lebih tinggi, yang menyebabkan atelektasis\ndan gangguan pertukaran gas (McPherson dan Wambach, 2018). Onset dini sepsis (EOS)\ndalam penelitian ini dapat disebabkan oleh infeksi menaik dari perineum ibu karena kolonisasi\nbakteri atau mungkin karena kontak langsung dengan mikroorganisme dan tubuh bayi baru lahir\nselama proses persalinan (Zuarisa, 2023).\nBerdasarkan hasil pengkajian gizi, meliputi a"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 20,
+    "chunk_index": 2,
+    "text": "bu karena kolonisasi\nbakteri atau mungkin karena kontak langsung dengan mikroorganisme dan tubuh bayi baru lahir\nselama proses persalinan (Zuarisa, 2023).\nBerdasarkan hasil pengkajian gizi, meliputi antropometri, biokimia, fisik klinis, dietary,\ndan ekologi, kemudian dilanjutkan dengan identifikasi masalah, didapatkan dua diagnosa gizi,\nyaitu NI-2.11 Keterbatasan penerimaan makanan berkaitan dengan kondisi medis dan\npembatasan cairan pada pasien ditandai dengan pemberian cairan diberikan bertahap serta\nasupan energi, protein, lemak, dan karbohidrat pasien dari 24 h recall defisit tingkat berat dan\nNB-1.1 Kurangnya pengetahuan terkait makanan dan gizi berkaitan dengan kurangnya paparan\nibu terhadap informasi terkait gizi ditandai dengan pola makan yang salah selama kehamilan\n(rendah energi dan protein serta sering konsumsi teh dan kopi).\nPrinsip perawatan pada bayi prematur diantaranya adalah mendukung proses\npertumbuhan dan perkembangan bayi (Zen, 2017). Pemenuhan kebutuhan asupan nutr"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 20,
+    "chunk_index": 3,
+    "text": "dan protein serta sering konsumsi teh dan kopi).\nPrinsip perawatan pada bayi prematur diantaranya adalah mendukung proses\npertumbuhan dan perkembangan bayi (Zen, 2017). Pemenuhan kebutuhan asupan nutrisi pada\nbayi prematur terutama yang BBLR dengan komplikasi merupakan hal yang penting dan harus\ndiperhatikan. Pertumbuhan pada bayi prematur berbeda dengan bayi lahir cukup umur (Yofita,\n2021). Bayi prematur rentan terkena berbagai komplikasi sebagai akibat dari sistem imun yang"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 21,
+    "chunk_index": 0,
+    "text": "belum berkembang, sehingga memengaruhi tumbuh kembang bayi tersebut. Komplikasi\ntersebut dapat dihindari dengan memenuhi kebutuhan gizi bayi prematur. Pemberian ASI\nsangat dianjurkan karena mengandung oligosakarida (HMO) yang mendukung perkembangan\nmikrobiota usus dan sistem imun, sementara fortifikasi ASI atau susu formula khusus dapat\ndiberikan jika diperlukan. Sistem imun bayi prematur yang belum matang memerlukan\ndukungan dari nutrisi seperti protein berkualitas tinggi, asam lemak esensial, serta vitamin A, D,\nC, E, dan zinc. Pemantauan pertumbuhan dengan kurva khusus seperti Fenton Growth Chart\nsangat penting untuk mengidentifikasi keterlambatan pertumbuhan dan memastikan intervensi\ngizi yang tepat. Kombinasi nutrisi yang optimal, dukungan mikrobiota usus, serta pemantauan\nketat akan membantu bayi prematur mencapai pertumbuhan dan perkembangan yang optimal\n(Medisa, 2021).\nSelain pengaturan dan pemberian diet, diberikan juga edukasi gizi. Edukasi gizi\ndilakukan menggunakan metode d"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 21,
+    "chunk_index": 1,
+    "text": "membantu bayi prematur mencapai pertumbuhan dan perkembangan yang optimal\n(Medisa, 2021).\nSelain pengaturan dan pemberian diet, diberikan juga edukasi gizi. Edukasi gizi\ndilakukan menggunakan metode dan diskusi tanya jawab. Edukasi gizi sangat diperlukan untuk\nmeningkatkan pengetahuan ibu pasien, membentuk sikap positif terhadap makanan bergizi\ndalam rangka membentuk kebiasaan makan yang baik. Semakin memiliki pengetahuan gizi\nyang baik, seorang individu akan semakin mempertimbangkan jenis dan kualitas makanan yang\nakan dipilih untuk dikonsumsi (Sekti dan Fayasari, 2019). Materi yang diberikan pada edukasi\ngizi adalah seputar prinsip gizi seimbang, pentingnya ASI eksklusif, dan makanan untuk ibu\nmenyusui. Kemudian dilanjutkan dengan diskusi terkait pertanyaan-pertanyaan maupun\npermasalahan yang mungkin dihadapi pasien dalam mengatur pola makan.\nC. Hasil Monitoring dan Evaluasi Asupan\nPasien masuk rumah sakit pada tanggal <TGL>. Pasien masuk ruang NICU\ndengan diagnosis Neonatus"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 21,
+    "chunk_index": 2,
+    "text": " yang mungkin dihadapi pasien dalam mengatur pola makan.\nC. Hasil Monitoring dan Evaluasi Asupan\nPasien masuk rumah sakit pada tanggal <TGL>. Pasien masuk ruang NICU\ndengan diagnosis Neonatus Moderate Preterm, Berat Badan Lahir Rendah, Kecil Masa\nKehamilan, Respiratory Distress Syndrome, s. Early Onset Sepsis, Anemia, Atrial Septal Defect\nSekundum Besar, dan Hiperbilirubinemia. Pengkajian data dilakukan pada tanggal <TGL> setelah pasien masuk NICU. Perhitungan kebutuhan energi dan zat gizi dihitung menurut\nKonsensus Asuhan Nutrisi pada Bayi Prematur dari Ikatan Dokter Anak Indonesia (IDAI) tahun\n2016 dan The European Society for Paediatric Gastroenterology Hepatology and Nutrition\n(ESPGHAN). Perhitungan kebutuhan energi dan zat gizi pasien dihitung menggunakan berat\nbadan aktual pasien.\nIntervensi asupan pasien mulai dimonitoring pada tanggal <TGL> hingga <TGL>. Selama dirawat di NICU, pasien mendapatkan asupan nutrisi melalui parenteral\ndan enter"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 21,
+    "chunk_index": 3,
+    "text": "n aktual pasien.\nIntervensi asupan pasien mulai dimonitoring pada tanggal <TGL> hingga <TGL>. Selama dirawat di NICU, pasien mendapatkan asupan nutrisi melalui parenteral\ndan enteral. Asupan parenteral dalam bentuk Total Parenteral Nutrition (TPN) dan asupan\nenteral dalam bentuk ASI yang diberikan melalui Orograstric Tube (OGT). Pemberian asupan"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 22,
+    "chunk_index": 0,
+    "text": "makan pasien diberikan secara bertahap. Pada saat pengkajian data, pasien hanya\nmendapatkan nutrisi dari TPN dan nutrisi enteral masih dipuasakan. Kemudian pada hari\npertama monev, pasien mendapatkan nutrisi dari parenteral berupa Dextrose 15% dan\nkandungan lainnya sebanyak 320 ml dan nutrisi enteral berupa ASI sebanyak 8 x 1 ml. Pada\nmonev hari kedua, pasien mendapatkan nutrisi parenteral berupa Dextrose 15% dan\nkandungan lainnya sebanyak 300 ml dan asupan nutrisi enteral berupa ASI sebanyak 12 x 4 ml.\nKemudian pada hari ketiga, pasien masih mendapatkan nutrisi parenteral berupa Dextrose 25%\nJumlah asupan makanan pasien didapatkan dengan 24 hour food record. Asupan makan\ntersebut kemudian dibandingkan dengan kebutuhan asupan harian pasien.\n\n[TABLE 0]\nEnergi dan Zat\nGizi | Kebutuhan | Hari 1\n(<TGL>) | Hari 2\n(<TGL>) | Hari 3\n(<TGL>)\n--------------------------------------------------------------------------------\nEnergi | 281.75 kkal | 211.5 kkal | 227.83 kkal | 257.2\nPro"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 22,
+    "chunk_index": 1,
+    "text": " 1\n(<TGL>) | Hari 2\n(<TGL>) | Hari 3\n(<TGL>)\n--------------------------------------------------------------------------------\nEnergi | 281.75 kkal | 211.5 kkal | 227.83 kkal | 257.2\nProtein | 9.8 gram | 7.53 gram | 9.67 gram | 8.67\nLemak | 11.76 gram | 7.61 gram | 8.65 gram | 8.96\nKarbohidrat | 34.18 gram | 27.8 gram | 27.25 gram | 35.2\nCairan | 392 ml | 358 ml | 368 ml | 310 ml\n[END TABLE]\na. Tingkat Asupan Energi\nPerhitungan kebutuhan energi dihitung menurut Konsensus Asuhan Nutrisi pada\nBayi Prematur. Berdasarkan konsensus tersebut, jumlah energi yang dianjurkan\ndiberikan secara parenteral adalah 90-100 kkal/kg/hari dan secara enteral 115-120\nkkal/kg/hari. Sehingga didapatkan kebutuhan energi pasien sebesar 281.75 kkal.\nDengan keadaan imaturitas organ bayi prematur maka bayi prematur memerlukan\nbanyak energi untuk mengoptimalkan tugas perkembangannya (Zen, 2017). Bayi\nprematur hanya mempunyai sedikit cadangan energi karena kurangnya cadangan\nglikogen di bawah kulit. K"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 22,
+    "chunk_index": 2,
+    "text": "ayi prematur memerlukan\nbanyak energi untuk mengoptimalkan tugas perkembangannya (Zen, 2017). Bayi\nprematur hanya mempunyai sedikit cadangan energi karena kurangnya cadangan\nglikogen di bawah kulit. Kebutuhan energi bayi prematur dibagi menjadi dua komponen\npenting yaitu kebutuhan untuk pemeliharaan fungsi tubuh dan kebutuhan untuk tumbuh.\nSumber utama karbohidrat berasal dari glukosa. Untuk mencegah terjadinya\nhipoglikemia (Widiasa et al., 2016)."
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 23,
+    "chunk_index": 0,
+    "text": "Grafik monitoring dan evaluasi asupan energi menunjukkan bahwa asupan total\nenergi pasien selalu mengalami peningkatan hingga mendekati kebutuhan hariannya.\nTerdapat perubahan pemberian diet pada hari monev hari pertama, kedua, dan ketiga.\nPada monev hari kedua, terdapat penurunan asupan parenteral tetapi asupan enteral\nditingkatkan. Sehingga total asupan harian pasien meningkat. Pada monev hari ketiga,\ntotal asupan energi pasien mendekati kebutuhan harian dengan pemenuhan sebesar\n91.29%.\nb. Tingkat Asupan Protein\nPerhitungan kebutuhan protein dihitung menurut Konsensus Asuhan Nutrisi pada\nBayi Prematur. Berdasarkan konsensus tersebut, jumlah protein yang dianjurkan\ndiberikan yaitu sebesar 1.5 kgBB/hari pada hari pertama pasca operasi, ditingkatkan\n0.5-1 g/kgBB/hari hingga dosis maksimal pada minggu pertama mencapai 3.5-4.0\ng/kgBB/hari. Sehingga didapatkan kebutuhan protein harian pasien sebesar 9.8 gram.\nProtein diperlukan pada awal kehidupan bayi terutama untuk membentuk jaringan tub"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 23,
+    "chunk_index": 1,
+    "text": "ada minggu pertama mencapai 3.5-4.0\ng/kgBB/hari. Sehingga didapatkan kebutuhan protein harian pasien sebesar 9.8 gram.\nProtein diperlukan pada awal kehidupan bayi terutama untuk membentuk jaringan tubuh.\nKekurangan protein dapat mengakibatkan malnutrisi sedangkan kelebihan protein dapat\nmembuat kerja hati dan ginjal menjadi lebih berat untuk memetabolisme dan\nmengekskresi kelebihan nitrogen (Azizah Anifah, 2020)."
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 24,
+    "chunk_index": 0,
+    "text": "Grafik monitoring dan evaluasi asupan protein menunjukkan bahwa asupan total\nenergi pasien selalu mengalami peningkatan hingga mendekati kebutuhan hariannya.\nTerdapat perubahan pemberian diet pada hari monev hari pertama, kedua, dan ketiga.\nPada monev hari ketiga, terdapat penurunan asupan parenteral yang cukup drastis.\nSehingga walaupun asupan enteral meningkat tetapi tetap terdapat penurunan total\nasupan protein harian. Pada monev hari ketiga, asupan protein pasien terpenuhi\nsebesar 88.47%.\nc. Tingkat Asupan Lemak\nPerhitungan kebutuhan lemak dihitung berdasarkan rekomendasi dari The\nEuropean Society for Paediatric Gastroenterology Hepatology and Nutrition (ESPGHAN)\nyaitu sebesar 4.8-8.1 g/kgBB/hari. Sehingga didapatkan kebutuhan lemak harian pasien\nsebesar 11.76 gram. Lemak sebagai sumber kalori yang penting, berfungsi sebagai\npelarut vitamin A, D, E, dan K. Kandungan lemak yang tinggi ini diperlukan untuk\nmendukung pertumbuhan otak yang cepat pada masa bayi (Anisa dan Dewi, 2021). B"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 24,
+    "chunk_index": 1,
+    "text": "r kalori yang penting, berfungsi sebagai\npelarut vitamin A, D, E, dan K. Kandungan lemak yang tinggi ini diperlukan untuk\nmendukung pertumbuhan otak yang cepat pada masa bayi (Anisa dan Dewi, 2021). Bayi\nprematur umumnya terlihat sangat kecil dan tampak kurus dikarenakan memiliki sedikit\ndeposit lemak subkutan atau bahkan beberapa kasus prematuritas sangat kurang (Zen,\n2017)."
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 25,
+    "chunk_index": 0,
+    "text": "Grafik monitoring dan evaluasi asupan lemak menunjukkan bahwa asupan total\nlemak pasien selalu mengalami peningkatan hingga mendekati kebutuhan hariannya.\nTerdapat perubahan pemberian diet pada hari monev hari pertama, kedua, dan ketiga.\nNamun, jumlah lemak pada asupan parenteral selalu sama. Pada monev hari kedua,\nterdapat peningkatan asupan enteral sehingga asupan total lemak pasien meningkat.\nAsupan enteral pasien juga mengalami peningkatan pada monev hari ketiga sehingga\ntotal asupan lemak pasien pada monev hari ketiga terpenuhi sebesar 76.19%.\nLemak memiliki peranan penting dalam proses pertumbuhan dan perkembangan\nbayi. Asupan Polyunsaturated Fatty Acid (PUFA) ibu menyusui dapat berpengaruh pada\npertumbuhan dan perkembangan bayi, yakni salah satunya pada peningkatan berat\nbadan bayi. Asupan ibu menyusui memiliki pengaruh tidak langsung pada pertumbuhan\ndan perkembangan otak yang dapat dilihat dari peningkatan berat badan bayi. Pengaruh\ntidak langsung tersebut melalui perantara AS"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 25,
+    "chunk_index": 1,
+    "text": " Asupan ibu menyusui memiliki pengaruh tidak langsung pada pertumbuhan\ndan perkembangan otak yang dapat dilihat dari peningkatan berat badan bayi. Pengaruh\ntidak langsung tersebut melalui perantara ASI. Suplai utama PUFA bagi bayi usia 0-6\nbulan adalah kandungan PUFA pada ASI sehingga jika kualitas PUFA ASI baik maka\nbayi dapat memenuhi kebutuhan PUFA untuk menunjang tumbuh kembang otak yang\noptimal (Dewi dan Rimbawan, 2021).\nd. Tingkat Asupan Karbohidrat\nPerhitungan kebutuhan karbohidrat pasien dihitung berdasarkan sisa kebutuhan\nenergi harian pasien Konsensus Asuhan Nutrisi pada Bayi Prematur dikurangi dengan\nkebutuhan protein dan lemak yang sudah dihitung sebelumnya. Sehingga didapatkan\nkebutuhan karbohidrat harian pasien yaitu sebesar 34.18 gram. Karbohidrat merupakan\nsalah satu sumber energi utama yang dibutuhkan manusia agar dapat melakukan\nproses metabolisme yang optimal dalam tubuh, terutama untuk otak dan jantung bayi\nprematur. Karbohidrat yang berada di dalam tubuh akan menga"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 25,
+    "chunk_index": 2,
+    "text": " energi utama yang dibutuhkan manusia agar dapat melakukan\nproses metabolisme yang optimal dalam tubuh, terutama untuk otak dan jantung bayi\nprematur. Karbohidrat yang berada di dalam tubuh akan mengalami proses pencernaan"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 26,
+    "chunk_index": 0,
+    "text": "dan kemudian dipecah menjadi bentuk gula sederhana yaitu glukosa. Glukosa adalah\nsalah satu bentuk monosakarida dari karbohidrat yang diberikan secara intravena untuk\nbayi prematur guna memenuhi kebutuhan nutrisi karena sudah tersedia di otak (Ningsih,\n2020).\nGrafik monitoring dan evaluasi asupan energi menunjukkan bahwa asupan total\nkarbohidrat pasien selalu mengalami peningkatan hingga mendekati kebutuhan\nhariannya. Terdapat perubahan pemberian diet pada hari monev hari pertama, kedua,\ndan ketiga. Pada monev hari kedua, terdapat penurunan asupan parenteral tetapi\nasupan enteral ditingkatkan. Sehingga total asupan karbohidrat harian pasien\nmeningkat. Pada monev hari ketiga, konsentrasi dextrose pada nutrisi parenteral\nditingkatkan dari 15% menjadi 25%. Kemudian jumlah nutrisi enteral juga ditingkatkan\npada hari ketiga sehingga total asupan karbohidrat pasien pada monev hari ketiga\nterpenuhi sebesar 102.98%.\ne. Tingkat Asupan Cairan\nKebutuhan asupan cairan pasien dihitung berdasarkan K"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 26,
+    "chunk_index": 1,
+    "text": " ditingkatkan\npada hari ketiga sehingga total asupan karbohidrat pasien pada monev hari ketiga\nterpenuhi sebesar 102.98%.\ne. Tingkat Asupan Cairan\nKebutuhan asupan cairan pasien dihitung berdasarkan Konsensus Asuhan\nNutrisi pada Bayi Prematur. Berdasarkan konsensus tersebut, jumlah energi yang\ndianjurkan diberikan untuk bayi dengan berat ≥1500 gram adalah mulai dari 60-80\nml/kgBB/hari. Kemudian ditingkatkan bertahap sebesar 10-20 ml/kgBB/hari pada hari\nberikutnya sampai jumlah maksimum sebesar 140-160 ml/kgBB/hari. Sehingga\ndidapatkan kebutuhan cairan pasien sebesar 343 ml."
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 27,
+    "chunk_index": 0,
+    "text": "Grafik monitoring dan evaluasi asupan cairan menunjukkan bahwa asupan total\ncairan pasien selalu mengalami penurunan hingga mendekati kebutuhan hariannya.\nTerdapat perubahan pemberian diet pada hari monev hari pertama, kedua, dan ketiga.\nDari monev hari pertama, kedua, dan ketiga, asupan cairan dari parenteral selalu\nmengalami penurunan jumlah. Sebaliknya, dari monev hari pertama, kedua, dan ketiga,\nasupan cairan pasien dari enteral yaitu ASI selalu mengalami peningkatan.\nD. Hasil Monitoring dan Evaluasi Antropometri\nPemeriksaan data antropometri pasien bertujuan untuk mengetahui apakah terdapat\npeningkatan atau penurunan berat badan pada pasien dan apakah peningkatan berat badan\npasien sudah sesuai dengan usia serta waktu perkembangannya. Seluruh data antropometri\ndidapatkan dari data sekunder yaitu catatan rekam medis dikarenakan pada bayi prematur\ndi NICU tidak bisa dilakukan pengukuran antropometri setiap hari. Pengukuran antropometri\nyang dilakukan pada pasien ketika lahir meliput"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 27,
+    "chunk_index": 1,
+    "text": "under yaitu catatan rekam medis dikarenakan pada bayi prematur\ndi NICU tidak bisa dilakukan pengukuran antropometri setiap hari. Pengukuran antropometri\nyang dilakukan pada pasien ketika lahir meliputi panjang badan, lingkar kepala, dan lingkar\ndada. Kemudian terdapat data panjang badan dan berat badan pasien ketika pengkajian\nyaitu pada tanggal <TGL>. Berat badan pasien diukur kembali pada tanggal <TGL>.\n\n[TABLE 0]\nParameter | <TGL> (Lahir) | <TGL> | 1<TGL>\n--------------------------------------------------------------------------------\nBerat Badan | 2500 | 2450 | 2600\nPanjang Badan | 43 | 43 | -\nLingkar Kepala | 32 | - | -\nLingkar Dada | 28 | - | -\n[END TABLE]\nPada pengukuran berat badan <TGL>, terdapat penurunan berat badan\npasien sebanyak 50 gram. Penurunan berat badan pada bayi baru lahir usia hari ke-5"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 28,
+    "chunk_index": 0,
+    "text": "hingga minggu kedua pasca lahir sebesar 5-10% merupakan hal yang wajar. Hal tersebut\ndikarenakan pada bayi usia tersebut bayi sedang berada pada fase pasca diuresis sehingga\nterjadi perubahan komposisi jumlah cairan ekstraseluler dan peningkatan volume\nintraseluler (Anuhgera et al., 2022). Kemudian pada tanggal <TGL>, terdapat\npeningkatan berat badan pasien menjadi 2600 gram. Pada monev hari pertama, kedua, dan\nketiga pasien sudah mulai mendapatkan nutrisi enteral berupa ASI dengan jumlah\npemberian bertahap dari 8x1 ml, 12x4 ml, hingga 12x5 ml. Pada bayi prematur yang sudah\nmendapatkan ASI, didapatkan terdapat peningkatan berat badan sekitar 20-40 gram/hari\nAstuti et al., 2022). Dimana peningkatan berat badan pasien sudah sesuai yaitu sebesar\n150 gram dalam 4 hari atau sebesar 37.5 gram per harinya.\nE. Hasil Monitoring dan Evaluasi Biokimia\nPemeriksaan data laboratorium pasien bertujuan untuk mengetahui profil\nlaboratorium apa saya yang bermasalah. Pemeriksaan laboratorium ha"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 28,
+    "chunk_index": 1,
+    "text": ".5 gram per harinya.\nE. Hasil Monitoring dan Evaluasi Biokimia\nPemeriksaan data laboratorium pasien bertujuan untuk mengetahui profil\nlaboratorium apa saya yang bermasalah. Pemeriksaan laboratorium hanya dilakukan satu\nkali selama monev yaitu pada tanggal <TGL> atau pada saat monev hari ketiga.\nBerikut hasil dari monitoring dan evaluasi data laboratorium pasien:\n\n[TABLE 0]\nParameter | Hari 3 (<TGL>)\n--------------------------------------------------------------------------------\nHemoglobin | 13.0 g/dL (↓)\nHematokrit | 36.7% (↓)\nLeukosit | 25.59 10^3/uL (↑)\nMCV | 91.8 (↓)\nMCHC | 35.4 g/dL (↑)\nNeutrofil | 77.9% (↑)\nMonosit | 11.9% (↑)\nEosinofil absolut | 0.44 10^3/uL (↑)\nNeutrofil absolut | 19.93 10^3/uL (↑)\n[END TABLE]\nPasien mengalami berbagai komplikasi yang terkait dengan prematuritas dan\nberat badan lahir rendah, termasuk respiratory distress syndrome (RDS), early onset sepsis\n(EOS), anemia neonatus, atrial septal defect (ASD) sekundum besar, hiperbilirubinemia, dan\nk"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 28,
+    "chunk_index": 2,
+    "text": "prematuritas dan\nberat badan lahir rendah, termasuk respiratory distress syndrome (RDS), early onset sepsis\n(EOS), anemia neonatus, atrial septal defect (ASD) sekundum besar, hiperbilirubinemia, dan\nkondisi kecil masa kehamilan. Pada pemeriksaan <TGL>, kadar hemoglobin\nmengalami peningkatan menjadi 13.0 g/dL, sementara hematokrit juga meningkat menjadi\n36.7%, meskipun masih di bawah batas normal. Peningkatan ini kemungkinan disebabkan"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 29,
+    "chunk_index": 0,
+    "text": "karena pasien mendapatkan transfusi pada tanggal <TGL>. Namun, terdapat\npeningkatan kadar leukosit yang mengindikasikan masih terdapat infeksi aktif atau\nperadangan sistemik. Monosit tetap tinggi, menunjukkan proses inflamasi kronis yang masih\nterjadi. MCV yang menurun dapat mengarah pada kemungkinan anemia mikrositik jika\nberlanjut. Selain itu, eosinofil absolut meningkat yang mungkin berkaitan dengan reaksi\nimun atau proses inflamasi tertentu.\nF. Hasil Monitoring dan Evaluasi Fisik Klinis\nPemeriksaan data fisik klinis pasien bertujuan untuk mengetahui kondisi fisik klinis\npasien dan keluhan lainnya yang mungkin berkaitan dengan asupan makan pasien. Berikut\nhasil dari monitoring dan evaluasi fisik klinis pasien:\n\n[TABLE 0]\nFisik Klinis | Hari 1 (<TGL>) | Hari 2 (<TGL>) | Hari 3 (<TGL>)\n--------------------------------------------------------------------------------\nKU | Gerak tangis lemah | Gerak tangis lemah | Gerak tangis lemah\nHR | 160x/menit | 160x/menit |"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 29,
+    "chunk_index": 1,
+    "text": " | Hari 3 (<TGL>)\n--------------------------------------------------------------------------------\nKU | Gerak tangis lemah | Gerak tangis lemah | Gerak tangis lemah\nHR | 160x/menit | 160x/menit | 160x/menit\nRR | ~ ventilator | ~ ventilator | ~ ventilator\nSuhu | 36.6 C | 36.6 C | 36.6 C\nSpO2 | 98% on ventilator | 98% on ventilator | 98% on ventilator\nBalans Cairan | CM: 370.4 ml\nBAK: 373 ml\nIWL: 50 ml\nTotal CK: 423 ml\nBC = 52.6 ml | CM: 364.2 ml\nBAK: 335 ml\nIWL: 50 ml\nTotal CK: 385 ml\nBC: 20.8 ml | CM: 359 ml\nBAK dan BAB: 183\nml\nIWL: 50 ml\nTotal CK: 233 ml\nBC: 126 ml\nBalans Kumulatif |  | + 31.8 ml | + 105.2 ml\nLainnya | - Terpasang OGT\n- Tidak ada retensi | - Terpasang OGT\n- Tidak ada muntah\n- Retensi susu\nminimal di selang | - Terpasang OGT\n- Tidak ada muntah\n- Retensi susu\nminimal di selang\n[END TABLE]\n."
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 30,
+    "chunk_index": 0,
+    "text": "G. Hasil Monitoring dan Evaluasi Edukasi Gizi\nEdukasi gizi kepada pasien dilakukan pada tanggal <TGL> saat monev hari\nketiga. Pada edukasi, dijelaskan tentang diet untuk ibu menyusui dan panduan\npenyimpanan ASI. Edukasi dilakukan dengan metode ceramah dan tanya jawab. Metode\nceramah digunakan karena merupakan metode edukasi yang mudah dan dapat\nmeningkatkan pemahaman pasien. Dengan metode ceramah, narasumber dapat\nmenjelaskan dengan leluasa dan mempertegas pernyataannya di akhir sesi edukasi (Salim\ndan Taslim, 2021). Sementara media yang digunakan adalah leaflet makanan ibu menyusui,\nleaflet ASI, dan DBMP. DBMP digunakan untuk menjelaskan makanan sumber lemak yang\ndihindari dan penukar untuk contoh menu. Media edukasi leaflet dipilih karena merupakan\nmedia yang peruntukannya untuk massa, biaya terjangkau, dan dapat menampung pesan\ndengan kemasan menarik (Sari, 2021). Pemberian media leaflet pada saat penyuluhan akan\nmenjadi sarana untuk meningkatkan pengetahuan, karena sesuai"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 30,
+    "chunk_index": 1,
+    "text": "k massa, biaya terjangkau, dan dapat menampung pesan\ndengan kemasan menarik (Sari, 2021). Pemberian media leaflet pada saat penyuluhan akan\nmenjadi sarana untuk meningkatkan pengetahuan, karena sesuai dengan sifatnya media\nleaflet dapat dibaca ulang lagi dirumah untuk mengingatkan kembali tentang materi-materi\nyang telah diberikan selama penyuluhan berlangsung (Zainudin et al., 2023). Peningkatan\npengetahuan pasien dinilai dari hasil diskusi dimana pasien mampu menjelaskan kembali\nmateri yang diberikan."
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 31,
+    "chunk_index": 0,
+    "text": "PENUTUP\nA. Kesimpulan\nKesimpulan yang dapat diambil dari studi kasus pasien <NAMA> adalah sebagai berikut:\n1. Pasien datang ke ruang NICU pasca dilahirkan melalui pervaginam dengan diagnosis\nNeonatus moderate preterm, berat badan lahir rendah, kecil masa kehamilan,\nrespiratory distress syndrome, s. Early on Sepsis, anemia, Atrial Septal Defek sekundum\nbesar, dan hiperbilirubinemia.\n2. Diagnosa gizi yang diangkat untuk kasus ini adalah NI-2.7 Asupan parenteral tidak\nadekuat berkaitan dengan tidak adanya sucking reflek dan belum matangnya sistem\npencernaan ditandai dengan asupan energi, protein, lemak, dan karbohidrat pasien dari\n24 h recall defisit tingkat berat dan NB-1.1 Kurangnya pengetahuan terkait makanan dan\ngizi berkaitan dengan kurangnya paparan ibu terhadap informasi terkait gizi ditandai\nbelum pernah mendapatkan edukasi gizi pasca persalinan.\n3. Intervensi gizi yang diberikan adalah pemberian diet gizi seimbang dalam bentuk ASI\nmelalui enteral (OGT) sebesar 281.75 kalori denga"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 31,
+    "chunk_index": 1,
+    "text": "itandai\nbelum pernah mendapatkan edukasi gizi pasca persalinan.\n3. Intervensi gizi yang diberikan adalah pemberian diet gizi seimbang dalam bentuk ASI\nmelalui enteral (OGT) sebesar 281.75 kalori dengan frekuensi 12 kali sehari atau setiap\n2 jam sekali, kolaborasi dengan tenaga kesehatan lain terkait nilai laboratorium,\npemantauan antropometri, dan fisik klinis, serta pemberian edukasi gizi kepada keluarga\npasien terkait diet makanan ibu menyusui dan penyimpanan ASI.\n4. Monitoring dan evaluasi asupan makan dilakukan selama 3 hari dengan memonitor\nasupan makan melalui 24 h food record, nilai laboratorium, nilai fisik klinis, peningkatan\nantropometri, dan peningkatan pengetahuan dari edukasi.\nB. Saran\nSaran yang dapat diberikan berdasarkan studi kasus By Ny S adalah sebagai berikut:\n1. Diperlukan pemantauan pertumbuhan lebih lanjut secara berkala untuk mengevaluasi\nstatus pertumbuhan pasien dan menyesuaikan intervensi nutrisi jika diperlukan.\n2. Memberikan tambahan edukasi kepada orang tu"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 31,
+    "chunk_index": 2,
+    "text": "ukan pemantauan pertumbuhan lebih lanjut secara berkala untuk mengevaluasi\nstatus pertumbuhan pasien dan menyesuaikan intervensi nutrisi jika diperlukan.\n2. Memberikan tambahan edukasi kepada orang tua mengenai pentingnya pemantauan\ntumbuh kembang, nutrisi yang sesuai, dan tanda-tanda yang perlu diperhatikan pasca\nperawatan."
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 32,
+    "chunk_index": 0,
+    "text": "DAFTAR PUSTAKA\nAndini, R., Susetyowati, S. and Sulistyoningrum, D.C., 2017. Studi komparasi beberapa metode\nskrining penilaian status gizi pada pasien dewasa rawat inap rumah sakit. Jurnal Gizi\nKlinik Indonesia, 14(2), pp.64-71.\nAnissa, D.D. and Dewi, R.K., 2021. Peran protein: ASI dalam meningkatkan kecerdasan anak\nuntuk menyongsong generasi indonesia emas 2045 dan relevansi dengan Al-Qur’an.\nJurnal Tadris IPA Indonesia, 1(3), pp.427-435.\nAnuhgera, D.E., Ritonga, N.J. and Sitorus, R., 2022. Seduhan Daun Kelor (Morinaga Oleifera)\nSebagai Alternatif Peningkatan Volume Asi dan Berat Badan Bayi Baru lahir. Jurnal\nKebidanan Kestra (JKK), 4(2).\nAstuti, I.A.M., Rahyani, N.K.Y. and Dewi, I.G.A.A.N., 2022. Gambaran Karakteristik Ibu dan\nPeningkatan Berat Badan Bayi Prematur Setelah Dilakukan Relaktasi. Jurnal Ilmiah\nKebidanan (The Journal Of Midwifery), 10(1), pp.40-46.\nAzizah, F. and Anifah, F., 2020. Kandungan Kadar Protein pada Asi Bayi 0-6 Bulan. The Journal\nof Muhammadiyah Medical Laborat"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 32,
+    "chunk_index": 1,
+    "text": "tasi. Jurnal Ilmiah\nKebidanan (The Journal Of Midwifery), 10(1), pp.40-46.\nAzizah, F. and Anifah, F., 2020. Kandungan Kadar Protein pada Asi Bayi 0-6 Bulan. The Journal\nof Muhammadiyah Medical Laboratory Technologist, 3(2), pp.116-124.\nBecker, P.J. and Brunet‐Wood, M.K., 2022. Pediatric malnutrition screening and assessment\ntools: Analyzing the gaps. Nutrition in Clinical Practice, 37(5), pp.1088-1104.\nDewi, M. and Rimbawan, R., 2021. Hubungan antara Asupan Asam Lemak Tidak Jenuh Ganda\npada Ibu Menyusui, Kandungannya dalam ASI dan Lingkar Kepala Bayi: Studi pada\nPeriode Awal Postpartum. Amerta Nutrition.\nMcPherson, C. and Wambach, J.A., 2018. Prevention and Treatment of Respiratory Distress\nSyndrome in Preterm Neonates. Neonatal Network, 37(3).\nMedise, B.E., 2021. Pertumbuhan dan Perkembangan Bayi Prematur: Apa Saja Risiko Jangka\nPanjangnya? Growth and Development in Preterm Infants: What is The Long-Term\nRisk?.\nMustika, E. and Minata, F., 2021. Analisis Hubungan Faktor Maternal Dan Pe"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 32,
+    "chunk_index": 2,
+    "text": "gan Bayi Prematur: Apa Saja Risiko Jangka\nPanjangnya? Growth and Development in Preterm Infants: What is The Long-Term\nRisk?.\nMustika, E. and Minata, F., 2021. Analisis Hubungan Faktor Maternal Dan Penyakit Kronik Pada\nPersalinan Prematur. Jurnal Kesehatan dan Pembangunan, 11(21), pp.19-27.\nNingsih, N.S., 2020. Perbedaan Wadah Tembus Cahaya Dan Wadah Tidak Tembus Cahaya\nTerhadap Stabilitas Glukosa Pada Formulasi Campuran Nutrisi Parenteral Total Bayi\nPrematur.\nPristya, T.Y., Novitasari, A. and Hutami, M.S., 2020. Pencegahan dan pengendalian BBLR di\nIndonesia: systematic review. Indonesian Journal of Health Development, 2(3),\npp.175-182."
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 33,
+    "chunk_index": 0,
+    "text": "Salim, R. and Taslim, T., 2021. Edukasi manfaat air mineral pada tubuh bagi anak sekolah\ndasar secara online. Jurnal Pengabdian Kepada Masyarakat, 27(2), pp.126-135.\nSari, J., 2021. PENGARUH PENDIDIKAN KESEHATAN DENGAN LEAFLET TERHADAP\nTINGKAT PENGETAHUAN IBU HAMIL MENGENAI POLA HIDUP SEHAT SELAMA\nKEHAMILAN DI PUSKESMAS AIKMEL. Journal Transformation of Mandalika, 2(1),\npp.371-377.Salim, R. and Taslim, T., 2021. Edukasi manfaat air mineral pada tubuh bagi\nanak sekolah dasar secara online. Jurnal Pengabdian Kepada Masyarakat, 27(2),\npp.126-135.\nSekti, R.M. and Fayasari, A., 2019. Edukasi gizi dengan media audiovisual terhadap pola\nkonsumsi sayur buah pada remaja SMP di Jakarta Timur. Jurnal Ilmiah Kesehatan, 1(2),\npp.https-ojs.\nSilvino, R.C.D.A.S., Trida, V.C., Castro, A.D.R.V. and Neri, L.D.C.L., 2020. Construction and\nvalidation of the neonatal nutritional risk screening tool. Revista Paulista de Pediatria,\n39, p.e2020026.\nUlita, I.M. and Astuti, Z., 2024. Analisis Intervensi Position"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 33,
+    "chunk_index": 1,
+    "text": "D.C.L., 2020. Construction and\nvalidation of the neonatal nutritional risk screening tool. Revista Paulista de Pediatria,\n39, p.e2020026.\nUlita, I.M. and Astuti, Z., 2024. Analisis Intervensi Position Quarter Prone terhadap Perbaikan\nStatus Oksigenasi pada Neonatus Prematur dengan Respiratory Distress Syndrome\n(RDS). Jurnal Keperawatan, 16(3), pp.905-916.\nWidiasa, W., Suandi, S. and Retayasa, I.W., 2016. Nutrisi Parenteral Total pada Bayi Prematur.\nSari Pediatri, 9(1), pp.39-43.\nYovita, G., 2021. KAJIAN INTERVENSI GIZI UNTUK PERTUMBUHAN DAN PERKEMBANGAN\nKEMAMPUAN MAKAN MANDIRI PADA BAYI PREMATUR NUTRITIONAL\nINTERVENTION FOR GROWTH AND DEVELOPMENT OF INDEPENDENT FEEDING\nABILITY IN PRETERM INFANTS: A REVIEW.\nZainuddin, F., Andrajati, R. and Supardi, S., 2023. PENGARUH PENYULUHAN DAN\nPEMBERIAN LEAFLET PADA IBU TERHADAP PENGETAHUAN, PERSEPSI DAN\nPENYIMPANAN ANTIBIOTIK DI KELURAHAN BEJI DAN PANCORAN MAS KOTA\nDEPOK. Jurnal Cahaya Mandalika ISSN 2721-4796 (online), 4(2), pp.664-675.\nZen, D., "
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 33,
+    "chunk_index": 2,
+    "text": "N LEAFLET PADA IBU TERHADAP PENGETAHUAN, PERSEPSI DAN\nPENYIMPANAN ANTIBIOTIK DI KELURAHAN BEJI DAN PANCORAN MAS KOTA\nDEPOK. Jurnal Cahaya Mandalika ISSN 2721-4796 (online), 4(2), pp.664-675.\nZen, D., 2017. Pengaruh Nesting Terhadap Perubahan Fisiologis Dan Perilaku Bayi Prematur Di\nPerinatologi <RS> Tunas\nHusada: Jurnal Ilmu-ilmu Keperawatan, Analis Kesehatan dan Farmasi, 17(2),\npp.357-374.\nZhou, M., Li, Y., Yin, H., Zhang, X. and Hu, Y., 2021. New screening tool for neonatal nutritional\nrisk in China: a validation study. BMJ Open, 11(4), p.e042467."
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 34,
+    "chunk_index": 0,
+    "text": "Zuarisa, G., 2023. Analisis Faktor Resiko Kejadian Sepsis Neonatorum di <RS> ILMU KEDOKTERAN, 2(1),\npp.166-172."
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 35,
+    "chunk_index": 0,
+    "text": "LAMPIRAN\nLampiran 1. Rekomendasi Menu di Rumah\nKebutuhan Gizi\n● Energi = 130 x 2600 = 338 kkal\n● Protein = 4.5 x 2600 = 11.7 gram ~ 46.8 kkal (14%)\n● Lemak = 4.8 x 2600 = 12.5 gram ~ 112.5 kkal (33%)\n● Karbohidrat = 338 - (46.8 + 112.5) = 278.7 kkal ~ 47 gram (53%)\n● Cairan = 160 x 2450 = 392 ml\nContoh Rekomendasi Menu\n\n[TABLE 0]\nWaktu\nMakan | Bahan\nMakanan | Jumlah\nPemberian (ml) | Energi (kkal) | Protein (g) | Lemak (g) | Karbohidrat\n(g)\n--------------------------------------------------------------------------------\nSetiap 2\njam sekali | ASI | 35 | 26.95 | 0.49 | 1.30 | 2.52\n |  | 35 | 26.95 | 0.49 | 1.30 | 2.52\n |  | 35 | 26.95 | 0.49 | 1.30 | 2.52\n |  | 35 | 26.95 | 0.49 | 1.30 | 2.52\n |  | 35 | 26.95 | 0.49 | 1.30 | 2.52\n |  | 35 | 26.95 | 0.49 | 1.30 | 2.52\n |  | 35 | 26.95 | 0.49 | 1.30 | 2.52\n |  | 35 | 26.95 | 0.49 | 1.30 | 2.52\n |  | 35 | 26.95 | 0.49 | 1.30 | 2.52\n |  | 35 | 26.95 | 0.49 | 1.30 | 2.52\n |  | 35 | 26.95 | 0.49 | 1.30 | 2.52\n |  | 35 | 26.95 | 0.49 | 1.30 | 2."
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 35,
+    "chunk_index": 1,
+    "text": " 1.30 | 2.52\n |  | 35 | 26.95 | 0.49 | 1.30 | 2.52\n |  | 35 | 26.95 | 0.49 | 1.30 | 2.52\n |  | 35 | 26.95 | 0.49 | 1.30 | 2.52\n |  | 35 | 26.95 | 0.49 | 1.30 | 2.52\n |  | 35 | 26.95 | 0.49 | 1.30 | 2.52\nTOTAL |  |  | 323.4 | 5.88 | 15.54 | 30.24\nKEBUTUHAN |  |  | 338 | 11.7 | 12.5 | 47\n[END TABLE]"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 36,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nPERSENTASE KEBUTUHAN (%) | 96% | 50% | 124% | 64%\n--------------------------------------------------------------------------------\n[END TABLE]"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 41,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\n | Interpretasi\nSkor 0 = berisiko rendah malnutrisi\nSkor 1-3 = berisiko sedang malnutrisi\nSkor 4-10 = berisiko tinggi malnutrisi | Berisiko tinggi\nmalnutrisi\n--------------------------------------------------------------------------------\n[END TABLE]\nB. Menggunakan Neonatal Nutritional Risk Screening Tool\nNama : <NAMA>\nUsia Kehamilan :\nBBL :\n\n[TABLE 1]\nItem |  | Indicator | Score | Scoring\n--------------------------------------------------------------------------------\nBirth\nsituation | Gestational\nage | ≥22 weeks and <28 weeks | 4 | 2\n |  | ≥28 weeks and <32 weeks | 3 | \n |  | ≥32 weeks dan <37 weeks | 2 | \n | Birth weight | <1000 g | 4 | 1\n |  | SGA (P<10) | 3 | \n |  | ≥1000 g and <1500 g | 2 | \n |  | ≥1500 g and <2500 g\nLGA (>P90)) | 1 | \nWeight change |  | Weight loss >15% | 4 | 2\n |  | Weight loss >10% | 3 | \n |  | ● >2 weeks of age: weight gain\n<10g/(kg.d)\n● 1 ~ 2 weeks of age: weight\ndecreased or unaltered | 2 | \nNutrient intake way |  | Complete parenteral nutri"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 41,
+    "chunk_index": 1,
+    "text": "15% | 4 | 2\n |  | Weight loss >10% | 3 | \n |  | ● >2 weeks of age: weight gain\n<10g/(kg.d)\n● 1 ~ 2 weeks of age: weight\ndecreased or unaltered | 2 | \nNutrient intake way |  | Complete parenteral nutrition | 3 | 2\n |  | Partial parenteral nutrition | 2 | \n |  | Tube feed | 1 | \nDisease\ndiagnosis | Digestive\nsystem\ndisease | NEC, Gastrointestinal congenital\nmalformation | 4 | 2\n |  | Recurrent diarrhea,\nGastric-intestinal perforation | 3 | \n |  | Milk protein allergy, GER | 2 | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 42,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\n | Other\nDisease | Severe infection (pneumonia,\nsepticemia) | 2 | \n--------------------------------------------------------------------------------\n |  | BPD, Acute illness or injury,\nCongenital heart disease,\nGlucose metabolic disorder, RDS,\nHypokalemia, Brain injury, HIE,\nHyperbilirubinemia | 1 | \nAggregate Score |  |  |  | 9\n[END TABLE]\nInterpretasi:\n≥8 berisiko malnutrisi\n≥4 - <8 berisiko sedang\n<4 berisiko rendah\nBerdasarkan dua alat skrining gizi yang digunakan yaitu FARNneo dan Neonatal\nNutritional Screening Tools, dapat disimpulkan bahwa pasien berisiko mengalami malnutrisi\nsehingga diperlukan proses asuhan gizi lebih lanjut."
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 43,
+    "chunk_index": 0,
+    "text": "NUTRITIONAL CARE PROCESS\nIDENTITAS PASIEN\nNama : <NAMA>\nJenis Kelamin : Perempuan\nTanggal Lahir : <TGL>\nUmur : 7 hari\nUsia Kehamilan : 32 minggu\nTanggal MRS : <TGL>\nTanggal Assessment : <TGL>\nDiagnosis Medis : Neonatus moderate preterm, berat badan lahir rendah, sesuai masa kehamilan, respiratory distress syndrom,\ns. Early Onset of Sepsis, ROP, ASD sekundum kecil\n\n[TABLE 0]\nAssessment |  | Diagnosa Gizi | Intervensi | Rencana Monev\n--------------------------------------------------------------------------------\nData Dasar | Identifikasi Masalah |  |  | \nANTROPOMETRI\nPengukuran <TGL>\nBB = 1800 g\nPB = 41 cm\nLK = 29 cm\nLD = 29 cm\nLP = 28 cm\nKurva Fenton\nBB/U = di antara\npercentile 10-90%\nPB/U = di antara\npercentile 10-90% | - Status gizi pasien\nmenurut BB/U,\nPB/U, dan LK/U\nyaitu normal | NI-2.11 Keterbatasan\npenerimaan makanan\nberkaitan dengan\nkondisi medis dan\npembatasan cairan\npada pasien ditandai\ndengan pemberian\ncairan diberikan\nber"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 43,
+    "chunk_index": 1,
+    "text": "sien\nmenurut BB/U,\nPB/U, dan LK/U\nyaitu normal | NI-2.11 Keterbatasan\npenerimaan makanan\nberkaitan dengan\nkondisi medis dan\npembatasan cairan\npada pasien ditandai\ndengan pemberian\ncairan diberikan\nbertahap serta asupan\nenergi, protein, lemak,\ndan karbohidrat pasien\ndari 24 h recall defisit\ntingkat berat\nNB-1.1 Kurangnya\npengetahuan terkait\nmakanan dan gizi | ND-2.1 Pemberian\nformula enteral\nberupa ASI\nTujuan:\n- Memenuhi\nkebutuhan asupan\npasien melalui OGT\n- Pemberian diet susu\natau ASI\nRC-1 Kolaborasi\ndengan tenaga\nkesehatan lain terkait\npengobatan dan\npemantauan berat\nbadan, panjang badan,\ndan lingkar kepala | FH-1.2.3 Asupan\nmakanan enteral\nMetode: food record\nFrekuensi: setiap hari\nTarget: mencapai 80%\ndan terus mengalami\npeningkatan\nAnalisis:\nmembandingkan\nasupan dengan\nkebutuhan pasien\nAD-1.1 Pemantauan\nberat badan, panjang\nbadan, dan lingkar\nkepala\nMetode: pengukuran\n[END TABLE]"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 44,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nLK/U = di antara\npercentile 10-90%\nBBI = 1560 g |  | berkaitan dengan\nkurangnya paparan ibu\nterhadap informasi\nterkait gizi ditandai\nbelum pernah\nmendapatkan edukasi\ngizi pasca persalinan\ndan menyusui | E-1 Pemberian\nedukasi-Konten terkait\ngizi dan makanan\nTujuan:\n- Meningkatkan\npengetahuan\nkeluarga pasien\nterkait diet susu\natau ASI\n- Meningkatkan\nmotivasi keluarga\npasien untuk\nmemberikan asupan\nmakan yang tepat\ndan sesuai\nMetode: ceramah dan\ndiskusi\nMateri:\n- Gambaran diet susu\natau ASI\n- Manfaat dan cara\nmenyimpan ASI\n- Gizi untuk ibu\nmenyusui\n- Hasil yang akan\ndicapai jika patuh\nterhadap\nrekomendasi diet\nyang diberikan\nMedia:\n- Leaflet Makanan Ibu\nMenyusui\n- Leaflet ASI\n- DBMP\nWaktu: 15-30 menit | antropometri BB, PB,\ndan LK\nFrekuensi: satu minggu\nsekali (setiap jumat)\nTarget: mengalami\npeningkatan\nAnalisis:\nmembandingkan hasil\npengukuran BB, PB,\ndan LK dengan\npengukuran\nsebelumnya\nFH-4.1 Pengetahuan\nterkait makanan dan\ngizi\nMetode: diskusi\nTarget: peningkatan\npengetahuan"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 44,
+    "chunk_index": 1,
+    "text": ": mengalami\npeningkatan\nAnalisis:\nmembandingkan hasil\npengukuran BB, PB,\ndan LK dengan\npengukuran\nsebelumnya\nFH-4.1 Pengetahuan\nterkait makanan dan\ngizi\nMetode: diskusi\nTarget: peningkatan\npengetahuan\nFrekuensi: sebelum dan\nsesudah edukasi\nAnalisis:\nmembandingkan hasil\ndiskusi dengan teori\n--------------------------------------------------------------------------------\nBIOKIMIA\n<TGL>\n- MCHC = 35.5 (↑)\n- Eosinofil = 0.5 (↓)\n- Limfosit = 29.9 (↑)\n- Monosit = 11.1 (↑) | - Penurunan kadar\neosinofil serta\npeningkatan kadar\nlimfosit serta\nmonosit berkaitan\ndengan sepsis dini\nneonatus |  |  | \nFISIK KLINIS\n<TGL>\n- HR = 158x/menit\n- RR = 53x/menit\n- Suhu = 36.5\n- SpO2 = 98% HFN | - Pasien terpasang\nventilator dan OGT |  |  | \nDIETARY\n(SEKARANG)\n24-h recall\nTPN D15%\nD15% 154.5 ml\nAminosteril infant 10%:\n54 ml\nSmoflipid: 27 ml\nNaCl 15%: 1.5 ml\nKCl 7.46%: 7 ml\nCa gluconate 10%: 2 ml\nMgSO4 20%: 2 ml\nSoluvit: 2 ml\n- Energi = 152.95\nkkal\n- Protein =5.4 gram | Sekarang\n- Energi = 73"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 44,
+    "chunk_index": 2,
+    "text": "Aminosteril infant 10%:\n54 ml\nSmoflipid: 27 ml\nNaCl 15%: 1.5 ml\nKCl 7.46%: 7 ml\nCa gluconate 10%: 2 ml\nMgSO4 20%: 2 ml\nSoluvit: 2 ml\n- Energi = 152.95\nkkal\n- Protein =5.4 gram | Sekarang\n- Energi = 73.89% →\ndefisit tingkat\nsedang\n- Protein = 85.71% →\ndefisit tingkat ringan\n- Lemak = 62.5% →\ndefisit tingkat berat\n- KH = 74.38% →\ndefisit tingkat\nsedang |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 45,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\n- Lemak = 5.4 gram\n- Karbohidrat = 19.34\ngram\n- Cairan = 250 ml |  |  | Sasaran: keluarga\npasien (orang tua) | \n--------------------------------------------------------------------------------\nEKOLOGI\nSosial Ekonomi\n- Pasien merupakan\nanak pertama\n- Pasien lahir melalui\nprosedur operasi\nSC\n- Ibu pasien tidak\nrutin konsumsi TTD\natau suplemen\nlainnya\n- Hb ibu pasien\nsangat rendah saat\nmelahirkan (>7) dan\nmendapatkan\ntransfusi darah | - |  |  | \nFARMAKOLOGI\n- Infus D10 145 ml/24\njam\n- Inj. Ampisilin 2x90\nmg\n- Inj. Gentamisin 10\nmg\n- Inj. Capneu 1x10\nmg\n- Inj. vit K 1 mg | - Tidak ada interaksi\nobat dan makanan |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 46,
+    "chunk_index": 0,
+    "text": "PRESKRIPSI DIET\nA. Tujuan\n- Meningkatkan asupan makan dan minuman melalui parenteral dan enteral\nsesuai kemampuan untuk memenuhi kebutuhan asupan pasien dan mendukung\ntumbuh kembang\nB. Prinsip\nGizi Seimbang\nC. Syarat\n- Energi diberikan 80 kkal/kgBB/hari sesuai Konsensus Asuhan Nutrisi pada Bayi\nPrematur (IDAI, 2016) yaitu sebesar 196 kkal untuk mendukung pertumbuhan\ndan perkembangan\n- Protein diberikan 3.5 gram kgBB/hari Konsensus Asuhan Nutrisi pada Bayi\nPrematur (IDAI, 2016) yaitu sebesar 34.28 gram untuk mencegah gagal tumbuh\nkembang pasca lahir pada bayi prematur\n- Lemak diberikan tinggi sebesar 12.61 gram untuk mencegah\n- Karbohidrat diberikan cukup dari total kebutuhan energi dikurangi kebutuhan\nprotein dan lemak sebesar\n- Cairan diberikan 150 ml/kg/hari untuk memenuhi kebutuhan fisiologis dan\nmenjaga keseimbangan cairan serta elektrolit dan mencegah kehilangan cairan\nekstraseluler\n- Makanan diberikan dalam bentuk\nD. Kebutuhan Energi Sekarang\n● Energi = 115 x 1800 = 207 kkal\n● Pr"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 46,
+    "chunk_index": 1,
+    "text": "ologis dan\nmenjaga keseimbangan cairan serta elektrolit dan mencegah kehilangan cairan\nekstraseluler\n- Makanan diberikan dalam bentuk\nD. Kebutuhan Energi Sekarang\n● Energi = 115 x 1800 = 207 kkal\n● Protein = 3.5 x 1800 = 6.3 gram ~ 25.2 kkal (12%)\n● Lemak = 4.8 x 1800 = 8.64 gram ~ 77.8 kkal (38%)\n● Karbohidrat = 207 - (25.2 + 77.8) = 104 kkal ~ 26 gram (50%)\n● Cairan = 140 x 1800 = 252 ml"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 47,
+    "chunk_index": 0,
+    "text": "FORM MONITORING DAN EVALUASI GIZI\n\n[TABLE 0]\nTanggal | Antropo\nmetri | Biokimia | Fisik Klinis | Asupan Makan | Edukasi Gizi | Diagnosis\nGizi Baru | Rencana\nIntervensi\nGizi\n--------------------------------------------------------------------------------\n<TGL> | - | - | - HR: 155\nx/menit\n- RR: 60\nx/menit\n- Suhu: 36.5\nx\n- O2\nventilator | Parenteral\n- D15%: 156.5\nml\n- Aminosteril\ninfant 10%: 54\nml\n- Smoflipid\n20%: 27 ml\n- NaCl 15%: 1.5\nml\n- KCl 7.46%: 2\nml\n- Ca gluconate\n10%: 7 ml\n- MgSO4 20%:\n2 ml\nTotal Asupan\nParenteral\n- E: 169.5 kkal\n- P: 5.4 gram\n- L: 5.4 gram\n- KH: 23.48\ngram\nEnteral\n- ASI 8 x 1 ml | - Keluarga pasien\nmampu\nmenjelaskan\nulang materi\nedukasi yang\ndiberikan | - | Melanjutkan\nintervensi\n[END TABLE]"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 48,
+    "chunk_index": 0,
+    "text": "Total Asupan\nEnteral\n- E: 4.8 kkal\n- P: 0.18 gram\n- L: 0.21 gram\n- KH: 0.6 gram\nTOTAL ASUPAN\n- E: 174.3 kkal\n- P: 5.58 gram\n- L: 5.61 gram\n- KH: 24.08\ngram"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 50,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\n | Interpretasi\nSkor 0 = berisiko rendah malnutrisi\nSkor 1-3 = berisiko sedang malnutrisi\nSkor 4-10 = berisiko tinggi malnutrisi | Berisiko tinggi\nmalnutrisi\n--------------------------------------------------------------------------------\n[END TABLE]\nB. Menggunakan Neonatal Nutritional Risk Screening Tool\nNama : <NAMA>\nUsia Kehamilan :\nBBL :\n\n[TABLE 1]\nItem |  | Indicator | Score | Scoring\n--------------------------------------------------------------------------------\nBirth\nsituation | Gestational\nage | ≥22 weeks and <28 weeks | 4 | 2\n |  | ≥28 weeks and <32 weeks | 3 | \n |  | ≥32 weeks dan <37 weeks | 2 | \n | Birth weight | <1000 g | 4 | 1\n |  | SGA (P<10) | 3 | \n |  | ≥1000 g and <1500 g | 2 | \n |  | ≥1500 g and <2500 g\nLGA (>P90)) | 1 | \nWeight change |  | Weight loss >15% | 4 | 2\n |  | Weight loss >10% | 3 | \n |  | ● >2 weeks of age: weight gain\n<10g/(kg.d)\n● 1 ~ 2 weeks of age: weight\ndecreased or unaltered | 2 | \nNutrient intake way |  | Complete parenteral nutrit"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 50,
+    "chunk_index": 1,
+    "text": "5% | 4 | 2\n |  | Weight loss >10% | 3 | \n |  | ● >2 weeks of age: weight gain\n<10g/(kg.d)\n● 1 ~ 2 weeks of age: weight\ndecreased or unaltered | 2 | \nNutrient intake way |  | Complete parenteral nutrition | 3 | 2\n |  | Partial parenteral nutrition | 2 | \n |  | Tube feed | 1 | \nDisease\ndiagnosis | Digestive\nsystem\ndisease | NEC, Gastrointestinal congenital\nmalformation | 4 | 2\n |  | Recurrent diarrhea,\nGastric-intestinal perforation | 3 | \n |  | Milk protein allergy, GER | 2 | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 51,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\n | Other\nDisease | Severe infection (pneumonia,\nsepticemia) | 2 | \n--------------------------------------------------------------------------------\n |  | BPD, Acute illness or injury,\nCongenital heart disease,\nGlucose metabolic disorder, RDS,\nHypokalemia, Brain injury, HIE,\nHyperbilirubinemia | 1 | \nAggregate Score |  |  |  | 9\n[END TABLE]\nInterpretasi:\n≥8 berisiko malnutrisi\n≥4 - <8 berisiko sedang\n<4 berisiko rendah\nBerdasarkan dua alat skrining gizi yang digunakan yaitu FARNneo dan Neonatal Nutritional\nScreening Tools, dapat disimpulkan bahwa pasien berisiko mengalami malnutrisi sehingga\ndiperlukan proses asuhan gizi lebih lanjut."
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 52,
+    "chunk_index": 0,
+    "text": "NUTRITIONAL CARE PROCESS\nIDENTITAS PASIEN\nNama : <NAMA>\nJenis Kelamin : Laki-laki\nTanggal Lahir : <TGL>\nUmur : 6 hari\nTanggal MRS : <TGL>\nTanggal Assessment : <TGL>\nDiagnosis Medis : Neonatus moderate preterm, berat badan lahir rendah, kecil masa kehamilan, respiratory distress syndrome,\ns. EOS, ROP, ASD sekundum kecil\n\n[TABLE 0]\nAssessment |  | Diagnosa Gizi | Intervensi | Rencana Monev\n--------------------------------------------------------------------------------\nData Dasar | Identifikasi Masalah |  |  | \nANTROPOMETRI\nPengukuran <TGL>\nBB = 1200 gram\nPB = 38 cm\nLK = 31 cm\nLD = 22 cm\nLP = 20 cm\nKurva Fenton\nBB/U = di bawah\npercentile 10%\nPB/U = di bawah\npercentile 10%\nLK/U = di antara\npercentile 10-90% | - Status gizi pasien\nberdasarkan BB/U\ndan PB/U yaitu kecil\n- Status gizi pasien\nberdasarkan LK/U\nyaitu normal | NI-2.11 Keterbatasan\npenerimaan makanan\nberkaitan dengan\nkondisi medis dan\npembatasan cairan\npada pasien ditandai\ndengan pember"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 52,
+    "chunk_index": 1,
+    "text": "an PB/U yaitu kecil\n- Status gizi pasien\nberdasarkan LK/U\nyaitu normal | NI-2.11 Keterbatasan\npenerimaan makanan\nberkaitan dengan\nkondisi medis dan\npembatasan cairan\npada pasien ditandai\ndengan pemberian\ncairan diberikan\nbertahap serta asupan\nenergi, protein, lemak,\ndan karbohidrat pasien\ndari 24 h recall defisit\ntingkat berat\nNB-1.1 Kurangnya\npengetahuan terkait\nmakanan dan gizi\nberkaitan dengan | ND-2.1 Pemberian\nformula enteral\nberupa ASI\nTujuan:\n- Memenuhi\nkebutuhan asupan\npasien melalui OGT\n- Pemberian diet susu\natau ASI\nRC-1 Kolaborasi\ndengan tenaga\nkesehatan lain terkait\npengobatan dan\npemantauan berat\nbadan, panjang badan,\ndan lingkar kepala | FH-1.2.3 Asupan\nmakanan enteral\nMetode: food record\nFrekuensi: setiap hari\nTarget: mencapai 60%\ndan terus mengalami\npeningkatan\nAnalisis:\nmembandingkan\nasupan dengan\nkebutuhan pasien\nAD-1.1 Pemantauan\nberat badan, panjang\nbadan, dan lingkar\nkepala\nMetode: pengukuran\nantropometri BB, PB,\n[END TABLE]"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 53,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nBBI = 1250 g |  | kurangnya paparan ibu\nterhadap informasi\nterkait gizi ditandai\nbelum pernah\nmendapatkan edukasi\ngizi pasca persalinan\ndan menyusui | E-1 Pemberian\nedukasi-Konten terkait\ngizi dan makanan\nTujuan:\n- Meningkatkan\npengetahuan\nkeluarga pasien\nterkait diet susu\natau ASI\n- Meningkatkan\nmotivasi keluarga\npasien untuk\nmemberikan asupan\nmakan yang tepat\ndan sesuai\nMetode: ceramah dan\ndiskusi\nMateri:\n- Gambaran diet susu\natau ASI\n- Manfaat dan cara\nmenyimpan ASI\n- Gizi untuk ibu\nmenyusui\n- Hasil yang akan\ndicapai jika patuh\nterhadap\nrekomendasi diet\nyang diberikan\nMedia:\n- Leaflet Makanan Ibu\nMenyusui\n- Leaflet ASI\n- DBMP\nWaktu: 15-30 menit\nSasaran: keluarga | dan LK\nFrekuensi: satu minggu\nsekali (setiap jumat)\nTarget: mengalami\npeningkatan\nAnalisis:\nmembandingkan hasil\npengukuran BB, PB,\ndan LK dengan\npengukuran\nsebelumnya\nFH-4.1 Pengetahuan\nterkait makanan dan\ngizi\nMetode: diskusi\nTarget: peningkatan\npengetahuan\nFrekuensi: sebelum dan\nsesudah edukasi\nAnalisis:\nmemba"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 53,
+    "chunk_index": 1,
+    "text": "engukuran BB, PB,\ndan LK dengan\npengukuran\nsebelumnya\nFH-4.1 Pengetahuan\nterkait makanan dan\ngizi\nMetode: diskusi\nTarget: peningkatan\npengetahuan\nFrekuensi: sebelum dan\nsesudah edukasi\nAnalisis:\nmembandingkan hasil\ndiskusi dengan teori\n--------------------------------------------------------------------------------\nBIOKIMIA\n<TGL>\n- Hemoglobin = 14.1\n(↓)\n- Eritrosit = 4.03 (↓)\n- Hematokrit = 45.7\n(↓)\n- Leukosit = 7.27 (↓)\n- Limfosit = 27.0 (↑)\n- Monosit = 12.0 (↑) | - Penurunan kadar\nhemoglobin,\neritrosit, dan\nhematokrit berkaitan\ndengan pasien\nprematur dan\nanemia neonatus\n- Penurunan kadar\nleukosit serta\npeningkatan kadar\nlimfosit dan monosit\nberkaitan dengan\nsepsis dini neonatus |  |  | \nFISIK KLINIS\n<TGL>\n- GCS = gerak tangis\nlemah\n- HR = 134x/menit\n- RR = 60x/menit\n- Suhu = 36.6 C\n- SpO2 = 99% | - Fisik klinis pasien\nnormal |  |  | \nDIETARY\n(SEKARANG)\n24-h recall\nTPN D12.5%\nD12.5%: 102.5 ml\nAminosteril infant 10%:\n30 ml\nSmoflipid: 9 ml\nNaCl 15%: 1 ml\nKCl 7.46%: 1 m"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 53,
+    "chunk_index": 2,
+    "text": "uhu = 36.6 C\n- SpO2 = 99% | - Fisik klinis pasien\nnormal |  |  | \nDIETARY\n(SEKARANG)\n24-h recall\nTPN D12.5%\nD12.5%: 102.5 ml\nAminosteril infant 10%:\n30 ml\nSmoflipid: 9 ml\nNaCl 15%: 1 ml\nKCl 7.46%: 1 ml | Sekarang\n- Energi = 47.25% →\ndefisit tingkat berat\n- Protein = 71.43% →\ndefisit tingkat\nsedang\n- Lemak = 34.72% →\ndefisit tingkat berat\n- KH = 73.68% →\ndefisit tingkat |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 54,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nCa gluconate 10%: 5 ml\nMgSO4 20%: 0.5 ml\n- Energi = 65.2 kkal\n- Protein = 3 gram\n- Lemak = 2 gram\n- Karbohidrat = 12.82\ngram | sedang |  | pasien (orang tua) | \n--------------------------------------------------------------------------------\nEKOLOGI\nSosial Ekonomi\n- Pasien merupakan\nanak pertama\n- Pasien lahir melalui\nprosedur operasi\nSC\n- Pasien tidak\nmenangis saat lahir\n- Ibu pasien rutin\nkonsumsi TTD saat\nkehamilan | - |  |  | \nFARMAKOLOGI\n- TPN D10% 250 ml\ndalam 24 jam\n- Inj. Ampicillin 2x60\nmg\n- Inj. Gentamisin 5\nmg/36 jam\n- Inj. Capneu 1x10 g\n- Surfaktan 4 ml\n- Inj. vit K 1 mg | - Tidak ada interaksi\nobat dan makanan |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 55,
+    "chunk_index": 0,
+    "text": "PRESKRIPSI DIET\nA. Tujuan\n- Meningkatkan asupan makan dan minuman melalui parenteral dan enteral\nsesuai kemampuan untuk memenuhi kebutuhan asupan pasien dan mendukung\ntumbuh kembang\nB. Prinsip\nGizi Seimbang\nC. Syarat\n- Energi diberikan 80 kkal/kgBB/hari sesuai Konsensus Asuhan Nutrisi pada Bayi\nPrematur (IDAI, 2016) yaitu sebesar 196 kkal untuk mendukung pertumbuhan\ndan perkembangan\n- Protein diberikan 3.5 gram kgBB/hari Konsensus Asuhan Nutrisi pada Bayi\nPrematur (IDAI, 2016) yaitu sebesar 34.28 gram untuk mencegah gagal tumbuh\nkembang pasca lahir pada bayi prematur\n- Lemak diberikan tinggi sebesar 12.61 gram untuk mencegah\n- Karbohidrat diberikan cukup dari total kebutuhan energi dikurangi kebutuhan\nprotein dan lemak sebesar\n- Cairan diberikan 150 ml/kg/hari untuk memenuhi kebutuhan fisiologis dan\nmenjaga keseimbangan cairan serta elektrolit dan mencegah kehilangan cairan\nekstraseluler\n- Makanan diberikan dalam bentuk\nD. Kebutuhan Energi Sekarang\n● Energi = 115 x 1200 = 138 kkal\n● Pr"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 55,
+    "chunk_index": 1,
+    "text": "ologis dan\nmenjaga keseimbangan cairan serta elektrolit dan mencegah kehilangan cairan\nekstraseluler\n- Makanan diberikan dalam bentuk\nD. Kebutuhan Energi Sekarang\n● Energi = 115 x 1200 = 138 kkal\n● Protein = 3.5 x 1200 = 4.2 gram ~ 16.8 kkal (12%)\n● Lemak = 4.8 x 1200 = 5.76 gram ~ 51.8 kkal (37%)\n● Karbohidrat = 138 - (16.8 + 51.8) = 69.4 kkal ~ 17.4 gram (51%)\n● Cairan = 140 x 1200 = 168 ml"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 56,
+    "chunk_index": 0,
+    "text": "FORM MONITORING DAN EVALUASI GIZI\n\n[TABLE 0]\nTanggal | Antropo\nmetri | Biokimia | Fisik Klinis | Asupan Makan | Edukasi Gizi | Diagnosis\nGizi Baru | Rencana\nIntervensi\nGizi\n--------------------------------------------------------------------------------\n<TGL> | - | - | - KU: gerak\ntangis\nlemak\n- HR: 134\nx/menit\n- RR: 60\nx/menit\n- Suhu: 36.6\nC\n- SpO2: 99% | Parenteral\n- D12.5%:\n103.5 ml\n- Aminosteril\ninfant 10%: 36\nml\n- Smoflipid\n20%: 18 ml\n- NaCl 15%: 1\nml\n- KCl 7.46%: 1\nml\n- Ca gluconate\n10%: 5 ml\n- MgSO4 20%:\n0.5 ml\nTotal Asupan\nParenteral\n- E: 102.15 kkal\n- P: 3.6 gram\n- L: 3.6 gram\n- KH: 12.94\ngram\nEnteral\n- ASI 8 x 1 ml | - Pasien dan\nkeluarga pasien\nmampu\nmenjelaskan\nulang materi\nedukasi yang\ndiberikan | - | Melanjutkan\nintervensi\n[END TABLE]"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 57,
+    "chunk_index": 0,
+    "text": "Total Asupan\nEnteral\n- E: 4.8 kkal\n- P: 0.18 gram\n- L: 0.21 gram\n- KH: 0.6 gram\nTOTAL ASUPAN\n- E: 106.95 kkal\n- P: 3.78 gram\n- L: 11.21 gram\n- KH: 13.54\ngram"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 63,
+    "chunk_index": 0,
+    "text": "LEMBAR SELF ASSESSMENT / REFLECTIVE PRACTICE\nNama Intern : <NAMA>\nNIM : <NIM>\nMata Kuliah : Asuhan Gizi pada Kegawatan Anak (NICU)\nTanggal : <TGL>\n\n[TABLE 0]\nWhat am I good at? (Skill/kemampuan apa\nyang sudah saya miliki) | What am I not so good at?\n(Skill/kemampuan apa yang belum saya\nmiliki/kuasai)\n--------------------------------------------------------------------------------\n- Mampu melakukan pengkajian gizi\nmeliputi antropometri hingga asupan\n- Mampu menyusun nutrition care\nprocess\n- Mampu menyusun rencana monev\ndan melaksanakan monev\n- Mampu memberikan edukasi gizi\ndengan media | - Belum percaya diri dalam menangani\npasien dengan kondisi medis yang\nkompleks terutama pada pasien\nkegawatan anak\nWhat skills I want to continue practicing\n(Kemampuan apa yang akan saya lanjutkan) | What areas I wish to improve in (Area mana\nyang ingin saya tingkatkan)\n- Melanjutkan melakukan pengkajian\ndata dan menyusun nutrition care\nprocess\n- Keterampilan komu"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 63,
+    "chunk_index": 1,
+    "text": "n apa yang akan saya lanjutkan) | What areas I wish to improve in (Area mana\nyang ingin saya tingkatkan)\n- Melanjutkan melakukan pengkajian\ndata dan menyusun nutrition care\nprocess\n- Keterampilan komunikasi\ninterpersonal saat melakukan edukasi\ngizi\n- Monitoring pasien untuk\nmengevaluasi efektivitas intervensi | - Kemampuan menangani pasien\ndengan kondisi medis yang kompleks\nterutama pada pasien kegawatan anak\n[END TABLE]\nLevel Kemampuan yang dimiliki: 3\nLevel kemampuan yang belum dimiliki: 2\nMengetahui,\n<NAMA>\n<NO_PEGAWAI>"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 64,
+    "chunk_index": 0,
+    "text": "LEMBAR SELF ASSESSMENT / REFLECTIVE PRACTICE\nNAMA MAHASISWA : <NAMA>\nNIM : <NIM>\nMATA KULIAH : Asuhan Gizi pada Kegawatan Anak (NICU)\nTANGGAL PENGISIAN : <TGL>\n\n[TABLE 0]\nWhat am I good at? (Skill/kemampuan apa\nyang sudah saya miliki) | What am I not so good at?\n(Skill/kemampuan apa yang belum saya\nmiliki/kuasai)\n--------------------------------------------------------------------------------\n- Mampu melakukan pengkajian data,\nmenentukan diagnosis, menyusun\nintervensi, dan melakukan monitoring\nevaluasi | - Belum sepenuhnya percaya diri\ndalam menangani pasien dengan\nkondisi klinis yang kompleks\n- Memerlukan pengalaman dalam\nmengelola waktu saat menangani\nbeberapa pasien secara bersamaan\nWhat skills I want to continue practicing\n(Kemampuan apa yang akan saya lanjutkan) | What areas I wish to improve in (Area mana\nyang ingin saya tingkatkan)\n- Meningkatkan kemampuan\npengkajian data lebih mendalam\n- Meningkatkan kemampuan\nmenyusun intervensi dan mone"
+  },
+  {
+    "pdf_name": "NEONATUS MODERATE PRETERM + BERAT BADAN LAHIR RENDAH + KECIL MASA.pdf",
+    "page_number": 64,
+    "chunk_index": 1,
+    "text": "n saya lanjutkan) | What areas I wish to improve in (Area mana\nyang ingin saya tingkatkan)\n- Meningkatkan kemampuan\npengkajian data lebih mendalam\n- Meningkatkan kemampuan\nmenyusun intervensi dan monev yang\nlebih tepat | - Keterampilan interpersonal dalam\nkonseling gizi\n- Keterampilan adaptasi menyusun\nmeal plan sesuai dengan kondisi dan\nkebutuhan individu pasien\n[END TABLE]\nLevel Kemampuan yang dimiliki: 4\nLevel kemampuan yang belum dimiliki: 3\nMengetahui,\n<NAMA>\n<NO_PEGAWAI>"
+  }
+]

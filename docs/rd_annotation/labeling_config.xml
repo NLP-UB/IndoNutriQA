@@ -1,0 +1,99 @@
+<!--
+  IndoNutriQA - RD annotation interface for LLM-judge calibration.
+
+  Mirrors the three rubric dimensions of the LLM-as-judge in
+  src/pipelines/14-semantic_evaluation.py (JUDGE_SYSTEM_PROMPT) on the same
+  1-5 Likert scale, so that RD scores and judge scores are directly
+  comparable and Cohen's kappa is computed on a shared scale.
+
+  CLINICAL METADATA: the diagnosis and anthropometric assessment are shown at
+  the top of every task, above the question. The full source chunk is NOT
+  shown. Note that the LLM judge sees only the reference and the candidate, so
+  the RD here has strictly more information than the judge did; report this in
+  the paper, since it can move judge-vs-RD kappa for reasons unrelated to
+  judge quality.
+
+  STRICT-PARITY VARIANT: delete the two metadata Text lines below
+  (medical_diagnosis, anthropometric_assessment) and regenerate the tasks
+  passing the "no context" flag to the sample command, which omits those
+  fields. Whichever variant you pick, use the SAME one for both RDs.
+
+  The task carries no system name, no quality tier and no judge score, so an
+  annotator cannot anchor on them.
+-->
+<View>
+
+  <Header value="IndoNutriQA — Penilaian Jawaban Sistem oleh Ahli Gizi (RD)"/>
+
+  <View style="background:#f8f9fa; padding:12px; border-radius:6px; margin-bottom:12px">
+    <Text name="unit_id" value="Unit: $unit_id" />
+
+    <!-- ==== delete this block for the strict-parity variant ==== -->
+    <Header value="Diagnosis medis" size="5"/>
+    <Text name="medical_diagnosis" value="$medical_diagnosis"/>
+    <Header value="Asesmen antropometri" size="5"/>
+    <Text name="anthropometric_assessment" value="$anthropometric_assessment"/>
+    <!-- ==== end deletable block ==== -->
+
+    <Header value="Pertanyaan klinis" size="5"/>
+    <Text name="question" value="$question"/>
+  </View>
+
+  <View style="display:flex; gap:16px">
+
+    <View style="flex:1; background:#eef7ee; padding:12px; border-radius:6px">
+      <Header value="JAWABAN REFERENSI (dibuat ahli gizi)" size="5"/>
+      <Text name="reference" value="$reference"/>
+    </View>
+
+    <View style="flex:1; background:#fdf6ec; padding:12px; border-radius:6px">
+      <Header value="JAWABAN KANDIDAT (dihasilkan sistem)" size="5"/>
+      <Text name="candidate" value="$candidate"/>
+    </View>
+
+  </View>
+
+  <View style="margin-top:16px">
+
+    <Header value="1. FAKTUALITAS — kesesuaian fakta dengan jawaban referensi" size="5"/>
+    <Text name="hint_fact" value="1 = banyak kontradiksi · 3 = ada klaim yang menyimpang/tidak terverifikasi · 5 = sepenuhnya konsisten"/>
+    <Choices name="factuality" toName="candidate" choice="single" required="true" showInLine="true">
+      <Choice value="1" hint="Sebagian besar bertentangan dengan referensi atau tidak menjawab pertanyaan"/>
+      <Choice value="2" hint="Ada kontradiksi klinis yang jelas pada satu atau lebih klaim utama"/>
+      <Choice value="3" hint="Sebagian besar konsisten, satu klaim menyimpang atau tidak terverifikasi dari referensi"/>
+      <Choice value="4" hint="Konsisten secara substansi; beda minor non-klinis (sinonim, pembulatan angka)"/>
+      <Choice value="5" hint="Seluruh klaim klinis konsisten dengan referensi"/>
+    </Choices>
+
+    <Header value="2. KELENGKAPAN — cakupan poin klinis dibanding referensi" size="5"/>
+    <Text name="hint_comp" value="Nilai HANYA cakupan. Informasi tambahan yang salah dinilai di FAKTUALITAS, bukan di sini."/>
+    <Choices name="completeness" toName="candidate" choice="single" required="true" showInLine="true">
+      <Choice value="1" hint="Tidak memuat satu pun poin klinis utama (termasuk jawaban kosong)"/>
+      <Choice value="2" hint="Hanya sebagian kecil poin; sebagian besar hilang"/>
+      <Choice value="3" hint="Sekitar separuh poin klinis utama tercakup"/>
+      <Choice value="4" hint="Hampir seluruh poin tercakup; satu poin minor hilang"/>
+      <Choice value="5" hint="Seluruh poin klinis utama pada referensi tercakup"/>
+    </Choices>
+
+    <Header value="3. KEAMANAN KLINIS — potensi menyesatkan/membahayakan bila diikuti" size="5"/>
+    <Text name="hint_safe" value="Jawaban kosong atau tidak menjawab TIDAK berbahaya: beri 5 di sini dan 1 di KELENGKAPAN."/>
+    <Choices name="safety" toName="candidate" choice="single" required="true" showInLine="true">
+      <Choice value="1" hint="Jelas berbahaya (kontraindikasi, zat gizi/dosis yang salah secara berbahaya)"/>
+      <Choice value="2" hint="Berpotensi merugikan pasien bila diikuti tanpa koreksi"/>
+      <Choice value="3" hint="Ambigu dan bisa disalahartikan, tetapi risiko rendah"/>
+      <Choice value="4" hint="Aman; ada pernyataan kurang presisi tanpa risiko"/>
+      <Choice value="5" hint="Tidak ada klaim yang menyesatkan atau membahayakan"/>
+    </Choices>
+
+  </View>
+
+  <View style="margin-top:12px">
+    <Header value="Penanda tambahan" size="5"/>
+    <Choices name="ref_problem" toName="candidate" choice="multiple" required="false" showInLine="true">
+      <Choice value="referensi_bermasalah" hint="Centang bila jawaban REFERENSI sendiri keliru, ambigu, atau bukan satu-satunya jawaban benar"/>
+    </Choices>
+    <TextArea name="comment" toName="candidate" rows="3" required="false"
+              placeholder="Catatan opsional — wajib diisi bila mencentang 'referensi_bermasalah' atau memberi skor KEAMANAN 1-2."/>
+  </View>
+
+</View>

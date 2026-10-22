@@ -1,0 +1,650 @@
+[
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 3,
+    "chunk_index": 0,
+    "text": "BAB I\nNUTRITIONAL CARE PROCESS (NCP)\n1.1 Identitas Pasien\n● Nama : <NAMA>\n● Tanggal lahir : <TGL>\n● Usia : 1 bulan 21 hari\n● Jenis Kelamin : Laki-laki\n● Tanggal MRS : <TGL>\n● Pengambilan Data : <TGL>\n● Diagnosis Medis : Distress nafas ok Pneumonia, VSD (Ventricular Septal\nDefect) PMO Kecil L to R shunt, ASD (Atrial Septal Defect) Sekundum Kecil L to R\nshunt, PDA (Patent Ductus Arteriosus) Sedang, TR (Tricuspid Regurgitation)\nmoderate with High Probability of PH (Pulmonary Hypertension), Gagal jantung\nROSS Class III, Multiple congenital, Weight Faltering, Susp TORCH infection,\nVACTERL Association, Hidronefrosis Ren S (Mild)\n1.2 Skrining Gizi\nForm Skrining STRONG-kids\n\n[TABLE 0]\nNo | Pertanyaan | Jawaban (Skor) | \n--------------------------------------------------------------------------------\n1 | Apakah pasien tampak kurus? | Tidak (0) | Ya (1)\n2 | Apakah terdapat penurunan berat badan selama satu bulan\nterakhir? (berdasarkan penilaian objektif data berat badan "
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 3,
+    "chunk_index": 1,
+    "text": "---------------------------\n1 | Apakah pasien tampak kurus? | Tidak (0) | Ya (1)\n2 | Apakah terdapat penurunan berat badan selama satu bulan\nterakhir? (berdasarkan penilaian objektif data berat badan bila\nada atau penilaian subjektif orang tua pasien)\natau\nUntuk bayi <1 tahun: berat tidak naik selama 3 bulan terakhir? | Tidak (0) | Ya (1)\n3 | Apakah terdapat salah satu dari kondisi berikut?\n- Diare ≥5 kali/hari dan/atau muntah >3 kali/hari dalam\nseminggu terakhir\n- Asupan makanan berkurang selama 1 minggu terakhir | Tidak (0) | Ya (1)\n4 | Apakah terdapat penyakit atau keadaan yang mengakibatkan\npasien berisiko mengalami malnutrisi (lihat tabel 1)? | Tidak (0) | Ya (2)\nSKOR |  | 4 | \n[END TABLE]\nDaftar penyakit atau keadaan yang berisiko mengakibatkan malnutrisi\n- Diare kronik (lebih dari 2 minggu)\n- (Tersangka) penyakit jantung bawaan\n- (Tersangka) Infeksi Human Immunodeficiency Virus (HIV)"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 4,
+    "chunk_index": 0,
+    "text": "- (Tersangka) Kanker\n- Penyakit hati kronik\n- Penyakit ginjal kronik\n- TB Paru\n- Terpasang stoma\n- Trauma\n- Luka bakar luas\n- Kelainan anatomi daerah mulut yang menyebabkan kesulitan makan (misal: bibir\nsumbing)\n- Rencana atau pasca operasi mayor (misalnya: laparatomi, torakotomi)\n- Kelainan metabolik bawaan (inborn error metabolism)\n- Retardasi mental\n- Keterlambatan perkembangan\n- Lain-lain (berdasarkan pertimbangan dokter)\nKesimpulan : Pasien dikategorikan beresiko malnutrisi (skor = 4)\nForm Skrining PYMS\n\n[TABLE 0]\nNo | Kriteria |  | Skor\n--------------------------------------------------------------------------------\n1 | Status antropometri\n- BB/TB untuk anak <5 tahun\n- IMT/U untuk anak ≥ 5 tahun | ≥ 2 SD | 0\n |  | < 2 SD | 2\n2 | Kehilangan atau penurunan BB akhir akhir ini | Tidak ada | 0\n |  | Ada | 1\n3 | Asupan makan dalam 1 minggu terakhir | Makan seperti biasa | 0\n |  | Ada penurunan | 1\n |  | Tidak makan sama sekali\natau sangat sedikit | 2\n4 | Anak sakit berat | Tidak | 0\n |"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 4,
+    "chunk_index": 1,
+    "text": "a | 0\n |  | Ada | 1\n3 | Asupan makan dalam 1 minggu terakhir | Makan seperti biasa | 0\n |  | Ada penurunan | 1\n |  | Tidak makan sama sekali\natau sangat sedikit | 2\n4 | Anak sakit berat | Tidak | 0\n |  | Ya | 2\nSKOR |  | 6 | \nKesimpulan |  |  | \nTanpa resiko |  | 0 | \nResiko rendah |  | 1 | \nResiko tinggi |  | ≥ 2 | \n[END TABLE]\nKesimpulan : Pasien dikategorikan beresiko tinggi malnutrisi (skor = 6)"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 5,
+    "chunk_index": 0,
+    "text": "1.2.1 Pembahasan Skrining Gizi\nAlat skrining gizi yang umum digunakan pada pasien anak adalah STRONGkids\n(Screening Tool Risk On Nutritional status and Growth) dan PYMS (Paediatric Yorkhill\nMalnutrition Score). Strong kids merupakan alat skrining yang praktis dan cepat, terdiri dari\nempat parameter yang meliputi penilaian klinis subjektif, penurunan asupan, gangguan\npertumbuhan, serta faktor penyakit yang meningkatkan risiko malnutrisi (Indonesiana et al,\n2024). Alat skrining ini tidak memerlukan data antropometri atau berat badan sebelumnya,\nsehingga lebih sesuai digunakan pada bayi di bawah 6 bulan Selain itu, skrining gizi strong\nkids mempertimbangkan adanya penyakit kronik dan akut sebagai indikator risiko tinggi\nmalnutrisi (Hulst et al., 2010).\nDi sisi lain, PYMS merupakan alat yang lebih komprehensif, karena menilai data\nantropometri, perubahan berat badan, dan asupan makanan selama seminggu terakhir.\nNamun, PYMS dikembangkan terutama untuk anak usia di atas satu tahun karena\nmem"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 5,
+    "chunk_index": 1,
+    "text": "ebih komprehensif, karena menilai data\nantropometri, perubahan berat badan, dan asupan makanan selama seminggu terakhir.\nNamun, PYMS dikembangkan terutama untuk anak usia di atas satu tahun karena\nmemerlukan riwayat berat badan. Oleh karena itu, PYMS kurang optimal diterapkan pada\nkelompok usia neonatus atau bayi. Dengan mempertimbangkan hal tersebut, alat skrining\nStrong kids dinilai lebih baik digunakan untuk skrining awal risiko malnutrisi pada pasien ini.\nMeski demikian, hasil skrining tetap harus ditindaklanjuti dengan penilaian status gizi yang\nlebih lengkap dan monitoring klinis secara berkala (Hulst, 2010; Gerasimidis et al., 2011)."
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 7,
+    "chunk_index": 0,
+    "text": "NUTRITIONAL CARE PROCESS\nNama : <NAMA> Jenis Kelamin : Laki-laki\nUmur : 1 bulan 21 hari No. Registrasi : <NO_REG>\nTanggal Wawancara : <TGL> Tanggal MRS : <TGL>\nDiagnosa Medis : Distress nafas ok Pneumonia, VSD (Ventricular Septal Defect) PMO Kecil L to R shunt, ASD (Atrial Septal Defect)\nSekundum Kecil L to R shunt, PDA (Patent Ductus Arteriosus) Sedang, TR (Tricuspid Regurgitation) moderate with High Probability of PH\n(Pulmonary Hypertension), Gagal jantung ROSS Class III, Multiple congenital, Weight Faltering, Susp TORCH infection, VACTERL Association,\nHidronefrosis Ren S (Mild)\n\n[TABLE 0]\nAsesmen Gizi |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\n--------------------------------------------------------------------------------\nData Dasar | Identifikasi Masalah |  |  | \nAntropometri\nBB = 3,7 kg\nPB = 56 cm\nBBI = 4,8 kg\nUmur = 1 bulan 21 hari\nHasil Analisis\nBB/U = -1,33 → -2 SD s/d - 1 SD\n(normal)\nPB/U = +0,65 → 0 SD s/d +2 SD\n(normal)\nBB/PB = -2,75 SD "
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 7,
+    "chunk_index": 1,
+    "text": "asalah |  |  | \nAntropometri\nBB = 3,7 kg\nPB = 56 cm\nBBI = 4,8 kg\nUmur = 1 bulan 21 hari\nHasil Analisis\nBB/U = -1,33 → -2 SD s/d - 1 SD\n(normal)\nPB/U = +0,65 → 0 SD s/d +2 SD\n(normal)\nBB/PB = -2,75 SD → -3 SD s/d - 2SD\n(gizi kurang)\nInterpretasi → status gizi kurang dengan\nperawakan normal | Status gizi kurang dengan\nperawakan normal\nWeight faltering | NI 2.11 Keterbatasan\npenerimaan\nmakanan berkaitan\ndengan gangguan\nsaluran cerna (alergi)\ndan kesulitan untuk\nmenghisap (bibir\nsumbing) ditandai\ndengan pasien diare\n5x sebelum MRS,\nbatuk, dan terpasang\nOGT\nNC 1.3 Kesulitan\nmenyusui berkaitan\ndengan kurangnya\nkemampuan\nmenghisap karena | ND-1 Susu formula\n● Prinsip →\nhipoalergenik\n● Diet → SF neocate\n8x50 cc\n● Frekuensi\npemberian → 8 kali\ndalam 24 jam\n● Rute pemberian\nmelalui OGT\nE-1 Edukasi gizi -\nkonten\n● Tujuan :\nMeningkatkan\npengetahuan dan\npemahaman keluarga | FH-1.2.3 Asupan\nsusu formula\n● Metode 24 H\nrecall\n● Frekuensi : setiap\nhari\n● Target → asupan\nenergi dan zat gizi\nmakro mencapa"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 7,
+    "chunk_index": 2,
+    "text": "zi -\nkonten\n● Tujuan :\nMeningkatkan\npengetahuan dan\npemahaman keluarga | FH-1.2.3 Asupan\nsusu formula\n● Metode 24 H\nrecall\n● Frekuensi : setiap\nhari\n● Target → asupan\nenergi dan zat gizi\nmakro mencapai\n100%\n● Analisis\nmembandingkan\ndengan kebutuhan\nharian pasien\nFH 4.1 Pengetahuan\nterkait makanan dan\ngizi\n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 8,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nBB Increment (Penambahan BB)\nBB lahir = 3,3 kg\nBB sekarang = 3,7 gram\nBB Increment\n= 1,7 bulan x 750 gram\n= 1275 gram\nBBI = 3,3 + 1,275 = 4,575 kg\n% BBA / BBI\n= 3,7 / 4,575\n= 80,8% (gizi kurang) → weight faltering |  | bibir sumbing (pada\nbayi) dan kondisi\nstres psikologis (pada\nibu) ditandai dengan\nproduksi ASI tidak\nkeluar dan rendahnya\nkenaikan berat badan\n(weight faltering)\nNC 4.1.5 Malnutrisi\nanak karena\npenyakit berkaitan\ndengan penyakit\nkronis (PJB) dan\nasupan tidak adekuat\ndalam jangka waktu\nlama ditandai dengan\nstatus gizi kurang\n(BB/PB -3SD s/d\n-2SD) dan riwayat\nasupan terdahulu\npada energi (49,2%)\ndan protein (52%)\ntergolong defisit\nNB 1.1 Kurangnya\npengetahuan terkait\ngizi dan makanan\nberkaitan dengan\nkurangnya paparan\ninformasi terkait gizi\n(jenis susu formula)\nditandai oleh asupan | pasien terkait dengan\nASI, susu formula,\nmakanan sehat bayi, 5\nkunci keamanan\npangan\n● Media → Leaflet 5\nkunci keamanan\npangan, makanan\nsehat bayi\n● Target → Keluarga\npasien\n● Waktu"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 8,
+    "chunk_index": 1,
+    "text": "ndai oleh asupan | pasien terkait dengan\nASI, susu formula,\nmakanan sehat bayi, 5\nkunci keamanan\npangan\n● Media → Leaflet 5\nkunci keamanan\npangan, makanan\nsehat bayi\n● Target → Keluarga\npasien\n● Waktu → saat\nkunjungan monev 3\n● Materi : ASI\neksklusif, susu\nformula, makanan\nbayi sehat, 5 kunci\nkeamanan pangan | ● Metode diskusi\ndan tanya jawab\n● Frekuensi/ waktu\n: setelah\nintervensi\n● Target : keluarga\npasien\nmemahami\nmateri edukasi\ngizi\n● Analisis :\nmembandingkan\ndengan teori\nAD-1.1 Antropometri\n● Metode\npengukuran BB\ndan PB\n● Frekuensi : hari\nterakhir monev\n● Target → Tidak\nterjadi penurunan\nBB\n● Analisis\nmembandingkan\ndengan standar\nantropometri dan\npengukuran\nsebelumnya\nBD-1.2 Profil Anemia\n● Metode : melihat\nhasil data lab dan\nrekam medis\n--------------------------------------------------------------------------------\nBiokimia\n<TGL>\n\n[TABLE 1]\nData Lab | Hasil | Nilai Normal | Ket\n--------------------------------------------------------------------------------\nDARAH LENGKAP "
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 8,
+    "chunk_index": 2,
+    "text": "---------------------------------\nBiokimia\n<TGL>\n\n[TABLE 1]\nData Lab | Hasil | Nilai Normal | Ket\n--------------------------------------------------------------------------------\nDARAH LENGKAP |  |  | \nHCT\n(Hematokrit) | 28,8 | 39,9-51,1% | ↓\nHGB\n(Hemoglobin) | 9,4 | 13,4-17,3\ng/dL | ↓\nLYMPH% | 35,7 | 20,4-44,6% | N\nMCH | 30,3 | 24,2-31,2 pg | N\nMCHC | 32,6 | 31,9-36 g/dL | N\nMCV | 92,9 | 73,4-91 fl | ↑\nNEUT% | 46,2 | 42,5-71% | N\nPLT\n(Trombosit) | 318 | 185-398 | N\nWBC\n(Leukosit) | 10,92 | 5,07 – 11,10 | N\n[END TABLE] | ● Hb dan HCT rendah,\nMCV tinggi → anemia\nmakrositik\nnormokromik, ditandai\noleh eritrosit yang\nberukuran lebih besar\ndari normal\n(makrositik) dengan\nhemoglobin per sel\nyang tetap normal\n(normokromik)\n(Aminudin, 2024).\n● CMV IgG (+) →\nmenunjukkan adanya\nantibodi terhadap\nCMV. CMV adalah\nvirus yang termasuk\ndalam kelompok virus\nherpes berkaitan\ndengan susp TORCH\ninfection\n● Anti toxoplasma IgG |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 9,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\n\n[TABLE 1]\nLain-lain |  |  | \n--------------------------------------------------------------------------------\nCMV_IGM | Negatif | Negatif | N\nCMV_IGG | 32,6 | <1 u/ml | ↑\nAnti\ntoxoplasma\nIgG | 21,10 | >1 - <30 :\nindeterminate | ↑\n[END TABLE]\nIgG\n<TGL>\n\n[TABLE 2]\nData Lab | Hasil | Nilai Normal | Ket\n--------------------------------------------------------------------------------\nKIMIA KLINIK |  |  | \nGlukosa\n(POCT) | 63 |  | N\nELEKTROLIT |  |  | \nNa | 137 | 136-145\nmmol/L | N\nKalium | 5,93 | 3,5-5,1\nmmol/L | ↑\nKlorida | 103 | 98-107\nmmol/L | N\n[END TABLE] | indeterminate →\nmenunjukkan adanya\nantibodi terhadap\nToxoplasma gondii\n● Hiperkalemia →\nketidakseimbangan\nelektrolit dalam tubuh,\ndapat berkaitan\ndengan kondisi\nhidronefrosis ginjal\nkanan (mild) | terdahulu\nberdasarkan sq ffq\npada energi (49,2%),\nprotein (52%), lemak\n(47,9%), KH (64,5%)\ntergolong defisit\nberat, dan status gizi\nBB/TB tergolong gizi\nkurang, reaksi alergi\ndiare dan batuk |  | terkait Hb dan\nMVC\n● Fre"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 9,
+    "chunk_index": 1,
+    "text": "n sq ffq\npada energi (49,2%),\nprotein (52%), lemak\n(47,9%), KH (64,5%)\ntergolong defisit\nberat, dan status gizi\nBB/TB tergolong gizi\nkurang, reaksi alergi\ndiare dan batuk |  | terkait Hb dan\nMVC\n● Frekuensi : saat\nkunjungan ulang\n● Analisis :\nmembandingkan\ndengan nilai\nrujukan\n● Target →\nmencapai nilai\nnormal\nPD-1.1 Fisik Klinis\n● Metode : melihat\ndata rekam medis\n● Frekuensi : saat\nkunjungan ulang\n● Analisis :\nmembandingkan\ndengan kondisi\nsebelumnya\n● Target → keluhan\nmembaik\n--------------------------------------------------------------------------------\nFisik Klinis\n<TGL>\n● Kepala = normochepal, air mata (+),\nlabiognatopalatoschizis (+)\n● Thorax = retraksi intercostal (-)\n● Pulmo = vesikuler (+/+), rhonki (+/+)\n● Abd = supel\n● Ext = polidaktili manus sinistra (+)\nnadi kuat, akral hangat, CRT <2 dtk\n● Sesak (+) on O2 simple mask 6 Lpm\n● BAB (+) 2 kali\n● Batuk (+) | ● Sesak on O2 simple\nmask 6 Lpm\n● Batuk\n● Pasien terpasang\nOGT\n● Labio gnato palato\nskisis (bibir sumbing)\n● KU l"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 9,
+    "chunk_index": 2,
+    "text": " hangat, CRT <2 dtk\n● Sesak (+) on O2 simple mask 6 Lpm\n● BAB (+) 2 kali\n● Batuk (+) | ● Sesak on O2 simple\nmask 6 Lpm\n● Batuk\n● Pasien terpasang\nOGT\n● Labio gnato palato\nskisis (bibir sumbing)\n● KU lemah\n● Edema pada\nekstremitas atas\n(minimal) |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 10,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\n● Pasien terpasang OGT (+) residu (-)\n● Edema pada ekstremitas atas (+)\nminimal\nTanda vital\n\n[TABLE 1]\nData | Nilai | Nilai Normal | Ket\n--------------------------------------------------------------------------------\nSuhu | 36,8 | 36-37,2oC | N\nNadi | 120 | 100-160x/menit | N\nRR | 40 | 24-40x/menit | N\nSpO2 | 100% | 95-100% | N\nTD | 88/47 | 70-100 / 50-65\nmmHg | N\nGCS | 456 | 456\n(Compos mentis) | N\nKU | Lemah | Cukup | ↓\n[END TABLE] |  |  |  | \n--------------------------------------------------------------------------------\nDietary\nDahulu\n● Pemberian ASI hanya sampai\nbeberapa hari setelah melahirkan\ndikarenakan ASI tidak bisa keluar\n● Pemberian ASI melalui botol\n● ASI → lahir s/d usia 3 hari\n● SF SGM → usia 3 hari s/d MRS\n(<TGL>)\n● SF Neocate → MRS s/d sekarang\n(<TGL>) | Riwayat asupan dahulu\n● Asupan dahulu\nberdasarkan sq ffq\npada zat gizi energi\n(49,2%), protein\n(52%), lemak (47,9%),\nKH (64,5%) tergolong\ndefisit berat |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 11,
+    "chunk_index": 0,
+    "text": "Hasil SQ-FFQ\n● SGM ananda 1 → 30 cc x 12 kali\n\n[TABLE 0]\nZat\ngIzi | SQ-\nFFQ | Keb | Persen | Interpre\ntasi\n--------------------------------------------------------------------------------\nEnergi | 255,2 | 518,4 | 49,2% | Defisit\nberat\nP | 5,5 | 10,56 | 52% | Defisit\nberat\nL | 13,8 | 28,8 | 47,9% | Defisit\nberat\nKH | 35,1 | 54,4 | 64,5% | Defisit\nberat\n[END TABLE]\nSekarang\n● Pasien mendapatkan diet berupa\nsusu formula neocate 8x50 cc melalui\nOGT\n● PN : IV C1:4 1cc/jam (D5%)\n= 24 cc/hari\nAsupan Per Oral :\n● Energi : 266,9 kkal\n● Protein : 7,2 gram\n● Lemak : 13,6\n● KH : 28,8 gram\n● Asam folat : 52,4 mcg\n● Vit B12 : 0,72 mcg\n● Zinc : 2,92 mg\nAsupan PN :\n● Energi : 4,44 kkal\n● KH :1,2 gram"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 12,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nHasil Recall (Total Asupan)\n\n[TABLE 1]\nZat\ngIzi | Recall | Keb | Persen | Interpre\ntasi\n--------------------------------------------------------------------------------\nEnergi | 271,4 | 232,76 | 116% | berlebih\nP | 7,2 | 4,65 | 154% | berlebih\nL | 13,6 | 12,93 | 105% | normal\nKH | 30 | 24,44 | 122% | berlebih\nAsam\nfolat | 52,4 | 65 | 80,6% | cukup\nVit B12 | 0,72 | 0,4 | 180% | berlebih\nZinc | 2,92 | 2 | 146% | berlebih\n[END TABLE]\nBalance cairan :\n● Input = 555 ml\n● Output = 465 ml\n● Balance → +127 ml | Riwayat asupan sekarang\n● Asupan sekarang\nberdasarkan hasil 24hr\nrecall pada energi\n(116%), protein\n(154%), dan KH\n(122%) tergolong\nberlebih |  |  | \n--------------------------------------------------------------------------------\nEkologi\nRiwayat Sosial Ekonomi\n● Pasien merupakan anak ketiga/ anak\npertama 13 tahun/ anak kedua 8\ntahun\n● Ibu pasien merupakan IRT,\npendidikan terakhir SMP\n● Ayah pasien bekerja serabutan,\npendidikan terakhir SD\n● Belum mendapatkan edukasi terkait\n"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 12,
+    "chunk_index": 1,
+    "text": " anak ketiga/ anak\npertama 13 tahun/ anak kedua 8\ntahun\n● Ibu pasien merupakan IRT,\npendidikan terakhir SMP\n● Ayah pasien bekerja serabutan,\npendidikan terakhir SD\n● Belum mendapatkan edukasi terkait\njenis susu formula untuk pasien | Keluarga pasien belum\npernah mendapatkan\nedukasi gizi terkait jenis\nsusu formula bayi sesuai\nkondisi pasien\nKondisi stress psikologis\nibu\nASI tidak keluar\nDiare 5x sebelum MRS |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 13,
+    "chunk_index": 0,
+    "text": "kegawatan anak\nRiwayat Penyakit Pasien dan Keluarga\n● Riwayat MRS pertama kali saat\nberusia 1 hari hingga 24 hari di ruang\nperinatal berkaitan dengan kondisi →\nsesak, hipoglikemia refrakter, CAH,\nDSD, dan vacterl association\n● MRS kali ini dengan keluhan sesak,\nrewel, dan diare 5x pada tanggal 5\nApril\n● Tidak ada riwayat penyakit keluarga\n● Riwayat alergi orang tua → ayah\nalergi udang\n● Keterangan dari ibu → mengalami\nstress psikologis yang berpengaruh\nterhadap produksi ASI\nRiwayat Bayi\n● Riwayat ASI kurang dari 1 bulan\nkarena ASI tidak bisa keluar\n● Riwayat imunisasi → Hb0 (+)\n● Lahir aterm uk 39 minggu secara\npervagina di puskesmas, lahir tidak\nlangsung menangis, kemudian\ndipasang oksigen di hidung\n● BB lahir : 3,3 kg\n● BB saat usia 2 minggu → 3,1 kg\n● PB lahir : 49 cm\nRiwayat Kehamilan Ibu\n● Usia hamil 34 tahun\n● Rutin kontrol di klinik, USG dikatakan\nnormal\n● Minum vitamin hamil rutin sejak 3\nbulan"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 14,
+    "chunk_index": 0,
+    "text": "Farmakologi\n● IV C1:4 1cc/jam\n● IV ampicillin sulbactam 3x250 mg\n● IV Gentamicin 1x30 mg\n● IV Furosemide 1x3 mg\n● PO Captopril 2x1,5 mg\n● PO Sildenafil 3x1,5 mg"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 15,
+    "chunk_index": 0,
+    "text": "Perhitungan Kebutuhan Energi dan Zat Gizi SMRS (RDA)\n\n[TABLE 0]\nEnergi |  | Protein\n--------------------------------------------------------------------------------\nRDA X BBI\n● RDA → TB/U = 1 bulan\n● BBI → BB/TB = 4,8 kg\n= 108 kkal x 4,8 kg\n= 518,4 kkal |  | = 2,2 x BBI\n= 2,2 x 4,8\n= 10,56 gram (8%)\nLemak | KH | Cairan\n= 50% x energi\n= 50% x 518,4 kkal\n= 28,8 gram | = 42% x energi\n= 42% x 518,4 kkal\n= 54,4 gram | 130 x BBA\n= 130 x 3,7\n= 481 ml\n[END TABLE]\nPerhitungan Kebutuhan Energi dan Zat Gizi MRS (Schofield)\n\n[TABLE 1]\nEnergi (Schofield) | Protein | Lemak\n--------------------------------------------------------------------------------\n= (0,167 x BB) + (15,174 x TB) - 617,6\n= (0,167 x 3,7) + (15,174 x 56) - 617,6\n= 0,6179 + 849,744 - 617,6\n= 232,76 kkal | = 8% x energi\n= 8% x 232,76 kkal\n= 4,65 gram | = 50% x energi\n= 50% x 232,76\n= 12,93 gram\nKH | Cairan | \n= 42% x energi\n= 42% x 232,76\n= 24,44 gram | 130 x BBA\n= 130 x 3,7\n= 481 ml | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 16,
+    "chunk_index": 0,
+    "text": "PRESKRIPSI\nTujuan Diet\n1. Memberikan energi yang adekuat untuk mencukupi kebutuhan harian dan mencegah penurunan berat badan\n2. Memberikan susu formula yang mudah dicerna untuk mencegah potensi alergi pada saluran cerna\nPrinsip Diet\nHipoalergenik\nSyarat Diet\n1. Energi diberikan sesuai kebutuhan pasien criticall ill anak yaitu 265,7 kkal untuk membantu mencukupi kebutuhan energi harian dan\nmencegah penurunan berat badan\n2. Protein diberikan cukup sebesar 8% yaitu 5,6 gram untuk membantu memperbaiki infeksi pada pasien dengan kondisi pneumonia\n3. Lemak diberikan cukup sebesar 50% yaitu 14,7 gram. Asam lemak esensial baik untuk membantu perkembangan otak dan kelainan\nkongenital pada bayi\n4. Karbohidrat diberikan sisa dari perhitungan sebesar 42% yaitu 27,9 gram.\n5. Cairan diberikan cukup sesuai dengan kebutuhan yaitu 130 ml/kgBB atau 481 ml/ hari\n6. Vitamin dan mineral → asam folat (65 mcg), vitamin B12 (0,4 mcg), zat besi (0,3 mg), dan zinc (2 mg/hari)\n7. Jenis susu formula hipoalergenik"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 16,
+    "chunk_index": 1,
+    "text": "ai dengan kebutuhan yaitu 130 ml/kgBB atau 481 ml/ hari\n6. Vitamin dan mineral → asam folat (65 mcg), vitamin B12 (0,4 mcg), zat besi (0,3 mg), dan zinc (2 mg/hari)\n7. Jenis susu formula hipoalergenik\n8. Frekuensi pemberian 8 kali/24 jam\n9. Rute pemberian secara OGT"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 17,
+    "chunk_index": 0,
+    "text": "FORM MONITORING DAN EVALUASI\nNama : <NAMA> Jenis Kelamin : Laki-laki\nUmur : 1 bulan 22 hari No. Registrasi : <NO_REG>\nDiagnosa Medis : Distress nafas ok Pneumonia, VSD (Ventricular Septal Defect) PMO Kecil L to R shunt, ASD (Atrial Septal Defect)\nSekundum Kecil L to R shunt, PDA (Patent Ductus Arteriosus) Sedang, TR (Tricuspid Regurgitation) moderate with High Probability of PH\n(Pulmonary Hypertension), Gagal jantung ROSS Class III, Multiple congenital, Weight Faltering, Susp TORCH infection, VACTERL Association,\nHidronefrosis Ren S (Mild)\n\n[TABLE 0]\nMonev Ke-\n(Tanggal) | Antropo\nmetri | Biokimia | Fisik Klinis | Dietary | Edukasi | Diagnosa Gizi\nBaru | Rencana Tindak\nLanjut\n--------------------------------------------------------------------------------\nHari 1\n(<TGL>) | - | Tidak terdapat\npemeriksaan\nlaboratorium | ● Sesak (+) on\nO2 simple\nmask 6 Lpm\n● Batuk (+)\n● OGT (+)\n● BAB (+) 1 kali\nTanda vital :\n● GCS 456\n● KU lemah\n● TD : 87/47\nmmHg (N)\n● SpO2 : 100%\n(N)\n● HR : 119\n"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 17,
+    "chunk_index": 1,
+    "text": "ak terdapat\npemeriksaan\nlaboratorium | ● Sesak (+) on\nO2 simple\nmask 6 Lpm\n● Batuk (+)\n● OGT (+)\n● BAB (+) 1 kali\nTanda vital :\n● GCS 456\n● KU lemah\n● TD : 87/47\nmmHg (N)\n● SpO2 : 100%\n(N)\n● HR : 119\nx/menit (N)\n● RR : 35\nx/menit (N)\n● Suhu : 36,8 C\n(N) | Diet → susu neocate\n5x80 cc\nPN → IV C1:4\n1cc/jam (D5%)\nTotal Asupan\n● Energi : 271,4\nkkal (116%)\n● Protein : 7,2 gram\n(154%)\n● Lemak : 13,6\ngram (105%)\n● KH : 30 gram\n(122%)\n● Asam folat : 52,4\nmcg (80,6%)\n● Vitamin B12 : 0,72\nmcg (180%)\n● Zinc : 2,92 mg\n(146%) | - | - | Melanjutkan\nintervensi diet\n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 18,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\n |  |  |  | ● Input cairan :\n471,3 ml\n● Output cairan :\n518 ml |  |  | \n--------------------------------------------------------------------------------\nHari 2\n(<TGL>) | BB = 3,7\nkg\nTB = 56\ncm | Tidak terdapat\npemeriksaan\nlaboratorium | ● Sesak (+) O2\nruangan\n● Batuk (-)\n● OGT (-)\n● BAB (+) 2 kali\nTanda vital :\n● GCS 456\n● KU lemah\n● TD : 75/44\nmmHg (↓)\n● SpO2 : 98%\n(N)\n● HR : 130\nx/menit (N)\n● RR : 45\nx/menit (↑)\n● Suhu : 36,7 C\n(N) | Diet → susu neocate\n5x80 cc\nPN → IV C1:4\n1cc/jam (D5%)\nTotal Asupan\n● Energi : 271,4\nkkal (116%)\n● Protein : 7,2 gram\n(154%)\n● Lemak : 13,6\ngram (105%)\n● KH : 30 gram\n(122%)\n● Asam folat : 52,4\nmcg (80,6%)\n● Vitamin B12 : 0,72\nmcg (180%)\n● Zinc : 2,92 mg\n(146%)\n● Input cairan :\n472,4 ml\n● Output cairan :\n578 ml | - | - | Melanjutkan\nintervensi diet\n(Pasien rencana\ndipindahkan oleh\nDPJP ke ruangan\nlow care)\nHari 3\n(<TGL>) | - | Tidak terdapat\npemeriksaan\nlaboratorium | ● Sesak (+) O2\nruangan\n● Batuk (-)\n● OGT (-) | Diet → susu neocate"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 18,
+    "chunk_index": 1,
+    "text": "i diet\n(Pasien rencana\ndipindahkan oleh\nDPJP ke ruangan\nlow care)\nHari 3\n(<TGL>) | - | Tidak terdapat\npemeriksaan\nlaboratorium | ● Sesak (+) O2\nruangan\n● Batuk (-)\n● OGT (-) | Diet → susu neocate\n5x80 cc\nPN → IV C1:4\n1cc/jam (D5%) | Edukasi gizi\nmenggunakan\nleaflet makanan\nbayi sehat, 5 | NI 1.1\nPeningkatan\nkebutuhan energi\nberkaitan dengan | (Pasien sudah\ndipindahkan ke\nruangan low care)\n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 19,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\n |  |  | ● BAB (+) 3 kali\nTanda vital :\n● GCS 456\n● KU lemah\n● TD : 75/44\nmmHg (↓)\n● SpO2 : 100%\n(N)\n● HR : 160\nx/menit (N)\n● RR : 40\nx/menit (N)\n● Suhu : 36,8 C\n(N) | Total Asupan\n● Energi : 271,4\nkkal (116%)\n● Protein : 7,2 gram\n(154%)\n● Lemak : 13,6\ngram (105%)\n● KH : 30 gram\n(122%)\n● Asam folat : 52,4\nmcg (80,6%)\n● Vitamin B12 : 0,72\nmcg (180%)\n● Zinc : 2,92 mg\n(146%)\n● Input cairan :\n472,4 ml\n● Output cairan :\n578 ml | kunci keamanan\npangan | kondisi penyakit\nkronis PJB dan\nketerlambatan\ntumbuh kembang\npada pasien\nditandai dengan\nstatus gizi BB/TB\ngizi kurang,\nkenaikan berat\nbadan yang\nrendah (weight\nfaltering) | Kebutuhan energi\ndan zat gizi\n● Energi = 518,4\nkkal\n● Protein = 10,56\ngram\n● Lemak = 28,8\ngram\n● KH = 54,4 gram\n--------------------------------------------------------------------------------\n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 20,
+    "chunk_index": 0,
+    "text": "BAB II\nPEMBAHASAN\n2.1 Antropometri\nBerdasarkan hasil pengkajian antropometri, didapatkan berat badan By Ny Yesi\ndengan usia 1 bulan 21 hari adalah 3,7 kg dan tinggi badan 56 cm. Status gizi By By Yesi\nditentukan berdasarkan hasil analisis grafik WHO, didapatkan untuk BB/U (-2 SD s/d - 1 SD)\ntergolong normal) dan PB/U (0 SD s/d +2 SD) tergolong normal. Akan tetapi, berdasarkan\nBB/PB (-3 SD s/d - 2SD) pasien tergolong gizi kurang (wasting). Gizi kurang atau wasting,\nmerupakan malnutrisi akut yang ditandai dengan berat badan menurut panjang atau tinggi\nbadan (BB/PB atau BB/TB) yang berada di bawah -2 standar deviasi (SD) dari median\nstandar pertumbuhan WHO. Kondisi ini menggambarkan kondisi anak mengalami\npenurunan berat badan yang cepat atau tidak naik berat badan sesuai dengan pertumbuhan\ntinggi badannya, dapat disebabkan dari asupan energi yang tidak adekuat, penyakit infeksi\nakut, atau kombinasi keduanya (Erika, 2020). Selain itu, terjadi kondisi weight faltering,\nyaitu adalah kondisi"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 20,
+    "chunk_index": 1,
+    "text": "inggi badannya, dapat disebabkan dari asupan energi yang tidak adekuat, penyakit infeksi\nakut, atau kombinasi keduanya (Erika, 2020). Selain itu, terjadi kondisi weight faltering,\nyaitu adalah kondisi pertumbuhan berat badan bayi atau balita tidak sesuai dengan standar\npertumbuhan normal untuk usia dan jenis kelamin. Hal ini ditandai dengan penurunan laju\nkenaikan berat badan yang signifikan atau kegagalan dalam mencapai berat badan yang\ndiharapkan sesuai dengan grafik pertumbuhan. Diketahui riwayat berat badan lahir pasien\nadalah 3,3 kg. Pasien MRS pada usia 1 hingga 24 hari di ruang perinatal dan terdapat\npenurunan berat badan menjadi 3,1 kg pada usia 2 minggu. Kemudian, terjadi peningkatan\nberat badan kembali menjadi 3,7 kg pada usia saat ini (1 bulan 21 hari). Pada By Ny Yesi,\nberdasarkan perhitungan BB increment didapatkan persentase BB aktual dibandingkan\ndengan BBI adalah 80% atau belum mencapai kenaikan berat badan yang diharapkan\nsesuai dengan grafik pertumbuhan.\nDalam kasus i"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 20,
+    "chunk_index": 2,
+    "text": "kan perhitungan BB increment didapatkan persentase BB aktual dibandingkan\ndengan BBI adalah 80% atau belum mencapai kenaikan berat badan yang diharapkan\nsesuai dengan grafik pertumbuhan.\nDalam kasus ini, riwayat asupan pasien tergolong defisit/ kurang disebabkan oleh\nkesulitan menyusui karena ASI ibu tidak keluar dan kesulitan menghisap akibat dari kondisi\nbibir sumbing pada pasien. Sehingga, pasien diberikan susu formula sebagai pengganti ASI.\nASI eksklusif selama enam bulan pertama kehidupan merupakan sumber nutrisi utama yang\nmencukupi kebutuhan energi dan zat gizi bayi. Namun, berbagai faktor seperti teknik\nmenyusui yang kurang efektif, produksi ASI yang rendah, atau frekuensi menyusui yang\ntidak memadai dapat menyebabkan bayi tidak menerima nutrisi yang cukup untuk\npertumbuhan optimal. Selain itu, penggunaan susu formula yang tidak sesuai takaran atau\nkualitasnya juga dapat menyebabkan kekurangan energi dan zat gizi, berkontribusi terhadap\nterjadinya wasting (Aurelia, 2023).\nDalam"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 20,
+    "chunk_index": 3,
+    "text": ". Selain itu, penggunaan susu formula yang tidak sesuai takaran atau\nkualitasnya juga dapat menyebabkan kekurangan energi dan zat gizi, berkontribusi terhadap\nterjadinya wasting (Aurelia, 2023).\nDalam hal ini, pasien dengan kondisi penyakit akut dan kronis yaitu pneumonia dan\npenyakit jantung bawaan (PJB). Pada bayi dengan penyakit kronis, kebutuhan energi tubuh\nmeningkat karena tubuh berusaha untuk mengatasi gangguan kesehatan yang terjadi,"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 21,
+    "chunk_index": 0,
+    "text": "namun seringkali asupan nutrisi tidak adekuat akibat penurunan nafsu makan, kesulitan\ndalam menyusui, atau gangguan penyerapan nutrisi. Penurunan berat badan ini\nberpengaruh terhadap kejadian wasting, yaitu ketidaksesuaian berat badan terhadap\npanjang badan (Fazzini, 2018).\n2.2 Biokimia\nBerdasarkan hasil pemeriksaan biokimia pada pasien, didapatkan penurunan kadar\nhemoglobin dan hematokrit, serta peningkatan MCV menandakan kondisi anemia makrositik\nnormokromik. Penurunan hemoglobin dapat terjadi akibat dari mekanisme hipoksia kronis,\ngangguan nutrisi, dan disfungsi hematopoiesis akibat infeksi kongenital. Bayi dengan\npenyakit jantung bawaan dan shunt kiri ke kanan mengalami pertukaran gas yang tidak\nefisien, menyebabkan hipoksia jaringan kronis. Tubuh merespons kondisi ini dengan\nmerangsang eritropoiesis untuk meningkatkan kapasitas pengangkutan oksigen. Namun,\npada bayi dengan asupan nutrisi yang tidak adekuat (seperti weight faltering) dan susp\ninfeksi TORCH (seperti CMV), fungsi sum"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 21,
+    "chunk_index": 1,
+    "text": "g eritropoiesis untuk meningkatkan kapasitas pengangkutan oksigen. Namun,\npada bayi dengan asupan nutrisi yang tidak adekuat (seperti weight faltering) dan susp\ninfeksi TORCH (seperti CMV), fungsi sumsum tulang dapat terganggu, sehingga produksi\neritrosit tidak optimal, bahkan bisa menghasilkan eritrosit berukuran besar (makrositik) yang\ntercermin dari peningkatan MCV. Selain itu, infeksi TORCH berpotensi menimbulkan\ndisfungsi hati dan sumsum tulang, yang dapat memperparah anemia makrositik. Kondisi ini\ndiperburuk oleh gangguan metabolik sekunder dari gagal jantung dan hidronefrosis yang\nmempengaruhi metabolisme folat atau vitamin B12 (Kliegman, 2020).\nAnemia makrositik juga dapat berkaitan erat dengan asupan yang tidak adekuat.\nSalah satu penyebab utama anemia makrositik adalah defisiensi vitamin B12 dan folat, yang\nkeduanya berperan penting dalam sintesis DNA dan pembelahan sel, termasuk dalam\nproses eritropoiesis. ASI eksklusif umumnya mencukupi kebutuhan nutrisi bayi, tetapi jika\np"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 21,
+    "chunk_index": 2,
+    "text": " vitamin B12 dan folat, yang\nkeduanya berperan penting dalam sintesis DNA dan pembelahan sel, termasuk dalam\nproses eritropoiesis. ASI eksklusif umumnya mencukupi kebutuhan nutrisi bayi, tetapi jika\nproduksi ASI rendah atau bayi mengalami kesulitan menyusui, misalnya pada kasus bayi\ndengan kelainan kongenital seperti bibir sumbing, maka asupan vitamin dan mineral penting\nbisa tidak tercukupi. Apabila pemberian susu formula tidak sesuai dari jumlah dan\nfrekuensinya, risiko defisiensi mikronutrien akan meningkat. Penurunan asupan ini\nmenyebabkan gangguan dalam maturasi sel darah merah, yang akan tampak sebagai\neritrosit berukuran besar (makrositik) pada pemeriksaan darah (Lestari, 2020).\nHasil pemeriksaan lain, yaitu tes CMV IgG dengan hasil positif, menunjukkan adanya\nantibodi terhadap CMV. CMV adalah virus yang termasuk dalam kelompok virus herpes\nberkaitan dengan susp TORCH infection (Kemenkes, 2020). Selain itu, tes anti toxoplasma\nIgG dengan hasil indeterminate menunjukkan adanya an"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 21,
+    "chunk_index": 3,
+    "text": " CMV adalah virus yang termasuk dalam kelompok virus herpes\nberkaitan dengan susp TORCH infection (Kemenkes, 2020). Selain itu, tes anti toxoplasma\nIgG dengan hasil indeterminate menunjukkan adanya antibodi terhadap toxoplasma gondii\nberkaitan dengan susp TORCH infection.\nBerdasarkan hasil pemeriksaan biokimia terkait dengan elektrolit, didapatkan kadar\nkalium yang tinggi atau hiperkalemia. Kondisi tersebut dapat disebabkan oleh gangguan\nfungsi ginjal akibat hidrasi yang tidak adekuat, hipoperfusi ginjal sekunder akibat gagal"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 22,
+    "chunk_index": 0,
+    "text": "jantung, atau adanya kelainan struktural saluran kemih seperti hidronefrosis, yang\nmenyebabkan penurunan ekskresi kalium. Pada kondisi gagal jantung dan distres napas\nberat, terjadi penurunan aliran darah ke ginjal (renal hypoperfusion), yang akan\nmengganggu filtrasi dan ekskresi kalium. Selain itu, adanya infeksi sistemik berat dan\nkemungkinan infeksi TORCH, seperti cytomegalovirus (CMV) atau toksoplasmosis, juga\ndapat menyebabkan kerusakan pada sel dan jaringan, yang melepaskan kalium ke dalam\nsirkulasi (efek lisis seluler). Kondisi asidosis metabolik, yang umum pada bayi dengan\ngangguan perfusi dan penyakit jantung bawaan, juga mendorong pergeseran kalium dari\nintraseluler ke ekstraseluler, memperparah hiperkalemia. Oleh karena itu, hiperkalemia pada\nkondisi pasien ini merupakan manifestasi dari gangguan multisistem yang mencerminkan\nketidakseimbangan antara masuk dan keluarnya kalium, serta gangguan fungsi ginjal dan\nsirkulasi (Kemenkes, 2020); (Teo G, 2021).\n2.3 Fisik Klinis\nBerda"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 22,
+    "chunk_index": 1,
+    "text": "tasi dari gangguan multisistem yang mencerminkan\nketidakseimbangan antara masuk dan keluarnya kalium, serta gangguan fungsi ginjal dan\nsirkulasi (Kemenkes, 2020); (Teo G, 2021).\n2.3 Fisik Klinis\nBerdasarkan hasil pemeriksaan fisik klinis pasien, hasil monev menunjukkan adanya\nperbaikan jika dibandingkan pada saat asesmen. Keluhan batuk sudah tidak dirasakan pada\nhari kedua monev, dan keluhan sesak semakin berkurang setiap harinya dibuktikan dengan\npada monev hari ketiga pasien tidak menggunakan O2 simple mask. Keluhan batuk pada\nbayi dapat dikaitkan kondisi pneumonia dan alergi protein dalam susu, baik itu susu sapi\natau susu formula tertentu. Keluhan sesak berkaitan dengan kondisi pneumonia dan PJB\npada pasien. Pada pneumonia, terjadi gangguan pertukaran gas di paru akibat peradangan\ndan akumulasi cairan di alveolus, yang mengurangi kadar oksigen dalam darah. Sedangkan\npada bayi dengan PJB seperti VSD, ASD, atau PDA, terjadi shunt (aliran darah tidak normal\nantar ruang jantung) yang d"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 22,
+    "chunk_index": 2,
+    "text": "akumulasi cairan di alveolus, yang mengurangi kadar oksigen dalam darah. Sedangkan\npada bayi dengan PJB seperti VSD, ASD, atau PDA, terjadi shunt (aliran darah tidak normal\nantar ruang jantung) yang dapat menyebabkan hipoksemia (kadar oksigen rendah). Dalam\nkondisi tersebut, pemberian oksigen membantu meningkatkan suplai oksigen ke jaringan,\nmengurangi kerja napas bayi, dan mencegah komplikasi seperti asidosis metabolik dan\ngagal organ. Pemberian oksigen (O₂) dengan simple mask bertujuan untuk meningkatkan\nkadar oksigen dalam darah (oksigenasi), terutama pada kondisi seperti pneumonia, penyakit\njantung bawaan (PJB), atau gagal napas (Kemenkes 2020).\nPemberian asupan susu formula melalui OGT (oral gastric tube) pada saat asesmen,\nhingga hari kedua monev. Pada hari ketiga monev, kondisi pasien semakin membaik\nsehingga pemberian susu formula melalui oral dengan bantuan botol. Pemasangan oral\ngastric tube (OGT) pada pasien bertujuan untuk memastikan asupan nutrisi yang adekuat\npada bayi ya"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 22,
+    "chunk_index": 3,
+    "text": "en semakin membaik\nsehingga pemberian susu formula melalui oral dengan bantuan botol. Pemasangan oral\ngastric tube (OGT) pada pasien bertujuan untuk memastikan asupan nutrisi yang adekuat\npada bayi yang tidak dapat menyusu atau mengonsumsi makanan secara oral. Pasien\nmengalami kesulitan menyusu akibat kondisi medis kelainan kongenital yaitu bibir sumbing,\ndan distres napas, sehingga memerlukan alat bantu untuk memberikan nutrisi secara\nlangsung ke saluran pencernaan. Melalui OGT, susu atau formula bayi dapat diberikan"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 23,
+    "chunk_index": 0,
+    "text": "langsung ke dalam lambung, memastikan bayi tetap mendapatkan kalori dan nutrisi yang\nadekuat. Pemasangan OGT juga dapat membantu mencegah aspirasi pada bayi yang\nberisiko terjadinya aspirasi makanan ke saluran napas akibat ketidakmampuan mengontrol\nrefleks menelan dengan baik (Rungcharoen, 2019).\nBerdasarkan hasil monev pada tekanan darah, hasil monev hari kedua tekanan\ndarah cenderung rendah. Gangguan fungsi jantung menyebabkan kemampuan jantung\nuntuk memompa darah dengan efektif berkurang sehingga mengarah pada penurunan\ncurah jantung, yaitu volume darah yang dipompa oleh jantung per menit, yang dapat\nmenyebabkan hipotensi (Carmona, 2016).\n2.4 Dietary\nBerdasarkan hasil asesmen, riwayat asupan makan pasien dalam 1 bulan adalah sebagai\nberikut :\n● ASI → lahir s/d usia 3 hari\n● SF SGM → usia 3 hari s/d MRS (<TGL>)\n● SF Neocate → MRS s/d sekarang (<TGL>)\nPasien diberikan ASI hingga usia 3 hari, setelah itu produksi ASI tidak ada sehingga\ndiganti dengan susu formula. Riwayat pasie"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 23,
+    "chunk_index": 1,
+    "text": "a 3 hari s/d MRS (<TGL>)\n● SF Neocate → MRS s/d sekarang (<TGL>)\nPasien diberikan ASI hingga usia 3 hari, setelah itu produksi ASI tidak ada sehingga\ndiganti dengan susu formula. Riwayat pasien MRS pada usia 1 hari rujukan dari puskesmas,\ndirawat di ruang perinatal hingga usia 24 hari. Dikarenakan produksi susu ASI tidak ada,\npasien mendapatkan susu formula dari rumah sakit. Saat KRS, asupan pasien di rumah\nyaitu diberikan susu formula SGM ananda 1, dengan frekuensi dan jumlah pemberian 12x30\ncc. Hasil perhitungan asupan pasien berdasarkan SQ-FFQ dengan dibandingkan dengan\nkebutuhan sebelum MRS menunjukkan bahwa asupan energi pasien selama satu bulan\nterakhir pada energi dan zat gizi makro tergolong defisit berat. Pada bayi dengan bibir\nsumbing, kesulitan dalam menghisap ASI dapat terjadi karena kelainan pada struktur mulut,\nyang mempengaruhi kemampuan bayi untuk membentuk isapan yang efektif. Bibir yang\ntidak dapat menutup rapat pada puting payudara mengurangi kemampuan bayi u"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 23,
+    "chunk_index": 2,
+    "text": "terjadi karena kelainan pada struktur mulut,\nyang mempengaruhi kemampuan bayi untuk membentuk isapan yang efektif. Bibir yang\ntidak dapat menutup rapat pada puting payudara mengurangi kemampuan bayi untuk\nmenciptakan vakum yang diperlukan untuk menarik ASI. Hal ini menyebabkan stimulasi\npayudara yang tidak optimal, yang pada gilirannya menghambat refleks let-down (ejeksi\nASI), sehingga produksi ASI ibu berkurang. Akibatnya, bayi tidak dapat mendapatkan\nasupan ASI yang adekuat. Bayi yang tidak mendapatkan cukup ASI, baik dari segi jumlah\nmaupun kualitas, berisiko mengalami malnutrisi akut seperti wasting, karena ASI merupakan\nsumber utama energi dan nutrisi pada bayi usia 0–6 bulan (Hussain, 2020). Selain itu,\npenggunaan susu formula yang tidak sesuai takaran atau kualitasnya juga dapat\nmenyebabkan kekurangan energi dan zat gizi, berkontribusi terhadap terjadinya wasting\n(Aurelia, 2023)."
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 24,
+    "chunk_index": 0,
+    "text": "Pasien MRS dengan keluhan sesak, rewel, dan diare 5 kali. Pelaksanaan kegiatan\nmonitoring dan evaluasi dilakukan selama 3 hari setelah dilakukannya asesmen, yaitu mulai\ndari tanggal 9 Maret hingga <TGL>. Perhitungan kebutuhan energi menggunakan\nrumus schofield untuk pasien anak pada kondisi kegawatan. Intervensi gizi yang diberikan\nadalah susu formula neocate dengan pemberian bertahap 8x50 cc. Pemberian melalui OGT\ndengan mempertimbangkan kondisi bibir sumbing dan keluhan sesak pada pasien. Susu\nformula neocate adalah jenis susu hipoalergenik yang diperuntukkan khusus untuk bayi\ndengan alergi protein susu sapi (APS) atau intoleransi protein susu sapi (IPSS), serta\nkondisi medis tertentu yang memerlukan diet bebas susu sapi. Neocate termasuk dalam\nkategori susu protein hidrolisat ekstensif atau susu asam amino, yaitu protein dalam susu ini\ntelah dipecah menjadi bagian-bagian lebih kecil (hidrolisat atau asam amino) sehingga lebih\nmudah dicerna dan lebih sedikit kemungkinan menye"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 24,
+    "chunk_index": 1,
+    "text": "stensif atau susu asam amino, yaitu protein dalam susu ini\ntelah dipecah menjadi bagian-bagian lebih kecil (hidrolisat atau asam amino) sehingga lebih\nmudah dicerna dan lebih sedikit kemungkinan menyebabkan reaksi alergi. Pemberian susu\nneocate dipertimbangkan karena adanya keluhan diare pada pasien sebelum MRS dengan\npemberian susu formula biasa (SGM). Sehingga, intervensi gizi berupa susu hipoalergenik\ndiberikan untuk memenuhi kebutuhan bayi tanpa menimbulkan potensi reaksi alergi saluran\npencernaan (Bhatia, 2014); (ASDI, 2019).\nPenyesuaian frekuensi dan jumlah pemberian susu formula sangat penting untuk\nmemenuhi kebutuhan gizi dengan meminimalkan beban pada sistem pernapasan dan\nkardiovaskular. Bayi dengan distress napas atau gagal jantung memerlukan pemantauan\nketat terhadap pemberian susu untuk menghindari overfeeding atau asupan yang\nberlebihan, yang dapat menyebabkan overload volume atau memperburuk gangguan\npernapasan dan fungsi jantung. Frekuensi pemberian susu pada bayi denga"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 24,
+    "chunk_index": 2,
+    "text": "susu untuk menghindari overfeeding atau asupan yang\nberlebihan, yang dapat menyebabkan overload volume atau memperburuk gangguan\npernapasan dan fungsi jantung. Frekuensi pemberian susu pada bayi dengan kegawatan\nbiasanya lebih sering tetapi dalam jumlah yang lebih kecil per pemberian, misalnya\npemberian setiap 2-3 jam dengan jumlah sekitar 60–90 ml per pemberian. Hal ini bertujuan\nuntuk menghindari peningkatan tekanan intragastrik yang dapat menambah beban pada\nsistem pernapasan dan memperburuk sesak napas. Pemantauan terhadap toleransi susu\njuga diperlukan untuk menghindari aspirasi, yang bisa terjadi pada bayi dengan kesulitan\nmenelan akibat distress napas (Bhatia, 2014).\nHasil monitoring dan evaluasi selama 2 hari, menunjukkan bahwa pasien\nmenghabiskan diet yang diberikan 100% karena pemberian melalui OGT. Sehingga persen\npemenuhan asupan pasien mencapai target yaitu 100% dan pemenuhan asupan energi\nsebesar 116% jika dibandingkan dengan kebutuhan berdasarkan rumus schofield. Pada\nmo"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 24,
+    "chunk_index": 3,
+    "text": "mberian melalui OGT. Sehingga persen\npemenuhan asupan pasien mencapai target yaitu 100% dan pemenuhan asupan energi\nsebesar 116% jika dibandingkan dengan kebutuhan berdasarkan rumus schofield. Pada\nmonev hari kedua, kondisi pasien mengalami perbaikan sehingga pasien dipindahkan oleh\nDPJP dari ruangan PICU (pediatric intensive care unit) ke ruangan HCU (high care unit).\nKemudian pada monev hari ketiga kondisi pasien semakin membaik sehingga dipindahkan\nke ruangan low care. Pada monev hari ketiga, kondisi pasien membaik sehingga OGT\ndilepas dan pemberian susu formula melalui oral dengan botol. Perpindahan ruangan dari"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 25,
+    "chunk_index": 0,
+    "text": "care unit menjadi low care unit menandakan kondisi kegawatan pada pasien sudah teratasi\nsehingga terjadi perubahan kebutuhan energi dan zat gizi. Pada setting low care, kebutuhan\ngizi bayi dihitung dengan rumus RDA x BBI. Sehingga, persen pemenuhan energi dan zat\ngizi tergolong defisit dikarenakan kebutuhan gizi yang meningkat. Peningkatan frekuensi dan\njumlah pemberian susu formula dapat dilakukan secara bertahap dengan pertimbangan dari\nDPJP pasien.\nBerdasarkan persen pemenuhan kecukupan zat gizi, pada asesmen dan monev hari\npertama hingga kedua didapatkan asupan energi, lemak, dan karbohidrat mencapai target\nyaitu 90-110%. Hal ini dikarenakan pasien menghabiskan susu formula 100% tanpa ada\naspirasi dan muntah. Akan tetapi, persen pemenuhan protein melebihi dari kebutuhan\nkarena kandungan protein yang tinggi pada susu neocate. Sebaliknya, pada monev hari\nketiga, fase kegawatan pada pasien sudah terlewati sehingga terjadi peningkatan kebutuhan\nenergi. Sehingga, pemenuhan kecukupan ene"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 25,
+    "chunk_index": 1,
+    "text": "n protein yang tinggi pada susu neocate. Sebaliknya, pada monev hari\nketiga, fase kegawatan pada pasien sudah terlewati sehingga terjadi peningkatan kebutuhan\nenergi. Sehingga, pemenuhan kecukupan energi dan zat gizi makro protein, lemak, dan\nkarbohidrat belum mencapai target. Kecukupan asupan energi dan zat gizi makro pada bayi\ndengan penyakit kronis yaitu PJB dan pneumonia sangat penting untuk mendukung proses\npenyembuhan, mencegah malnutrisi, dan mempertahankan fungsi vital tubuh. Selain\nkecukupan makronutrien, memperhatikan kecukupan mikronutrien pada pasien dengan PJB\ndan distress pernapasan pneumonia sangat penting untuk memperbaiki kondisi penyakit.\nAsam folat (vitamin B9) diperlukan untuk sintesis DNA dan RNA, serta proliferasi sel,\ntermasuk sel darah merah. Vitamin B12 berfungsi dalam metabolisme asam folat, sintesis\nDNA, dan fungsi neurologis untuk membantu memperbaiki kondisi anemia makrositik\n(Andhika, 2023). Zinc (seng) adalah mineral penting untuk fungsi kekebalan tubuh, "
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 25,
+    "chunk_index": 2,
+    "text": "alam metabolisme asam folat, sintesis\nDNA, dan fungsi neurologis untuk membantu memperbaiki kondisi anemia makrositik\n(Andhika, 2023). Zinc (seng) adalah mineral penting untuk fungsi kekebalan tubuh, proses\npenyembuhan luka, fungsi enzim, serta pertumbuhan linear dan perkembangan jaringan.\nPada bayi dengan pneumonia, defisiensi zinc dapat memperparah infeksi dan\nmemperlambat pemulihan (Yuan, 2016).\nKebutuhan cairan pada pasien dihitung dengan rumus RDA untuk usia 1 bulan, yaitu\n130 ml/KgBB dan didapatkan hasil 481 ml. Monitoring keseimbangan cairan pada bayi\ndengan gagal jantung dan pneumonia penting dalam perawatan untuk mencegah komplikasi\nakibat kelebihan atau kekurangan cairan. Pada kondisi gagal jantung, terdapat retensi cairan\nakibat aktivasi sistem hormonal seperti renin-angiotensin-aldosteron dan antidiuretik, yang\ndapat menyebabkan peningkatan beban kerja jantung dan edema paru. Pengaturan cairan\nyang tepat sangat penting agar tidak terjadi overload cairan yang dapat memperpar"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 25,
+    "chunk_index": 3,
+    "text": "-aldosteron dan antidiuretik, yang\ndapat menyebabkan peningkatan beban kerja jantung dan edema paru. Pengaturan cairan\nyang tepat sangat penting agar tidak terjadi overload cairan yang dapat memperparah sesak\nnapas dan memperburuk prognosis bayi. Pada saat asesmen, didapatkan keseimbangan\ncairan +127 ml. Hal ini dikarenakan jumlah input cairan lebih besar daripada output cairan.\nPada monev hari pertama dan kedua, didapatkan keseimbangan cairan mencapai negatif -\n46,7 dan - 105,6 ml. Pada monev hari ketiga, keseimbangan cairan belum dapat\ndimonitoring karena pasien telah dipindahkan ke ruang perawatan low care."
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 26,
+    "chunk_index": 0,
+    "text": "2.5 Edukasi\nBerdasarkan hasil asesmen, diketahui pasien belum mendapatkan edukasi terkait\ndengan jenis susu formula untuk bayi. Kurangnya pengetahuan ibu terkait dengan jenis susu\nformula dapat berdampak signifikan terhadap kecukupan gizi, pertumbuhan, dan kesehatan\nbayi, terutama apabila bayi memiliki kebutuhan khusus seperti alergi susu sapi, intoleransi\nlaktosa, atau kondisi medis tertentu seperti penyakit jantung bawaan atau gangguan saluran\ncerna. Pemilihan jenis susu formula yang tidak sesuai dapat menyebabkan masalah\npencernaan, seperti diare, konstipasi, muntah, atau kolik, serta gangguan penyerapan nutrisi\nyang dapat memperburuk status gizi bayi dan meningkatkan risiko wasting atau weight\nfaltering. Di sisi lain, kebersihan menjadi salah satu faktor yang penting dalam hal\npemberian susu formula. Pembuatan susu formula yang tidak higienis dapat memicu\npenyakit infeksi seperti diare. Hal ini sejalan dengan penelitian Astari (2013), yaitu terdapat\nhubungan yang bermakna pada cara"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 26,
+    "chunk_index": 1,
+    "text": "n susu formula. Pembuatan susu formula yang tidak higienis dapat memicu\npenyakit infeksi seperti diare. Hal ini sejalan dengan penelitian Astari (2013), yaitu terdapat\nhubungan yang bermakna pada cara penyajian susu formula dengan kejadian diare pada\nbayi usia 0-6 bulan sehingga meningkatkan risiko diare pada bayi. Oleh karena itu, diberikan\nedukasi gizi sesuai dengan kondisi pasien.\nPemberian edukasi gizi menggunakan media leaflet dengan materi 5 kunci\nkeamanan pangan dan makanan bayi sehat. Tujuan edukasi adalah meningkatkan\npengetahuan dan pemahaman keluarga pasien terkait dengan ASI, susu formula, makanan\nsehat bayi, 5 kunci keamanan pangan. Penggunaan leaflet pada kegiatan edukasi gizi dapat\nmeningkatkan pengetahuan, pemahaman dan sikap pada pasien edukasi dan juga memiliki\nbeberapa kelebihan yaitu mudah digunakan, informasi pada leaflet jelas, relatif murah dan\nfleksibel dalam merancang desainnya sesuai kebutuhan (Rahmad et al., 2023). Edukasi\nyang diberikan mencakup informasi te"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 26,
+    "chunk_index": 2,
+    "text": "elebihan yaitu mudah digunakan, informasi pada leaflet jelas, relatif murah dan\nfleksibel dalam merancang desainnya sesuai kebutuhan (Rahmad et al., 2023). Edukasi\nyang diberikan mencakup informasi terkait makanan bayi sehat termasuk ASI eksklusif,\ntahapan pemberian makan bayi, penyimpanan ASI, dan 5 kunci keamanan pangan. Edukasi\nterkait jenis susu formula dapat berkolaborasi dengan tenaga kesehatan lain seperti dokter\ndan perawat untuk menentukan jenis susu formula yang tepat sesuai dengan kondisi\npasien. Hasil monev menunjukkan adanya peningkatan skor pengetahuan keluarga pasien\nsetelah diberikan edukasi, yang mengindikasikan bahwa pemahaman yang lebih baik\ntentang diet sesuai kondisi pasien.\n2.6 Farmakologi\nPasien diberikan intervensi farmakologi yaitu IV C1:4 1cc/jam, IV ampicillin\nsulbactam 3x250 mg, IV Gentamicin 1x30 mg, IV Furosemide 1x3 mg, PO Captopril 2x1,5\nmg dan PO Sildenafil 3x1,5 mg. Beberapa efek samping dari pemberian obat ini adalah\nmual, muntah, sakit perut, diare, "
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 26,
+    "chunk_index": 3,
+    "text": "lbactam 3x250 mg, IV Gentamicin 1x30 mg, IV Furosemide 1x3 mg, PO Captopril 2x1,5\nmg dan PO Sildenafil 3x1,5 mg. Beberapa efek samping dari pemberian obat ini adalah\nmual, muntah, sakit perut, diare, batuk, dan hipotensi. Dalam hal ini, pemberian cairan infus\nharus tetap memperhatikan kebutuhan cairan dan pemenuhan energi sehari. Selain itu, tidak\nditemukan interaksi obat dan makanan (IOM) yang signifikan pada obat yang diberikan\nkepada pasien."
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 27,
+    "chunk_index": 0,
+    "text": "BAB III\nKESIMPULAN DAN SARAN\n3.1 Kesimpulan\nBy Ny Yesi dengan status gizi kurang perawakan normal. Pasien dengan penyakit\njantung bawaan, distress nafas pneumonia, dan kelainan kongenital (bibir sumbing). Dirawat\ndengan keluhan sesak dan diare 5x sebelum MRS. Diagnosis gizi yang ditegakkan\ndiantaranya keterbatasan penerimaan makan, kesulitan menyusui, malnutrisi, dan\nkurangnya pengetahuan terkait gizi. Pasien diberikan intervensi susu formula hipoalergenik\nberupa neocate 8x50 cc. Selama tiga hari evaluasi, asupan susu formula yang diberikan\nhabis 100%. Namun, pemenuhan zat gizi pada monev ketiga belum memenuhi target\nkarena terdapat peningkatan kebutuhan energi karena kondisi pasien membaik dan\ndipindahkan ke ruang perawatan low care. Hasil monitoring fisik klinis menunjukkan\nperbaikan kondisi pasien, mengindikasikan efektivitas intervensi gizi yang diberikan.\n3.2 Saran\nMembuat media leaflet untuk edukasi gizi terkait frekuensi, jenis, dan jumlah pemberian\nsusu formula sesuai kondisi p"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 27,
+    "chunk_index": 1,
+    "text": "disi pasien, mengindikasikan efektivitas intervensi gizi yang diberikan.\n3.2 Saran\nMembuat media leaflet untuk edukasi gizi terkait frekuensi, jenis, dan jumlah pemberian\nsusu formula sesuai kondisi pasien untuk di rumah untuk menunjang keberlanjutan\nintervensi gizi."
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 28,
+    "chunk_index": 0,
+    "text": "DAFTAR PUSTAKA\nAminuddin, M.F., Utami, R.A. and Nuury, A.J.F., 2024. Pemeriksaan Eritrosit Menggunakan\nAlat Hematology Analyzer Mindray CAL 8000. Jurnal Teknologi Laboratorium Medik\nBorneo, 4(2), pp.25-30.\nAndhika, I.K.G., 2023. Etiology and Pathogenesis of Macrocytic Anemia. Jurnal Biologi\nTropis, 23(4), pp.238-243.\nAstari, N. and Kusumastuti, A.C., 2013. Hubungan pemberian susu formula dengan\nKejadian diare pada bayi usia 0-6 bulan. Journal of Nutrition College, 2(4),\npp.419-424.\nAurellia, N.A., Ramadhani, A.A., Pamungkas, K.A. and Kartiasih, F., 2023, October.\nDeterminan kejadian wasting pada balita. In Seminar Nasional Official Statistics (Vol.\n2023, No. 1, pp. 167-178).\nBhatia, J. M., & Greer, F. R. (2014). Use of Hydrolyzed and Amino Acid-Based Formulas for\nthe Management of Food Protein-Induced Enterocolitis Syndrome, Cow’s Milk\nAllergy, and Other Food Allergies. Pediatrics, 134(3), 538-547.\nCarmona, F., et al. (2016). Hypotension in Neonates with Congenital Heart Disease. The\nJ"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 28,
+    "chunk_index": 1,
+    "text": "tein-Induced Enterocolitis Syndrome, Cow’s Milk\nAllergy, and Other Food Allergies. Pediatrics, 134(3), 538-547.\nCarmona, F., et al. (2016). Hypotension in Neonates with Congenital Heart Disease. The\nJournal of Pediatrics, 169(4): 242-248.\nErika, E., Sari, Y. and Hajrah, W.O., 2020. Kejadian Wasting pada Balita Usia 6-59 Bulan:\nWasting Incidence among Toddlers aged 6-59 Months. Jurnal Bidan Cerdas, 2(3),\npp.154-162.\nFazzini, L., & Johansson, E. (2018). Nutritional Support in Children with Congenital Heart\nDisease. Pediatrics International.\nGerasimidis, K., et al. (2011). Assessment of malnutrition risk in hospitalized children: PYMS\nvs STAMP vs STRONGkids. Clinical Nutrition, 30(4), 490–495.\nHulst, J. M., Zwart, H., Hop, W. C., & Joosten, K. F. (2010). Malnutrition screening tool for\nhospitalized children: development and validation. Nutrition, 26(7-8), 710–716.\nHussain, S. A., Shafique, A., & Abdullah, S. (2020). Challenges in breastfeeding for infants\nwith cleft lip and palate. Journa"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 28,
+    "chunk_index": 2,
+    "text": "alized children: development and validation. Nutrition, 26(7-8), 710–716.\nHussain, S. A., Shafique, A., & Abdullah, S. (2020). Challenges in breastfeeding for infants\nwith cleft lip and palate. Journal of Pediatric Care, 34(2), 112-118.\nIndonesiana, L.R., Susetyowati, S., Ardiningrum, B.P., Endarwati, A.N., Sholikhati, A.S. and\nEffendy, C., 2024. PERBANDINGAN ALAT SKRINING GIZI SCREENING TOOL\nFOR RISK DAN ON NUTRITIONAL STATUS AND GROWTH (STRONGKIDS) DAN\nPAEDIATRIC YORKHILL MALNUTRITION SCORE (PYMS) DALAM MENDETEKSI\nRISIKO MALNUTRISI PADA PASIEN KANKER ANAK DI <RS>, 47(1), pp.101-108.\nKementerian Kesehatan RI. (2020). Pedoman Skrining dan Tata Laksana Infeksi TORCH."
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 29,
+    "chunk_index": 0,
+    "text": "Kementerian Kesehatan RI. (2020). Pedoman Nasional Pelayanan Kedokteran Tata\nLaksana Gagal Jantung Pada Anak.\nKementerian Kesehatan RI. (2020). Pedoman Tata Laksana Gagal Napas pada Anak.\nKliegman, R. M., et al. (2020). Nelson Textbook of Pediatrics, 21st ed.\nLestari, I. (2020). Hubungan antara asupan nutrisi dengan kejadian anemia pada bayi.\nJurnal Gizi dan Kesehatan Indonesia, 12(2): 97–103.\nRungcharoen, N., et al. (2019). Indications and Complications of Gastrostomy Tube\nPlacement in Neonates. Pediatric Surgery International, 35(5): 607-612.\nTeo, G., 2021. Diagnosis dan Tatalaksana Kegawatdaruratan Hiperkalemia. Cermin Dunia\nKedokteran, 48(8), pp.305-310.\nYuan, X., Qian, S.Y., Li, Z. and Zhang, Z.Z., 2016. Effect of zinc supplementation on infants\nwith severe pneumonia. World Journal of Pediatrics, 12, pp.166-169."
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 30,
+    "chunk_index": 0,
+    "text": "LAMPIRAN\nLampiran 1. Contoh Menu di Rumah\nSusu → sgm soya\n\n[TABLE 0]\nWaktu | Air | Berat susu\n(g) | URT | Kandungan Gizi\n--------------------------------------------------------------------------------\n06.00 | 90 ml | 13,5 | 3 sendok takar\nsusu | ● Energi = 528 kkal\n● Protein = 12 gram\n● Lemak = 24,8 gram\n● KH = 64 gram\n● Asam folat = 64\nmcg\n● Vit B12 = 0,8 mcg\n● Zinc = 4,8 mg\n08.30 | 90 ml | 13,5 | 3 sendok takar\nsusu | \n11.00 | 90 ml | 13,5 | 3 sendok takar\nsusu | \n13.30 | 90 ml | 13,5 | 3 sendok takar\nsusu | \n16.00 | 90 ml | 13,5 | 3 sendok takar\nsusu | \n18.30 | 90 ml | 13,5 | 3 sendok takar\nsusu | \n21.00 | 90 ml | 13,5 | 3 sendok takar\nsusu | \n23.30 | 90 ml | 13,5 | 3 sendok takar\nsusu | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 36,
+    "chunk_index": 0,
+    "text": "LAPORAN KASUS HARIAN\nMATA KULIAH ASUHAN GIZI KLINIK\nPROFESI DIETISIEN\nPROSES ASUHAN GIZI TERSTANDAR PADA PASIEN KEGAWATAN ANAK DI RUANG\nPICU KRAKATAU <RS>\nPERIODE 8-<TGL>\nOleh :\n<NAMA>\n<NIM>\nPROGRAM STUDI PROFESI DIETISIEN\nDEPARTEMEN GIZI\nFAKULTAS ILMU KESEHATAN <RS>\n2025"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 37,
+    "chunk_index": 0,
+    "text": "KASUS HARIAN 1\nForm Skrining STRONG-kids\n\n[TABLE 0]\nNo | Pertanyaan | Jawaban (Skor) | \n--------------------------------------------------------------------------------\n1 | Apakah pasien tampak kurus? | Tidak (0) | Ya (1)\n2 | Apakah terdapat penurunan berat badan selama satu bulan\nterakhir? (berdasarkan penilaian objektif data berat badan bila\nada atau penilaian subjektif orang tua pasien)\natau\nUntuk bayi <1 tahun: berat tidak naik selama 3 bulan terakhir? | Tidak (0) | Ya (1)\n3 | Apakah terdapat salah satu dari kondisi berikut?\n- Diare ≥5 kali/hari dan/atau muntah >3 kali/hari dalam\nseminggu terakhir\n- Asupan makanan berkurang selama 1 minggu terakhir | Tidak (0) | Ya (1)\n4 | Apakah terdapat penyakit atau keadaan yang mengakibatkan\npasien berisiko mengalami malnutrisi (lihat tabel 1)? | Tidak (0) | Ya (2)\nSKOR |  | 5 | \n[END TABLE]\nDaftar penyakit atau keadaan yang berisiko mengakibatkan malnutrisi\n- Diare kronik (lebih dari 2 minggu)\n- (Tersangka) penyakit jantung bawaan\n- (Tersangka"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 37,
+    "chunk_index": 1,
+    "text": "idak (0) | Ya (2)\nSKOR |  | 5 | \n[END TABLE]\nDaftar penyakit atau keadaan yang berisiko mengakibatkan malnutrisi\n- Diare kronik (lebih dari 2 minggu)\n- (Tersangka) penyakit jantung bawaan\n- (Tersangka) Infeksi Human Immunodeficiency Virus (HIV)\n- (Tersangka) Kanker\n- Penyakit hati kronik\n- Penyakit ginjal kronik\n- TB Paru\n- Terpasang stoma\n- Trauma\n- Luka bakar luas\n- Kelainan anatomi daerah mulut yang menyebabkan kesulitan makan (misal: bibir\nsumbing)\n- Rencana atau pasca operasi mayor (misalnya: laparatomi, torakotomi)\n- Kelainan metabolik bawaan (inborn error metabolism)\n- Retardasi mental\n- Keterlambatan perkembangan\n- Lain-lain (berdasarkan pertimbangan dokter)\nKesimpulan : Pasien dikategorikan beresiko malnutrisi (skor = 5)"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 38,
+    "chunk_index": 0,
+    "text": "Form Skrining PYMS\n\n[TABLE 0]\nNo | Kriteria |  | Skor\n--------------------------------------------------------------------------------\n1 | Status antropometri\n- BB/TB untuk anak <5 tahun\n- IMT/U untuk anak ≥ 5 tahun | ≥ 2 SD | 0\n |  | < 2 SD | 2\n2 | Kehilangan atau penurunan BB akhir akhir ini | Tidak ada | 0\n |  | Ada | 1\n3 | Asupan makan dalam 1 minggu terakhir | Makan seperti biasa | 0\n |  | Ada penurunan | 1\n |  | Tidak makan sama sekali\natau sangat sedikit | 2\n4 | Anak sakit berat | Tidak | 0\n |  | Ya | 2\nSKOR |  | 6 | \nKesimpulan |  |  | \nTanpa resiko |  | 0 | \nResiko rendah |  | 1 | \nResiko tinggi |  | ≥ 2 | \n[END TABLE]\nKesimpulan : Pasien dikategorikan beresiko tinggi malnutrisi (skor = 6)"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 39,
+    "chunk_index": 0,
+    "text": "NUTRITIONAL CARE PROCESS\nNama : <NAMA> Jenis Kelamin : Laki-laki\nUmur : 12 tahun 4 bulan No. Registrasi : <NO_REG>\nTanggal Wawancara : <TGL> Tanggal MRS : <TGL>\nDiagnosa Medis : Penurunan kesadaran ok multiple abses serebri, Hemiparese dextra ok multiple abses serebri, Multiple abses serebri\npost evakuasi abses (8/4/25), edema serebri, herniasi subfalcine dan transtentorial, Ventrikulomegaly ventrikel kanan, Tetralogi of fallot (TOF),\nImbalans elektrolit, gizi buruk marasmus\n\n[TABLE 0]\nAsesmen Gizi |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\n--------------------------------------------------------------------------------\nData Dasar | Identifikasi Masalah |  |  | \nAntropometri\nBB = 25 kg\nTB = 137 cm\nLILA = 17 cm\nIMT = 13,31 kg/m2\nHasil analisis CDC growth chart\n● BB/U = < P5th (Berat badan sangat\nkurang)\n● TB/U = ≤ P5th (Perawakan sangat\npendek)\n● IMT/U = <P5 th (Gizi buruk)\n● Usia tinggi = 9 tahun 9 bulan\n● BB Ideal menurut usia tinggi: 31 kg\nHasil analis"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 39,
+    "chunk_index": 1,
+    "text": "t\n● BB/U = < P5th (Berat badan sangat\nkurang)\n● TB/U = ≤ P5th (Perawakan sangat\npendek)\n● IMT/U = <P5 th (Gizi buruk)\n● Usia tinggi = 9 tahun 9 bulan\n● BB Ideal menurut usia tinggi: 31 kg\nHasil analisis LILA\nLLA/U= <P5 th (Gizi buruk) | Status gizi buruk\nberperawakan sangat\npendek | NI 2.11 Keterbatasan\npenerimaan\nmakanan berkaitan\ndengan penurunan\nkesadaran pada\npasien ditandai\ndengan GCS 434,\nterpasang NGT, dan\npemberian asupan\nbertahap dari 50%\nkebutuhan harian\nNC 4.1.5 Malnutrisi\nanak karena\npenyakit berkaitan\ndengan penyakit\nkronis dan asupan\ntidak adekuat dalam\njangka waktu lama\nditandai dengan | ND-2.1 Formula\nEnteral\n● Prinsip →\nTatalaksana gizi\nburuk fase\nstabilisasi\n● Diet → F75 8x150\ncc\n● Rute pemberian\nmelalui NGT\nE-1 Edukasi gizi -\nkonten\n● Tujuan :\nMeningkatkan\npengetahuan dan\npemahaman keluarga\npasien terkait gizi\nseimbang dan diet\nyang diberikan | FH-1.3.1 Asupan\ncairan enteral\n● Metode 24 H\nrecall\n● Frekuensi : setiap\nhari\n● Target → asupan\nmencapai 50%\n(bertahap)\n● An"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 39,
+    "chunk_index": 2,
+    "text": "n\npemahaman keluarga\npasien terkait gizi\nseimbang dan diet\nyang diberikan | FH-1.3.1 Asupan\ncairan enteral\n● Metode 24 H\nrecall\n● Frekuensi : setiap\nhari\n● Target → asupan\nmencapai 50%\n(bertahap)\n● Analisis\nmembandingkan\ndengan kebutuhan\nharian pasien\nFH 4.1 Pengetahuan\nterkait makanan dan\ngizi\n● Metode diskusi\ndan tanya jawab\n● Frekuensi/ waktu\n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 40,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nBiokimia\n<TGL>\n\n[TABLE 1]\nData Lab | Hasil | Nilai Normal | Ket\n--------------------------------------------------------------------------------\nDARAH LENGKAP |  |  | \nHCT\n(Hematokrit) | 45,6 | 39,9-51,1% | N\nHGB\n(Hemoglobin) | 14,2 | 13,4-17,3\ng/dL | N\nLYMPH% | 10,1 | 20,4-44,6% | ↓\nMCH | 28,1 | 24,2-31,2 pg | N\nMCHC | 31,1 | 31,9-36 g/dL | ↓\nMCV | 90,1 | 73,4-91 fl | N\nRDW | 15,3 | 11,3-14,6 | ↑\nNEUT% | 88,7 | 42,5-71% | ↑\nPLT\n(Trombosit) | 164 | 185-398 | ↓\nWBC\n(Leukosit) | 9,85 | 5,07 – 11,10 | N\nELEKTROLIT |  |  | \nKalium | 3,99 | 3,5 – 5,1\nmmol/L | N\nNatrium | 130 | 136 – 145\nmmol/L | ↓\nKlorida | 92 | 98-107\nmmol/L | ↓\nKalsium | 9,4 | 8,6-10 mg/dl | N\nFosfor | 3,9 | 2,5-4,5 mg/dl | N\nFAAL HATI |  |  | \nSGOT | 31 | 10-50 U/L | N\n[END TABLE] | ● Limfosit rendah,\nneutrofil tinggi →\ninflamasi kronis dalam\ntubuh berkaitan\ndengan abses serebri\n● Trombositosis →\ninflamasi berat dan\nstres sistemik\n● Hiponatremia,\nhipokloremia →\ngangguan\nkeseimbangan\nelektrolit pada pasi"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 40,
+    "chunk_index": 1,
+    "text": "ofil tinggi →\ninflamasi kronis dalam\ntubuh berkaitan\ndengan abses serebri\n● Trombositosis →\ninflamasi berat dan\nstres sistemik\n● Hiponatremia,\nhipokloremia →\ngangguan\nkeseimbangan\nelektrolit pada pasien\ngizi buruk\n● Hipoalbuminemia →\nberkaitan dengan\ndefisiensi asupan\nprotein, penurunan\nsintesis albumin oleh\nhati, dan peningkatan\nkehilangan atau\ndistribusi albumin\nakibat stres metabolik\npada kondisi gizi\nburuk\n● Ureum dan kreatinin\nrendah → berkaitan\ndengan penurunan\nmassa otot pada\nkondisi gizi buruk | status gizi buruk\n(IMT/U <P5 th),\nalbumin rendah\n(2,56), dan riwayat\nasupan terdahulu\npada energi (52,4%),\nprotein (65,6%),\nlemak (43,6%), KH\n(54,3%) tergolong\ndefisit berat\nNB 1.1 Kurangnya\npengetahuan terkait\ngizi dan makanan\nberkaitan dengan\nkurangnya paparan\ninformasi terkait gizi\n(gizi seimbang)\nditandai oleh asupan\nterdahulu\nberdasarkan sq ffq\npada energi (52,4%),\nprotein (65,6%),\nlemak (43,6%), KH\n(54,3%) tergolong\ndefisit berat, status\ngizi IMT/U tergolong\ngizi buruk, dan\nsusuna"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 40,
+    "chunk_index": 2,
+    "text": " seimbang)\nditandai oleh asupan\nterdahulu\nberdasarkan sq ffq\npada energi (52,4%),\nprotein (65,6%),\nlemak (43,6%), KH\n(54,3%) tergolong\ndefisit berat, status\ngizi IMT/U tergolong\ngizi buruk, dan\nsusunan menu tidak\nseimbang | ● Media → leaflet\nmakanan cair dan\nmakanan anak\nsehat\n● Target → Keluarga\npasien\n● Waktu → 10-15\nmenit\n● Materi : Tujuan dan\nprinsip diet, contoh\nmakanan yang\ndianjurkan dan\ndihindari, contoh\nmenu sehari | : setelah\nintervensi\n● Target : keluarga\npasien\nmemahami\nmateri edukasi\ngizi\n● Analisis :\nmembandingkan\ndengan teori\nAD-1.1 Antropometri\n● Metode\npengukuran BB\ndan TB\n● Frekuensi : 1\nminggu\n● Target → Tidak\nterjadi penurunan\nBB\n● Analisis\nmembandingkan\ndengan standar\nantropometri dan\npengukuran\nsebelumnya\nBD-1.2 Profil\nElektrolit dan Ginjal\n● Metode : melihat\nhasil data lab dan\nrekam medis\nterkait ureum\nkreatinin, natrium,\n--------------------------------------------------------------------------------\n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 41,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\n\n[TABLE 1]\nSGPT | 12 | 10-50 U/L | N\n--------------------------------------------------------------------------------\nAlbumin | 2,56 | 3,5 - 5,2 g/dl | ↓\nFAAL GINJAL |  |  | \nUreum | 12,7 | 16,6-48,5\nmg/dl | ↓\nKreatinin | 0,4 | 0,67-1,17\nmg/dl | ↓\n[END TABLE] |  |  |  | klorida\n● Frekuensi : saat\nkunjungan ulang\n● Analisis :\nmembandingkan\ndengan nilai\nrujukan\n● Target →\nmencapai nilai\nnormal\nBD-1.6 Profil\nInflamasi\n● Metode : melihat\nhasil data lab dan\nrekam medis\nterkait neutrofil,\nlimfosit\n● Frekuensi : saat\nkunjungan ulang\n● Analisis :\nmembandingkan\ndengan nilai\nrujukan\n● Target →\nmencapai nilai\nnormal\nBD-1.10 Profil\nProtein\n● Metode : melihat\nhasil data lab dan\nrekam medis\nterkait albumin\n--------------------------------------------------------------------------------\nFisik Klinis\n<TGL>\n● Kepala = conjungtiva anemia (-)\n● Thorax = retraksi intercostal (-)\n● Pulmo = rhonki (-/-), wheezing (-/-)\n● Cor = Murmur (+) pansistolik\n● Abd = distensi (-), bising usus (+),\nn"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 41,
+    "chunk_index": 1,
+    "text": "Klinis\n<TGL>\n● Kepala = conjungtiva anemia (-)\n● Thorax = retraksi intercostal (-)\n● Pulmo = rhonki (-/-), wheezing (-/-)\n● Cor = Murmur (+) pansistolik\n● Abd = distensi (-), bising usus (+),\nnyeri epigastrum (+)\n● Ext = Clubbing finger(+), sianosis (+)\n● Sesak (+) on O2 NRBM 8 lt/mnt\n● Nyeri post OP (+)\n● Pasien terpasang NGT (+) residu (-)\n● Edema (-)\nTanda vital\n\n[TABLE 2]\nData | Nilai | Nilai Normal | Ket\n--------------------------------------------------------------------------------\nSuhu | 36,7 | 36-37,2oC | N\nNadi | 72 | 60-100x/menit | N\nRR | 20 | 12-20x/menit | N\n[END TABLE] | ● Sesak on O2 NRBM 8\nlt/mnt\n● Nyeri post OP\n● Pasien terpasang\nNGT\n● GCS 434\n● KU lemah\n● Clubbing finger\n● Sianosis\n● Gizi buruk marasmus |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 42,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\n\n[TABLE 1]\nSpO2 | 80% | 95-100% | ↓\n--------------------------------------------------------------------------------\nTD | 107/66 | TDS P50-P90,\nTDD P50-P90 | N\nGCS | 434 | 456\n(Compos mentis) | ↓\nKU | Lemah | Cukup | ↓\n[END TABLE]\nMclaren Skor = 3\n\n[TABLE 2]\nGejala klinis/ laboratoris | Angka\n--------------------------------------------------------------------------------\nEdema | 0\nDermatosis | 0\nEdema dan dermatosis | 0\nPerubahan pada rambut | 0\nHepatomegali | 0\nAlbumin serum | \n<1.00\n2.00 - 2.49\n2.50 - 2.99\n3.00 – 3.49\n3.50 – 3.99\n>4.00 | 0\n0\n3\n0\n0\n0\nTotal Skor | 3\nInterpretasi → gizi buruk marasmus | \n[END TABLE] |  |  |  | ● Frekuensi : saat\nkunjungan ulang\n● Analisis :\nmembandingkan\ndengan nilai\nrujukan\n● Target →\nmencapai nilai\nnormal\nPD-1.1 Fisik Klinis\n● Metode : melihat\ndata rekam medis\n● Frekuensi : saat\nkunjungan ulang\n● Analisis :\nmembandingkan\ndengan kondisi\nsebelumnya\n● Target → keluhan\nmembaik\n-------------------------------------------------------------------"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 42,
+    "chunk_index": 1,
+    "text": "\ndata rekam medis\n● Frekuensi : saat\nkunjungan ulang\n● Analisis :\nmembandingkan\ndengan kondisi\nsebelumnya\n● Target → keluhan\nmembaik\n--------------------------------------------------------------------------------\n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 43,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nDietary\nDahulu\n● Pasien tidak memiliki alergi\nmakanan\n● Frekuensi makan utama 3x/hari\ndan selingan 2x/hari\n● Susunan menu makan pasien\ntidak seimbang karena terkadang\nhanya konsumsi nasi + lauk\nhewani, atau nasi + sayur +lauk\nhewani/nabati\n● Metode pengolahan paling sering\ndigoreng\n● 1 bulan sebelumnya, saat pasien\nsakit, hanya konsumsi makan\nbubur sumsum dan skm yang\ndiencerkan\nHasil SQ-FFQ\n● Makanan pokok → nasi 3x/hari\n@100 gram, kentang 1x/minggu\n@50 gram, mie basah 2x/bulan\n@100 gram\n● Lauk hewani → ikan lele 2x/minggu\n@40 gram, ayam 4x/minggu @50\ngram, telur ayam 1x/hari @60 gram,\nbakso 1x/minggu @50 gram\n● Lauk nabati → tahu 3x/minggu @50\ngram\n● Sayur → bayam 2x/minggu @50\ngram, wortel 2x/minggu @50 gram,\nbuncis 1x/minggu @50 gram\n● Buah → pisang 1x/minggu @100 | Riwayat asupan dahulu\n● Asupan dahulu\nberdasarkan sq ffq\npada zat gizi energi\n(52,4%), protein\n(65,6%), lemak\n(43,6%), KH (54,3%)\ntergolong defisit berat\n● Susunan menu tidak\nseimbang |  |  | \n---------------"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 43,
+    "chunk_index": 1,
+    "text": "asupan dahulu\n● Asupan dahulu\nberdasarkan sq ffq\npada zat gizi energi\n(52,4%), protein\n(65,6%), lemak\n(43,6%), KH (54,3%)\ntergolong defisit berat\n● Susunan menu tidak\nseimbang |  |  | \n--------------------------------------------------------------------------------\n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 44,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\ngram, semangka 1x/minggu @100\ngram\n● Lemak → minyak kelapa sawit\n4x/hari @5 gram\n● Minum → air putih 1200 ml/ hari,\nskm 3x/minggu @1 sct\n● Camilan → jajanan coklat 3x/minggu\n@50 gram, ciki 2x/minggu @50 g\nHasil SQ-FFQ\n\n[TABLE 1]\nZat\ngIzi | SQ-\nFFQ | Keb | Persen | Interpre\ntasi\n--------------------------------------------------------------------------------\nEnergi | 1138,9 | 2170 | 52,4% | Defisit\nberat\nP | 42,7 | 65 | 65,6% | Defisit\nberat\nL | 31,6 | 72,33 | 43,6% | Defisit\nberat\nKH | 170,8 | 314,65 | 54,3% | Defisit\nberat\n[END TABLE]\nSekarang\n● Pasien diberikan diet F75 8x150 cc\n● Pasien dipuasakan untuk tindakan\nOP (8 April) hingga malam hari\n● 9 April jam 06.00 : F75 150 cc\n● PN → IV FD C1:1 50 cc/jam\nAsupan EN :\n● Energi : 113,4 kkal\n● Protein : 1,6 gram\n● Lemak : 4,59 gram\n● KH : 17,3 gram | Riwayat asupan sekarang\n● Asupan sekarang\nberdasarkan hasil 24hr\nrecall pada energi\n(8,6%), protein (4,2%),\nlemak (5,5%) dan KH\n(11,8%) tergolong\ndefisit berat |  |  | \n-----------"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 44,
+    "chunk_index": 1,
+    "text": "\n● KH : 17,3 gram | Riwayat asupan sekarang\n● Asupan sekarang\nberdasarkan hasil 24hr\nrecall pada energi\n(8,6%), protein (4,2%),\nlemak (5,5%) dan KH\n(11,8%) tergolong\ndefisit berat |  |  | \n--------------------------------------------------------------------------------\n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 45,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nAsupan PN :\n● Energi : 102 kkal\n● KH : 30 gram\nHasil Recall (Total Asupan)\n\n[TABLE 1]\nZat\ngIzi | Recall | Keb | Persen | Interpre\ntasi\n--------------------------------------------------------------------------------\nEnergi | 215,4 | 2500 | 8,6% | Defisit\nberat\nP | 1,6 | 37,5 | 4,2% | Defisit\nberat\nL | 4,59 | 83,3 | 5,5% | Defisit\nberat\nKH | 47,3 | 400 | 11,8% | Defisit\nberat\n[END TABLE] |  |  |  | \n--------------------------------------------------------------------------------\nEkologi\nRiwayat Sosial Ekonomi\n● Ayah/ 40th/ SD/ Kuli bangunan\n● Ibu/ 38th/ SMP/ IRT\n● Anak 1/pasien\n● Anak 2/ P/ 3 th/ sehat\n● Keluarga pasien belum mendapatkan\nedukasi gizi terkait gizi seimbang\nRiwayat Penyakit Dahulu\n● Dx TOF sejak januari 2025\n● Pada tanggal <TGL> keluhan\ndirasakan (tangan kaki lemah,\nkesulitan menelan) semakin berat\ndan pasien dibawa ke RS SLG Kediri. | Keluarga pasien belum\nmendapatkan edukasi gizi\nRPD TOF |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 46,
+    "chunk_index": 0,
+    "text": "● Pasien kemudian dirawat di PICU <RS> dan didapatkan penurunan\nkesadaran dan kejang. Pasien\nkemudian dilakukan CT scan kepala\ndan didapatkan gambaran multiple\nabses.\nRiwayat Penyakit Sekarang\n● Pasien telah perawatan selama 15\nhari di PICU <RS> sehingga\ndirujuk ke <RS> untuk tindakan OP\nRiwayat Bayi\n● Pasien lahir cukup bulan, Lahir\nlangsung menangis, sesak (-), kuning\n(-) biru(-)\n● BBL 3300 kg\n● Riwayat Imunisasi lengkap sesuai\nusia di posyandu\n● Riwayat ASI sampai usia 2 th\n● MPASI usia 6 bulan\nRiwayat Tumbuh Kembang\n● Tumbuh kembang sesuai usia\n● Pasien dapat mengikuti pelajaran dan\nbisa bergaul dengan teman sebaya\n● Sejak TK pasien sudah mengeluh\nmudah sesak dan jongkok saat\nberaktivitas\n● Pasien sering tidak mengikuti\npelajaran olahraga karena mudah\nlelah"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 47,
+    "chunk_index": 0,
+    "text": "Riwayat Kehamilan dan Penyakit\nKeluarga\n● Hamil saat usia 26 tahun, rutin\nkontrol kehamilan, keluhan selama\nhamil demam (+), minum vitamin dan\nasam folat selama hamil\n● Tidak ada riwayat penyakit keluarga\nFarmakologi\n● IVFD C1:1 50 cc/jam\n● IV Sufentanil 1mg/jam\n● IV Fentanyl 0.5mcg/kg/jam\n● IV Cefoperazone sulbactam 2 x 1\ngram (80 mg/kg/han) H4\n● IV Metronidazole 4 * 200 mg\n● IV Dexametasone 3 x 5mg\n● IV Manitol 3 * 62.5 cc\n● IV Phenitoin 2 * 100r\n● IV Diazepam 5 mg k/p\n● IV Paracetamol 4 * 250 mg\n● PO Propanolol 3 * 10mg\n● PO Vitamin 1 * 5000IU\n● PO Vitamin BC * 1 * 1fab\n● PO Vitamin C * 1 * 100mg\n● PO Vitamin E 1 * 100IW\n● PO Asam folat 1 * 1mg\n● PO Zink 1 * 20t\n● Transfusi Albumin 20% 100cc"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 48,
+    "chunk_index": 0,
+    "text": "Perhitungan Kebutuhan Energi dan Zat Gizi MRS\n\n[TABLE 0]\nEnergi (Schofield) | Tatalaksana Gizi Buruk | Protein\n--------------------------------------------------------------------------------\n= 16.25W + 1.372H + 515.5\n= 16.25 (25) + 1.372 (137) + 515.5\n= 1109.714 | = 100 kkal/kgBB aktual\n= 100 x 25 kg = 2500 kkal | = 1,5 gram/kgBB\n= 1,5 x 25\n= 37,5 gram (6%)\nLemak | KH | Cairan\n= 30% x energi\n= 30% x 2500\n= 83,3 gram | = 64% x energi\n= 64% x 2500\n= 400 gram | BBA = 25 kg\n1500 ml + (20 ml x (21-20)\n= 1500 ml + (20 ml x (25-20))\n= 1600 ml /hari\n[END TABLE]\nPerhitungan Kebutuhan Energi dan Zat Gizi SMRS (RDA)\n\n[TABLE 1]\nEnergi |  | Protein\n--------------------------------------------------------------------------------\nRDA X BBI\n● RDA → TB/U = 9 tahun 9 bulan\n● BBI → BB/TB = 31 kg\n= 70 kkal x 31 kg\n= 2170 kkal |  | = 12% x energi\n= 12% x 2170\n= 65 gram\nLemak | KH | Cairan\n= 30% x energi\n= 30% x 2170 kkal\n= 72,33 gram | = 58% x energi\n= 58% x 2170 kkal\n= 314,65 gram | BBA = 25 kg\n1500 ml +"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 48,
+    "chunk_index": 1,
+    "text": " 31 kg\n= 2170 kkal |  | = 12% x energi\n= 12% x 2170\n= 65 gram\nLemak | KH | Cairan\n= 30% x energi\n= 30% x 2170 kkal\n= 72,33 gram | = 58% x energi\n= 58% x 2170 kkal\n= 314,65 gram | BBA = 25 kg\n1500 ml + (20 ml x (21-20)\n= 1500 ml + (20 ml x (25-20))\n= 1600 ml /hari\n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 52,
+    "chunk_index": 0,
+    "text": "KASUS HARIAN 2\nForm Skrining STRONG-kids\n\n[TABLE 0]\nNo | Pertanyaan | Jawaban (Skor) | \n--------------------------------------------------------------------------------\n1 | Apakah pasien tampak kurus? | Tidak (0) | Ya (1)\n2 | Apakah terdapat penurunan berat badan selama satu bulan\nterakhir? (berdasarkan penilaian objektif data berat badan bila\nada atau penilaian subjektif orang tua pasien)\natau\nUntuk bayi <1 tahun: berat tidak naik selama 3 bulan terakhir? | Tidak (0) | Ya (1)\n3 | Apakah terdapat salah satu dari kondisi berikut?\n- Diare ≥5 kali/hari dan/atau muntah >3 kali/hari dalam\nseminggu terakhir\n- Asupan makanan berkurang selama 1 minggu terakhir | Tidak (0) | Ya (1)\n4 | Apakah terdapat penyakit atau keadaan yang mengakibatkan\npasien berisiko mengalami malnutrisi (lihat tabel 1)? | Tidak (0) | Ya (2)\nSKOR |  | 3 | \n[END TABLE]\nDaftar penyakit atau keadaan yang berisiko mengakibatkan malnutrisi\n- Diare kronik (lebih dari 2 minggu)\n- (Tersangka) penyakit jantung bawaan\n- (Tersangka"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 52,
+    "chunk_index": 1,
+    "text": "idak (0) | Ya (2)\nSKOR |  | 3 | \n[END TABLE]\nDaftar penyakit atau keadaan yang berisiko mengakibatkan malnutrisi\n- Diare kronik (lebih dari 2 minggu)\n- (Tersangka) penyakit jantung bawaan\n- (Tersangka) Infeksi Human Immunodeficiency Virus (HIV)\n- (Tersangka) Kanker\n- Penyakit hati kronik\n- Penyakit ginjal kronik\n- TB Paru\n- Terpasang stoma\n- Trauma\n- Luka bakar luas\n- Kelainan anatomi daerah mulut yang menyebabkan kesulitan makan (misal: bibir\nsumbing)\n- Rencana atau pasca operasi mayor (misalnya: laparatomi, torakotomi)\n- Kelainan metabolik bawaan (inborn error metabolism)\n- Retardasi mental\n- Keterlambatan perkembangan\n- Lain-lain (Cystic encephalomalacia)\nKesimpulan : Pasien dikategorikan beresiko malnutrisi (skor = 3)"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 53,
+    "chunk_index": 0,
+    "text": "Form Skrining PYMS\n\n[TABLE 0]\nNo | Kriteria |  | Skor\n--------------------------------------------------------------------------------\n1 | Status antropometri\n- BB/TB untuk anak <5 tahun\n- IMT/U untuk anak ≥ 5 tahun | ≥ 2 SD | 0\n |  | < 2 SD | 2\n2 | Kehilangan atau penurunan BB akhir akhir ini | Tidak ada | 0\n |  | Ada | 1\n3 | Asupan makan dalam 1 minggu terakhir | Makan seperti biasa | 0\n |  | Ada penurunan | 1\n |  | Tidak makan sama sekali\natau sangat sedikit | 2\n4 | Anak sakit berat | Tidak | 0\n |  | Ya | 2\nSKOR |  | 3 | \nKesimpulan |  |  | \nTanpa resiko |  | 0 | \nResiko rendah |  | 1 | \nResiko tinggi |  | ≥ 2 | \n[END TABLE]\nKesimpulan : Pasien dikategorikan beresiko tinggi malnutrisi (skor = 3)"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 54,
+    "chunk_index": 0,
+    "text": "NUTRITIONAL CARE PROCESS\nNama : <NAMA> Jenis Kelamin : Perempuan\nUmur : 8 bulan 4 hari No. Registrasi : <NO_REG>\nTanggal Wawancara : <TGL> Tanggal MRS : <TGL>\nDiagnosa Medis : Status epileptikus dt Mild Obstructive Hydrocephalus, Semilobar holoprosencephaly. IVH minimal, Cystic\nencephalomalacia, Epilepsy on treatment\n\n[TABLE 0]\nAsesmen Gizi |  | Diagnosis Gizi | Intervensi Gizi | Monitoring Evaluasi\n--------------------------------------------------------------------------------\nData Dasar | Identifikasi Masalah |  |  | \nAntropometri\nBB = 9,2 kg\nPB = 73 cm\nLILA = 15 cm\nLK = 63 cm\nHasil analisis z-score\n● BB/U = 1 SD s/d 2 SD (normal)\n● PB/U = 1 SD s/d 2 SD (normal)\n● BB/PB = Mean s/d 1SD (normal)\n● Usia tinggi = 11 bulan\n● BB Ideal menurut usia tinggi = 8,7 kg\nHasil analisis LILA\nLLA/U = Mean s/d 1SD (normal)\nHasil Analisis LK\nLK/U = >3 SD (Makrosefalus)\nInterpretasi → status gizi baik\nberperawakan normal, makrosefalus | Status gizi baik\nberperawakan normal,\nmakrosefalus"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 54,
+    "chunk_index": 1,
+    "text": " LILA\nLLA/U = Mean s/d 1SD (normal)\nHasil Analisis LK\nLK/U = >3 SD (Makrosefalus)\nInterpretasi → status gizi baik\nberperawakan normal, makrosefalus | Status gizi baik\nberperawakan normal,\nmakrosefalus | NI 2.11 Keterbatasan\npenerimaan\nmakanan berkaitan\ndengan kondisi\npasien lemah post\nkejang ditandai\ndengan KU lemah,\ndan pemberian\nasupan bertahap\n(kondisi kegawatan)\nNB 1.1 Kurangnya\npengetahuan terkait\ngizi dan makanan\nberkaitan dengan\nkurangnya paparan\ninformasi terkait gizi\n(MP-ASI) ditandai\noleh asupan\nterdahulu\nberdasarkan sq ffq | ND-2.1 Makanan\nutama dan snack\n● Prinsip → Tinggi\nasam amino\n● Diet → SF nutrilon\n8x100 cc dan BM\n3x3sdm\n● Rute pemberian\nmelalui oral\nE-1 Edukasi gizi -\nkonten\n● Tujuan :\nMeningkatkan\npengetahuan dan\npemahaman keluarga\npasien terkait gizi\nseimbang dan diet\nyang diberikan\n● Media → leaflet\nmakanan cair dan | FH-1.2.1 Asupan\nmakanan dan\nminuman\n● Metode 24 H\nrecall\n● Frekuensi : setiap\nhari\n● Target → asupan\nmencapai >80%\n● Analisis\nmembandingkan\ndengan k"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 54,
+    "chunk_index": 2,
+    "text": "yang diberikan\n● Media → leaflet\nmakanan cair dan | FH-1.2.1 Asupan\nmakanan dan\nminuman\n● Metode 24 H\nrecall\n● Frekuensi : setiap\nhari\n● Target → asupan\nmencapai >80%\n● Analisis\nmembandingkan\ndengan kebutuhan\nharian pasien\nFH 4.1 Pengetahuan\nterkait makanan dan\ngizi\n● Metode diskusi\ndan tanya jawab\n● Frekuensi/ waktu\n: setelah\n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 55,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nBiokimia\n<TGL>\n\n[TABLE 1]\nData Lab | Hasil | Nilai Normal | Ket\n--------------------------------------------------------------------------------\nDARAH LENGKAP |  |  | \nHCT\n(Hematokrit) | 38,9 | 34-45,1% | N\nHGB\n(Hemoglobin) | 13,1 | 10,85-14,9\ng/dL | N\nLYMPH% | 62,6 | 20,4-44,6% | ↑\nMCH | 25,8 | 22,6-31,01 pg | N\nMCHC | 33,7 | 30,8-35,2 g/dL | N\nMCV | 76,7 | 71,8-92 fl | N\nRDW | 12,4 | 11,3-14,6 | N\nNEUT% | 27,4 | 42,5-71% | ↓\nPLT\n(Trombosit) | 494 | 216-451 | ↑\nWBC\n(Leukosit) | 14,45 | 4,79 – 11,34 | ↑\nELEKTROLIT |  |  | \nKalium | 4,76 | 3,5 – 5,1\nmmol/L | N\nNatrium | 138 | 136 – 145\nmmol/L | N\nKlorida | 102 | 98-107\nmmol/L | N\nKalsium | 10,5 | 8,6-10 mg/dl | N\nFosfor | 5,7 | 2,5-4,5 mg/dl | ↑\nFAAL HATI |  |  | \nSGOT | 35 | 10-35 U/L | N\n[END TABLE] | ● WBC tinggi, limfosit\ntinggi, neutrofil rendah\n→ infeksi kronis\ndalam tubuh dan efek\npengobatan epilepsi\n● Trombositopenia →\nrespons tubuh\nterhadap inflamasi\nkronik dan\nperdarahan otak (IVH)\n● Hipofosfatemia →\ngangguan"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 55,
+    "chunk_index": 1,
+    "text": "sit\ntinggi, neutrofil rendah\n→ infeksi kronis\ndalam tubuh dan efek\npengobatan epilepsi\n● Trombositopenia →\nrespons tubuh\nterhadap inflamasi\nkronik dan\nperdarahan otak (IVH)\n● Hipofosfatemia →\ngangguan\nkeseimbangan\nelektrolit yang\nmemperparah kondisi\nkejang\n● SGPT meningkat →\nHipoksia otak dan\nsistemik yang dapat\nterjadi selama kejang\ndapat menimbulkan\ncedera hati iskemik\n● Ureum dan kreatinin\nrendah → berkaitan\ndengan gangguan\nneurologis kronik\nseperti\nholoprosensefali dan\nencephalomalacia | pada protein (134%)\ndan lemak (118%)\ntergolong berlebih,\nKH (82,7%) tergolong\ndefisit ringan | makanan bayi\nsehat\n● Target → Keluarga\npasien\n● Waktu → 10-15\nmenit\n● Materi : Tujuan dan\ndiet, contoh\nmakanan yang\ndianjurkan dan\ndihindari, contoh\nmenu sehari | intervensi\n● Target : keluarga\npasien\nmemahami\nmateri edukasi\ngizi\n● Analisis :\nmembandingkan\ndengan teori\nAD-1.1 Antropometri\n● Metode\npengukuran BB\ndan TB\n● Frekuensi : 1\nminggu\n● Target → Tidak\nterjadi penurunan\nBB\n● Analisis\nmembandingkan\nde"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 55,
+    "chunk_index": 2,
+    "text": "i\nmateri edukasi\ngizi\n● Analisis :\nmembandingkan\ndengan teori\nAD-1.1 Antropometri\n● Metode\npengukuran BB\ndan TB\n● Frekuensi : 1\nminggu\n● Target → Tidak\nterjadi penurunan\nBB\n● Analisis\nmembandingkan\ndengan standar\nantropometri dan\npengukuran\nsebelumnya\nBD-1.2 Profil\nElektrolit dan Ginjal\n● Metode : melihat\nhasil data lab dan\nrekam medis\nterkait ureum\nkreatinin, fosfor\n● Frekuensi : saat\n--------------------------------------------------------------------------------\n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 56,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\n\n[TABLE 1]\nSGPT | 52 | 10-35 U/L | ↑\n--------------------------------------------------------------------------------\nAlbumin | 4,63 | 3,5 - 5,2 g/dl | N\nFAAL GINJAL |  |  | \nUreum | 16,1 | 16,6-48,5\nmg/dl | ↓\nKreatinin | 0,18 | 0,51-0,95\nmg/dl | ↓\n[END TABLE] |  |  |  | kunjungan ulang\n● Analisis :\nmembandingkan\ndengan nilai\nrujukan\n● Target →\nmencapai nilai\nnormal\nBD-1.6 Profil\nInflamasi\n● Metode : melihat\nhasil data lab dan\nrekam medis\nterkait neutrofil,\nlimfosit, WBC\n● Frekuensi : saat\nkunjungan ulang\n● Analisis :\nmembandingkan\ndengan nilai\nrujukan\n● Target →\nmencapai nilai\nnormal\nPD-1.1 Fisik Klinis\n● Metode : melihat\ndata rekam medis\n● Frekuensi : saat\nkunjungan ulang\n● Analisis :\nmembandingkan\ndengan kondisi\n--------------------------------------------------------------------------------\nFisik Klinis\n<TGL>\n● Kepala = kesan “makrocephal”\n● Thorax = retraksi intercostal (-)\n● Pulmo = rhonki (-/-), wheezing (-/-)\n● Cor = Murmur (-) gallop (-)\n● Abd = distensi (-),"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 56,
+    "chunk_index": 1,
+    "text": "----------------\nFisik Klinis\n<TGL>\n● Kepala = kesan “makrocephal”\n● Thorax = retraksi intercostal (-)\n● Pulmo = rhonki (-/-), wheezing (-/-)\n● Cor = Murmur (-) gallop (-)\n● Abd = distensi (-), bising usus (+),\nnyeri epigastrum (-)\n● Ext = akral hangat, crt <2 dtk\n● Sesak (-)\n● Kejang (-)\n● Demam (-)\nTanda vital\n\n[TABLE 2]\nData | Nilai | Nilai Normal | Ket\n--------------------------------------------------------------------------------\nSuhu | 36,7 | 36-37,2oC | N\nNadi | 110 | 100-160x/menit | N\nRR | 30 | 24-40x/menit | N\nSpO2 | 98% on O2\nNC 1 lpm | 95-100% | N\n[END TABLE] | ● Kepala tampak\nmakrosefalus\n● KU lemah |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 57,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\n\n[TABLE 1]\nTD | 89/56 | 80-100/50-65 | N\n--------------------------------------------------------------------------------\nGCS | 456 | 456\n(Compos mentis) | N\nKU | Lemah | Cukup | ↓\n[END TABLE] |  |  |  | sebelumnya\n● Target → keluhan\nmembaik\n--------------------------------------------------------------------------------\nDietary\nDahulu\n● Pasien tidak memiliki alergi\nmakanan\n● Usia 0-1 bulan → ASI\n● Usia 1 bulan - sekarang → Sufor\nNutrilon 7x100 cc\n● MPASI tektsur lumat, frekuensi\n2-3x/ hari, selingan jarang\nHasil SQ-FFQ\n● Makanan pokok → nasi 2-3x/hari\n@45 gram\n● Lauk hewani → ikan kembung\n1x/minggu @40 gram, ayam\n3x/minggu @40 gram, telur ayam\n1x/hari @50 gram\n● Lauk nabati → tahu 2x/minggu @50\ngram\n● Sayur → bayam 3x/minggu @10\ngram, wortel 3x/minggu @10 gram\n● Buah → pisang 3x/minggu @20\ngram, pepaya 1x/minggu @20 gram\n● Lemak → minyak kelapa sawit\n2x/hari @5 gram | Riwayat asupan dahulu\n● Asupan dahulu\nberdasarkan sq ffq\npada zat gizi protein\n(134%) dan lemak\n(118%) terg"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 57,
+    "chunk_index": 1,
+    "text": "x/minggu @20\ngram, pepaya 1x/minggu @20 gram\n● Lemak → minyak kelapa sawit\n2x/hari @5 gram | Riwayat asupan dahulu\n● Asupan dahulu\nberdasarkan sq ffq\npada zat gizi protein\n(134%) dan lemak\n(118%) tergolong\nberlebih, KH (82,7%)\ntergolong defisit ringan |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 58,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nHasil SQ-FFQ\n\n[TABLE 1]\nZat\ngIzi | SQ-\nFFQ | Keb | Persen | Interpre\ntasi\n--------------------------------------------------------------------------------\nEnergi | 857 | 862,4 | 99,3% | normal\nP | 28,9 | 21,56 | 134% | berlebih\nL | 39,6 | 33,5 | 118% | berlebih\nKH | 98,2 | 118,6 | 82,7% | Defisit\nringan\n[END TABLE]\nSekarang\n● Pasien diberikan diet SF nutrilon\n8x100 cc dan bubur beras merah 3x3\nsdm melalui oral\n● Pasien dipuasakan sementara untuk\ntindakan pada pagi hari,sehingga\nTotal asupan → SF 6x100 cc dan\nbubur beras merah 2x3 sdm\n● PN → IV FD C1:4 5 cc/jam\nAsupan Oral :\n● Energi : 466,5 kkal\n● Protein : 14,55 gram\n● Lemak : 18,8 gram\n● KH : 63,3 gram\nAsupan PN :\n● Energi : 4 kkal\n● KH : 1,2 gram | Riwayat asupan sekarang\n● Asupan sekarang\nberdasarkan hasil 24hr\nrecall pada protein\n(120%) tergolong\nberlebih |  |  | \n--------------------------------------------------------------------------------\n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 59,
+    "chunk_index": 0,
+    "text": "\n[TABLE 0]\nHasil Recall (Total Asupan)\n\n[TABLE 1]\nZat\ngIzi | Recall | Keb | Persen | Interpre\ntasi\n--------------------------------------------------------------------------------\nEnergi | 470,5 | 483 | 97,4% | normal\nP | 14,55 | 12,1 | 120% | berlebih\nL | 18,8 | 18,8 | 100% | normal\nKH | 64,4 | 66,4 | 96,9% | normal\n[END TABLE] |  |  |  | \n--------------------------------------------------------------------------------\nEkologi\nRiwayat Sosial Ekonomi\n● Ayah/23 tahun/ SMA/ Swasta\n● Ibu/26 tahun /SMA/IRT\n● Anak 1/pasien\n● Keluarga pasien belum mendapatkan\nedukasi gizi terkait diet penyakit\nanaknya\nRiwayat Penyakit Dahulu\n● Hidrocephalus sejak lahir\n● Pasien riwayat terakhir kejang\ndirasakan semakin sering sejak obat\nPO Phenobarbital tidak diminum\nkarena obat kosong.\nRiwayat Penyakit Sekarang\n● Pasien datang dengan keluhan\nkejang sebanyak 2x. Tipe kejang\nkedua tangan dan kaki menghentak\ndan mata melirik ke atas, setelah | Keluarga pasien belum\nmendapatkan edukasi gizi\nRPD Hidrosefalus dan"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 59,
+    "chunk_index": 1,
+    "text": "\n● Pasien datang dengan keluhan\nkejang sebanyak 2x. Tipe kejang\nkedua tangan dan kaki menghentak\ndan mata melirik ke atas, setelah | Keluarga pasien belum\nmendapatkan edukasi gizi\nRPD Hidrosefalus dan\nkejang |  |  | \n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 60,
+    "chunk_index": 0,
+    "text": "kejang pasien dikatakan masih sadar\nnamun kurang merespon. Saat ini\npasien sudah sadar penuh dan\nmenangis kuat.\nRiwayat Bayi\n● Lahir SC uk 38 minggu atas indikasi\nspina bifida dan hydrocephalus.\n● BB 3300 gram PB 49 cm\n● Riwayat Imunisasi lengkap sesuai\nusia : Hb0 + BCG + Pentabio 1\nRiwayat Tumbuh Kembang\n● Senyum sosial (+)\n● Cooing sejak usia 6 bulan Duduk dan\ntengkurap belum bisa\nRiwayat Kehamilan dan Penyakit\nKeluarga\n● Hamil usia 25 tahun. Selama hamil\ntidak didapatkan keluhan, kenaikan\nBB selama hamil 17 kg.\n● Tidak ada riwayat penyakit keluarga\nFarmakologi\n● IVFD C1:4 5 cc/jam\n● IV Phenytoin 2x25mg\n● PO Levetiracetam 2 x 250 mg\n● IV Phenobarbital loading 100m\n● IV Phenobarbital 2x20mg"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 61,
+    "chunk_index": 0,
+    "text": "Perhitungan Kebutuhan Energi dan Zat Gizi MRS\n\n[TABLE 0]\nEnergi (Schofield) | Protein | Lemak\n--------------------------------------------------------------------------------\n= 16.252W + 10.232H - 413.5\n= 16.252 (9,2) + 10.232 (73) - 413.5\n= 483 kkal | = 10% x energi\n= 10% x 483\n= 12,1 gram | = 35% x energi\n= 35% x 483\n= 18,8 gram\nKH | Cairan (Holiday Segar) | \n= 55% x energi\n= 55% x 483\n= 66,4 gram | BBA = 9,2 kg\n= 100 x 9,2\n= 920 ml | \n[END TABLE]\nPerhitungan Kebutuhan Energi dan Zat Gizi SMRS\n\n[TABLE 1]\nEnergi (RDA) |  | Protein\n--------------------------------------------------------------------------------\nRDA X BBI\n● RDA → TB/U = 11 bulan\n● BBI → BB/TB = 8,8 kg\n= 98 kkal x 8,8 kg\n= 862,4kkal |  | = 10% x energi\n= 10% x 862,4\n= 21,56 gram\nLemak | KH | Cairan (Holiday Segar)\n= 35% x energi\n= 35% x 862,4\n= 33,5 gram | = 55% x energi\n= 55% x 862,4\n= 118,6 gram | BBA = 9,2 kg\n= 100 x 9,2\n= 920 ml\n[END TABLE]"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 65,
+    "chunk_index": 0,
+    "text": "LEMBAR SELF ASSESSMENT / REFLECTIVE PRACTICE (Sebelum)\nNAMA MAHASISWA : <NAMA>\nNIM : <NIM>\nMATA KULIAH : Asuhan Gizi pada Anak dengan Kegawatan (NICU/PICU)\nTANGGAL PENGISIAN: <TGL>\n\n[TABLE 0]\nWhat am I good at? (Skill/kemampuan apa\nyang sudah saya miliki) | What am I not so good at? (Skill/kemampuan\napa yang belum saya miliki/kuasai)\n--------------------------------------------------------------------------------\nsaya telah memiliki pemahaman dasar mengenai\nkebutuhan gizi anak secara umum, serta mampu\nmelakukan penilaian status gizi anak dengan\nmetode antropometri. | Saya belum menguasai keterampilan dalam\nmelakukan pengkajian gizi klinis pada pasien\nanak di ruang NICU/PICU, termasuk penggunaan\nparameter klinis dan penyesuaian terapi gizi\npada kondisi kritis.\nWhat skills I want to continue practicing\n(Kemampuan apa yang akan saya lanjutkan) | What areas I wish to improve in (Area mana\nyang ingin saya tingkatkan)\nSaya akan melanjutkan kemampuan dalam\nmelakukan iden"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 65,
+    "chunk_index": 1,
+    "text": "lls I want to continue practicing\n(Kemampuan apa yang akan saya lanjutkan) | What areas I wish to improve in (Area mana\nyang ingin saya tingkatkan)\nSaya akan melanjutkan kemampuan dalam\nmelakukan identifikasi masalah gizi pada anak,\nserta mengembangkan kemampuan berpikir\nkritis dalam menyusun intervensi gizi secara\nindividual. | Saya ingin meningkatkan pemahaman saya\nterhadap terapi gizi enteral dan parenteral pada\nneonatus dan anak dengan kondisi kritis, serta\nkemampuan kolaborasi dengan tim multidisiplin\ndalam pelayanan gizi klinis intensif.\n[END TABLE]\nLevel Kemampuan yang dimiliki: 1 – 2 – 3 – 4 – 5\nLevel kemampuan yang belum dimiliki: 1 – 2 – 3 – 4 – 5\nMengetahui,\nDosen Pembimbing\n<NAMA>\n<NO_PEGAWAI>"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 66,
+    "chunk_index": 0,
+    "text": "LEMBAR SELF ASSESSMENT / REFLECTIVE PRACTICE (Setelah)\nNAMA MAHASISWA : <NAMA>\nNIM : <NIM>\nMATA KULIAH : Asuhan Gizi pada Anak dengan Kegawatan (NICU/PICU)\nTANGGAL PENGISIAN: <TGL>\n\n[TABLE 0]\nWhat am I good at? (Skill/kemampuan apa\nyang sudah saya miliki) | What am I not so good at? (Skill/kemampuan\napa yang belum saya miliki/kuasai)\n--------------------------------------------------------------------------------\nsaya telah memiliki kemampuan dalam\nmelakukan asesmen gizi pada pasien anak di\nruang intensif, menyusun intervensi gizi\nberdasarkan kondisi medis dan metabolic state,\nserta memahami prinsip pemberian nutrisi pada\nneonatus prematur dan anak dengan kegawatan. | Saya masih perlu mengasah kemampuan dalam\nmenentukan kebutuhan energi dan protein\nsecara individual di ruang NICU/PICU, serta\nmemahami lebih lanjut praktik klinis terkait\npemilihan formula nutrisi khusus dan monitoring\nterapinya.\nWhat skills I want to continue practicing\n(Kemampuan apa yang akan say"
+  },
+  {
+    "pdf_name": "PNEUMONIA, VSD PMO KECIL L TO R SHUNT, ASD SEKUNDUM KECIL L TO R.pdf",
+    "page_number": 66,
+    "chunk_index": 1,
+    "text": "di ruang NICU/PICU, serta\nmemahami lebih lanjut praktik klinis terkait\npemilihan formula nutrisi khusus dan monitoring\nterapinya.\nWhat skills I want to continue practicing\n(Kemampuan apa yang akan saya lanjutkan) | What areas I wish to improve in (Area mana\nyang ingin saya tingkatkan)\nSaya akan melanjutkan keterampilan dalam\nmelakukan pengkajian dan penyusunan\nintervensi gizi berbasis bukti, khususnya dalam\nkasus anak dengan gangguan pernapasan, sepsis,\natau gangguan metabolik di ruang intensif. | Saya ingin meningkatkan keterampilan dalam\npemantauan dan evaluasi terapi gizi intensif,\nserta kemampuan menginterpretasikan hasil\npemeriksaan klinis dan biokimia untuk\npenyesuaian terapi gizi secara tepat waktu.\n[END TABLE]\nLevel Kemampuan yang dimiliki: 1 – 2 – 3 – 4 – 5\nLevel kemampuan yang belum dimiliki: 1 – 2 – 3 – 4 – 5\nMengetahui,\nDosen Pembimbing\n<NAMA>\n<NO_PEGAWAI>"
+  }
+]
